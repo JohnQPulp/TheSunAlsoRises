@@ -1,27 +1,10 @@
-![](images/cover.jpg)
+*The Sun Also Rises* by Ernest Hemingway
 
-## Imprint
+This book is for **Hadley** and for **John Hadley Nicanor**
 
-![The Standard Ebooks logo.](images/logo.png)
+“You are all a lost generation.” —Gertrude Stein in conversation
 
-This ebook is the product of many hours of hard work by volunteers for [Standard Ebooks](https://standardebooks.org/), and builds on the hard work of other literature lovers made possible by the public domain.
-
-This particular ebook is based on a transcription from [Faded Page](https://www.fadedpage.com/showbook.php?pid=20150622) and on digital scans from the [Internet Archive](https://archive.org/details/sun_also_rises).
-
-The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/). For full license information, see the [Uncopyright](#uncopyright.xhtml) at the end of this ebook.
-
-Standard Ebooks is a volunteer-driven project that produces ebook editions of public domain literature using modern typography, technology, and editorial standards, and distributes them free of cost. You can download this and other ebooks carefully produced for true book lovers at [standardebooks.org](https://standardebooks.org/).
-
-This book is  
-for **Hadley** and for **John Hadley Nicanor**
-
-> “You are all a lost generation.”
->
-> Gertrude Stein in conversation
-
-> “One generation passeth away, and another generation cometh; but the earth abideth forever.﻿ ﻿… The sun also ariseth, and the sun goeth down, and hasteth to the place where he arose.﻿ ﻿… The wind goeth toward the south, and turneth about unto the north; it whirleth about continually, and the wind returneth again according to his circuits.﻿ ﻿… All the rivers run into the sea; yet the sea is not full; unto the place from whence the rivers come, thither they return again.”
->
-> Ecclesiastes
+“One generation passeth away, and another generation cometh; but the earth abideth forever.﻿ ﻿… The sun also ariseth, and the sun goeth down, and hasteth to the place where he arose.﻿ ﻿… The wind goeth toward the south, and turneth about unto the north; it whirleth about continually, and the wind returneth again according to his circuits.﻿ ﻿… All the rivers run into the sea; yet the sea is not full; unto the place from whence the rivers come, thither they return again.” —Ecclesiastes
 
 ## Book I
 
@@ -3347,15 +3330,7 @@ One morning I went down to breakfast and the Englishman, Harris, was already at 
 
 The letter was at my place at the table, leaning against a coffee-cup. Harris was reading the paper again. I opened the letter. It had been forwarded from Pamplona. It was dated San Sebastian, Sunday:
 
-> Dear Jake,
->
-> We got here Friday, Brett passed out on the train, so brought her here for 3 days rest with old friends of ours. We go to Montoya Hotel Pamplona Tuesday, arriving at I don’t know what hour. Will you send a note by the bus to tell us what to do to rejoin you all on Wednesday. All our love and sorry to be late, but Brett was really done in and will be quite all right by Tues. and is practically so now. I know her so well and try to look after her but it’s not so easy. Love to all the chaps,
->
-> <footer role="presentation">
->
-> Michael.
->
-> </footer>
+Dear Jake, We got here Friday, Brett passed out on the train, so brought her here for 3 days rest with old friends of ours. We go to Montoya Hotel Pamplona Tuesday, arriving at I don’t know what hour. Will you send a note by the bus to tell us what to do to rejoin you all on Wednesday. All our love and sorry to be late, but Brett was really done in and will be quite all right by Tues. and is practically so now. I know her so well and try to look after her but it’s not so easy. Love to all the chaps, Michael.
 
 “What day of the week is it?” I asked Harris.
 
@@ -6305,7 +6280,7 @@ After I was dressed and had paid for the bath-cabin, I walked back to the hotel.
 
 I poked my finger along under the fold that was fastened down, spread it open, and read it. It had been forwarded from Paris:
 
-> Could you come Hotel Montana Madrid am rather in trouble Brett.
+Could you come Hotel Montana Madrid am rather in trouble Brett.
 
 I tipped the concierge and read the message again. A postman was coming along the sidewalk. He turned in the hotel. He had a big moustache and looked very military. He came out of the hotel again. The concierge was just behind him.
 
@@ -6315,7 +6290,7 @@ I tipped the concierge and read the message again. A postman was coming along th
 
 I opened it. It was forwarded from Pamplona.
 
-> Could you come Hotel Montana Madrid am rather in trouble Brett.
+Could you come Hotel Montana Madrid am rather in trouble Brett.
 
 The concierge stood there waiting for another tip, probably.
 
@@ -6335,7 +6310,7 @@ Well, that meant San Sebastian all shot to hell. I suppose, vaguely, I had expec
 
 He brought it and I took out my fountain-pen and printed:
 
-> Lady Ashley Hotel Montana Madrid arriving Sud Express tomorrow love Jake.
+Lady Ashley Hotel Montana Madrid arriving Sud Express tomorrow love Jake.
 
 That seemed to handle it. That was it. Send a girl off with one man. Introduce her to another to go off with him. Now go and bring her back. And sign the wire with love. That was it all right. I went in to lunch.
 
@@ -6634,54 +6609,3 @@ Downstairs we came out through the first-floor dining-room to the street. A wait
 Ahead was a mounted policeman in khaki directing traffic. He raised his baton. The car slowed suddenly pressing Brett against me.
 
 “Yes,” I said. “Isn’t it pretty to think so?”
-
-## Colophon
-
-![The Standard Ebooks logo.](images/logo.png)
-
-*The Sun Also Rises*  
-was published in 1926 by  
-[Ernest Hemingway](https://en.wikipedia.org/wiki/Ernest_Hemingway).
-
-This ebook was produced for  
-[Standard Ebooks](https://standardebooks.org/)  
-by  
-[Alex Cabal](https://alexcabal.com/),  
-and is based on a transcription produced in 2015 by  
-**Marcia Brooks**, **Al Haines**, **Paulina Chin**, and [Distributed Proofreaders Canada](https://www.pgdpcanada.net/)  
-for  
-[Faded Page](https://www.fadedpage.com/showbook.php?pid=20150622)  
-and on digital scans from the  
-[Internet Archive](https://archive.org/details/sun_also_rises).
-
-The cover page is adapted from  
-*Torerillos de Pueblo*,  
-a painting completed in 1906 by  
-[Ignacio Zuloaga](https://en.wikipedia.org/wiki/Ignacio_Zuloaga).  
-The cover and title pages feature the  
-**League Spartan** and **Sorts Mill Goudy**  
-typefaces created in 2014 and 2009 by  
-[The League of Moveable Type](https://www.theleagueofmoveabletype.com/).
-
-This edition was released on  
-**January 20, 2026, 5:10 a.m.**  
-and is based on  
-**revision 85bbb1b**.  
-The first edition of this ebook was released on  
-January 1, 2022, 10:38 p.m.  
-You can check for updates to this ebook, view its revision history, or download it for different ereading systems at  
-[standardebooks.org/ebooks/ernest-hemingway/the-sun-also-rises](https://standardebooks.org/ebooks/ernest-hemingway/the-sun-also-rises).
-
-The volunteer-driven Standard Ebooks project relies on readers like you to submit typos, corrections, and other improvements. Anyone can contribute at [standardebooks.org](https://standardebooks.org/).
-
-## Uncopyright
-
-> May you do good and not evil.  
-> May you find forgiveness for yourself and forgive others.  
-> May you share freely, never taking more than you give.
-
-Copyright pages exist to tell you that you *can’t* do something. Unlike them, this Uncopyright page exists to tell you that the writing and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. The United States public domain represents our collective cultural heritage, and items in it are free for anyone in the United States to do almost anything at all with, without having to get permission.
-
-Copyright laws are different all over the world, and the source text or artwork in this ebook may still be copyrighted in other countries. If you’re not located in the United States, you must check your local laws before using this ebook. Standard Ebooks makes no representations regarding the copyright status of the source text or artwork in this ebook in any country other than the United States.
-
-Non-authorship activities performed on items that are in the public domain﻿—so-called “sweat of the brow” work﻿—don’t create a new copyright. That means that nobody can claim a new copyright on an item that is in the public domain for, among other things, work like digitization, markup, or typography. Regardless, the contributors to this ebook release their contributions under the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/), thus dedicating to the worldwide public domain all of the work they’ve done on this ebook, including but not limited to metadata, the titlepage, imprint, colophon, this Uncopyright, and any changes or enhancements to, or markup on, the original text and artwork. This dedication doesn’t change the copyright status of the source text or artwork. We make this dedication in the interest of enriching our global cultural heritage, to promote free and libre culture around the world, and to give back to the unrestricted culture that has given all of us so much.
