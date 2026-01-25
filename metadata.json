@@ -1,0 +1,15 @@
+{
+  "title": "The Sun Also Rises",
+  "shortTitle": "The Sun Also Rises",
+  "author": "Ernest Hemingway",
+  "year": 1926,
+  "source": "https://standardebooks.org/ebooks/ernest-hemingway/the-sun-also-rises",
+  "words": 1,
+  "pulpDate": "2026-01-31",
+  "repo": "https://github.com/JohnQPulp/TheSunAlsoRises",
+  "links": {
+    "Goodreads": "https://www.goodreads.com/book/show/3876.The_Sun_Also_Rises",
+    "Wikipedia": "https://en.wikipedia.org/wiki/The_Sun_Also_Rises"
+  },
+  "blurb": "TODO"
+}
