@@ -6,9 +6,9 @@ This book is for **Hadley** and for **John Hadley Nicanor**
 
 “One generation passeth away, and another generation cometh; but the earth abideth forever.﻿ ﻿… The sun also ariseth, and the sun goeth down, and hasteth to the place where he arose.﻿ ﻿… The wind goeth toward the south, and turneth about unto the north; it whirleth about continually, and the wind returneth again according to his circuits.﻿ ﻿… All the rivers run into the sea; yet the sea is not full; unto the place from whence the rivers come, thither they return again.” —Ecclesiastes
 
-## Book I
+Book I
 
-### Chapter I
+Chapter I
 
 Robert Cohn was once middleweight boxing champion of Princeton. Do not think that I am very much impressed by that as a boxing title, but it meant a lot to Cohn. He cared nothing for boxing, in fact he disliked it, but he learned it painfully and thoroughly to counteract the feeling of inferiority and shyness he had felt on being treated as a Jew at Princeton. There was a certain inner comfort in knowing he could knock down anybody who was snooty to him, although, being very shy and a thoroughly nice boy, he never fought except in the gym. He was Spider Kelly’s star pupil. Spider Kelly taught all his young gentlemen to box like featherweights, no matter whether they weighed one hundred and five or two hundred and five pounds. But it seemed to fit Cohn. He was really very fast. He was so good that Spider promptly overmatched him and got his nose permanently flattened. This increased Cohn’s distaste for boxing, but it gave him a certain satisfaction of some strange sort, and it certainly improved his nose. In his last year at Princeton he read too much and took to wearing spectacles. I never met anyone of his class who remembered him. They did not even remember that he was middleweight boxing champion.
 
@@ -60,7 +60,7 @@ Cohn looked relieved. I was not kicked again. I said good night and went out. Co
 
 “See you at tennis,” he said. I watched him walk back to the café holding his paper. I rather liked him and evidently she led him quite a life.
 
-### Chapter II
+Chapter II
 
 That winter Robert Cohn went over to America with his novel, and it was accepted by a fairly good publisher. His going made an awful row I heard, and I think that was where Frances lost him, because several women were nice to him in New York, and when he came back he was quite changed. He was more enthusiastic about America than ever, and he was not so simple, and he was not so nice. The publishers had praised his novel pretty highly and it rather went to his head. Then several women had put themselves out to be nice to him, and his horizons had all shifted. For four years his horizon had been absolutely limited to his wife. For three years, or almost three years, he had never seen beyond Frances. I am sure he had never been in love in his life.
 
@@ -202,7 +202,7 @@ He sat in the outer room and read the papers, and the Editor and Publisher and I
 
 I could picture it. I have a rotten habit of picturing the bedroom scenes of my friends. We went out to the Café Napolitain to have an apéritif and watch the evening crowd on the Boulevard.
 
-### Chapter III
+Chapter III
 
 It was a warm spring night and I sat at a table on the terrace of the Napolitain after Robert had gone, watching it get dark and the electric signs come on, and the red and green stop-and-go traffic-signal, and the crowd going by, and the horse-cabs clippety-clopping along at the edge of the solid taxi traffic, and the *poules* going by, singly and in pairs, looking for the evening meal. I watched a good-looking girl walk past the table and watched her go up the street and lost sight of her, and watched another, and then saw the first one coming back again. She went by once more and I caught her eye, and she came over and sat down at the table. The waiter came up.
 
@@ -556,7 +556,7 @@ I told the driver to go to the Parc Montsouris, and got in, and slammed the door
 
 “Oh, darling, I’ve been so miserable,” Brett said.
 
-### Chapter IV
+Chapter IV
 
 The taxi went up the hill, passed the lighted square, then on into the dark, still climbing, then levelled out onto a dark street behind St. Etienne du Mont, went smoothly down the asphalt, passed the trees and the standing bus at the Place de la Contrescarpe, then turned onto the cobbles of the Rue Mouffetard. There were lighted bars and late open shops on each side of the street. We were sitting apart and we jolted close together going down the old street. Brett’s hat was off. Her head was back. I saw her face in the lights from the open shops, then it was dark, then I saw her face clearly as we came out on the Avenue des Gobelins. The street was torn up and men were working on the car-tracks by the light of acetylene flares. Brett’s face was white and the long line of her neck showed in the bright light of the flares. The street was dark again and I kissed her. Our lips were tight together and then she turned away and pressed against the corner of the seat, as far away as she could get. Her head was down.
 
@@ -812,7 +812,7 @@ We kissed good night and Brett shivered. “I’d better go,” she said. “Goo
 
 We kissed again on the stairs and as I called for the cordon the concierge muttered something behind her door. I went back upstairs and from the open window watched Brett walking up the street to the big limousine drawn up to the curb under the arc-light. She got in and it started off. I turned around. On the table was an empty glass and a glass half-full of brandy and soda. I took them both out to the kitchen and poured the half-full glass down the sink. I turned off the gas in the dining-room, kicked off my slippers sitting on the bed, and got into bed. This was Brett, that I had felt like crying about. Then I thought of her walking up the street and stepping into the car, as I had last seen her, and of course in a little while I felt like hell again. It is awfully easy to be hard-boiled about everything in the daytime, but at night it is another thing.
 
-### Chapter V
+Chapter V
 
 In the morning I walked down the Boulevard to the Rue Soufflot for coffee and brioche. It was a fine morning. The horse-chestnut trees in the Luxembourg gardens were in bloom. There was the pleasant early-morning feeling of a hot day. I read the papers with the coffee and then smoked a cigarette. The flower-women were coming up from the market and arranging their daily stock. Students went by going up to the law school, or down to the Sorbonne. The Boulevard was busy with trams and people going to work. I got on an S bus and rode down to the Madeleine, standing on the back platform. From the Madeleine I walked along the Boulevard des Capucines to the Opéra, and up to my office. I passed the man with the jumping frogs and the man with the boxer toys. I stepped aside to avoid walking into the thread with which his girl assistant manipulated the boxers. She was standing looking away, the thread in her folded hands. The man was urging two tourists to buy. Three more tourists had stopped and were watching. I walked on behind a man who was pushing a roller that printed the name **Cinzano** on the sidewalk in damp letters. All along people were going to work. It felt pleasant to be going to work. I walked across the avenue and turned in to my office.
 
@@ -986,7 +986,7 @@ God help you, I thought. “Forget what I said,” I said out loud. “I’m sor
 
 After we finished the lunch we walked up to the Café de la Paix and had coffee. I could feel Cohn wanted to bring up Brett again, but I held him off it. We talked about one thing and another, and I left him to come to the office.
 
-### Chapter VI
+Chapter VI
 
 At five o’clock I was in the Hotel Crillon waiting for Brett. She was not there, so I sat down and wrote some letters. They were not very good letters but I hoped their being on Crillon stationery would help them. Brett did not turn up, so about quarter to six I went down to the bar and had a Jack Rose with George the barman. Brett had not been in the bar either, and so I looked for her upstairs on my way out, and took a taxi to the Café Select. Crossing the Seine I saw a string of barges being towed empty down the current, riding high, the bargemen at the sweeps as they came toward the bridge. The river looked nice. It was always pleasant crossing bridges in Paris.
 
@@ -1262,7 +1262,7 @@ Cohn looked up as I went in. His face was white. Why did he sit there? Why did h
 
 As I stood against the bar looking out I could see them through the window. Frances was talking on to him, smiling brightly, looking into his face each time she asked: “Isn’t it so, Robert?” Or maybe she did not ask that now. Perhaps she said something else. I told the barman I did not want anything to drink and went out through the side door. As I went out the door I looked back through the two thicknesses of glass and saw them sitting there. She was still talking to him. I went down a side street to the Boulevard Raspail. A taxi came along and I got in and gave the driver the address of my flat.
 
-### Chapter VII
+Chapter VII
 
 As I started up the stairs the concierge knocked on the glass of the door of her lodge, and as I stopped she came out. She had some letters and a telegram.
 
@@ -1778,9 +1778,9 @@ Brett came over with her wrap on. She kissed the count and put her hand on his s
 
 She turned quickly and went into the hotel. The chauffeur drove me around to my flat. I gave him twenty francs and he touched his cap and said: “Good night, sir,” and drove off. I rang the bell. The door opened and I went upstairs and went to bed.
 
-## Book II
+Book II
 
-### Chapter VIII
+Chapter VIII
 
 I did not see Brett again until she came back from San Sebastian. One card came from her from there. It had a picture of the Concha, and said: “Darling. Very quiet and healthy. Love to all the chaps. **Brett.**”
 
@@ -2166,7 +2166,7 @@ Outside on the pavement I said: “Do you want to go to the fight?”
 
 “Well,” said Bill. “You can’t blame him such a hell of a lot.”
 
-### Chapter IX
+Chapter IX
 
 The Ledoux-Kid Francis fight was the night of the 20th of June. It was a good fight. The morning after the fight I had a letter from Robert Cohn, written from Hendaye. He was having a very quiet time, he said, bathing, playing some golf and much bridge. Hendaye had a splendid beach, but he was anxious to start on the fishing-trip. When would I be down? If I would buy him a double-tapered line he would pay me when I came down.
 
@@ -2472,7 +2472,7 @@ We got into the cab, and the cabman put the bags up on the seat beside him and c
 
 The cab stopped in front of the hotel and we all got out and went in. It was a nice hotel, and the people at the desk were very cheerful, and we each had a good small room.
 
-### Chapter X
+Chapter X
 
 In the morning it was bright, and they were sprinkling the streets of the town, and we all had breakfast in a café. Bayonne is a nice town. It is like a very clean Spanish town and it is on a big river. Already, so early in the morning, it was very hot on the bridge across the river. We walked out on the bridge and then took a walk through the town.
 
@@ -2736,7 +2736,7 @@ He looked in the glass.
 
 “Come on. Let’s go over to the Iruña and start,” I said.
 
-### Chapter XI
+Chapter XI
 
 It was baking hot in the square when we came out after lunch with our bags and the rod-case to go to Burguete. People were on top of the bus, and others were climbing up a ladder. Bill went up and Robert sat beside Bill to save a place for me, and I went back in the hotel to get a couple of bottles of wine to take with us. When I came out the bus was crowded. Men and women were sitting on all the baggage and boxes on top, and the women all had their fans going in the sun. It certainly was hot. Robert climbed down and I fitted into the place he had saved on the one wooden seat that ran across the top.
 
@@ -2906,7 +2906,7 @@ The girl brought in a big bowl of hot vegetable soup and the wine. We had fried 
 
 After supper we went upstairs and smoked and read in bed to keep warm. Once in the night I woke and heard the wind blowing. It felt good to be warm and in bed.
 
-### Chapter XII
+Chapter XII
 
 When I woke in the morning I went to the window and looked out. It had cleared and there were no clouds on the mountains. Outside under the window were some carts and an old diligence, the wood of the roof cracked and split by the weather. It must have been left from the days before the motorbuses. A goat hopped up on one of the carts and then to the roof of the diligence. He jerked his head at the other goats below and when I waved at him he bounded down.
 
@@ -3322,7 +3322,7 @@ We started up the road into the woods. It was a long walk home to Burguete, and 
 
 We stayed five days at Burguete and had good fishing. The nights were cold and the days were hot, and there was always a breeze even in the heat of the day. It was hot enough so that it felt good to wade in a cold stream, and the sun dried you when you came out and sat on the bank. We found a stream with a pool deep enough to swim in. In the evenings we played three-handed bridge with an Englishman named Harris, who had walked over from Saint Jean Pied de Port and was stopping at the inn for the fishing. He was very pleasant and went with us twice to the Irati River. There was no word from Robert Cohn nor from Brett and Mike.
 
-### Chapter XIII
+Chapter XIII
 
 One morning I went down to breakfast and the Englishman, Harris, was already at the table. He was reading the paper through spectacles. He looked up and smiled.
 
@@ -3958,7 +3958,7 @@ As a matter of fact, supper was a pleasant meal. Brett wore a black, sleeveless 
 
 It was like certain dinners I remember from the war. There was much wine, an ignored tension, and a feeling of things coming that you could not prevent happening. Under the wine I lost the disgusted feeling and was happy. It seemed they were all such nice people.
 
-### Chapter XIV
+Chapter XIV
 
 I do not know what time I got to bed. I remember undressing, putting on a bathrobe, and standing out on the balcony. I knew I was quite drunk, and when I came in I put on the light over the head of the bed and started to read. I was reading a book by Turgenev. Probably I read the same two pages over several times. It was one of the stories in *A Sportsman’s Sketches*. I had read it before, but it seemed quite new. The country became very clear and the feeling of pressure in my head seemed to loosen. I was very drunk and I did not want to shut my eyes because the room would go round and round. If I kept on reading that feeling would pass.
 
@@ -3990,7 +3990,7 @@ It was a good morning, there were high white clouds above the mountains. It had 
 
 That was the last day before the fiesta.
 
-### Chapter XV
+Chapter XV
 
 At noon of Sunday, the 6th of July, the fiesta exploded. There is no other way to describe it. People had been coming in all day from the country, but they were assimilated in the town and you did not notice them. The square was as quiet in the hot sun as on any other day. The peasants were in the outlying wine-shops. There they were drinking, getting ready for the fiesta. They had come in so recently from the plains and the hills that it was necessary that they make their shifting in values gradually. They could not start in paying café prices. They got their money’s worth in the wine-shops. Money still had a definite value in hours worked and bushels of grain sold. Late in the fiesta it would not matter what they paid, nor where they bought.
 
@@ -4446,7 +4446,7 @@ After it was over we went out and were pressed tight in the crowd.
 
 The next day Pedro Romero did not fight. It was Miura bulls, and a very bad bullfight. The next day there was no bullfight scheduled. But all day and all night the fiesta kept on.
 
-### Chapter XVI
+Chapter XVI
 
 In the morning it was raining. A fog had come over the mountains from the sea. You could not see the tops of the mountains. The plateau was dull and gloomy, and the shapes of the trees and the houses were changed. I walked out beyond the town to look at the weather. The bad weather was coming over the mountains from the sea.
 
@@ -5060,7 +5060,7 @@ He looked at me. It was a final look to ask if it were understood. It was unders
 
 He sat down and looked at her across the table. I went out. The hard-eyed people at the bullfighter table watched me go. It was not pleasant. When I came back and looked in the café, twenty minutes later, Brett and Pedro Romero were gone. The coffee-glasses and our three empty cognac-glasses were on the table. A waiter came with a cloth and picked up the glasses and mopped off the table.
 
-### Chapter XVII
+Chapter XVII
 
 Outside the Bar Milano I found Bill and Mike and Edna. Edna was the girl’s name.
 
@@ -5612,7 +5612,7 @@ He rang the bell and the chambermaid came and knocked at the door.
 
 “Was there?” said Bill.
 
-### Chapter XVIII
+Chapter XVIII
 
 At noon we were all at the café. It was crowded. We were eating shrimps and drinking beer. The town was crowded. Every street was full. Big motorcars from Biarritz and San Sebastian kept driving up and parking around the square. They brought people for the bullfight. Sightseeing cars came up, too. There was one with twenty-five Englishwomen in it. They sat in the big, white car and looked through their glasses at the fiesta. The dancers were all quite drunk. It was the last day of the fiesta.
 
@@ -6076,9 +6076,9 @@ I got up and went to the balcony and looked out at the dancing in the square. Th
 
 The three of us sat at the table, and it seemed as though about six people were missing.
 
-## Book III
+Book III
 
-### Chapter XIX
+Chapter XIX
 
 In the morning it was all over. The fiesta was finished. I woke about nine o’clock, had a bath, dressed, and went downstairs. The square was empty and there were no people on the streets. A few children were picking up rocket-sticks in the square. The cafés were just opening and the waiters were carrying out the comfortable white wicker chairs and arranging them around the marble-topped tables in the shade of the arcade. They were sweeping the streets and sprinkling them with a hose.
 
