@@ -1933,3 +1933,366 @@ Then I thought of her walking up the street and stepping into the car, as I had 
 It is awfully easy to be hard-boiled about everything in the daytime, but at night it is another thing.
 
 
+### Chapter V
+r=title
+
+In the morning I walked down the Boulevard to the Rue Soufflot for coffee and brioche.
+e:jake=happy
+
+It was a fine morning. The horse-chestnut trees in the Luxembourg gardens were in bloom.
+
+
+There was the pleasant early-morning feeling of a hot day.
+
+
+I read the papers with the coffee and then smoked a cigarette.
+
+
+The flower-women were coming up from the market and arranging their daily stock.
+
+
+Students went by going up to the law school, or down to the Sorbonne. The Boulevard was busy with trams and people going to work.
+
+
+I got on an S bus and rode down to the Madeleine, standing on the back platform.
+
+
+From the Madeleine I walked along the Boulevard des Capucines to the Opéra, and up to my office.
+
+
+I passed the man with the jumping frogs and the man with the boxer toys.
+
+
+I stepped aside to avoid walking into the thread with which his girl assistant manipulated the boxers.
+
+
+She was standing looking away, the thread in her folded hands. The man was urging two tourists to buy.
+
+
+Three more tourists had stopped and were watching. I walked on behind a man who was pushing a roller that printed the name **Cinzano** on the sidewalk in damp letters.
+
+
+All along people were going to work. It felt pleasant to be going to work.
+
+
+I walked across the avenue and turned in to my office.
+
+
+Upstairs in the office I read the French morning papers, smoked, and then sat at the typewriter and got off a good morning’s work.
+e:jake=neutral
+
+At eleven o’clock I went over to the Quai d’Orsay in a taxi and went in and sat with about a dozen correspondents, while the foreign-office mouthpiece, a young Nouvelle Revue Française diplomat in horn-rimmed spectacles, talked and answered questions for half an hour.
+
+
+The President of the Council was in Lyons making a speech, or, rather he was on his way back.
+
+
+Several people asked questions to hear themselves talk and there were a couple of questions asked by news service men who wanted to know the answers.
+
+
+There was no news. I shared a taxi back from the Quai d’Orsay with Woolsey and Krum.
+
+
+“What do you do nights, Jake?” asked Krum. “I never see you around.”
+n:krum=Krum;s=krum;n:woolsey=Woolsey
+
+“Oh, I’m over in the Quarter.”
+s=jake
+
+“I’m coming over some night. The Dingo. That’s the great place, isn’t it?”
+s=krum
+
+“Yes. That, or this new dive, The Select.”
+s=jake
+
+“I’ve meant to get over,” said Krum.
+s=krum
+
+“You know how it is, though, with a wife and kids.”
+
+
+“Playing any tennis?” Woolsey asked.
+s=woolsey
+
+“Well, no,” said Krum.
+s=krum
+
+“I can’t say I’ve played any this year. I’ve tried to get away, but Sundays it’s always rained, and the courts are so damned crowded.”
+e:krum=unhappy
+
+“The Englishmen all have Saturday off,” Woolsey said.
+s=woolsey
+
+“Lucky beggars,” said Krum.
+s=krum
+
+“Well, I’ll tell you. Some day I’m not going to be working for an agency. Then I’ll have plenty of time to get out in the country.”
+e:krum=happy
+
+“That’s the thing to do. Live out in the country and have a little car.”
+
+
+“I’ve been thinking some about getting a car next year.”
+
+
+I banged on the glass. The chauffeur stopped.
+s=none
+
+“Here’s my street,” I said. “Come in and have a drink.”
+s=jake
+
+“Thanks, old man,” Krum said.
+s=krum;e:krum=neutral
+
+Woolsey shook his head.
+s=
+
+“I’ve got to file that line he got off this morning.”
+s=woolsey
+
+I put a two-franc piece in Krum’s hand.
+s=none
+
+“You’re crazy, Jake,” he said. “This is on me.”
+s=krum
+
+“It’s all on the office, anyway.”
+s=jake
+
+“Nope. I want to get it.”
+s=krum
+
+I waved goodbye. Krum put his head out.
+s=none
+
+“See you at the lunch on Wednesday.”
+s=krum
+
+“You bet.”
+s=jake
+
+I went to the office in the elevator. Robert Cohn was waiting for me.
+s=none
+
+“Hello, Jake,” he said. “Going out to lunch?”
+s=cohn;e:cohn=neutral
+
+“Yes. Let me see if there is anything new.”
+s=jake
+
+“Where will we eat?”
+s=cohn
+
+“Anywhere.”
+s=jake
+
+I was looking over my desk.
+s=none
+
+“Where do you want to eat?”
+s=jake
+
+“How about Wetzel’s? They’ve got good hors d’œuvres.”
+s=cohn
+
+In the restaurant we ordered hors d’œuvres and beer. The sommelier brought the beer, tall, beaded on the outside of the steins, and cold.
+s=none
+
+There were a dozen different dishes of hors d’œuvres.
+
+
+“Have any fun last night?” I asked.
+s=jake
+
+“No. I don’t think so.”
+s=cohn;e:cohn=unhappy
+
+“How’s the writing going?”
+s=jake
+
+“Rotten. I can’t get this second book going.”
+s=cohn
+
+“That happens to everybody.”
+s=jake
+
+“Oh, I’m sure of that. It gets me worried, though.”
+s=cohn;e:cohn=nervous
+
+“Thought any more about going to South America?”
+s=jake
+
+“I mean that.”
+s=cohn;e:cohn=serious
+
+“Well, why don’t you start off?”
+s=jake
+
+“Frances.”
+s=cohn
+
+“Well,” I said, “take her with you.”
+s=jake
+
+“She wouldn’t like it. That isn’t the sort of thing she likes. She likes a lot of people around.”
+s=cohn;e:cohn=unhappy
+
+“Tell her to go to hell.”
+s=jake;e:jake=annoyed
+
+“I can’t. I’ve got certain obligations to her.”
+s=cohn
+
+He shoved the sliced cucumbers away and took a pickled herring.
+s=none;e:cohn=neutral;e:jake=neutral
+
+“What do you know about Lady Brett Ashley, Jake?”
+s=cohn
+
+“Her name’s Lady Ashley. Brett’s her own name. She’s a nice girl,” I said.
+s=jake
+
+“She’s getting a divorce and she’s going to marry Mike Campbell. He’s over in Scotland now. Why?”
+
+
+“She’s a remarkably attractive woman.”
+s=cohn
+
+“Isn’t she?”
+s=jake
+
+“There’s a certain quality about her, a certain fineness. She seems to be absolutely fine and straight.”
+s=cohn;e:cohn=thinking
+
+“She’s very nice.”
+s=jake
+
+“I don’t know how to describe the quality,” Cohn said. “I suppose it’s breeding.”
+s=cohn
+
+“You sound as though you liked her pretty well.”
+s=jake
+
+“I do. I shouldn’t wonder if I were in love with her.”
+s=cohn;e:cohn=serious
+
+“She’s a drunk,” I said. “She’s in love with Mike Campbell, and she’s going to marry him. He’s going to be rich as hell some day.”
+s=jake
+
+“I don’t believe she’ll ever marry him.”
+s=cohn
+
+“Why not?”
+s=jake
+
+“I don’t know. I just don’t believe it. Have you known her a long time?”
+s=cohn
+
+“Yes,” I said. “She was a V.A.D. in a hospital I was in during the war.”
+s=jake
+
+“She must have been just a kid then.”
+s=cohn
+
+“She’s thirty-four now.”
+s=jake
+
+“When did she marry Ashley?”
+s=cohn
+
+“During the war. Her own true love had just kicked off with the dysentery.”
+s=jake
+
+“You talk sort of bitter.”
+s=cohn;e:cohn=wary
+
+“Sorry. I didn’t mean to. I was just trying to give you the facts.”
+s=jake;e:jake=neutral
+
+“I don’t believe she would marry anybody she didn’t love.”
+s=cohn
+
+“Well,” I said. “She’s done it twice.”
+s=jake
+
+“I don’t believe it.”
+s=cohn
+
+“Well,” I said, “don’t ask me a lot of fool questions if you don’t like the answers.”
+s=jake;e:jake=angry
+
+“I didn’t ask you that.”
+s=cohn
+
+“You asked me what I knew about Brett Ashley.”
+s=jake
+
+“I didn’t ask you to insult her.”
+s=cohn;e:cohn=angry
+
+“Oh, go to hell.”
+s=jake
+
+He stood up from the table his face white, and stood there white and angry behind the little plates of hors d’œuvres.
+s=none;e:cohn=angry
+
+“Sit down,” I said. “Don’t be a fool.”
+s=jake;e:jake=neutral
+
+“You’ve got to take that back.”
+s=cohn
+
+“Oh, cut out the prep-school stuff.”
+s=jake
+
+“Take it back.”
+s=cohn
+
+“Sure. Anything. I never heard of Brett Ashley. How’s that?”
+s=jake
+
+“No. Not that. About me going to hell.”
+s=cohn
+
+“Oh, don’t go to hell,” I said.
+s=jake
+
+“Stick around. We’re just starting lunch.”
+
+
+Cohn smiled again and sat down. He seemed glad to sit down.
+s=none;e:cohn=happy
+
+What the hell would he have done if he hadn’t sat down?
+
+
+“You say such damned insulting things, Jake.”
+s=cohn
+
+“I’m sorry. I’ve got a nasty tongue. I never mean it when I say nasty things.”
+s=jake
+
+“I know it,” Cohn said. “You’re really about the best friend I have, Jake.”
+s=cohn
+
+God help you, I thought.
+s=none;e:jake=thinking
+
+“Forget what I said,” I said out loud. “I’m sorry.”
+s=jake;e:jake=neutral
+
+“It’s all right. It’s fine. I was just sore for a minute.”
+s=cohn
+
+“Good. Let’s get something else to eat.”
+s=jake
+
+After we finished the lunch we walked up to the Café de la Paix and had coffee.
+s=none
+
+I could feel Cohn wanted to bring up Brett again, but I held him off it.
+
+
+We talked about one thing and another, and I left him to come to the office.
+
+
