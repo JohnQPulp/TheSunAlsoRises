@@ -1,13 +1,13 @@
-*The Sun Also Rises* by Ernest Hemingway
+*The Sun Also Rises* by Ernest Hemingway<e>I'm not at all happy to be doing this novel, but the site needs some modernist literature to help round off the catalog. But look, it could be worse: it could be Faulkner. So we're going to get through this together.</e>
 n:author=;t=author;b=title
 
-This book is for **Hadley** and for **John Hadley Nicanor**
+This book is for **Hadley** and for **John Hadley Nicanor**<e>lmao what a piece of shit for making that the dedication, if you know the context behind the writing of the book. But if would be too spoiler-heavy to get into now, so just put a pin in this.</e>
 
 
 “You are all a lost generation.” —Gertrude Stein in conversation
 n:stein=;t=stein
 
-“One generation passeth away, and another generation cometh; but the earth abideth forever.﻿ ﻿… The sun also ariseth, and the sun goeth down, and hasteth to the place where he arose.﻿ ﻿… The wind goeth toward the south, and turneth about unto the north; it whirleth about continually, and the wind returneth again according to his circuits.﻿ ﻿… All the rivers run into the sea; yet the sea is not full; unto the place from whence the rivers come, thither they return again.” —Ecclesiastes
+“One generation passeth away, and another generation cometh; but the earth abideth forever.﻿ ﻿… The sun also ariseth, and the sun goeth down, and hasteth to the place where he arose.﻿ ﻿… The wind goeth toward the south, and turneth about unto the north; it whirleth about continually, and the wind returneth again according to his circuits.﻿ ﻿… All the rivers run into the sea; yet the sea is not full; unto the place from whence the rivers come, thither they return again.” —Ecclesiastes<e>Way to name your book after the most basic bitch of all Biblical texts. (Pretty apropos, really.)</e>
 t=
 
 ## Book I
@@ -22,7 +22,7 @@ n:cohn=Robert Cohn;n:jake=Jake;e:cohn=neutral
 Do not think that I am very much impressed by that as a boxing title, but it meant a lot to Cohn.
 
 
-He cared nothing for boxing, in fact he disliked it, but he learned it painfully and thoroughly to counteract the feeling of inferiority and shyness he had felt on being treated as a Jew at Princeton.
+He cared nothing for boxing, in fact he disliked it, but he learned it painfully and thoroughly to counteract the feeling of inferiority and shyness he had felt on being treated as a Jew at Princeton.<e>Wow, Jew on sentence three — Hemingway beat the Buchan record! I'm back in.</e>
 e:cohn=unhappy
 
 There was a certain inner comfort in knowing he could knock down anybody who was snooty to him, although, being very shy and a thoroughly nice boy, he never fought except in the gym.
@@ -34,7 +34,7 @@ He was Spider Kelly’s star pupil. Spider Kelly taught all his young gentlemen 
 But it seemed to fit Cohn. He was really very fast.
 
 
-He was so good that Spider promptly overmatched him and got his nose permanently flattened.
+He was so good that Spider promptly overmatched him and got his nose permanently flattened.<e>You sneaky Hemingway, preempting me from giving this character a big schnoz. Well played.</e>
 
 
 This increased Cohn’s distaste for boxing, but it gave him a certain satisfaction of some strange sort, and it certainly improved his nose.
@@ -73,7 +73,7 @@ He took it out in boxing, and he came out of Princeton with painful self-conscio
 He was married five years, had three children, lost most of the fifty thousand dollars his father left him, the balance of the estate having gone to his mother, hardened into a rather unattractive mould under domestic unhappiness with a rich wife; and just when he had made up his mind to leave his wife she left him and went off with a miniature-painter.
 e:cohn=surprised
 
-As he had been thinking for months about leaving his wife and had not done it because it would be too cruel to deprive her of himself, her departure was a very healthful shock.
+As he had been thinking for months about leaving his wife and had not done it because it would be too cruel to deprive her of himself, her departure was a very healthful shock.<e>John Updike in shambles.</e>
 
 
 The divorce was arranged and Robert Cohn went out to the Coast.
@@ -88,13 +88,13 @@ The review commenced publication in Carmel, California, and finished in Province
 By that time Cohn, who had been regarded purely as an angel, and whose name had appeared on the editorial page merely as a member of the advisory board, had become the sole editor.
 e:cohn=happy
 
-It was his money and he discovered he liked the authority of editing. He was sorry when the magazine became too expensive and he had to give it up.
+It was his money and he discovered he liked the authority of editing.<e>Yes… ha ha ha… <i><u>Yes!</u></i></e>
 e:cohn=unhappy
 
-By that time, though, he had other things to worry about.
+He was sorry when the magazine became too expensive and he had to give it up.
 e:cohn=neutral
 
-He had been taken in hand by a lady who hoped to rise with the magazine.
+By that time, though, he had other things to worry about. He had been taken in hand by a lady who hoped to rise with the magazine.
 n:frances=Frances
 
 She was very forceful, and Cohn never had a chance of not being taken in hand.
@@ -292,7 +292,7 @@ It recounts splendid imaginary amorous adventures of a perfect English gentleman
 For a man to take it at thirty-four as a guidebook to what life holds is about as safe as it would be for a man of the same age to enter Wall Street direct from a French convent, equipped with a complete set of the more practical Alger books.
 
 
-Cohn, I believe, took every word of *The Purple Land* as literally as though it had been an R. G. Dun report.
+Cohn, I believe, took every word of *The Purple Land* as literally as though it had been an R. G. Dun report.<e>Maybe you got the <book>Purple Land</book> reference. Probably you got the Alger reference. But I bet it's the R. G. Dun reference that's got you really belly-laughing, reader.</e>
 
 
 You understand me, he made some reservations, but on the whole the book to him was sound. It was all that was needed to set him off.
@@ -370,7 +370,7 @@ s=none
 “I can’t stand it to think my life is going so fast and I’m not really living it.”
 s=cohn;e:cohn=upset
 
-“Nobody ever lives their life all the way up except bullfighters.”
+“Nobody ever lives their life all the way up except bullfighters.”<e>Real professions: bullfighter, ambulance driver, and deep-sea fisherman. Everything else is bullshit.</e>
 s=jake
 
 “I’m not interested in bullfighters. That’s an abnormal life. I want to go back in the country in South America. We could have a great trip.”
@@ -394,7 +394,7 @@ s=jake;e:jake=smirking
 “I want to go to South America.”
 s=cohn;e:cohn=serious
 
-He had a hard, Jewish, stubborn streak.
+He had a hard, Jewish, stubborn streak.<e>Normal words, but a Jew guy!</e>
 s=none
 
 “Come on downstairs and have a drink.”
@@ -574,7 +574,7 @@ s=georgette
 “That’s not good for little girls.”
 s=jake;e:jake=smirking
 
-“Little girl yourself. *Dites garçon, un pernod.*”
+“Little girl yourself. *Dites garçon, un pernod.*”<e>There's going to be a lot of foreign snippets in this book, but mostly cognates — it's not like Tolstoy-bad or anything. So figure them out yourself, reader.</e>
 s=georgette;e:georgette=scowling
 
 “A pernod for me, too.”
@@ -637,7 +637,7 @@ s=jake
 “Don’t kid me.”
 s=georgette;e:georgette=suspicious
 
-We turned off the Avenue up the Rue des Pyramides, through the traffic of the Rue de Rivoli, and through a dark gate into the Tuileries.
+We turned off the Avenue up the Rue des Pyramides, through the traffic of the Rue de Rivoli, and through a dark gate into the Tuileries.<e>"Place" vs "Place, Paris"</e>
 s=
 
 She cuddled against me and I put my arm around her. She looked up to be kissed. She touched me with one hand and I put her hand away.
@@ -727,7 +727,7 @@ s=jake;e:jake=neutral
 “Oh, that dirty war.”
 s=georgette;e:georgette=unhappy
 
-We would probably have gone on and discussed the war and agreed that it was in reality a calamity for civilization, and perhaps would have been better avoided. I was bored enough.
+We would probably have gone on and discussed the war and agreed that it was in reality a calamity for civilization, and perhaps would have been better avoided. I was bored enough.<e>This book really makes me miss <book>A Farewell to Arms</book>. Many of the same problems, but at least that one had fun war stuff.</e>
 s=none;e:jake=weary
 
 Just then from the other room someone called:
@@ -928,14 +928,29 @@ e:jake=scowling
 With them was Brett. She looked very lovely and she was very much with them.
 n:brett=Brett;e:brett=neutral
 
-One of them saw Georgette and said: “I do declare. There is an actual harlot. I’m going to dance with her, Lett. You watch me.”
-s=none
+One of them saw Georgette and said:
+n:blond=Dickhead 1;n:dark=Dickhead 2
 
-The tall dark one, called Lett, said: “Don’t you be rash.”
+“I do declare. There is an actual harlot.”<e>All right Hemingway, you got one laugh out of me.</e>
+s=blond
+
+“I’m going to dance with her, Lett. You watch me.”
 
 
-The wavy blond one answered: “Don’t you worry, dear.” And with them was Brett.
+The tall dark one, called Lett, said:
+s=
 
+“Don’t you be rash.”
+s=dark
+
+The wavy blond one answered:
+s=
+
+“Don’t you worry, dear.”
+s=blond
+
+And with them was Brett.
+s=
 
 I was very angry. Somehow they always made me angry. I know they are supposed to be amusing, and you should be tolerant, but I wanted to swing on one, any one, anything to shatter that superior, simpering composure.
 e:jake=angry
@@ -1036,13 +1051,16 @@ s=jake
 “Never going to get tight any more. I say, give a chap a brandy and soda.”
 s=brett
 
-She stood holding the glass and I saw Robert Cohn looking at her. He looked a great deal as his compatriot must have looked when he saw the promised land.
+She stood holding the glass and I saw Robert Cohn looking at her.
 s=none;e:cohn=excited
+
+He looked a great deal as his compatriot must have looked when he saw the promised land.<e>Remember in <i>39 Steps</i>, how Buchan would constantly remind you that the main character was from Rhodesia. Well what if that, but Jew-stuff instead?</e>
+
 
 Cohn, of course, was much younger. But he had that look of eager, deserving expectation.
 
 
-Brett was damned good-looking. She wore a slipover jersey sweater and a tweed skirt, and her hair was brushed back like a boy’s. She started all that.
+Brett was damned good-looking. She wore a slipover jersey sweater and a tweed skirt, and her hair was brushed back like a boy’s. She started all that.<e>Roaring 20s influencer?</e>
 
 
 She was built with curves like the hull of a racing yacht, and you missed none of it with that wool jersey.
@@ -1339,7 +1357,7 @@ s=none
 “A friend of my brother’s came home that way from Mons. It seemed like a hell of a joke. Chaps never know anything, do they?”
 s=brett;e:brett=smirking
 
-“No,” I said. “Nobody ever knows anything.”
+“No,” I said. “Nobody ever knows anything.”<e>Pack it up, boys. Hemingway's solved epistemology.</e>
 s=jake;e:jake=weary
 
 I was pretty well through with the subject.
@@ -1369,7 +1387,7 @@ s=brett
 “Don’t you want to?”
 s=jake
 
-“I have to.”
+“I have to.”<e>The dialogue is already making my eyes glaze over, and we're barely into the book.</e>
 s=brett;e:brett=weary
 
 We were sitting now like two strangers.
@@ -1630,7 +1648,7 @@ Undressing, I looked at myself in the mirror of the big armoire beside the bed.
 That was a typically French way to furnish a room. Practical, too, I suppose.
 
 
-Of all the ways to be wounded. I suppose it was funny.
+Of all the ways to be wounded. I suppose it was funny.<e>Heh heh, that is pretty funny. (If I'm understanding correctly.)</e>
 e:jake=unhappy
 
 I put on my pajamas and got into bed.
@@ -1651,7 +1669,7 @@ I blew out the lamp. Perhaps I would be able to sleep.
 My head started to work. The old grievance.
 e:jake=thinking
 
-Well, it was a rotten way to be wounded and flying on a joke front like the Italian.
+Well, it was a rotten way to be wounded and flying on a joke front like the Italian.<e>Yeah okay, I'm understanding correctly. (Heh heh… his dick.)</e>
 
 
 In the Italian hospital we were going to form a society. It had a funny name in Italian.
@@ -1690,10 +1708,19 @@ I never used to realize it, I guess.
 I try and play it along and just not make trouble for people.
 
 
-Probably I never would have had any trouble if I hadn’t run into Brett when they shipped me to England.
+Probably I never would have had any trouble if I hadn’t run into Brett when they shipped me to England. I suppose she only wanted what she couldn’t have.<e>Imagine getting cucked so hard in real life you write a story where your self-insert is literally castrated. Holy shit man.</e>
 
 
-I suppose she only wanted what she couldn’t have.
+<e>I guess I should explain how the cast of this book is based on Hemingway's actual friend(?) group. And Brett in particular is based on this one lady, Duff Twysden. And this isn't a case of vague speculation that the book was based upon him and his circle: no, he literally used his own name in place of Jake and Duff's name in place of Brett in the book's first draft.</e>
+
+
+<e>Anyway, he was pining for Duff at the time, even though he was married to someone else at the time. Which would be pretty based, except he never consumated it, so instead: pretty cringe. And hence this book.</e>
+
+
+<e>And then his wife divorced him while he writing this book lmao. And he still dedicated it to her and also gave her all the money from the book.</e>
+
+
+<e>Remember kids: don't become a writer, or even interact with people who are writers.</e>
 
 
 Well, people were that way. To hell with people.
@@ -1822,7 +1849,7 @@ s=jake
 “Oh, everywhere. He just brought me here now. Offered me ten thousand dollars to go to Biarritz with him. How much is that in pounds?”
 s=brett
 
-“Around two thousand.”
+“Around two thousand.”<e>5:1 exchange rate is nuts. What happened, Britain?</e>
 s=jake
 
 “Lot of money. I told him I couldn’t do it. He was awfully nice about it. Told him I knew too many people in Biarritz.”
@@ -1963,7 +1990,7 @@ I got on an S bus and rode down to the Madeleine, standing on the back platform.
 From the Madeleine I walked along the Boulevard des Capucines to the Opéra, and up to my office.
 
 
-I passed the man with the jumping frogs and the man with the boxer toys.
+I passed the man with the jumping frogs and the man with the boxer toys.<e>Nice Twain reference. (Really wish I was reading Twain.)</e>
 
 
 I stepped aside to avoid walking into the thread with which his girl assistant manipulated the boxers.
@@ -2932,10 +2959,10 @@ s=frances
 “So now he’s going out and get some new material. Well, I hope he gets something frightfully interesting.”
 
 
-“Listen, Robert, dear. Let me tell you something. You won’t mind, will you? Don’t have scenes with your young ladies. Try not to.”
+“Listen, Robert, dear. Let me tell you something. You won’t mind, will you?”<e>AHH she won't shut up.</e>
 
 
-“Because you can’t have scenes without crying, and then you pity yourself so much you can’t remember what the other person’s said.”
+“Don’t have scenes with your young ladies. Try not to. Because you can’t have scenes without crying, and then you pity yourself so much you can’t remember what the other person’s said.”
 
 
 “You’ll never be able to remember any conversations that way. Just try and be calm. I know it’s awfully hard.”
@@ -3001,7 +3028,7 @@ s=frances
 “Look at him and see if it’s not. Where are you going, Jake?”
 
 
-“I’ve got to go in and see Harvey Stone a minute.”
+“I’ve got to go in and see Harvey Stone a minute.”<e>All right, that's finally over. That was like a workout. Credit where credit's due: Hemingway did have me emotionally engaged there for a second.</e>
 s=jake
 
 Cohn looked up as I went in. His face was white. Why did he sit there? Why did he keep on taking it like that?
@@ -3019,10 +3046,10 @@ Or maybe she did not ask that now. Perhaps she said something else.
 I told the barman I did not want anything to drink and went out through the side door.
 
 
-As I went out the door I looked back through the two thicknesses of glass and saw them sitting there.
+As I went out the door I looked back through the two thicknesses of glass and saw them sitting there. She was still talking to him.<e>Poor guy lmao.</e>
 
 
-She was still talking to him. I went down a side street to the Boulevard Raspail.
+I went down a side street to the Boulevard Raspail.
 
 
 A taxi came along and I got in and gave the driver the address of my flat.
@@ -3166,7 +3193,7 @@ s=brett;e:brett=neutral
 “I thought we ought to give her a little something for last night. It was very late.”
 s=count;e:count=happy
 
-“He’s wonderful,” Brett said. “He remembers everything that’s happened.”
+“He’s wonderful,” Brett said. “He remembers everything that’s happened.”<e>Nothing ever happens. (In a Hemingway novel.)</e>
 s=brett
 
 “So do you, my dear.”
@@ -3283,8 +3310,11 @@ s=brett
 “You know I love you.”
 s=jake
 
-“Let’s not talk. Talking’s all bilge. I’m going away from you, and then Michael’s coming back.”
+“Let’s not talk. Talking’s all bilge.”<e>Ethos of the book right here: why risk saying what you mean when you could be vague and annoying instead?</e>
 s=brett
+
+“I’m going away from you, and then Michael’s coming back.”
+
 
 “Why are you going away?”
 s=jake;e:jake=confused
@@ -3514,7 +3544,7 @@ s=brett
 “See,” said the count. “You don’t joke him.”
 s=count
 
-“This is a hell of a dull talk,” Brett said. “How about some of that champagne?”
+“This is a hell of a dull talk,” Brett said. “How about some of that champagne?”<e>You could insert these two sentences literally anywhere in the book.</e>
 s=brett;e:brett=weary
 
 The count reached down and twirled the bottles in the shiny bucket.
@@ -3619,7 +3649,7 @@ s=count
 “Of course you have, my dear,” Brett said. “I was only ragging.”
 s=brett;e:brett=happy
 
-“I have been in seven wars and four revolutions,” the count said.
+“I have been in seven wars and four revolutions,” the count said.<e>Is that including the one where Karolides got killed? (Ho ho! I'm on a roll with these <i>39 Steps</i> references. That book was fun.)</e>
 s=count
 
 “Soldiering?” Brett asked.
@@ -3973,7 +4003,7 @@ s=drummer
 “Let’s go,” said Brett. “You don’t mind.”
 s=brett
 
-“… …” the drummer shouted and grinned at Brett.
+“… …” the drummer shouted and grinned at Brett.<e>Yeah I'll just be tugging on my collar over here.</e>
 s=drummer
 
 “All right,” I said.
@@ -4066,7 +4096,7 @@ One card came from her from there. It had a picture of the Concha, and said: “
 Nor did I see Robert Cohn again.
 
 
-I heard Frances had left for England and I had a note from Cohn saying he was going out in the country for a couple of weeks, he did not know where, but that he wanted to hold me to the fishing-trip in Spain we had talked about last winter.
+I heard Frances had left for England and I had a note from Cohn saying he was going out in the country for a couple of weeks, he did not know where, but that he wanted to hold me to the fishing-trip in Spain we had talked about last winter.<e>Don't any of you people have jobs?</e>
 
 
 I could reach him always, he wrote, through his bankers.
@@ -4234,8 +4264,11 @@ s=bill;e:bill=neutral
 “You probably did.”
 s=jake;e:jake=smirking
 
-“Well, anyway, let’s eat,” said Bill. “Unless you want me to tell you some more travel stories.”
+“Well, anyway, let’s eat,” said Bill.<e>Well it was good combo, but Hemingway won't be beating Twain's record yet.</e>
 s=bill;e:bill=happy
+
+“Unless you want me to tell you some more travel stories.”
+
 
 “Go on.”
 s=jake
@@ -4288,8 +4321,11 @@ s=bill
 “Come on.”
 s=jake
 
-“Mean everything in the world to you after you bought it. Simple exchange of values. You give them money. They give you a stuffed dog.”
+“Mean everything in the world to you after you bought it.”
 s=bill;e:bill=serious
+
+“Simple exchange of values. You give them money. They give you a stuffed dog.”<e>Ah, refreshing consumer capitalism in a book filled with stupid modernist nihilists.</e>
+
 
 “We’ll get one on the way back.”
 s=jake
@@ -5179,7 +5215,7 @@ s=hubertfather
 “Mighty little fishing you did on them trips,” his wife said.
 s=hubertmother;e:hubertmother=smirking
 
-He winked at us.
+He winked at us.<e>…Gay sex?</e>
 s=none;e:hubertfather=smirking
 
 “You know how the ladies are. If there’s a jug goes along, or a case of beer, they think it’s hell and damnation.”
@@ -5446,7 +5482,7 @@ We paid for the beers, we matched and I think Cohn paid, and went up to the hote
 It was only sixteen francs apiece for Bill and me, with ten percent added for the service, and we had the bags sent down and waited for Robert Cohn.
 
 
-While we were waiting I saw a cockroach on the parquet floor that must have been at least three inches long. I pointed him out to Bill and then put my shoe on him. We agreed he must have just come in from the garden. It was really an awfully clean hotel.
+While we were waiting I saw a cockroach on the parquet floor that must have been at least three inches long. I pointed him out to Bill and then put my shoe on him. We agreed he must have just come in from the garden. It was really an awfully clean hotel.<e>"put my shoe on him" is just peak modernist writing.</e>
 
 
 Cohn came down, finally, and we all went out to the car.
@@ -6208,7 +6244,7 @@ The Basque wagged a forefinger at him and handed the bottle back, slapping in th
 He shoved the wine-bag up.
 
 
-“*Arriba! Arriba!*” he said. “Lift it up.”
+“*Arriba! Arriba!*” he said. “Lift it up.”<e>Now does your mind go to <i>Speedy Gonzales</i> or <i>The Three Amigos</i>? Probably the latter for me. If you have to watch a Chevy Chase movie, that's one of your better options. Also featuring Chevy Chase: the book <book>Wuthering Heights</book>. And if you think I'm bullshitting, do a Ctrl+F yourself and see. (I'm rambling because I'm bored as hell of this reading.)</e>
 s=basque;e:basque=excited
 
 Bill raised the wineskin and let the stream of wine spurt out and into his mouth, his head tipped back.
@@ -6898,7 +6934,7 @@ s=bill;e:bill=excited
 “You know what’s the trouble with you? You’re an expatriate. One of the worst type. Haven’t you heard that?”
 s=bill
 
-“Nobody that ever left their own country ever wrote anything worth printing. Not even in the newspapers.”
+“Nobody that ever left their own country ever wrote anything worth printing. Not even in the newspapers.”<e>Oh you're going to preempt the critics that way, huh Hemingway? Well I've got some high-brow literary criticism: go f&#9472;&#9472;&#9472; yourself.</e>
 s=bill
 
 He drank the coffee.
@@ -6916,17 +6952,17 @@ s=jake;e:jake=smirking
 “You don’t work. One group claims women support you. Another group claims you’re impotent.”
 s=bill;e:bill=serious
 
-“No,” I said.
+“No,” I said. “I just had an accident.”
 s=jake;e:jake=unhappy
-
-“I just had an accident.”
-s=jake
 
 “Never mention that,” Bill said.
 s=bill;e:bill=wary
 
-“That’s the sort of thing that can’t be spoken of. That’s what you ought to work up into a mystery. Like Henry’s bicycle.”
+“That’s the sort of thing that can’t be spoken of. That’s what you ought to work up into a mystery. Like Henry’s bicycle.”<e>You sneaky little meta-comedian, Hemingway.</e>
 s=bill
+
+<e>And I guess by the way, according to Hemingway it's not actually that Jake's dick was blown off, but just that the accident made him unable to use it or something. But the book itself never says anything explicitly, so I'm death-of-the-authoring that interpretation away and sticking with my own headcanon.</e>
+s=
 
 He had been going splendidly, but he stopped.
 s=none
@@ -6979,7 +7015,7 @@ s=bill
 “Sex explains it all. The Colonel’s Lady and Judy O’Grady are lesbians under their skin.”
 s=bill
 
-He stopped.
+He stopped.<e>Hemingway, if your strategy from here on is just to say obnoxious shit to try to keep the reader's attention, I don't have high hopes for the back half of this book. I'm not happy that we're halfway through this book, and nothing has happened.</e>
 s=none
 
 “Want to hear some more?”
@@ -7399,7 +7435,7 @@ s=jake;e:jake=happy
 Bill gestured with the drumstick in one hand and the bottle of wine in the other.
 s=none
 
-“Let us rejoice in our blessings. Let us utilize the fowls of the air. Let us utilize the product of the vine. Will you utilize a little, brother?”
+“Let us rejoice in our blessings. Let us utilize the fowls of the air. Let us utilize the product of the vine. Will you utilize a little, brother?”<e>I think the "utilize" thing here is Hemingway taking the piss out of other authors. I think.</e>
 s=bill;e:bill=excited
 
 “After you, brother.”
@@ -7633,7 +7669,7 @@ s=jake
 “You ought to dream,” Bill said.
 s=bill
 
-“All our biggest business men have been dreamers. Look at Ford. Look at President Coolidge. Look at Rockefeller. Look at Jo Davidson.”
+“All our biggest business men have been dreamers. Look at Ford. Look at President Coolidge. Look at Rockefeller. Look at Jo Davidson.”<e>Woo! Harding administration shout-out! I'm back in.</e>
 s=bill
 
 I disjointed my rod and Bill’s and packed them in the rod-case.
@@ -8362,7 +8398,7 @@ s=cohn
 “So he got me some medals, you know, miniature medals, and handed me the box, and I put it in my pocket and forgot it.”
 
 
-“Well, I went to the dinner, and it was the night they’d shot Henry Wilson, so the Prince didn’t come and the King didn’t come, and no one wore any medals, and all these coves were busy taking off their medals, and I had mine in my pocket.”
+“Well, I went to the dinner, and it was the night they’d shot Henry Wilson, so the Prince didn’t come and the King didn’t come, and no one wore any medals, and all these coves were busy taking off their medals, and I had mine in my pocket.”<e>Never heard of that guy, but apparently he was assassinated by the IRA. That's neat I guess.</e>
 
 
 He stopped for us to laugh.
@@ -8833,7 +8869,7 @@ s=mike;e:mike=neutral
 “Damned noble of you.”
 s=brett;e:brett=smirking
 
-“No, listen, Jake. Brett’s gone off with men. But they weren’t ever Jews, and they didn’t come and hang about afterward.”
+“No, listen, Jake. Brett’s gone off with men. But they weren’t ever Jews, and they didn’t come and hang about afterward.”<e>Soy goy.</e>
 s=mike
 
 “Damned good chaps,” Brett said. “It’s all rot to talk about it. Michael and I understand each other.”
@@ -8887,11 +8923,8 @@ s=mike
 “You won’t, Michael. Don’t be an ass.”
 s=brett
 
-“He calls her Circe,” Mike said.
+“He calls her Circe,” Mike said. “He claims she turns men into swine. Damn good. I wish I were one of these literary chaps.”<e>Is that your strategy, Hemingway, reminding me of dumber books like <book>Circe</book> so this one seems good by comparion?</e>
 s=mike
-
-“He claims she turns men into swine. Damn good. I wish I were one of these literary chaps.”
-
 
 “He’d be good, you know,” Brett said. “He writes a good letter.”
 s=brett
@@ -9304,7 +9337,7 @@ You could not be upset about anything on a day like that.
 That was the last day before the fiesta.
 e:jake=neutral
 
-### Chapter XV
+### Chapter XV<e>Okay reader, only five chapters to go. And they're all the longest in the book, and a couple of them I have literally no notes on. But you can finish this now, and then you never have to read it again.</e>
 r=title
 
 At noon of Sunday, the 6th of July, the fiesta exploded.
@@ -11086,8 +11119,11 @@ s=mike
 We started off. I looked back as Mike stumbled up the stairs and saw Cohn putting his glasses on again.
 s=none
 
-Bill was sitting at the table pouring another glass of Fundador. Brett was sitting looking straight ahead at nothing.
+Bill was sitting at the table pouring another glass of Fundador.
 e:bill=neutral;e:brett=neutral
+
+Brett was sitting looking straight ahead at nothing.<e>Well, something interesting almost happened. And then it didn't. Good old iceberg theory: blow the main character's dick off and then do absolutely nothing with that premise. (I'm so bored.)</e>
+
 
 Outside on the square it had stopped raining and the moon was trying to get through the clouds.
 
@@ -11362,7 +11398,7 @@ s=brett
 “I’m not sorry for him. I hate him, myself.”
 s=jake
 
-“I hate him, too,” she shivered. “I hate his damned suffering.”
+“I hate him, too,” she shivered. “I hate his damned suffering.”<e>I sure hope his people get—</e>
 s=brett
 
 We walked arm in arm down the side street away from the crowd and the lights of the square.
@@ -12442,7 +12478,7 @@ She had been afraid last night they would pass out.
 That was why I was to be sure to take her.
 
 
-I drank the coffee and hurried with the other people toward the bullring. I was not groggy now.
+I drank the coffee and hurried with the other people toward the bullring. I was not groggy now.<e>I said it in <i>Cup of Gold</i>, and I'll say it again here: everyone involved in this story should die. I hope they all get gored by the bulls.</e>
 
 
 There was only a bad headache. Everything looked sharp and clear, and the town smelt of the early morning.
@@ -12734,10 +12770,10 @@ s=mike
 s=mike
 
 “Oh, go to hell,” Bill said.
-s=bill
+s=bill;e:bill=
 
-“You’ve been in the war. It was two hours and a half for me.”
-e:bill=smirking
+“You’ve been in the war. It was two hours and a half for me.”<e>Wah, wah, I'm Ernest Hemingway and I was in the war for one month and am therefore better than you.</e>
+e:bill=scowling
 
 “Where’s that beer?” Mike asked.
 s=mike;e:mike=neutral
@@ -15244,13 +15280,34 @@ s=none
 Lady Ashley Hotel Montana Madrid arriving Sud Express tomorrow love Jake.
 
 
-That seemed to handle it. That was it. Send a girl off with one man.
+That seemed to handle it. That was it.
 e:jake=scowling
 
-Introduce her to another to go off with him. Now go and bring her back.
+Send a girl off with one man. Introduce her to another to go off with him. Now go and bring her back. And sign the wire with love.<e>Yeah what a cuck. But we already knew that. So how about some high-brow literary analysis:</e>
 
 
-And sign the wire with love. That was it all right. I went in to lunch.
+<e>Ernest Hemingway is to Duff Twysden what Barney Gumble is to Duff Man. Think about it: the parallel temptations, the vice, the degradation.</e>
+
+
+<e>And you know what? That's a still a more concrete analysis than anything on the Wikipedia page. I mean listen to this:</e>
+
+
+<e>"No amount of analysis can convey the quality of The Sun Also Rises. It is a truly gripping story, told in a lean, hard, athletic narrative prose that puts more literary English to shame."</e>
+
+
+<e>Yeah, gripping, sure. That's exactly my though this far into the book.</e>
+
+
+<e>Okay and one more before I return you to the book:</e>
+
+
+<e>"It is very difficult for a poor swimmer in the cold water of an arctic sea to take even a partial measure of that large portion of the literary iceberg that lies beneath the surface in a masterpiece of world literature such as The Sun Also Rises!"</e>
+
+
+<e>That's the first sentence from the foreword of the book's Hemingway Library Edition, lmao.</e>
+
+
+That was it all right. I went in to lunch.
 
 
 I did not sleep much that night on the Sud Express.
@@ -15511,8 +15568,11 @@ s=none;e:brett=serious
 “I’m thirty-four, you know. I’m not going to be one of these bitches that ruins children.”
 s=brett
 
-“No.”
+“No.”<e>And this point in the book's original draft, Hemingway had the line “‘In Paris you can’t tell if whether a boy’s with his wife or his mother.’” And that would've been funny — I could have made <i>Murmur of the Heart</i> jokes. Why did he remove it!</e>
 s=jake;e:jake=serious
+
+<e>There were also two chapters at the beginning of the book that he deleted. Which was mostly an improvement, because it made the book shorter, but we did also lose the line: “‘Good God,’ said Alec, who thereafter took no further part in the conversation, and does not again appear in the story.” Shame.</e>
+s=
 
 “I’m not going to be that way. I feel rather good, you know. I feel rather set up.”
 s=brett
@@ -15835,7 +15895,7 @@ I put my arm around her and she rested against me comfortably.
 It was very hot and bright, and the houses looked sharply white. We turned out onto the Gran Via.
 
 
-“Oh, Jake,” Brett said, “we could have had such a damned good time together.”
+“Oh, Jake,” Brett said, “we could have had such a damned good time together.”<e>You assholes would've gotten bored and cheated on each other in two weeks.</e>
 s=brett;e:brett=unhappy
 
 Ahead was a mounted policeman in khaki directing traffic. He raised his baton.
@@ -15844,5 +15904,5 @@ s=none
 The car slowed suddenly pressing Brett against me.
 
 
-“Yes,” I said. “Isn’t it pretty to think so?”
+“Yes,” I said. “Isn’t it pretty to think so?”<e>Does he know? I think he knows. Well that's good I guess. Anyway, The End. Finally.</e>
 s=jake;e:jake=contemplative
