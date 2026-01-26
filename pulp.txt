@@ -10483,3 +10483,1293 @@ s=none
 The next day there was no bullfight scheduled. But all day and all night the fiesta kept on.
 
 
+### Chapter XVI
+r=title
+
+In the morning it was raining. A fog had come over the mountains from the sea.
+
+
+You could not see the tops of the mountains. The plateau was dull and gloomy, and the shapes of the trees and the houses were changed.
+
+
+I walked out beyond the town to look at the weather.
+
+
+The bad weather was coming over the mountains from the sea.
+
+
+The flags in the square hung wet from the white poles and the banners were wet and hung damp against the front of the houses, and in between the steady drizzle the rain came down and drove everyone under the arcades and made pools of water in the square, and the streets wet and dark and deserted; yet the fiesta kept up without any pause.
+
+
+It was only driven under cover.
+
+
+The covered seats of the bullring had been crowded with people sitting out of the rain watching the concourse of Basque and Navarrais dancers and singers, and afterward the Val Carlos dancers in their costumes danced down the street in the rain, the drums sounding hollow and damp, and the chiefs of the bands riding ahead on their big, heavy-footed horses, their costumes wet, the horses’ coats wet in the rain.
+
+
+The crowd was in the cafés and the dancers came in, too, and sat, their tight-wound white legs under the tables, shaking the water from their belled caps, and spreading their red and purple jackets over the chairs to dry.
+
+
+It was raining hard outside.
+
+
+I left the crowd in the café and went over to the hotel to get shaved for dinner.
+
+
+I was shaving in my room when there was a knock on the door.
+
+
+“Come in,” I called.
+s=jake
+
+Montoya walked in.
+s=
+
+“How are you?” he said.
+s=montoya;e:montoya=neutral
+
+“Fine,” I said.
+s=jake
+
+“No bulls today.”
+s=montoya
+
+“No,” I said, “nothing but rain.”
+s=jake
+
+“Where are your friends?”
+s=montoya
+
+“Over at the Iruña.”
+s=jake
+
+Montoya smiled his embarrassed smile.
+s=none;e:montoya=nervous
+
+“Look,” he said.
+s=montoya
+
+“Do you know the American ambassador?”
+
+
+“Yes,” I said. “Everybody knows the American ambassador.”
+s=jake
+
+“He’s here in town, now.”
+s=montoya
+
+“Yes,” I said. “Everybody’s seen them.”
+s=jake
+
+“I’ve seen them, too,” Montoya said.
+s=montoya;e:montoya=serious
+
+He didn’t say anything. I went on shaving.
+s=none;e:jake=neutral
+
+“Sit down,” I said. “Let me send for a drink.”
+s=jake
+
+“No, I have to go.”
+s=montoya
+
+I finished shaving and put my face down into the bowl and washed it with cold water.
+s=none
+
+Montoya was standing there looking more embarrassed.
+e:montoya=nervous
+
+“Look,” he said.
+s=montoya
+
+“I’ve just had a message from them at the Grand Hotel that they want Pedro Romero and Marcial Lalanda to come over for coffee tonight after dinner.”
+e:montoya=serious
+
+“Well,” I said, “it can’t hurt Marcial any.”
+s=jake;e:jake=thinking
+
+“Marcial has been in San Sebastian all day. He drove over in a car this morning with Marquez. I don’t think they’ll be back tonight.”
+s=montoya
+
+Montoya stood embarrassed. He wanted me to say something.
+s=none;e:montoya=nervous
+
+“Don’t give Romero the message,” I said.
+s=jake;e:jake=serious
+
+“You think so?”
+s=montoya
+
+“Absolutely.”
+s=jake
+
+Montoya was very pleased.
+s=none;e:montoya=happy
+
+“I wanted to ask you because you were an American,” he said.
+s=montoya
+
+“That’s what I’d do.”
+s=jake
+
+“Look,” said Montoya.
+s=montoya;e:montoya=serious
+
+“People take a boy like that. They don’t know what he’s worth. They don’t know what he means. Any foreigner can flatter him. They start this Grand Hotel business, and in one year they’re through.”
+
+
+“Like Algabeno,” I said.
+s=jake
+
+“Yes, like Algabeno.”
+s=montoya
+
+“They’re a fine lot,” I said.
+s=jake
+
+“There’s one American woman down here now that collects bullfighters.”
+s=montoya
+
+“I know. They only want the young ones.”
+s=jake
+
+“Yes,” I said. “The old ones get fat.”
+
+
+“Or crazy like Gallo.”
+s=montoya
+
+“Well,” I said, “it’s easy. All you have to do is not give him the message.”
+s=jake
+
+“He’s such a fine boy,” said Montoya.
+s=montoya
+
+“He ought to stay with his own people. He shouldn’t mix in that stuff.”
+
+
+“Won’t you have a drink?” I asked.
+s=jake
+
+“No,” said Montoya, “I have to go.”
+s=montoya
+
+He went out.
+s=none
+
+I went downstairs and out the door and took a walk around through the arcades around the square.
+
+
+It was still raining. I looked in at the Iruña for the gang and they were not there, so I walked on around the square and back to the hotel.
+
+
+They were eating dinner in the downstairs dining-room.
+
+
+They were well ahead of me and it was no use trying to catch them.
+
+
+Bill was buying shoeshines for Mike.
+n:bill=Bill;n:mike=Mike
+
+Bootblacks opened the street door and each one Bill called over and started to work on Mike.
+
+
+“This is the eleventh time my boots have been polished,” Mike said. “I say, Bill is an ass.”
+s=mike;e:mike=happy
+
+The bootblacks had evidently spread the report. Another came in.
+s=none
+
+“*Limpia botas?*” he said to Bill.
+n:bootblack=Bootblack;s=bootblack;e:bootblack=neutral
+
+“No,” said Bill.
+s=bill;e:bill=neutral
+
+“For this Señor.”
+s=bootblack
+
+The bootblack knelt down beside the one at work and started on Mike’s free shoe that shone already in the electric light.
+s=none
+
+“Bill’s a yell of laughter,” Mike said.
+s=mike;e:mike=happy
+
+I was drinking red wine, and so far behind them that I felt a little uncomfortable about all this shoe-shining.
+s=none;e:jake=unhappy
+
+I looked around the room. At the next table was Pedro Romero.
+n:romero=Pedro Romero
+
+He stood up when I nodded, and asked me to come over and meet a friend.
+e:romero=happy
+
+His table was beside ours, almost touching. I met the friend, a Madrid bullfight critic, a little man with a drawn face.
+n:critic=The Critic;e:critic=serious
+
+I told Romero how much I liked his work, and he was very pleased.
+
+
+We talked Spanish and the critic knew a little French.
+
+
+I reached to our table for my wine-bottle, but the critic took my arm. Romero laughed.
+e:romero=happy
+
+“Drink here,” he said in English.
+s=romero
+
+He was very bashful about his English, but he was really very pleased with it, and as we went on talking he brought out words he was not sure of, and asked me about them.
+s=none;e:romero=happy
+
+He was anxious to know the English for *Corrida de toros*, the exact translation. Bullfight he was suspicious of.
+
+
+I explained that bullfight in Spanish was the *lidia* of a *toro*.
+
+
+The Spanish word *corrida* means in English the running of bulls—the French translation is *Course de taureaux*.
+
+
+The critic put that in. There is no Spanish word for bullfight.
+
+
+Pedro Romero said he had learned a little English in Gibraltar. He was born in Ronda.
+
+
+That is not far above Gibraltar. He started bullfighting in Malaga in the bullfighting school there.
+
+
+He had only been at it three years. The bullfight critic joked him about the number of *Malagueño* expressions he used.
+e:critic=happy
+
+He was nineteen years old, he said. His older brother was with him as a banderillero, but he did not live in this hotel.
+
+
+He lived in a smaller hotel with the other people who worked for Romero.
+
+
+He asked me how many times I had seen him in the ring. I told him only three.
+
+
+It was really only two, but I did not want to explain after I had made the mistake.
+
+
+“Where did you see me the other time? In Madrid?”
+s=romero
+
+“Yes,” I lied.
+s=jake
+
+I had read the accounts of his two appearances in Madrid in the bullfight papers, so I was all right.
+s=none
+
+“The first or the second time?”
+s=romero
+
+“The first.”
+s=jake
+
+“I was very bad,” he said.
+s=romero;e:romero=serious
+
+“The second time I was better. You remember?” He turned to the critic.
+e:romero=happy
+
+He was not at all embarrassed.
+s=none
+
+He talked of his work as something altogether apart from himself. There was nothing conceited or braggartly about him.
+
+
+“I like it very much that you like my work,” he said.
+s=romero
+
+“But you haven’t seen it yet. Tomorrow, if I get a good bull, I will try and show it to you.”
+
+
+When he said this he smiled, anxious that neither the bullfight critic nor I would think he was boasting.
+s=
+
+“I am anxious to see it,” the critic said. “I would like to be convinced.”
+s=critic;e:critic=serious
+
+“He doesn’t like my work much.” Romero turned to me. He was serious.
+s=romero;e:romero=serious
+
+The critic explained that he liked it very much, but that so far it had been incomplete.
+s=none;e:critic=neutral
+
+“Wait till tomorrow, if a good one comes out.”
+s=critic
+
+“Have you seen the bulls for tomorrow?” the critic asked me.
+
+
+“Yes. I saw them unloaded.”
+s=jake
+
+Pedro Romero leaned forward.
+s=none
+
+“What did you think of them?”
+s=romero
+
+“Very nice,” I said.
+s=jake
+
+“About twenty-six *arrobas*. Very short horns. Haven’t you seen them?”
+
+
+“Oh, yes,” said Romero.
+s=romero
+
+“They won’t weigh twenty-six *arrobas*,” said the critic.
+s=critic
+
+“No,” said Romero.
+s=romero
+
+“They’ve got bananas for horns,” the critic said.
+s=critic;e:critic=smirking
+
+“You call them bananas?” asked Romero.
+s=romero;e:romero=happy
+
+He turned to me and smiled. “*You* wouldn’t call them bananas?”
+s=romero
+
+“No,” I said.
+s=jake
+
+“They’re horns all right.”
+
+
+“They’re very short,” said Pedro Romero. “Very, very short. Still, they aren’t bananas.”
+s=romero
+
+“I say, Jake,” Brett called from the next table, “you *have* deserted us.”
+s=brett;e:brett=happy
+
+“Just temporarily,” I said. “We’re talking bulls.”
+s=jake
+
+“You *are* superior.”
+s=brett
+
+“Tell him that bulls have no balls,” Mike shouted. He was drunk.
+s=mike;e:mike=excited
+
+Romero looked at me inquiringly.
+s=none;e:romero=confused
+
+“Drunk,” I said. “*Borracho! Muy borracho!*”
+s=jake
+
+“You might introduce your friends,” Brett said. She had not stopped looking at Pedro Romero.
+s=brett
+
+I asked them if they would like to have coffee with us. They both stood up.
+s=none
+
+Romero’s face was very brown. He had very nice manners.
+e:romero=neutral
+
+I introduced them all around and they started to sit down, but there was not enough room, so we all moved over to the big table by the wall to have coffee.
+
+
+Mike ordered a bottle of Fundador and glasses for everybody. There was a lot of drunken talking.
+
+
+“Tell him I think writing is lousy,” Bill said. “Go on, tell him. Tell him I’m ashamed of being a writer.”
+s=bill;e:bill=happy
+
+Pedro Romero was sitting beside Brett and listening to her.
+s=none
+
+“Go on. Tell him!” Bill said.
+s=bill
+
+Romero looked up smiling.
+s=none;e:romero=happy
+
+“This gentleman,” I said, “is a writer.”
+s=jake
+
+Romero was impressed. “This other one, too,” I said, pointing at Cohn.
+s=none;e:romero=surprised
+
+“He looks like Villalta,” Romero said, looking at Bill. “Rafael, doesn’t he look like Villalta?”
+s=romero;e:romero=happy
+
+“I can’t see it,” the critic said.
+s=critic;e:critic=serious
+
+“Really,” Romero said in Spanish.
+s=romero
+
+“He looks a lot like Villalta. What does the drunken one do?”
+
+
+“Nothing.”
+s=jake
+
+“Is that why he drinks?”
+s=romero
+
+“No. He’s waiting to marry this lady.”
+s=jake
+
+“Tell him bulls have no balls!”
+s=mike;e:mike=angry
+
+Mike shouted, very drunk, from the other end of the table.
+s=none
+
+“What does he say?”
+s=romero
+
+“He’s drunk.”
+s=jake
+
+“Jake,” Mike called.
+s=mike
+
+“Tell him bulls have no balls!”
+
+
+“You understand?” I said.
+s=jake
+
+“Yes.”
+s=romero
+
+I was sure he didn’t, so it was all right.
+s=none
+
+“Tell him Brett wants to see him put on those green pants.”
+s=mike
+
+“Pipe down, Mike.”
+s=jake;e:jake=angry
+
+“Tell him Brett is dying to know how he can get into those pants.”
+s=mike
+
+“Pipe down.”
+s=jake
+
+During this Romero was fingering his glass and talking with Brett.
+s=none;e:romero=neutral
+
+Brett was talking French and he was talking Spanish and a little English, and laughing.
+e:brett=happy
+
+Bill was filling the glasses.
+
+
+“Tell him Brett wants to come into—”
+s=mike
+
+“Oh, pipe down, Mike, for Christ’s sake!”
+s=jake
+
+Romero looked up smiling.
+s=none;e:romero=happy
+
+“Pipe down! I know that,” he said.
+s=romero
+
+Just then Montoya came into the room.
+s=none
+
+He started to smile at me, then he saw Pedro Romero with a big glass of cognac in his hand, sitting laughing between me and a woman with bare shoulders, at a table full of drunks.
+e:montoya=happy
+
+He did not even nod.
+e:montoya=scowling
+
+Montoya went out of the room. Mike was on his feet proposing a toast.
+
+
+“Let’s all drink to—” he began.
+s=mike;e:mike=happy
+
+“Pedro Romero,” I said. Everybody stood up.
+s=jake
+
+Romero took it very seriously, and we touched glasses and drank it down, I rushing it a little because Mike was trying to make it clear that that was not at all what he was going to drink to.
+s=none;e:romero=serious
+
+But it went off all right, and Pedro Romero shook hands with everyone and he and the critic went out together.
+e:romero=neutral
+
+“My God! he’s a lovely boy,” Brett said. “And how I would love to see him get into those clothes. He must use a shoehorn.”
+s=brett;e:brett=happy
+
+“I started to tell him,” Mike began. “And Jake kept interrupting me. Why do you interrupt me? Do you think you talk Spanish better than I do?”
+s=mike;e:mike=angry
+
+“Oh, shut up, Mike! Nobody interrupted you.”
+s=jake;e:jake=angry
+
+“No, I’d like to get this settled.” He turned away from me.
+s=mike
+
+“Do you think you amount to something, Cohn? Do you think you belong here among us? People who are out to have a good time? For God’s sake don’t be so noisy, Cohn!”
+
+
+“Oh, cut it out, Mike,” Cohn said.
+s=cohn;e:cohn=serious
+
+“Do you think Brett wants you here? Do you think you add to the party? Why don’t you say something?”
+s=mike
+
+“I said all I had to say the other night, Mike.”
+s=cohn
+
+“I’m not one of you literary chaps.”
+s=mike
+
+Mike stood shakily and leaned against the table.
+s=none
+
+“I’m not clever. But I do know when I’m not wanted. Why don’t you see when you’re not wanted, Cohn? Go away. Go away, for God’s sake. Take that sad Jewish face away. Don’t you think I’m right?”
+s=mike
+
+He looked at us.
+s=none
+
+“Sure,” I said. “Let’s all go over to the Iruña.”
+s=jake;e:jake=neutral
+
+“No. Don’t you think I’m right? I love that woman.”
+s=mike;e:mike=unhappy
+
+“Oh, don’t start that again. Do shove it along, Michael,” Brett said.
+s=brett;e:brett=angry
+
+“Don’t you think I’m right, Jake?”
+s=mike
+
+Cohn still sat at the table. His face had the sallow, yellow look it got when he was insulted, but somehow he seemed to be enjoying it.
+s=none;e:cohn=serious
+
+The childish, drunken heroics of it. It was his affair with a lady of title.
+
+
+“Jake,” Mike said.
+s=mike;e:mike=angry
+
+He was almost crying. “You know I’m right. Listen, you!” He turned to Cohn: “Go away! Go away now!”
+
+
+“But I won’t go, Mike,” said Cohn.
+s=cohn
+
+“Then I’ll make you!” Mike started toward him around the table.
+s=mike
+
+Cohn stood up and took off his glasses. He stood waiting, his face sallow, his hands fairly low, proudly and firmly waiting for the assault, ready to do battle for his lady love.
+s=none;e:cohn=serious
+
+I grabbed Mike. “Come on to the café,” I said. “You can’t hit him here in the hotel.”
+s=jake
+
+“Good!” said Mike. “Good idea!”
+s=mike
+
+We started off. I looked back as Mike stumbled up the stairs and saw Cohn putting his glasses on again.
+s=none
+
+Bill was sitting at the table pouring another glass of Fundador. Brett was sitting looking straight ahead at nothing.
+e:bill=neutral;e:brett=neutral
+
+Outside on the square it had stopped raining and the moon was trying to get through the clouds.
+
+
+There was a wind blowing.
+
+
+The military band was playing and the crowd was massed on the far side of the square where the fireworks specialist and his son were trying to send up fire balloons.
+
+
+A balloon would start up jerkily, on a great bias, and be torn by the wind or blown against the houses of the square.
+
+
+Some fell into the crowd. The magnesium flared and the fireworks exploded and chased about in the crowd.
+
+
+There was no one dancing in the square. The gravel was too wet.
+
+
+Brett came out with Bill and joined us.
+e:brett=neutral
+
+We stood in the crowd and watched Don Manuel Orquito, the fireworks king, standing on a little platform, carefully starting the balloons with sticks, standing above the heads of the crowd to launch the balloons off into the wind.
+
+
+The wind brought them all down, and Don Manuel Orquito’s face was sweaty in the light of his complicated fireworks that fell into the crowd and charged and chased, sputtering and cracking, between the legs of the people.
+
+
+The people shouted as each new luminous paper bubble careened, caught fire, and fell.
+
+
+“They’re razzing Don Manuel,” Bill said.
+s=bill
+
+“How do you know he’s Don Manuel?” Brett said.
+s=brett
+
+“His name’s on the programme. Don Manuel Orquito, the *pirotecnico* of *esta ciudad*.”
+s=bill
+
+“*Globos illuminados*,” Mike said. “A collection of *globos illuminados*. That’s what the paper said.”
+s=mike;e:mike=neutral
+
+The wind blew the band music away.
+s=none
+
+“I say, I wish one would go up,” Brett said.
+s=brett
+
+“That Don Manuel chap is furious.”
+
+
+“He’s probably worked for weeks fixing them to go off, spelling out ‘Hail to San Fermin,’ ” Bill said.
+s=bill
+
+“Globos illuminados,” Mike said. “A bunch of bloody globos illuminados.”
+s=mike;e:mike=scowling
+
+“Come on,” said Brett. “We can’t stand here.”
+s=brett;e:brett=unhappy
+
+“Her ladyship wants a drink,” Mike said.
+s=mike
+
+“How you know things,” Brett said.
+s=brett
+
+Inside, the café was crowded and very noisy. No one noticed us come in. We could not find a table.
+s=none
+
+There was a great noise going on.
+
+
+“Come on, let’s get out of here,” Bill said.
+s=bill;e:bill=unhappy
+
+Outside the paseo was going in under the arcade. There were some English and Americans from Biarritz in sport clothes scattered at the tables.
+s=none
+
+Some of the women stared at the people going by with lorgnons.
+
+
+We had acquired, at some time, a friend of Bill’s from Biarritz.
+
+
+She was staying with another girl at the Grand Hotel.
+
+
+The other girl had a headache and had gone to bed.
+
+
+“Here’s the pub,” Mike said.
+s=mike;e:mike=neutral
+
+It was the Bar Milano, a small, tough bar where you could get food and where they danced in the back room.
+s=none
+
+We all sat down at a table and ordered a bottle of Fundador. The bar was not full.
+
+
+There was nothing going on.
+
+
+“This is a hell of a place,” Bill said.
+s=bill
+
+“It’s too early.”
+s=none
+
+“Let’s take the bottle and come back later,” Bill said.
+s=bill
+
+“I don’t want to sit here on a night like this.”
+
+
+“Let’s go and look at the English,” Mike said.
+s=mike;e:mike=happy
+
+“I love to look at the English.”
+
+
+“They’re awful,” Bill said. “Where did they all come from?”
+s=bill;e:bill=unhappy
+
+“They come from Biarritz,” Mike said. “They come to see the last day of the quaint little Spanish fiesta.”
+s=mike
+
+“I’ll festa them,” Bill said.
+s=bill
+
+“You’re an extraordinarily beautiful girl.” Mike turned to Bill’s friend. “When did you come here?”
+s=mike
+
+“Come off it, Michael.”
+s=brett
+
+“I say, she *is* a lovely girl. Where have I been? Where have I been looking all this while? You’re a lovely thing. *Have* we met? Come along with me and Bill. We’re going to festa the English.”
+s=mike
+
+“I’ll festa them,” Bill said. “What the hell are they doing at this fiesta?”
+s=bill
+
+“Come on,” Mike said.
+s=mike
+
+“Just us three. We’re going to festa the bloody English. I hope you’re not English? I’m Scotch. I hate the English. I’m going to festa them. Come on, Bill.”
+
+
+Through the window we saw them, all three arm in arm, going toward the café.
+s=none
+
+Rockets were going up in the square.
+
+
+“I’m going to sit here,” Brett said.
+s=brett;e:brett=neutral
+
+“I’ll stay with you,” Cohn said.
+s=cohn;e:cohn=neutral
+
+“Oh, don’t!” Brett said. “For God’s sake, go off somewhere. Can’t you see Jake and I want to talk?”
+s=brett;e:brett=angry
+
+“I didn’t,” Cohn said. “I thought I’d sit here because I felt a little tight.”
+s=cohn;e:cohn=unhappy
+
+“What a hell of a reason for sitting with anyone. If you’re tight, go to bed. Go on to bed.”
+s=brett
+
+“Was I rude enough to him?” Brett asked. Cohn was gone. “My God! I’m so sick of him!”
+s=brett
+
+“He doesn’t add much to the gayety.”
+s=jake
+
+“He depresses me so.”
+s=brett;e:brett=unhappy
+
+“He’s behaved very badly.”
+s=jake
+
+“Damned badly. He had a chance to behave so well.”
+s=brett
+
+“He’s probably waiting just outside the door now.”
+s=jake
+
+“Yes. He would. You know I do know how he feels. He can’t believe it didn’t mean anything.”
+s=brett
+
+“I know.”
+s=jake
+
+“Nobody else would behave as badly. Oh, I’m so sick of the whole thing. And Michael. Michael’s been lovely, too.”
+s=brett
+
+“It’s been damned hard on Mike.”
+s=jake
+
+“Yes. But he didn’t need to be a swine.”
+s=brett
+
+“Everybody behaves badly,” I said.
+s=jake
+
+“Give them the proper chance.”
+
+
+“You wouldn’t behave badly.” Brett looked at me.
+s=brett;e:brett=neutral
+
+“I’d be as big an ass as Cohn,” I said.
+s=jake
+
+“Darling, don’t let’s talk a lot of rot.”
+s=brett
+
+“All right. Talk about anything you like.”
+s=jake
+
+“Don’t be difficult. You’re the only person I’ve got, and I feel rather awful tonight.”
+s=brett;e:brett=unhappy
+
+“You’ve got Mike.”
+s=jake
+
+“Yes, Mike. Hasn’t he been pretty?”
+s=brett
+
+“Well,” I said, “it’s been damned hard on Mike, having Cohn around and seeing him with you.”
+s=jake
+
+“Don’t I know it, darling? Please don’t make me feel any worse than I do.”
+s=brett
+
+Brett was nervous as I had never seen her before.
+s=none;e:brett=nervous
+
+She kept looking away from me and looking ahead at the wall.
+
+
+“Want to go for a walk?”
+s=jake
+
+“Yes. Come on.”
+s=brett
+
+I corked up the Fundador bottle and gave it to the bartender.
+s=none
+
+“Let’s have one more drink of that,” Brett said. “My nerves are rotten.”
+s=brett
+
+We each drank a glass of the smooth amontillado brandy.
+s=none
+
+“Come on,” said Brett.
+s=brett
+
+As we came out the door I saw Cohn walk out from under the arcade.
+s=none
+
+“He *was* there,” Brett said.
+s=brett;e:brett=unhappy
+
+“He can’t be away from you.”
+s=jake
+
+“Poor devil!”
+s=brett
+
+“I’m not sorry for him. I hate him, myself.”
+s=jake
+
+“I hate him, too,” she shivered. “I hate his damned suffering.”
+s=brett
+
+We walked arm in arm down the side street away from the crowd and the lights of the square.
+s=none
+
+The street was dark and wet, and we walked along it to the fortifications at the edge of town.
+
+
+We passed wine-shops with light coming out from their doors onto the black, wet street, and sudden bursts of music.
+
+
+“Want to go in?”
+s=jake
+
+“No.”
+s=brett
+
+We walked out across the wet grass and onto the stone wall of the fortifications.
+s=none
+
+I spread a newspaper on the stone and Brett sat down.
+
+
+Across the plain it was dark, and we could see the mountains.
+
+
+The wind was high up and took the clouds across the moon.
+
+
+Below us were the dark pits of the fortifications. Behind were the trees and the shadow of the cathedral, and the town silhouetted against the moon.
+
+
+“Don’t feel bad,” I said.
+s=jake;e:jake=neutral
+
+“I feel like hell,” Brett said. “Don’t let’s talk.”
+s=brett;e:brett=unhappy
+
+We looked out at the plain.
+s=none
+
+The long lines of trees were dark in the moonlight.
+
+
+There were the lights of a car on the road climbing the mountain.
+
+
+Up on the top of the mountain we saw the lights of the fort.
+
+
+Below to the left was the river. It was high from the rain, and black and smooth.
+
+
+Trees were dark along the banks. We sat and looked out. Brett stared straight ahead. Suddenly she shivered.
+
+
+“It’s cold.”
+s=brett
+
+“Want to walk back?”
+s=jake
+
+“Through the park.”
+s=brett
+
+We climbed down. It was clouding over again.
+s=none
+
+In the park it was dark under the trees.
+
+
+“Do you still love me, Jake?”
+s=brett;e:brett=neutral
+
+“Yes,” I said.
+s=jake
+
+“Because I’m a goner,” Brett said.
+s=brett;e:brett=unhappy
+
+“How?”
+s=jake
+
+“I’m a goner. I’m mad about the Romero boy. I’m in love with him, I think.”
+s=brett
+
+“I wouldn’t be if I were you.”
+s=jake;e:jake=serious
+
+“I can’t help it. I’m a goner. It’s tearing me all up inside.”
+s=brett
+
+“Don’t do it.”
+s=jake
+
+“I can’t help it. I’ve never been able to help anything.”
+s=brett
+
+“You ought to stop it.”
+s=jake
+
+“How can I stop it? I can’t stop things. Feel that?”
+s=brett
+
+Her hand was trembling.
+s=none;e:brett=nervous
+
+“I’m like that all through.”
+s=brett
+
+“You oughtn’t to do it.”
+s=jake
+
+“I can’t help it. I’m a goner now, anyway. Don’t you see the difference?”
+s=brett
+
+“No.”
+s=jake
+
+“I’ve got to do something. I’ve got to do something I really want to do. I’ve lost my self-respect.”
+s=brett;e:brett=unhappy
+
+“You don’t have to do that.”
+s=jake
+
+“Oh, darling, don’t be difficult. What do you think it’s meant to have that damned Jew about, and Mike the way he’s acted?”
+s=brett
+
+“Sure.”
+s=jake
+
+“I can’t just stay tight all the time.”
+s=brett
+
+“No.”
+s=jake
+
+“Oh, darling, please stay by me. Please stay by me and see me through this.”
+s=brett
+
+“Sure.”
+s=jake
+
+“I don’t say it’s right. It is right though for me. God knows, I’ve never felt such a bitch.”
+s=brett;e:brett=unhappy
+
+“What do you want me to do?”
+s=jake
+
+“Come on,” Brett said. “Let’s go and find him.”
+s=brett
+
+Together we walked down the gravel path in the park in the dark, under the trees and then out from under the trees and past the gate into the street that led into town.
+s=none
+
+Pedro Romero was in the café. He was at a table with other bullfighters and bullfight critics.
+
+
+They were smoking cigars. When we came in they looked up. Romero smiled and bowed.
+e:romero=happy
+
+We sat down at a table halfway down the room.
+
+
+“Ask him to come over and have a drink.”
+s=brett
+
+“Not yet. He’ll come over.”
+s=jake
+
+“I can’t look at him.”
+s=brett;e:brett=nervous
+
+“He’s nice to look at,” I said.
+s=jake
+
+“I’ve always done just what I wanted.”
+s=brett
+
+“I know.”
+s=jake
+
+“I do feel such a bitch.”
+s=brett;e:brett=unhappy
+
+“Well,” I said.
+s=jake
+
+“My God!” said Brett, “the things a woman goes through.”
+s=brett
+
+“Yes?”
+s=jake
+
+“Oh, I do feel such a bitch.”
+s=brett
+
+I looked across at the table. Pedro Romero smiled. He said something to the other people at his table, and stood up.
+s=none;e:romero=happy
+
+He came over to our table. I stood up and we shook hands.
+
+
+“Won’t you have a drink?”
+s=jake
+
+“You must have a drink with me,” he said.
+s=romero
+
+He seated himself, asking Brett’s permission without saying anything.
+s=none
+
+He had very nice manners. But he kept on smoking his cigar. It went well with his face.
+
+
+“You like cigars?” I asked.
+s=jake
+
+“Oh, yes. I always smoke cigars.”
+s=romero;e:romero=neutral
+
+It was part of his system of authority.
+s=none
+
+It made him seem older. I noticed his skin. It was clear and smooth and very brown.
+
+
+There was a triangular scar on his cheekbone. I saw he was watching Brett.
+e:romero=happy
+
+He felt there was something between them. He must have felt it when Brett gave him her hand.
+
+
+He was being very careful. I think he was sure, but he did not want to make any mistake.
+e:romero=serious
+
+“You fight tomorrow?” I said.
+s=jake
+
+“Yes,” he said. “Algabeno was hurt today in Madrid. Did you hear?”
+s=romero;e:romero=neutral
+
+“No,” I said.
+s=jake
+
+“Badly?”
+
+
+He shook his head.
+s=none
+
+“Nothing. Here,” he showed his hand. Brett reached out and spread the fingers apart.
+s=romero
+
+“Oh!” he said in English, “you tell fortunes?”
+s=romero;e:romero=happy
+
+“Sometimes. Do you mind?”
+s=brett;e:brett=happy
+
+“No. I like it.”
+s=romero
+
+He spread his hand flat on the table. “Tell me I live for always, and be a millionaire.”
+
+
+He was still very polite, but he was surer of himself.
+s=none
+
+“Look,” he said, “do you see any bulls in my hand?”
+s=romero
+
+He laughed.
+e:romero=happy;s=
+
+His hand was very fine and the wrist was small.
+s=none
+
+“There are thousands of bulls,” Brett said.
+s=brett
+
+She was not at all nervous now. She looked lovely.
+s=none;e:brett=happy
+
+“Good,” Romero laughed.
+s=romero;e:romero=happy
+
+“At a thousand duros apiece,” he said to me in Spanish. “Tell me some more.”
+
+
+“It’s a good hand,” Brett said. “I think he’ll live a long time.”
+s=brett
+
+“Say it to me. Not to your friend.”
+s=romero
+
+“I said you’d live a long time.”
+s=brett
+
+“I know it,” Romero said.
+s=romero;e:romero=smirking
+
+“I’m never going to die.”
+
+
+I tapped with my fingertips on the table. Romero saw it. He shook his head.
+s=none;e:jake=serious
+
+“No. Don’t do that. The bulls are my best friends.”
+s=romero;e:romero=serious
+
+I translated to Brett.
+s=none
+
+“You kill your friends?” she asked.
+s=brett;e:brett=confused
+
+“Always,” he said in English, and laughed. “So they don’t kill me.”
+s=romero;e:romero=happy
+
+He looked at her across the table.
+s=none
+
+“You know English well.”
+s=brett
+
+“Yes,” he said. “Pretty well, sometimes. But I must not let anybody know. It would be very bad, a torero who speaks English.”
+s=romero
+
+“Why?” asked Brett.
+s=brett
+
+“It would be bad. The people would not like it. Not yet.”
+s=romero
+
+“Why not?”
+s=brett
+
+“They would not like it. Bullfighters are not like that.”
+s=romero
+
+“What are bullfighters like?”
+s=brett
+
+He laughed and tipped his hat down over his eyes and changed the angle of his cigar and the expression of his face.
+s=none;e:romero=happy
+
+“Like at the table,” he said.
+s=romero
+
+I glanced over. He had mimicked exactly the expression of Nacional.
+s=none
+
+He smiled, his face natural again. “No. I must forget English.”
+s=romero;e:romero=happy
+
+“Don’t forget it, yet,” Brett said.
+s=brett
+
+“No?”
+s=romero
+
+“No.”
+s=brett
+
+“All right.”
+s=romero
+
+He laughed again.
+s=none;e:romero=happy
+
+“I would like a hat like that,” Brett said.
+s=brett
+
+“Good. I’ll get you one.”
+s=romero
+
+“Right. See that you do.”
+s=brett
+
+“I will. I’ll get you one tonight.”
+s=romero
+
+I stood up. Romero rose, too.
+s=none
+
+“Sit down,” I said. “I must go and find our friends and bring them here.”
+s=jake
+
+He looked at me.
+s=none;e:romero=serious
+
+It was a final look to ask if it were understood. It was understood all right.
+
+
+“Sit down,” Brett said to him. “You must teach me Spanish.”
+s=brett
+
+He sat down and looked at her across the table. I went out.
+s=none
+
+The hard-eyed people at the bullfighter table watched me go. It was not pleasant.
+
+
+When I came back and looked in the café, twenty minutes later, Brett and Pedro Romero were gone.
+
+
+The coffee-glasses and our three empty cognac-glasses were on the table.
+
+
+A waiter came with a cloth and picked up the glasses and mopped off the table.
+
+
