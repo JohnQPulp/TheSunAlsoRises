@@ -2297,7 +2297,7 @@ We talked about one thing and another, and I left him to come to the office.
 
 
 ### Chapter VI
-
+r=title
 
 At five o’clock I was in the Hotel Crillon waiting for Brett.
 
@@ -3023,5 +3023,1032 @@ She was still talking to him. I went down a side street to the Boulevard Raspail
 
 
 A taxi came along and I got in and gave the driver the address of my flat.
+
+
+### Chapter VII
+r=title
+
+As I started up the stairs the concierge knocked on the glass of the door of her lodge, and as I stopped she came out.
+s=none
+
+She had some letters and a telegram.
+
+
+“Here is the post. And there was a lady here to see you.”
+s=concierge;e:concierge=excited
+
+“Did she leave a card?”
+s=jake;e:jake=neutral
+
+“No. She was with a gentleman. It was the one who was here last night. In the end I find she is very nice.”
+s=concierge;e:concierge=happy
+
+“Was she with a friend of mine?”
+s=jake
+
+“I don’t know. He was never here before. He was very large. Very, very large.”
+s=concierge
+
+“She was very nice. Very, very nice.”
+
+
+“Last night she was, perhaps, a little—”
+e:concierge=thinking
+
+She put her head on one hand and rocked it up and down.
+s=none
+
+“I’ll speak perfectly frankly, Monsieur Barnes. Last night I found her not so *gentille*. Last night I formed another idea of her.”
+s=concierge;e:concierge=serious
+
+“But listen to what I tell you. She is *très, très gentille*. She is of very good family. It is a thing you can see.”
+e:concierge=excited
+
+“They did not leave any word?”
+s=jake
+
+“Yes. They said they would be back in an hour.”
+s=concierge
+
+“Send them up when they come.”
+s=jake
+
+“Yes, Monsieur Barnes. And that lady, that lady there is someone. An eccentric, perhaps, but *quelqu’une, quelqu’une*!”
+s=concierge;e:concierge=happy
+
+The concierge, before she became a concierge, had owned a drink-selling concession at the Paris racecourses.
+s=none;e:concierge=neutral
+
+Her lifework lay in the *pelouse*, but she kept an eye on the people of the *pesage*, and she took great pride in telling me which of my guests were well brought up, which were of good family, who were sportsmen, a French word pronounced with the accent on the men.
+
+
+The only trouble was that people who did not fall into any of those three categories were very liable to be told there was no one home, chez Barnes.
+
+
+One of my friends, an extremely underfed-looking painter, who was obviously to Madame Duzinell neither well brought up, of good family, nor a sportsman, wrote me a letter asking if I could get him a pass to get by the concierge so he could come up and see me occasionally in the evenings.
+
+
+I went up to the flat wondering what Brett had done to the concierge.
+
+
+The wire was a cable from Bill Gorton, saying he was arriving on the *France*.
+n:bill=Bill Gorton
+
+I put the mail on the table, went back to the bedroom, undressed and had a shower.
+
+
+I was rubbing down when I heard the doorbell pull.
+
+
+I put on a bathrobe and slippers and went to the door. It was Brett.
+n:brett=Brett Ashley;e:brett=happy
+
+Back of her was the count. He was holding a great bunch of roses.
+n:count=Count Mippipopolous;e:count=happy
+
+“Hello, darling,” said Brett. “Aren’t you going to let us in?”
+s=brett
+
+“Come on. I was just bathing.”
+s=jake
+
+“Aren’t you the fortunate man. Bathing.”
+s=brett
+
+“Only a shower. Sit down, Count Mippipopolous. What will you drink?”
+s=jake;e:jake=happy
+
+“I don’t know whether you like flowers, sir,” the count said, “but I took the liberty of just bringing these roses.”
+s=count;e:count=neutral
+
+“Here, give them to me.”
+s=brett
+
+Brett took them.
+s=none
+
+“Get me some water in this, Jake.”
+s=brett
+
+I filled the big earthenware jug with water in the kitchen, and Brett put the roses in it, and placed them in the centre of the dining-room table.
+s=none;e:brett=neutral;e:count=neutral
+
+“I say. We have had a day.”
+s=brett;e:brett=weary
+
+“You don’t remember anything about a date with me at the Crillon?”
+s=jake;e:jake=neutral
+
+“No. Did we have one? I must have been blind.”
+s=brett;e:brett=surprised
+
+“You were quite drunk, my dear,” said the count.
+s=count;e:count=neutral
+
+“Wasn’t I, though? And the count’s been a brick, absolutely.”
+s=brett;e:brett=happy
+
+“You’ve got hell’s own drag with the concierge now.”
+s=jake
+
+“I ought to have. Gave her two hundred francs.”
+s=brett
+
+“Don’t be a damned fool.”
+s=jake;e:jake=surprised
+
+“His,” she said, and nodded at the count.
+s=brett;e:brett=neutral
+
+“I thought we ought to give her a little something for last night. It was very late.”
+s=count;e:count=happy
+
+“He’s wonderful,” Brett said. “He remembers everything that’s happened.”
+s=brett
+
+“So do you, my dear.”
+s=count
+
+“Fancy,” said Brett. “Who’d want to? I say, Jake, *do* we get a drink?”
+s=brett
+
+“You get it while I go in and dress. You know where it is.”
+s=jake
+
+“Rather.”
+s=brett;e:brett=happy
+
+While I dressed I heard Brett put down glasses and then a siphon, and then heard them talking.
+s=none
+
+I dressed slowly, sitting on the bed. I felt tired and pretty rotten.
+e:jake=weary
+
+Brett came in the room, a glass in her hand, and sat on the bed.
+e:brett=neutral
+
+“What’s the matter, darling? Do you feel rocky?”
+s=brett
+
+She kissed me coolly on the forehead.
+s=none
+
+“Oh, Brett, I love you so much.”
+s=jake;e:jake=unhappy
+
+“Darling,” she said. Then: “Do you want me to send him away?”
+s=brett;e:brett=unhappy
+
+“No. He’s nice.”
+s=jake
+
+“I’ll send him away.”
+s=brett
+
+“No, don’t.”
+s=jake
+
+“Yes, I’ll send him away.”
+s=brett
+
+“You can’t just like that.”
+s=jake
+
+“Can’t I, though? You stay here. He’s mad about me, I tell you.”
+s=brett
+
+She was gone out of the room.
+s=none
+
+I lay face down on the bed. I was having a bad time.
+
+
+I heard them talking but I did not listen. Brett came in and sat on the bed.
+
+
+“Poor old darling.”
+s=brett;e:brett=neutral
+
+She stroked my head.
+s=none
+
+“What did you say to him?”
+s=jake
+
+I was lying with my face away from her. I did not want to see her.
+s=none
+
+“Sent him for champagne. He loves to go for champagne.”
+s=brett
+
+Then later:
+s=
+
+“Do you feel better, darling? Is the head any better?”
+s=brett
+
+“It’s better.”
+s=jake
+
+“Lie quiet. He’s gone to the other side of town.”
+s=brett
+
+“Couldn’t we live together, Brett? Couldn’t we just live together?”
+s=jake
+
+“I don’t think so. I’d just *tromper* you with everybody. You couldn’t stand it.”
+s=brett;e:brett=unhappy
+
+“I stand it now.”
+s=jake
+
+“That would be different. It’s my fault, Jake. It’s the way I’m made.”
+s=brett
+
+“Couldn’t we go off in the country for a while?”
+s=jake
+
+“It wouldn’t be any good. I’ll go if you like. But I couldn’t live quietly in the country. Not with my own true love.”
+s=brett
+
+“I know.”
+s=jake
+
+“Isn’t it rotten? There isn’t any use my telling you I love you.”
+s=brett
+
+“You know I love you.”
+s=jake
+
+“Let’s not talk. Talking’s all bilge. I’m going away from you, and then Michael’s coming back.”
+s=brett
+
+“Why are you going away?”
+s=jake;e:jake=confused
+
+“Better for you. Better for me.”
+s=brett
+
+“When are you going?”
+s=jake
+
+“Soon as I can.”
+s=brett
+
+“Where?”
+s=jake
+
+“San Sebastian.”
+s=brett
+
+“Can’t we go together?”
+s=jake
+
+“No. That would be a hell of an idea after we’d just talked it out.”
+s=brett;e:brett=serious
+
+“We never agreed.”
+s=jake
+
+“Oh, you know as well as I do. Don’t be obstinate, darling.”
+s=brett
+
+“Oh, sure,” I said. “I know you’re right. I’m just low, and when I’m low I talk like a fool.”
+s=jake;e:jake=unhappy
+
+I sat up, leaned over, found my shoes beside the bed and put them on. I stood up.
+s=none
+
+“Don’t look like that, darling.”
+s=brett;e:brett=unhappy
+
+“How do you want me to look?”
+s=jake
+
+“Oh, don’t be a fool. I’m going away tomorrow.”
+s=brett;e:brett=serious
+
+“Tomorrow?”
+s=jake;e:jake=surprised
+
+“Yes. Didn’t I say so? I am.”
+s=brett
+
+“Let’s have a drink, then. The count will be back.”
+s=jake;e:jake=neutral
+
+“Yes. He should be back. You know he’s extraordinary about buying champagne. It means any amount to him.”
+s=brett;e:brett=neutral
+
+We went into the dining-room. I took up the brandy bottle and poured Brett a drink and one for myself.
+s=none
+
+There was a ring at the bellpull. I went to the door and there was the count.
+e:count=happy
+
+Behind him was the chauffeur carrying a basket of champagne.
+n:chauffeur=Henry
+
+“Where should I have him put it, sir?” asked the count.
+s=count
+
+“In the kitchen,” Brett said.
+s=brett
+
+“Put it in there, Henry,” the count motioned.
+s=count
+
+“Now go down and get the ice.”
+
+
+He stood looking after the basket inside the kitchen door.
+s=none
+
+“I think you’ll find that’s very good wine,” he said.
+s=count;e:count=serious
+
+“I know we don’t get much of a chance to judge good wine in the States now, but I got this from a friend of mine that’s in the business.”
+
+
+“Oh, you always have someone in the trade,” Brett said.
+s=brett;e:brett=smirking
+
+“This fellow raises the grapes. He’s got thousands of acres of them.”
+s=count
+
+“What’s his name?” asked Brett. “Veuve Cliquot?”
+s=brett
+
+“No,” said the count. “Mumms. He’s a baron.”
+s=count
+
+“Isn’t it wonderful,” said Brett. “We all have titles. Why haven’t you a title, Jake?”
+s=brett;e:brett=happy
+
+“I assure you, sir,” the count put his hand on my arm.
+s=count
+
+“It never does a man any good. Most of the time it costs you money.”
+
+
+“Oh, I don’t know. It’s damned useful sometimes,” Brett said.
+s=brett
+
+“I’ve never known it to do me any good.”
+s=count
+
+“You haven’t used it properly. I’ve had hell’s own amount of credit on mine.”
+s=brett
+
+“Do sit down, count,” I said. “Let me take that stick.”
+s=jake;e:jake=happy
+
+The count was looking at Brett across the table under the gaslight.
+s=none;e:count=contemplative
+
+She was smoking a cigarette and flicking the ashes on the rug. She saw me notice it.
+
+
+“I say, Jake, I don’t want to ruin your rugs. Can’t you give a chap an ashtray?”
+s=brett;e:brett=neutral
+
+I found some ashtrays and spread them around.
+s=none
+
+The chauffeur came up with a bucket full of salted ice.
+
+
+“Put two bottles in it, Henry,” the count called.
+s=count
+
+“Anything else, sir?”
+s=chauffeur
+
+“No. Wait down in the car.”
+s=count
+
+He turned to Brett and to me.
+s=none
+
+“We’ll want to ride out to the Bois for dinner?”
+s=count;e:count=happy
+
+“If you like,” Brett said. “I couldn’t eat a thing.”
+s=brett
+
+“I always like a good meal,” said the count.
+s=count
+
+“Should I bring the wine in, sir?” asked the chauffeur.
+s=chauffeur
+
+“Yes. Bring it in, Henry,” said the count.
+s=count
+
+He took out a heavy pigskin cigar-case and offered it to me.
+s=none
+
+“Like to try a real American cigar?”
+s=count
+
+“Thanks,” I said. “I’ll finish the cigarette.”
+s=jake
+
+He cut off the end of his cigar with a gold cutter he wore on one end of his watch-chain.
+s=none
+
+“I like a cigar to really draw,” said the count. “Half the cigars you smoke don’t draw.”
+s=count;e:count=serious
+
+He lit the cigar, puffed at it, looking across the table at Brett.
+s=none;e:count=contemplative
+
+“And when you’re divorced, Lady Ashley, then you won’t have a title.”
+s=count
+
+“No. What a pity.”
+s=brett
+
+“No,” said the count. “You don’t need a title. You got class all over you.”
+s=count;e:count=happy
+
+“Thanks. Awfully decent of you.”
+s=brett;e:brett=smirking
+
+“I’m not joking you,” the count blew a cloud of smoke.
+s=count
+
+“You got the most class of anybody I ever seen. You got it. That’s all.”
+
+
+“Nice of you,” said Brett.
+s=brett
+
+“Mummy would be pleased. Couldn’t you write it out, and I’ll send it in a letter to her.”
+
+
+“I’d tell her, too,” said the count. “I’m not joking you. I never joke people. Joke people and you make enemies. That’s what I always say.”
+s=count
+
+“You’re right,” Brett said. “You’re terribly right. I always joke people and I haven’t a friend in the world. Except Jake here.”
+s=brett
+
+“You don’t joke him.”
+s=count
+
+“That’s it.”
+s=brett
+
+“Do you, now?” asked the count. “Do you joke him?”
+s=count
+
+Brett looked at me and wrinkled up the corners of her eyes.
+s=none;e:brett=happy
+
+“No,” she said. “I wouldn’t joke him.”
+s=brett
+
+“See,” said the count. “You don’t joke him.”
+s=count
+
+“This is a hell of a dull talk,” Brett said. “How about some of that champagne?”
+s=brett;e:brett=weary
+
+The count reached down and twirled the bottles in the shiny bucket.
+s=none
+
+“It isn’t cold, yet. You’re always drinking, my dear. Why don’t you just talk?”
+s=count
+
+“I’ve talked too ruddy much. I’ve talked myself all out to Jake.”
+s=brett
+
+“I should like to hear you really talk, my dear. When you talk to me you never finish your sentences at all.”
+s=count
+
+“Leave ’em for you to finish. Let anyone finish them as they like.”
+s=brett
+
+“It is a very interesting system,” the count reached down and gave the bottles a twirl.
+s=count;e:count=thinking
+
+“Still I would like to hear you talk some time.”
+
+
+“Isn’t he a fool?” Brett asked.
+s=brett;e:brett=smirking
+
+“Now,” the count brought up a bottle. “I think this is cool.”
+s=count;e:count=happy
+
+I brought a towel and he wiped the bottle dry and held it up.
+s=none
+
+“I like to drink champagne from magnums. The wine is better but it would have been too hard to cool.”
+s=count;e:count=serious
+
+He held the bottle, looking at it. I put out the glasses.
+s=none
+
+“I say. You might open it,” Brett suggested.
+s=brett
+
+“Yes, my dear. Now I’ll open it.”
+s=count;e:count=happy
+
+It was amazing champagne.
+s=none
+
+“I say that is wine,” Brett held up her glass.
+s=brett;e:brett=happy
+
+“We ought to toast something. ‘Here’s to royalty.’ ”
+
+
+“This wine is too good for toast-drinking, my dear. You don’t want to mix emotions up with a wine like that. You lose the taste.”
+s=count;e:count=serious
+
+Brett’s glass was empty.
+s=none
+
+“You ought to write a book on wines, count,” I said.
+s=jake
+
+“Mr. Barnes,” answered the count, “all I want out of wines is to enjoy them.”
+s=count;e:count=happy
+
+“Let’s enjoy a little more of this,” Brett pushed her glass forward.
+s=brett
+
+The count poured very carefully.
+s=none
+
+“There, my dear. Now you enjoy that slowly, and then you can get drunk.”
+s=count
+
+“Drunk? Drunk?”
+s=brett;e:brett=surprised
+
+“My dear, you are charming when you are drunk.”
+s=count;e:count=smirking
+
+“Listen to the man.”
+s=brett
+
+“Mr. Barnes,” the count poured my glass full.
+s=count
+
+“She is the only lady I have ever known who was as charming when she was drunk as when she was sober.”
+
+
+“You haven’t been around much, have you?”
+s=brett
+
+“Yes, my dear. I have been around very much. I have been around a very great deal.”
+s=count;e:count=serious
+
+“Drink your wine,” said Brett. “We’ve all been around. I dare say Jake here has seen as much as you have.”
+s=brett
+
+“My dear, I am sure Mr. Barnes has seen a lot. Don’t think I don’t think so, sir. I have seen a lot, too.”
+s=count
+
+“Of course you have, my dear,” Brett said. “I was only ragging.”
+s=brett;e:brett=happy
+
+“I have been in seven wars and four revolutions,” the count said.
+s=count
+
+“Soldiering?” Brett asked.
+s=brett
+
+“Sometimes, my dear. And I have got arrow wounds. Have you ever seen arrow wounds?”
+s=count
+
+“Let’s have a look at them.”
+s=brett;e:brett=excited
+
+The count stood up, unbuttoned his vest, and opened his shirt.
+s=none
+
+He pulled up the undershirt onto his chest and stood, his chest black, and big stomach muscles bulging under the light.
+
+
+“You see them?”
+s=count
+
+Below the line where his ribs stopped were two raised white welts.
+s=none
+
+“See on the back where they come out.”
+s=count
+
+Above the small of the back were the same two scars, raised as thick as a finger.
+s=none
+
+“I say. Those are something.”
+s=brett;e:brett=surprised
+
+“Clean through.”
+s=count;e:count=serious
+
+The count was tucking in his shirt.
+s=none
+
+“Where did you get those?” I asked.
+s=jake;e:jake=curious
+
+“In Abyssinia. When I was twenty-one years old.”
+s=count
+
+“What were you doing?” asked Brett. “Were you in the army?”
+s=brett
+
+“I was on a business trip, my dear.”
+s=count;e:count=smirking
+
+“I told you he was one of us. Didn’t I?”
+s=brett;e:brett=happy
+
+Brett turned to me.
+s=none
+
+“I love you, count. You’re a darling.”
+s=brett
+
+“You make me very happy, my dear. But it isn’t true.”
+s=count;e:count=happy
+
+“Don’t be an ass.”
+s=brett
+
+“You see, Mr. Barnes, it is because I have lived very much that now I can enjoy everything so well. Don’t you find it like that?”
+s=count;e:count=contemplative
+
+“Yes. Absolutely.”
+s=jake
+
+“I know,” said the count. “That is the secret. You must get to know the values.”
+s=count
+
+“Doesn’t anything ever happen to your values?” Brett asked.
+s=brett
+
+“No. Not any more.”
+s=count
+
+“Never fall in love?”
+s=brett
+
+“Always,” said the count. “I am always in love.”
+s=count;e:count=happy
+
+“What does that do to your values?”
+s=brett
+
+“That, too, has got a place in my values.”
+s=count
+
+“You haven’t any values. You’re dead, that’s all.”
+s=brett;e:brett=scowling
+
+“No, my dear. You’re not right. I’m not dead at all.”
+s=count;e:count=serious
+
+We drank three bottles of the champagne and the count left the basket in my kitchen.
+s=none
+
+We dined at a restaurant in the Bois. It was a good dinner.
+
+
+Food had an excellent place in the count’s values. So did wine.
+
+
+The count was in fine form during the meal. So was Brett. It was a good party.
+
+
+“Where would you like to go?” asked the count after dinner.
+s=count
+
+We were the only people left in the restaurant.
+s=none
+
+The two waiters were standing over against the door. They wanted to go home.
+
+
+“We might go up on the hill,” Brett said. “Haven’t we had a splendid party?”
+s=brett;e:brett=happy
+
+The count was beaming. He was very happy.
+s=none;e:count=happy
+
+“You are very nice people,” he said.
+s=count
+
+He was smoking a cigar again.
+s=none
+
+“Why don’t you get married, you two?”
+s=count
+
+“We want to lead our own lives,” I said.
+s=jake
+
+“We have our careers,” Brett said. “Come on. Let’s get out of this.”
+s=brett
+
+“Have another brandy,” the count said.
+s=count
+
+“Get it on the hill.”
+
+
+“No. Have it here where it is quiet.”
+s=brett
+
+“You and your quiet,” said Brett. “What is it men feel about quiet?”
+s=brett
+
+“We like it,” said the count. “Like you like noise, my dear.”
+s=count;e:count=smirking
+
+“All right,” said Brett. “Let’s have one.”
+s=brett
+
+“Sommelier!” the count called.
+s=count
+
+“Yes, sir.”
+s=none
+
+“What is the oldest brandy you have?”
+s=count
+
+“Eighteen eleven, sir.”
+s=none
+
+“Bring us a bottle.”
+s=count
+
+“I say. Don’t be ostentatious. Call him off, Jake.”
+s=brett;e:brett=smirking
+
+“Listen, my dear. I get more value for my money in old brandy than in any other antiquities.”
+s=count;e:count=happy
+
+“Got many antiquities?”
+s=brett
+
+“I got a houseful.”
+s=count
+
+Finally we went up to Montmartre.
+s=none
+
+Inside Zelli’s it was crowded, smoky, and noisy. The music hit you as you went in.
+
+
+Brett and I danced. It was so crowded we could barely move.
+
+
+The nigger drummer waved at Brett.
+n:drummer=Drummer
+
+We were caught in the jam, dancing in one place in front of him.
+
+
+“Hahre you?”
+s=drummer
+
+“Great.”
+s=brett
+
+“Thaats good.”
+s=drummer
+
+He was all teeth and lips.
+s=none
+
+“He’s a great friend of mine,” Brett said. “Damn good drummer.”
+s=brett;e:brett=happy
+
+The music stopped and we started toward the table where the count sat.
+s=none
+
+Then the music started again and we danced. I looked at the count.
+
+
+He was sitting at the table smoking a cigar. The music stopped again.
+
+
+“Let’s go over.”
+s=brett
+
+Brett started toward the table. The music started and again we danced, tight in the crowd.
+s=none
+
+“You are a rotten dancer, Jake. Michael’s the best dancer I know.”
+s=brett
+
+“He’s splendid.”
+s=jake;e:jake=neutral
+
+“He’s got his points.”
+s=brett
+
+“I like him,” I said. “I’m damned fond of him.”
+s=jake
+
+“I’m going to marry him,” Brett said. “Funny. I haven’t thought about him for a week.”
+s=brett;e:brett=thinking
+
+“Don’t you write him?”
+s=jake
+
+“Not I. Never write letters.”
+s=brett
+
+“I’ll bet he writes to you.”
+s=jake
+
+“Rather. Damned good letters, too.”
+s=brett
+
+“When are you going to get married?”
+s=jake
+
+“How do I know? As soon as we can get the divorce. Michael’s trying to get his mother to put up for it.”
+s=brett
+
+“Could I help you?”
+s=jake
+
+“Don’t be an ass. Michael’s people have loads of money.”
+s=brett
+
+The music stopped. We walked over to the table. The count stood up.
+s=none
+
+“Very nice,” he said. “You looked very, very nice.”
+s=count;e:count=happy
+
+“Don’t you dance, count?” I asked.
+s=jake
+
+“No. I’m too old.”
+s=count
+
+“Oh, come off it,” Brett said.
+s=brett
+
+“My dear, I would do it if I would enjoy it. I enjoy to watch you dance.”
+s=count
+
+“Splendid,” Brett said. “I’ll dance again for you some time. I say. What about your little friend, Zizi?”
+s=brett
+
+“Let me tell you. I support that boy, but I don’t want to have him around.”
+s=count;e:count=serious
+
+“He is rather hard.”
+s=brett
+
+“You know I think that boy’s got a future. But personally I don’t want him around.”
+s=count
+
+“Jake’s rather the same way.”
+s=brett
+
+“He gives me the willys.”
+s=jake;e:jake=unhappy
+
+“Well,” the count shrugged his shoulders.
+s=count
+
+“About his future you can’t ever tell. Anyhow, his father was a great friend of my father.”
+
+
+“Come on. Let’s dance,” Brett said.
+s=brett;e:brett=happy
+
+We danced. It was crowded and close.
+s=none
+
+“Oh, darling,” Brett said, “I’m so miserable.”
+s=brett;e:brett=miserable
+
+I had that feeling of going through something that has all happened before.
+s=none;e:jake=weary
+
+“You were happy a minute ago.”
+s=jake
+
+The drummer shouted: “You can’t two time—”
+s=drummer
+
+“It’s all gone.”
+s=brett
+
+“What’s the matter?”
+s=jake
+
+“I don’t know. I just feel terribly.”
+s=brett
+
+“… …” the drummer chanted. Then turned to his sticks.
+s=drummer
+
+“Want to go?”
+s=jake
+
+I had the feeling as in a nightmare of it all being something repeated, something I had been through and that now I must go through again.
+s=none;e:jake=unhappy
+
+“… …” the drummer sang softly.
+s=drummer
+
+“Let’s go,” said Brett. “You don’t mind.”
+s=brett
+
+“… …” the drummer shouted and grinned at Brett.
+s=drummer
+
+“All right,” I said.
+s=jake
+
+We got out from the crowd. Brett went to the dressing-room.
+s=none
+
+“Brett wants to go,” I said to the count.
+s=jake
+
+He nodded.
+s=none
+
+“Does she? That’s fine. You take the car. I’m going to stay here for a while, Mr. Barnes.”
+s=count;e:count=happy
+
+We shook hands.
+s=none
+
+“It was a wonderful time,” I said. “I wish you would let me get this.”
+s=jake
+
+I took a note out of my pocket.
+s=none
+
+“Mr. Barnes, don’t be ridiculous,” the count said.
+s=count;e:count=serious
+
+Brett came over with her wrap on.
+s=none
+
+She kissed the count and put her hand on his shoulder to keep him from standing up.
+
+
+As we went out the door I looked back and there were three girls at his table.
+
+
+We got into the big car. Brett gave the chauffeur the address of her hotel.
+
+
+“No, don’t come up,” she said at the hotel.
+s=brett;e:brett=serious
+
+She had rung and the door was unlatched.
+s=none
+
+“Really?”
+s=jake
+
+“No. Please.”
+s=brett
+
+“Good night, Brett,” I said. “I’m sorry you feel rotten.”
+s=jake;e:jake=unhappy
+
+“Good night, Jake. Good night, darling. I won’t see you again.”
+s=brett;e:brett=unhappy
+
+We kissed standing at the door. She pushed me away. We kissed again.
+s=none
+
+“Oh, don’t!” Brett said.
+s=brett
+
+She turned quickly and went into the hotel.
+s=none
+
+The chauffeur drove me around to my flat.
+s=none
+
+I gave him twenty francs and he touched his cap and said: “Good night, sir,” and drove off.
+
+
+I rang the bell. The door opened and I went upstairs and went to bed.
+s=none;e:jake=weary
+
+## Book II
+
 
 
