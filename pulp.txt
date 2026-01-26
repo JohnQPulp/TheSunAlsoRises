@@ -3101,10 +3101,10 @@ I was rubbing down when I heard the doorbell pull.
 
 
 I put on a bathrobe and slippers and went to the door. It was Brett.
-n:brett=Brett Ashley;e:brett=happy
+e:brett=happy
 
 Back of her was the count. He was holding a great bunch of roses.
-n:count=Count Mippipopolous;e:count=happy
+e:count=happy
 
 “Hello, darling,” said Brett. “Aren’t you going to let us in?”
 s=brett
@@ -3347,7 +3347,7 @@ There was a ring at the bellpull. I went to the door and there was the count.
 e:count=happy
 
 Behind him was the chauffeur carrying a basket of champagne.
-n:chauffeur=Henry
+
 
 “Where should I have him put it, sir?” asked the count.
 s=count
@@ -3416,7 +3416,7 @@ I found some ashtrays and spread them around.
 s=none
 
 The chauffeur came up with a bucket full of salted ice.
-
+n:chauffeur=Henry the Chauffeur
 
 “Put two bottles in it, Henry,” the count called.
 s=count
