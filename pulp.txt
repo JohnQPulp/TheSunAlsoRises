@@ -6652,3 +6652,609 @@ After supper we went upstairs and smoked and read in bed to keep warm.
 Once in the night I woke and heard the wind blowing. It felt good to be warm and in bed.
 
 
+### Chapter XII
+r=title
+
+When I woke in the morning I went to the window and looked out.
+
+
+It had cleared and there were no clouds on the mountains.
+
+
+Outside under the window were some carts and an old diligence, the wood of the roof cracked and split by the weather.
+
+
+It must have been left from the days before the motorbuses.
+
+
+A goat hopped up on one of the carts and then to the roof of the diligence.
+
+
+He jerked his head at the other goats below and when I waved at him he bounded down.
+
+
+Bill was still sleeping, so I dressed, put on my shoes outside in the hall, and went downstairs.
+
+
+No one was stirring downstairs, so I unbolted the door and went out.
+
+
+It was cool outside in the early morning and the sun had not yet dried the dew that had come when the wind died down.
+
+
+I hunted around in the shed behind the inn and found a sort of mattock, and went down toward the stream to try and dig some worms for bait.
+
+
+The stream was clear and shallow but it did not look trouty.
+
+
+On the grassy bank where it was damp I drove the mattock into the earth and loosened a chunk of sod.
+
+
+There were worms underneath.
+
+
+They slid out of sight as I lifted the sod and I dug carefully and got a good many.
+
+
+Digging at the edge of the damp ground I filled two empty tobacco-tins with worms and sifted dirt onto them.
+
+
+The goats watched me dig.
+
+
+When I went back into the inn the woman was down in the kitchen, and I asked her to get coffee for us, and that we wanted a lunch.
+
+
+Bill was awake and sitting on the edge of the bed.
+s=none;e:bill=neutral
+
+“I saw you out of the window,” he said.
+s=bill
+
+“Didn’t want to interrupt you. What were you doing? Burying your money?”
+e:bill=smirking
+
+“You lazy bum!”
+s=jake;e:jake=happy
+
+“Been working for the common good? Splendid. I want you to do that every morning.”
+s=bill
+
+“Come on,” I said. “Get up.”
+s=jake
+
+“What? Get up? I never get up.”
+s=bill;e:bill=serious
+
+He climbed into bed and pulled the sheet up to his chin.
+s=none
+
+“Try and argue me into getting up.”
+s=bill;e:bill=smirking
+
+I went on looking for the tackle and putting it all together in the tackle-bag.
+s=none
+
+“Aren’t you interested?” Bill asked.
+s=bill;e:bill=neutral
+
+“I’m going down and eat.”
+s=jake;e:jake=neutral
+
+“Eat? Why didn’t you say eat? I thought you just wanted me to get up for fun. Eat? Fine. Now you’re reasonable.”
+s=bill;e:bill=excited
+
+“You go out and dig some more worms and I’ll be right down.”
+
+
+“Oh, go to hell!”
+s=jake;e:jake=happy
+
+“Work for the good of all.”
+s=bill;e:bill=serious
+
+Bill stepped into his underclothes.
+s=none
+
+“Show irony and pity.”
+s=bill
+
+I started out of the room with the tackle-bag, the nets, and the rod-case.
+s=none
+
+“Hey! come back!”
+s=bill
+
+I put my head in the door.
+s=none
+
+“Aren’t you going to show a little irony and pity?”
+s=bill;e:bill=smirking
+
+I thumbed my nose.
+s=none
+
+“That’s not irony.”
+s=bill
+
+As I went downstairs I heard Bill singing, “Irony and Pity. When you’re feeling… Oh, Give them Irony and Give them Pity. Oh, give them Irony. When they’re feeling… Just a little irony. Just a little pity…”
+s=none
+
+He kept on singing until he came downstairs. The tune was: “The Bells Are Ringing for Me and My Gal.”
+
+
+I was reading a week-old Spanish paper.
+
+
+“What’s all this irony and pity?”
+s=jake;e:jake=amused
+
+“What? Don’t you know about Irony and Pity?”
+s=bill;e:bill=surprised
+
+“No. Who got it up?”
+s=jake
+
+“Everybody. They’re mad about it in New York.”
+s=bill;e:bill=excited
+
+“It’s just like the Fratellinis used to be.”
+
+
+The girl came in with the coffee and buttered toast. Or, rather, it was bread toasted and buttered.
+s=none;n:girl=Girl
+
+“Ask her if she’s got any jam,” Bill said. “Be ironical with her.”
+s=bill;e:bill=smirking
+
+“Have you got any jam?”
+s=jake
+
+“That’s not ironical. I wish I could talk Spanish.”
+s=bill;e:bill=unhappy
+
+The coffee was good and we drank it out of big bowls. The girl brought in a glass dish of raspberry jam.
+s=none
+
+“Thank you.”
+s=jake
+
+“Hey! that’s not the way,” Bill said. “Say something ironical. Make some crack about Primo de Rivera.”
+s=bill;e:bill=excited
+
+“I could ask her what kind of a jam they think they’ve gotten into in the Riff.”
+s=jake;e:jake=thinking
+
+“Poor,” said Bill. “Very poor. You can’t do it. That’s all. You don’t understand irony. You have no pity. Say something pitiful.”
+s=bill;e:bill=serious
+
+“Robert Cohn.”
+s=jake;e:jake=neutral
+
+“Not so bad. That’s better. Now why is Cohn pitiful? Be ironic.”
+s=bill
+
+He took a big gulp of coffee.
+s=none
+
+“Aw, hell!” I said. “It’s too early in the morning.”
+s=jake;e:jake=weary
+
+“There you go. And you claim you want to be a writer, too. You’re only a newspaper man. An expatriated newspaper man.”
+s=bill;e:bill=smirking
+
+“You ought to be ironical the minute you get out of bed.”
+
+
+“You ought to wake up with your mouth full of pity.”
+
+
+“Go on,” I said. “Who did you get this stuff from?”
+s=jake;e:jake=amused
+
+“Everybody. Don’t you read? Don’t you ever see anybody? You know what you are? You’re an expatriate. Why don’t you live in New York? Then you’d know these things. What do you want me to do? Come over here and tell you every year?”
+s=bill;e:bill=excited
+
+“Take some more coffee,” I said.
+s=jake;e:jake=happy
+
+“Good. Coffee is good for you. It’s the caffeine in it. Caffeine, we are here. Caffeine puts a man on her horse and a woman in his grave.”
+s=bill
+
+“You know what’s the trouble with you? You’re an expatriate. One of the worst type. Haven’t you heard that? Nobody that ever left their own country ever wrote anything worth printing. Not even in the newspapers.”
+
+
+He drank the coffee.
+s=none
+
+“You’re an expatriate. You’ve lost touch with the soil. You get precious. Fake European standards have ruined you. You drink yourself to death. You become obsessed by sex. You spend all your time talking, not working. You are an expatriate, see? You hang around cafés.”
+s=bill
+
+“It sounds like a swell life,” I said. “When do I work?”
+s=jake;e:jake=amused
+
+“You don’t work. One group claims women support you. Another group claims you’re impotent.”
+s=bill;e:bill=smirking
+
+“No,” I said. “I just had an accident.”
+s=jake;e:jake=neutral
+
+“Never mention that,” Bill said. “That’s the sort of thing that can’t be spoken of. That’s what you ought to work up into a mystery. Like Henry’s bicycle.”
+s=bill;e:bill=serious
+
+He had been going splendidly, but he stopped.
+s=none
+
+I was afraid he thought he had hurt me with that crack about being impotent.
+e:jake=wary
+
+I wanted to start him again.
+
+
+“It wasn’t a bicycle,” I said. “He was riding horseback.”
+s=jake;e:jake=neutral
+
+“I heard it was a tricycle.”
+s=bill;e:bill=nervous
+
+“Well,” I said. “A plane is sort of like a tricycle. The joystick works the same way.”
+s=jake
+
+“But you don’t pedal it.”
+s=bill
+
+“No,” I said, “I guess you don’t pedal it.”
+s=jake
+
+“Let’s lay off that,” Bill said.
+s=bill;e:bill=serious
+
+“All right. I was just standing up for the tricycle.”
+s=jake
+
+“I think he’s a good writer, too,” Bill said.
+s=bill;e:bill=neutral
+
+“And you’re a hell of a good guy. Anybody ever tell you you were a good guy?”
+
+
+“I’m not a good guy.”
+s=jake
+
+“Listen. You’re a hell of a good guy, and I’m fonder of you than anybody on earth. I couldn’t tell you that in New York. It’d mean I was a faggot.”
+s=bill;e:bill=happy
+
+“That was what the Civil War was about. Abraham Lincoln was a faggot. He was in love with General Grant. So was Jefferson Davis. Lincoln just freed the slaves on a bet. The Dred Scott case was framed by the Anti-Saloon League. Sex explains it all. The Colonel’s Lady and Judy O’Grady are lesbians under their skin.”
+
+
+He stopped.
+s=none
+
+“Want to hear some more?”
+s=bill;e:bill=smirking
+
+“Shoot,” I said.
+s=jake;e:jake=happy
+
+“I don’t know any more. Tell you some more at lunch.”
+s=bill
+
+“Old Bill,” I said.
+s=jake
+
+“You bum!”
+s=bill
+
+We packed the lunch and two bottles of wine in the rucksack, and Bill put it on.
+s=none;e:bill=neutral;e:jake=neutral
+
+I carried the rod-case and the landing-nets slung over my back.
+
+
+We started up the road and then went across a meadow and found a path that crossed the fields and went toward the woods on the slope of the first hill.
+
+
+We walked across the fields on the sandy path. The fields were rolling and grassy and the grass was short from the sheep grazing. The cattle were up in the hills. We heard their bells in the woods.
+
+
+The path crossed a stream on a foot-log.
+
+
+The log was surfaced off, and there was a sapling bent across for a rail.
+
+
+In the flat pool beside the stream tadpoles spotted the sand.
+
+
+We went up a steep bank and across the rolling fields.
+
+
+Looking back we saw Burguete, white houses and red roofs, and the white road with a truck going along it and the dust rising.
+
+
+Beyond the fields we crossed another faster-flowing stream.
+
+
+A sandy road led down to the ford and beyond into the woods.
+
+
+The path crossed the stream on another foot-log below the ford, and joined the road, and we went into the woods.
+
+
+It was a beech wood and the trees were very old.
+
+
+Their roots bulked above the ground and the branches were twisted.
+
+
+We walked on the road between the thick trunks of the old beeches and the sunlight came through the leaves in light patches on the grass.
+
+
+The trees were big, and the foliage was thick but it was not gloomy.
+
+
+There was no undergrowth, only the smooth grass, very green and fresh, and the big gray trees well spaced as though it were a park.
+
+
+“This is country,” Bill said.
+s=bill;e:bill=happy
+
+The road went up a hill and we got into thick woods, and the road kept on climbing.
+s=
+
+Sometimes it dipped down but rose again steeply. All the time we heard the cattle in the woods.
+
+
+Finally, the road came out on the top of the hills.
+
+
+We were on the top of the height of land that was the highest part of the range of wooded hills we had seen from Burguete.
+
+
+There were wild strawberries growing on the sunny side of the ridge in a little clearing in the trees.
+
+
+Ahead the road came out of the forest and went along the shoulder of the ridge of hills.
+
+
+The hills ahead were not wooded, and there were great fields of yellow gorse.
+
+
+Way off we saw the steep bluffs, dark with trees and jutting with gray stone, that marked the course of the Irati River.
+
+
+“We have to follow this road along the ridge, cross these hills, go through the woods on the far hills, and come down to the Irati valley,” I pointed out to Bill.
+s=jake;e:jake=neutral
+
+“That’s a hell of a hike.”
+s=bill;e:bill=surprised
+
+“It’s too far to go and fish and come back the same day, comfortably.”
+s=jake
+
+“Comfortably. That’s a nice word.”
+s=bill;e:bill=smirking
+
+“We’ll have to go like hell to get there and back and have any fishing at all.”
+e:bill=serious
+
+It was a long walk and the country was very fine, but we were tired when we came down the steep road that led out of the wooded hills into the valley of the Rio de la Fabrica.
+s=
+
+The road came out from the shadow of the woods into the hot sun.
+
+
+Ahead was a river-valley. Beyond the river was a steep hill. There was a field of buckwheat on the hill.
+
+
+We saw a white house under some trees on the hillside.
+
+
+It was very hot and we stopped under some trees beside a dam that crossed the river.
+
+
+Bill put the pack against one of the trees and we jointed up the rods, put on the reels, tied on leaders, and got ready to fish.
+
+
+“You’re sure this thing has trout in it?” Bill asked.
+s=bill;e:bill=wary
+
+“It’s full of them.”
+s=jake;e:jake=happy
+
+“I’m going to fish a fly. You got any McGintys?”
+s=bill;e:bill=neutral
+
+“There’s some in there.”
+s=jake
+
+“You going to fish bait?”
+s=bill
+
+“Yeah. I’m going to fish the dam here.”
+s=jake
+
+“Well, I’ll take the fly-book, then.”
+s=bill
+
+He tied on a fly.
+s=none
+
+“Where’d I better go? Up or down?”
+s=bill;e:bill=thinking
+
+“Down is the best. They’re plenty up above, too.”
+s=jake
+
+Bill went down the bank.
+s=none
+
+“Take a worm can.”
+s=jake
+
+“No, I don’t want one. If they won’t take a fly I’ll just flick it around.”
+s=bill
+
+Bill was down below watching the stream.
+s=none
+
+“Say,” he called up against the noise of the dam.
+s=bill
+
+“How about putting the wine in that spring up the road?”
+
+
+“All right,” I shouted.
+s=jake
+
+Bill waved his hand and started down the stream.
+s=none
+
+I found the two wine-bottles in the pack, and carried them up the road to where the water of a spring flowed out of an iron pipe.
+
+
+There was a board over the spring and I lifted it and, knocking the corks firmly into the bottles, lowered them down into the water.
+
+
+It was so cold my hand and wrist felt numbed.
+
+
+I put back the slab of wood, and hoped nobody would find the wine.
+
+
+I got my rod that was leaning against the tree, took the bait-can and landing-net, and walked out onto the dam.
+
+
+It was built to provide a head of water for driving logs.
+
+
+The gate was up, and I sat on one of the squared timbers and watched the smooth apron of water before the river tumbled into the falls.
+
+
+In the white water at the foot of the dam it was deep.
+
+
+As I baited up, a trout shot up out of the white water into the falls and was carried down.
+
+
+Before I could finish baiting, another trout jumped at the falls, making the same lovely arc and disappearing into the water that was thundering down.
+
+
+I put on a good-sized sinker and dropped into the white water close to the edge of the timbers of the dam.
+
+
+I did not feel the first trout strike.
+
+
+When I started to pull up I felt that I had one and brought him, fighting and bending the rod almost double, out of the boiling water at the foot of the falls, and swung him up and onto the dam.
+
+
+He was a good trout, and I banged his head against the timber so that he quivered out straight, and then slipped him into my bag.
+
+
+While I had him on, several trout had jumped at the falls.
+
+
+As soon as I baited up and dropped in again I hooked another and brought him in the same way.
+
+
+In a little while I had six. They were all about the same size.
+
+
+I laid them out, side by side, all their heads pointing the same way, and looked at them.
+
+
+They were beautifully colored and firm and hard from the cold water.
+
+
+It was a hot day, so I slit them all and shucked out the insides, gills and all, and tossed them over across the river.
+
+
+I took the trout ashore, washed them in the cold, smoothly heavy water above the dam, and then picked some ferns and packed them all in the bag, three trout on a layer of ferns, then another layer of ferns, then three more trout, and then covered them with ferns.
+
+
+They looked nice in the ferns, and now the bag was bulky, and I put it in the shade of the tree.
+
+
+It was very hot on the dam, so I put my worm-can in the shade with the bag, and got a book out of the pack and settled down under the tree to read until Bill should come up for lunch.
+
+
+It was a little past noon and there was not much shade, but I sat against the trunk of two of the trees that grew together, and read.
+
+
+The book was something by A. E. W. Mason, and I was reading a wonderful story about a man who had been frozen in the Alps and then fallen into a glacier and disappeared, and his bride was going to wait twenty-four years exactly for his body to come out on the moraine, while her true love waited too, and they were still waiting when Bill came up.
+
+
+“Get any?” he asked.
+s=bill;e:bill=happy
+
+He had his rod and his bag and his net all in one hand, and he was sweating.
+s=none
+
+I hadn’t heard him come up, because of the noise from the dam.
+e:jake=surprised
+
+“Six. What did you get?”
+s=jake;e:jake=happy
+
+Bill sat down, opened up his bag, laid a big trout on the grass.
+s=none;e:bill=excited
+
+He took out three more, each one a little bigger than the last, and laid them side by side in the shade from the tree.
+
+
+His face was sweaty and happy.
+e:bill=happy
+
+“How are yours?”
+s=bill
+
+“Smaller.”
+s=jake;e:jake=neutral
+
+“Let’s see them.”
+s=bill
+
+“They’re packed.”
+s=jake
+
+“How big are they really?”
+s=bill
+
+“They’re all about the size of your smallest.”
+s=jake
+
+“You’re not holding out on me?”
+s=bill;e:bill=suspicious
+
+“I wish I were.”
+s=jake
+
+“Get them all on worms?”
+s=bill;e:bill=happy
+
+“Yes.”
+s=jake
+
+“You lazy bum!”
+s=bill;e:bill=excited
+
+Bill put the trout in the bag and started for the river, swinging the open bag.
+s=none
+
+He was wet from the waist down and I knew he must have been wading the stream.
+
+
+I walked up the road and got out the two bottles of wine. They were cold.
+
+
+Moisture beaded on the bottles as I walked back to the trees.
+
+
+I spread the lunch on a newspaper, and uncorked one of the bottles and leaned the other against a tree.
+
+
+Bill came up drying his hands, his bag plump with ferns.
+
+
