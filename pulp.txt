@@ -14395,3 +14395,1451 @@ s=none;e:jake=unhappy
 ## Book III
 
 
+### Chapter XIX
+r=title
+
+In the morning it was all over. The fiesta was finished.
+
+
+I woke about nine o’clock, had a bath, dressed, and went downstairs.
+e:jake=weary
+
+The square was empty and there were no people on the streets.
+
+
+A few children were picking up rocket-sticks in the square.
+
+
+The cafés were just opening and the waiters were carrying out the comfortable white wicker chairs and arranging them around the marble-topped tables in the shade of the arcade.
+
+
+They were sweeping the streets and sprinkling them with a hose.
+
+
+I sat in one of the wicker chairs and leaned back comfortably. The waiter was in no hurry to come.
+
+
+The white-paper announcements of the unloading of the bulls and the big schedules of special trains were still up on the pillars of the arcade.
+
+
+A waiter wearing a blue apron came out with a bucket of water and a cloth, and commenced to tear down the notices, pulling the paper off in strips and washing and rubbing away the paper that stuck to the stone.
+
+
+The fiesta was over.
+e:jake=contemplative
+
+I drank a coffee and after a while Bill came over.
+
+
+I watched him come walking across the square. He sat down at the table and ordered a coffee.
+e:jake=neutral;e:bill=neutral
+
+“Well,” he said, “it’s all over.”
+s=bill;e:bill=weary
+
+“Yes,” I said. “When do you go?”
+s=jake
+
+“I don’t know. We better get a car, I think. Aren’t you going back to Paris?”
+s=bill;e:bill=thinking
+
+“No. I can stay away another week. I think I’ll go to San Sebastian.”
+s=jake
+
+“I want to get back.”
+s=bill;e:bill=neutral
+
+“What’s Mike going to do?”
+s=jake
+
+“He’s going to Saint Jean de Luz.”
+s=bill
+
+“Let’s get a car and all go as far as Bayonne. You can get the train up from there tonight.”
+s=jake
+
+“Good. Let’s go after lunch.”
+s=bill;e:bill=happy
+
+“All right. I’ll get the car.”
+s=jake
+
+We had lunch and paid the bill.
+s=none
+
+Montoya did not come near us. One of the maids brought the bill. The car was outside.
+
+
+The chauffeur piled and strapped the bags on top of the car and put them in beside him in the front seat and we got in.
+
+
+The car went out of the square, along through the side streets, out under the trees and down the hill and away from Pamplona.
+
+
+It did not seem like a very long ride. Mike had a bottle of Fundador.
+
+
+I only took a couple of drinks. We came over the mountains and out of Spain and down the white roads and through the overfoliaged, wet, green, Basque country, and finally into Bayonne.
+
+
+We left Bill’s baggage at the station, and he bought a ticket to Paris. His train left at seven-ten.
+
+
+We came out of the station. The car was standing out in front.
+
+
+“What shall we do about the car?”
+s=bill
+
+Bill asked.
+s=none
+
+“Oh, bother the car,” Mike said. “Let’s just keep the car with us.”
+s=mike;e:mike=neutral
+
+“All right,” Bill said.
+s=bill
+
+“Where shall we go?”
+
+
+“Let’s go to Biarritz and have a drink.”
+s=mike;e:mike=happy
+
+“Old Mike the spender,” Bill said.
+s=bill;e:bill=smirking
+
+We drove in to Biarritz and left the car outside a very Ritz place.
+s=none
+
+We went into the bar and sat on high stools and drank a whiskey and soda.
+
+
+“That drink’s mine,” Mike said.
+s=mike
+
+“Let’s roll for it.”
+
+
+So we rolled poker dice out of a deep leather dice-cup.
+s=none
+
+Bill was out first roll. Mike lost to me and handed the bartender a hundred-franc note.
+
+
+The whiskeys were twelve francs apiece. We had another round and Mike lost again.
+
+
+Each time he gave the bartender a good tip. In a room off the bar there was a good jazz band playing.
+
+
+It was a pleasant bar. We had another round. I went out on the first roll with four kings.
+e:jake=happy
+
+Bill and Mike rolled. Mike won the first roll with four jacks. Bill won the second.
+
+
+On the final roll Mike had three kings and let them stay. He handed the dice-cup to Bill.
+
+
+Bill rattled them and rolled, and there were three kings, an ace, and a queen.
+
+
+“It’s yours, Mike,” Bill said.
+s=bill;e:bill=happy
+
+“Old Mike, the gambler.”
+
+
+“I’m so sorry,” Mike said. “I can’t get it.”
+s=mike;e:mike=unhappy
+
+“What’s the matter?”
+s=bill;e:bill=confused
+
+“I’ve no money,” Mike said. “I’m stony. I’ve just twenty francs. Here, take twenty francs.”
+s=mike
+
+Bill’s face sort of changed.
+s=none;e:bill=surprised
+
+“I just had enough to pay Montoya. Damned lucky to have it, too.”
+s=mike
+
+“I’ll cash you a check,” Bill said.
+s=bill;e:bill=serious
+
+“That’s damned nice of you, but you see I can’t write checks.”
+s=mike;e:mike=nervous
+
+“What are you going to do for money?”
+s=bill
+
+“Oh, some will come through. I’ve two weeks allowance should be here. I can live on tick at this pub in Saint Jean.”
+s=mike;e:mike=neutral
+
+“What do you want to do about the car?” Bill asked me. “Do you want to keep it on?”
+s=bill
+
+“It doesn’t make any difference. Seems sort of idiotic.”
+s=jake;e:jake=neutral
+
+“Come on, let’s have another drink,” Mike said.
+s=mike;e:mike=happy
+
+“Fine. This one is on me,” Bill said. “Has Brett any money?”
+s=bill;e:bill=thinking
+
+He turned to Mike.
+s=none
+
+“I shouldn’t think so. She put up most of what I gave to old Montoya.”
+s=mike;e:mike=neutral
+
+“She hasn’t any money with her?” I asked.
+s=jake;e:jake=neutral
+
+“I shouldn’t think so. She never has any money. She gets five hundred quid a year and pays three hundred and fifty of it in interest to Jews.”
+s=mike
+
+“I suppose they get it at the source,” said Bill.
+s=bill
+
+“Quite. They’re not really Jews. We just call them Jews. They’re Scotsmen, I believe.”
+s=mike
+
+“Hasn’t she any at all with her?” I asked.
+s=jake
+
+“I hardly think so. She gave it all to me when she left.”
+s=mike
+
+“Well,” Bill said, “we might as well have another drink.”
+s=bill
+
+“Damned good idea,” Mike said.
+s=mike
+
+“One never gets anywhere by discussing finances.”
+
+
+“No,” said Bill.
+s=bill
+
+Bill and I rolled for the next two rounds.
+s=none
+
+Bill lost and paid. We went out to the car.
+
+
+“Anywhere you’d like to go, Mike?” Bill asked.
+s=bill
+
+“Let’s take a drive. It might do my credit good. Let’s drive about a little.”
+s=mike;e:mike=smirking
+
+“Fine. I’d like to see the coast. Let’s drive down toward Hendaye.”
+s=bill;e:bill=happy
+
+“I haven’t any credit along the coast.”
+s=mike
+
+“You can’t ever tell,” said Bill.
+s=bill
+
+We drove out along the coast road.
+s=none
+
+There was the green of the headlands, the white, red-roofed villas, patches of forest, and the ocean very blue with the tide out and the water curling far out along the beach.
+
+
+We drove through Saint Jean de Luz and passed through villages farther down the coast.
+
+
+Back of the rolling country we were going through we saw the mountains we had come over from Pamplona.
+
+
+The road went on ahead. Bill looked at his watch. It was time for us to go back.
+
+
+He knocked on the glass and told the driver to turn around.
+
+
+The driver backed the car out into the grass to turn it.
+
+
+In back of us were the woods, below a stretch of meadow, then the sea.
+
+
+At the hotel where Mike was going to stay in Saint Jean we stopped the car and he got out.
+
+
+The chauffeur carried in his bags. Mike stood by the side of the car.
+
+
+“Goodbye, you chaps,” Mike said.
+s=mike;e:mike=neutral
+
+“It was a damned fine fiesta.”
+e:mike=happy
+
+“So long, Mike,” Bill said.
+s=bill
+
+“I’ll see you around,” I said.
+s=jake
+
+“Don’t worry about money,” Mike said. “You can pay for the car, Jake, and I’ll send you my share.”
+s=mike
+
+“So long, Mike.”
+s=jake
+
+“So long, you chaps. You’ve been damned nice.”
+s=mike
+
+We all shook hands.
+s=none
+
+We waved from the car to Mike. He stood in the road watching.
+
+
+We got to Bayonne just before the train left. A porter carried Bill’s bags in from the *consigne*.
+
+
+I went as far as the inner gate to the tracks.
+
+
+“So long, fella,” Bill said.
+s=bill;e:bill=happy
+
+“So long, kid!”
+s=jake
+
+“It was swell. I’ve had a swell time.”
+s=bill
+
+“Will you be in Paris?”
+s=jake
+
+“No, I have to sail on the 17th. So long, fella!”
+s=bill
+
+“So long, old kid!”
+s=jake
+
+He went in through the gate to the train. The porter went ahead with the bags.
+s=none
+
+I watched the train pull out. Bill was at one of the windows.
+
+
+The window passed, the rest of the train passed, and the tracks were empty. I went outside to the car.
+e:jake=weary
+
+“How much do we owe you?” I asked the driver.
+s=jake
+
+The price to Bayonne had been fixed at a hundred and fifty pesetas.
+s=none
+
+“Two hundred pesetas.”
+n:driver=Driver;s=driver;e:driver=neutral
+
+“How much more will it be if you drive me to San Sebastian on your way back?”
+s=jake
+
+“Fifty pesetas.”
+s=driver
+
+“Don’t kid me.”
+s=jake;e:jake=scowling
+
+“Thirty-five pesetas.”
+s=driver
+
+“It’s not worth it,” I said. “Drive me to the Hotel Panier Fleuri.”
+s=jake
+
+At the hotel I paid the driver and gave him a tip. The car was powdered with dust.
+s=none;e:jake=neutral
+
+I rubbed the rod-case through the dust. It seemed the last thing that connected me with Spain and the fiesta.
+e:jake=contemplative
+
+The driver put the car in gear and went down the street.
+
+
+I watched it turn off to take the road to Spain.
+
+
+I went into the hotel and they gave me a room.
+
+
+It was the same room I had slept in when Bill and Cohn and I were in Bayonne.
+
+
+That seemed a very long time ago. I washed, changed my shirt, and went out in the town.
+
+
+At a newspaper kiosk I bought a copy of the New York *Herald* and sat in a café to read it.
+
+
+It felt strange to be in France again. There was a safe, suburban feeling.
+
+
+I wished I had gone up to Paris with Bill, except that Paris would have meant more fiesta-ing.
+
+
+I was through with fiestas for a while. It would be quiet in San Sebastian.
+
+
+The season does not open there until August. I could get a good hotel room and read and swim.
+e:jake=neutral
+
+There was a fine beach there. There were wonderful trees along the promenade above the beach, and there were many children sent down with their nurses before the season opened.
+
+
+In the evening there would be band concerts under the trees across from the Café Marinas.
+
+
+I could sit in the Marinas and listen.
+
+
+“How does one eat inside?” I asked the waiter.
+n:waiter=Waiter;s=jake
+
+Inside the café was a restaurant.
+s=none
+
+“Well. Very well. One eats very well.”
+s=waiter;e:waiter=happy
+
+“Good.”
+s=jake
+
+I went in and ate dinner.
+s=none
+
+It was a big meal for France but it seemed very carefully apportioned after Spain.
+
+
+I drank a bottle of wine for company. It was a Château Margaux.
+
+
+It was pleasant to be drinking slowly and to be tasting the wine and to be drinking alone.
+e:jake=happy
+
+A bottle of wine was good company. Afterward I had coffee. The waiter recommended a Basque liqueur called Izzarra.
+
+
+He brought in the bottle and poured a liqueur-glass full.
+
+
+He said Izzarra was made of the flowers of the Pyrenees. The veritable flowers of the Pyrenees.
+
+
+It looked like hair-oil and smelled like Italian *strega*. I told him to take the flowers of the Pyrenees away and bring me a *vieux marc*.
+
+
+The *marc* was good. I had a second *marc* after the coffee.
+
+
+The waiter seemed a little offended about the flowers of the Pyrenees, so I overtipped him. That made him happy.
+e:waiter=neutral
+
+It felt comfortable to be in a country where it is so simple to make people happy.
+e:jake=contemplative
+
+You can never tell whether a Spanish waiter will thank you.
+
+
+Everything is on such a clear financial basis in France.
+
+
+It is the simplest country to live in. No one makes things complicated by becoming your friend for any obscure reason.
+
+
+If you want people to like you you have only to spend a little money.
+
+
+I spent a little money and the waiter liked me. He appreciated my valuable qualities.
+
+
+He would be glad to see me back. I would dine there again some time and he would be glad to see me, and would want me at his table.
+
+
+It would be a sincere liking because it would have a sound basis. I was back in France.
+
+
+Next morning I tipped everyone a little too much at the hotel to make more friends, and left on the morning train for San Sebastian.
+e:jake=neutral
+
+At the station I did not tip the porter more than I should because I did not think I would ever see him again.
+
+
+I only wanted a few good French friends in Bayonne to make me welcome in case I should come back there again.
+
+
+I knew that if they remembered me their friendship would be loyal.
+
+
+At Irun we had to change trains and show passports. I hated to leave France.
+e:jake=unhappy
+
+Life was so simple in France. I felt I was a fool to be going back into Spain.
+
+
+In Spain you could not tell about anything.
+
+
+I felt like a fool to be going back into it, but I stood in line with my passport, opened my bags for the customs, bought a ticket, went through a gate, climbed onto the train, and after forty minutes and eight tunnels I was at San Sebastian.
+
+
+Even on a hot day San Sebastian has a certain early-morning quality.
+e:jake=neutral
+
+The trees seem as though their leaves were never quite dry.
+
+
+The streets feel as though they had just been sprinkled.
+
+
+It is always cool and shady on certain streets on the hottest day.
+
+
+I went to a hotel in the town where I had stopped before, and they gave me a room with a balcony that opened out above the roofs of the town.
+
+
+There was a green mountainside beyond the roofs.
+
+
+I unpacked my bags and stacked my books on the table beside the head of the bed, put out my shaving things, hung up some clothes in the big armoire, and made up a bundle for the laundry.
+
+
+Then I took a shower in the bathroom and went down to lunch.
+
+
+Spain had not changed to summer time, so I was early. I set my watch again.
+
+
+I had recovered an hour by coming to San Sebastian.
+
+
+As I went into the dining-room the concierge brought me a police bulletin to fill out.
+
+
+I signed it and asked him for two telegraph forms, and wrote a message to the Hotel Montoya, telling them to forward all mail and telegrams for me to this address.
+
+
+I calculated how many days I would be in San Sebastian and then wrote out a wire to the office asking them to hold mail, but forward all wires for me to San Sebastian for six days.
+
+
+Then I went in and had lunch.
+
+
+After lunch I went up to my room, read a while, and went to sleep.
+
+
+When I woke it was half past four. I found my swimming-suit, wrapped it with a comb in a towel, and went downstairs and walked up the street to the Concha.
+
+
+The tide was about halfway out. The beach was smooth and firm, and the sand yellow.
+
+
+I went into a bathing-cabin, undressed, put on my suit, and walked across the smooth sand to the sea.
+
+
+The sand was warm under bare feet. There were quite a few people in the water and on the beach.
+
+
+Out beyond where the headlands of the Concha almost met to form the harbor there was a white line of breakers and the open sea.
+
+
+Although the tide was going out, there were a few slow rollers.
+
+
+They came in like undulations in the water, gathered weight of water, and then broke smoothly on the warm sand.
+
+
+I waded out. The water was cold. As a roller came I dove, swam out under water, and came to the surface with all the chill gone.
+
+
+I swam out to the raft, pulled myself up, and lay on the hot planks.
+
+
+A boy and girl were at the other end. The girl had undone the top strap of her bathing-suit and was browning her back.
+
+
+The boy lay face downward on the raft and talked to her.
+
+
+She laughed at things he said, and turned her brown back in the sun.
+
+
+I lay on the raft in the sun until I was dry. Then I tried several dives.
+
+
+I dove deep once, swimming down to the bottom. I swam with my eyes open and it was green and dark.
+
+
+The raft made a dark shadow. I came out of water beside the raft, pulled up, dove once more, holding it for length, and then swam ashore.
+
+
+I lay on the beach until I was dry, then went into the bathing-cabin, took off my suit, sloshed myself with fresh water, and rubbed dry.
+
+
+I walked around the harbor under the trees to the casino, and then up one of the cool streets to the Café Marinas.
+
+
+There was an orchestra playing inside the café and I sat out on the terrace and enjoyed the fresh coolness in the hot day, and had a glass of lemon-juice and shaved ice and then a long whiskey and soda.
+
+
+I sat in front of the Marinas for a long time and read and watched the people, and listened to the music.
+
+
+Later when it began to get dark, I walked around the harbor and out along the promenade, and finally back to the hotel for supper.
+
+
+There was a bicycle-race on, the Tour du Pays Basque, and the riders were stopping that night in San Sebastian.
+
+
+In the dining-room, at one side, there was a long table of bicycle-riders, eating with their trainers and managers.
+
+
+They were all French and Belgians, and paid close attention to their meal, but they were having a good time.
+
+
+At the head of the table were two good-looking French girls, with much Rue du Faubourg Montmartre chic.
+
+
+I could not make out whom they belonged to.
+
+
+They all spoke in slang at the long table and there were many private jokes and some jokes at the far end that were not repeated when the girls asked to hear them.
+
+
+The next morning at five o’clock the race resumed with the last lap, San Sebastian﻿–﻿Bilbao.
+
+
+The bicycle-riders drank much wine, and were burned and browned by the sun.
+
+
+They did not take the race seriously except among themselves.
+
+
+They had raced among themselves so often that it did not make much difference who won.
+
+
+Especially in a foreign country. The money could be arranged.
+
+
+The man who had a matter of two minutes lead in the race had an attack of boils, which were very painful.
+
+
+He sat on the small of his back. His neck was very red and the blond hairs were sunburned.
+
+
+The other riders joked him about his boils. He tapped on the table with his fork.
+
+
+“Listen,” he said, “tomorrow my nose is so tight on the handlebars that the only thing touches those boils is a lovely breeze.”
+n:rider=Cyclist;s=rider;e:rider=happy
+
+One of the girls looked at him down the table, and he grinned and turned red.
+s=none
+
+The Spaniards, they said, did not know how to pedal.
+
+
+I had coffee out on the terrasse with the team manager of one of the big bicycle manufacturers.
+
+
+He said it had been a very pleasant race, and would have been worth watching if Bottechia had not abandoned it at Pamplona.
+
+
+The dust had been bad, but in Spain the roads were better than in France.
+
+
+Bicycle road-racing was the only sport in the world, he said. Had I ever followed the Tour de France?
+
+
+Only in the papers. The Tour de France was the greatest sporting event in the world.
+
+
+Following and organizing the road races had made him know France. Few people know France.
+
+
+All spring and all summer and all fall he spent on the road with bicycle road-racers.
+
+
+Look at the number of motorcars now that followed the riders from town to town in a road race.
+
+
+It was a rich country and more *sportif* every year. It would be the most *sportif* country in the world.
+
+
+It was bicycle road-racing did it. That and football. He knew France. *La France Sportive.* He knew road-racing.
+
+
+We had a cognac. After all, though, it wasn’t bad to get back to Paris. There is only one Paname.
+
+
+In all the world, that is. Paris is the town the most *sportif* in the world.
+
+
+Did I know the *Chope de Negre*? Did I not. I would see him there some time. I certainly would.
+
+
+We would drink another *fine* together. We certainly would. They started at six o’clock less a quarter in the morning.
+
+
+Would I be up for the depart? I would certainly try to. Would I like him to call me?
+
+
+It was very interesting. I would leave a call at the desk. He would not mind calling me.
+
+
+I could not let him take the trouble. I would leave a call at the desk.
+
+
+We said goodbye until the next morning.
+
+
+In the morning when I awoke the bicycle-riders and their following cars had been on the road for three hours.
+
+
+I had coffee and the papers in bed and then dressed and took my bathing-suit down to the beach.
+
+
+Everything was fresh and cool and damp in the early morning.
+
+
+Nurses in uniform and in peasant costume walked under the trees with children. The Spanish children were beautiful.
+
+
+Some bootblacks sat together under a tree talking to a soldier. The soldier had only one arm.
+
+
+The tide was in and there was a good breeze and a surf on the beach.
+
+
+I undressed in one of the bath-cabins, crossed the narrow line of beach and went into the water.
+
+
+I swam out, trying to swim through the rollers, but having to dive sometimes.
+
+
+Then in the quiet water I turned and floated. Floating I saw only the sky, and felt the drop and lift of the swells.
+e:jake=contemplative
+
+I swam back to the surf and coasted in, face down, on a big roller, then turned and swam, trying to keep in the trough and not have a wave break over me.
+
+
+It made me tired, swimming in the trough, and I turned and swam out to the raft.
+e:jake=weary
+
+The water was buoyant and cold. It felt as though you could never sink.
+
+
+I swam slowly, it seemed like a long swim with the high tide, and then pulled up on the raft and sat, dripping, on the boards that were becoming hot in the sun.
+
+
+I looked around at the bay, the old town, the casino, the line of trees along the promenade, and the big hotels with their white porches and gold-lettered names.
+
+
+Off on the right, almost closing the harbor, was a green hill with a castle.
+
+
+The raft rocked with the motion of the water. On the other side of the narrow gap that led into the open sea was another high headland.
+
+
+I thought I would like to swim across the bay but I was afraid of cramp.
+
+
+I sat in the sun and watched the bathers on the beach. They looked very small.
+
+
+After a while I stood up, gripped with my toes on the edge of the raft as it tipped with my weight, and dove cleanly and deeply, to come up through the lightening water, blew the salt water out of my head, and swam slowly and steadily in to shore.
+
+
+After I was dressed and had paid for the bath-cabin, I walked back to the hotel.
+e:jake=neutral
+
+The bicycle-racers had left several copies of *L’Auto* around, and I gathered them up in the reading-room and took them out and sat in an easy chair in the sun to read about and catch up on French sporting life.
+
+
+While I was sitting there the concierge came out with a blue envelope in his hand.
+
+
+“A telegram for you, sir.”
+s=concierge;e:concierge=neutral
+
+I poked my finger along under the fold that was fastened down, spread it open, and read it.
+s=none
+
+It had been forwarded from Paris:
+
+
+Could you come Hotel Montana Madrid am rather in trouble Brett.
+
+
+I tipped the concierge and read the message again. A postman was coming along the sidewalk.
+e:jake=thinking
+
+He turned in the hotel. He had a big moustache and looked very military.
+
+
+He came out of the hotel again. The concierge was just behind him.
+
+
+“Here’s another telegram for you, sir.”
+s=concierge
+
+“Thank you,” I said.
+s=jake
+
+I opened it. It was forwarded from Pamplona.
+s=none
+
+Could you come Hotel Montana Madrid am rather in trouble Brett.
+
+
+The concierge stood there waiting for another tip, probably.
+
+
+“What time is there a train for Madrid?”
+s=jake
+
+“It left at nine this morning. There is a slow train at eleven, and the Sud Express at ten tonight.”
+s=concierge
+
+“Get me a berth on the Sud Express. Do you want the money now?”
+s=jake
+
+“Just as you wish,” he said.
+s=concierge;e:concierge=happy
+
+“I will have it put on the bill.”
+s=jake
+
+“Do that.”
+s=concierge
+
+Well, that meant San Sebastian all shot to hell.
+s=none;e:jake=unhappy
+
+I suppose, vaguely, I had expected something of the sort. I saw the concierge standing in the doorway.
+e:jake=weary
+
+“Bring me a telegram form, please.”
+s=jake
+
+He brought it and I took out my fountain-pen and printed:
+s=none
+
+Lady Ashley Hotel Montana Madrid arriving Sud Express tomorrow love Jake.
+
+
+That seemed to handle it. That was it. Send a girl off with one man.
+e:jake=scowling
+
+Introduce her to another to go off with him. Now go and bring her back.
+
+
+And sign the wire with love. That was it all right. I went in to lunch.
+
+
+I did not sleep much that night on the Sud Express.
+
+
+In the morning I had breakfast in the dining-car and watched the rock and pine country between Avila and Escorial.
+
+
+I saw the Escorial out of the window, gray and long and cold in the sun, and did not give a damn about it.
+e:jake=unhappy
+
+I saw Madrid come up over the plain, a compact white skyline on the top of a little cliff away off across the sun-hardened country.
+
+
+The Norte station in Madrid is the end of the line. All trains finish there. They don’t go on anywhere.
+e:jake=neutral
+
+Outside were cabs and taxis and a line of hotel runners. It was like a country town.
+
+
+I took a taxi and we climbed up through the gardens, by the empty palace and the unfinished church on the edge of the cliff, and on up until we were in the high, hot, modern town.
+
+
+The taxi coasted down a smooth street to the Puerta del Sol, and then through the traffic and out into the Carrera San Jeronimo.
+
+
+All the shops had their awnings down against the heat.
+
+
+The windows on the sunny side of the street were shuttered. The taxi stopped at the curb.
+
+
+I saw the sign **Hotel Montana** on the second floor.
+
+
+The taxi-driver carried the bags in and left them by the elevator.
+
+
+I could not make the elevator work, so I walked up.
+
+
+On the second floor up was a cut brass sign: **Hotel Montana**.
+
+
+I rang and no one came to the door. I rang again and a maid with a sullen face opened the door.
+
+
+“Is Lady Ashley here?” I asked.
+s=jake
+
+She looked at me dully.
+s=none;n:maid=Maid;e:maid=neutral
+
+“Is an Englishwoman here?”
+s=jake
+
+She turned and called someone inside. A very fat woman came to the door.
+s=none
+
+Her hair was gray and stiffly oiled in scallops around her face. She was short and commanding.
+n:landlady2=Innkeeper;e:landlady2=serious
+
+“*Muy buenos*,” I said. “Is there an Englishwoman here? I would like to see this English lady.”
+s=jake;e:jake=neutral
+
+“*Muy buenos.* Yes, there is a female English. Certainly you can see her if she wishes to see you.”
+s=landlady2
+
+“She wishes to see me.”
+s=jake
+
+“The chica will ask her.”
+s=landlady2
+
+“It is very hot.”
+s=jake
+
+“It is very hot in the summer in Madrid.”
+s=landlady2
+
+“And how cold in winter.”
+s=jake
+
+“Yes, it is very cold in winter.”
+s=landlady2
+
+Did I want to stay myself in person in the Hotel Montana?
+s=none
+
+Of that as yet I was undecided, but it would give me pleasure if my bags were brought up from the ground floor in order that they might not be stolen.
+
+
+Nothing was ever stolen in the Hotel Montana. In other *fondas*, yes. Not here.
+
+
+No. The personages of this establishment were rigidly selectioned. I was happy to hear it.
+
+
+Nevertheless I would welcome the upbringal of my bags.
+
+
+The maid came in and said that the female English wanted to see the male English now, at once.
+
+
+“Good,” I said. “You see. It is as I said.”
+s=jake
+
+“Clearly.”
+s=landlady2
+
+I followed the maid’s back down a long, dark corridor. At the end she knocked on a door.
+s=none
+
+“Hello,” said Brett. “Is it you, Jake?”
+s=brett;e:brett=nervous
+
+“It’s me.”
+s=jake
+
+“Come in. Come in.”
+s=brett
+
+I opened the door.
+s=none
+
+The maid closed it after me. Brett was in bed.
+e:brett=neutral
+
+She had just been brushing her hair and held the brush in her hand.
+
+
+The room was in that disorder produced only by those who have always had servants.
+
+
+“Darling!” Brett said.
+s=brett;e:brett=unhappy
+
+I went over to the bed and put my arms around her.
+s=none
+
+She kissed me, and while she kissed me I could feel she was thinking of something else.
+
+
+She was trembling in my arms. She felt very small.
+
+
+“Darling! I’ve had such a hell of a time.”
+s=brett
+
+“Tell me about it.”
+s=jake;e:jake=serious
+
+“Nothing to tell. He only left yesterday. I made him go.”
+s=brett
+
+“Why didn’t you keep him?”
+s=jake
+
+“I don’t know. It isn’t the sort of thing one does. I don’t think I hurt him any.”
+s=brett;e:brett=contemplative
+
+“You were probably damn good for him.”
+s=jake
+
+“He shouldn’t be living with anyone. I realized that right away.”
+s=brett
+
+“No.”
+s=jake
+
+“Oh, hell!” she said, “let’s not talk about it. Let’s never talk about it.”
+s=brett;e:brett=serious
+
+“All right.”
+s=jake
+
+“It was rather a knock his being ashamed of me. He was ashamed of me for a while, you know.”
+s=brett;e:brett=unhappy
+
+“No.”
+s=jake;e:jake=surprised
+
+“Oh, yes. They ragged him about me at the café, I guess. He wanted me to grow my hair out. Me, with long hair. I’d look so like hell.”
+s=brett;e:brett=neutral
+
+“It’s funny.”
+s=jake;e:jake=neutral
+
+“He said it would make me more womanly. I’d look a fright.”
+s=brett
+
+“What happened?”
+s=jake
+
+“Oh, he got over that. He wasn’t ashamed of me long.”
+s=brett
+
+“What was it about being in trouble?”
+s=jake;e:jake=serious
+
+“I didn’t know whether I could make him go, and I didn’t have a sou to go away and leave him. He tried to give me a lot of money, you know. I told him I had scads of it.”
+s=brett
+
+“He knew that was a lie. I couldn’t take his money, you know.”
+
+
+“No.”
+s=jake
+
+“Oh, let’s not talk about it. There were some funny things, though. Do give me a cigarette.”
+s=brett;e:brett=nervous
+
+I lit the cigarette.
+s=none
+
+“He learned his English as a waiter in Gib.”
+s=brett;e:brett=neutral
+
+“Yes.”
+s=jake
+
+“He wanted to marry me, finally.”
+s=brett
+
+“Really?”
+s=jake;e:jake=surprised
+
+“Of course. I can’t even marry Mike.”
+s=brett
+
+“Maybe he thought that would make him Lord Ashley.”
+s=jake
+
+“No. It wasn’t that. He really wanted to marry me. So I couldn’t go away from him, he said. He wanted to make it sure I could never go away from him. After I’d gotten more womanly, of course.”
+s=brett
+
+“You ought to feel set up.”
+s=jake;e:jake=neutral
+
+“I do. I’m all right again. He’s wiped out that damned Cohn.”
+s=brett;e:brett=happy
+
+“Good.”
+s=jake
+
+“You know I’d have lived with him if I hadn’t seen it was bad for him. We got along damned well.”
+s=brett;e:brett=contemplative
+
+“Outside of your personal appearance.”
+s=jake;e:jake=smirking
+
+“Oh, he’d have gotten used to that.”
+s=brett
+
+She put out the cigarette.
+s=none;e:brett=serious
+
+“I’m thirty-four, you know. I’m not going to be one of these bitches that ruins children.”
+s=brett
+
+“No.”
+s=jake;e:jake=serious
+
+“I’m not going to be that way. I feel rather good, you know. I feel rather set up.”
+s=brett
+
+“Good.”
+s=jake
+
+She looked away. I thought she was looking for another cigarette. Then I saw she was crying.
+s=none;e:brett=crying
+
+I could feel her crying. Shaking and crying. She wouldn’t look up. I put my arms around her.
+e:jake=unhappy
+
+“Don’t let’s ever talk about it. Please don’t let’s ever talk about it.”
+s=brett
+
+“Dear Brett.”
+s=jake
+
+“I’m going back to Mike.”
+s=brett
+
+I could feel her crying as I held her close.
+s=none
+
+“He’s so damned nice and he’s so awful. He’s my sort of thing.”
+s=brett
+
+She would not look up.
+s=none
+
+I stroked her hair. I could feel her shaking.
+
+
+“I won’t be one of those bitches,” she said.
+s=brett
+
+“But, oh, Jake, please let’s never talk about it.”
+
+
+We left the Hotel Montana.
+s=none;e:brett=neutral;e:jake=neutral
+
+The woman who ran the hotel would not let me pay the bill. The bill had been paid.
+
+
+“Oh, well. Let it go,” Brett said. “It doesn’t matter now.”
+s=brett;e:brett=weary
+
+We rode in a taxi down to the Palace Hotel, left the bags, arranged for berths on the Sud Express for the night, and went into the bar of the hotel for a cocktail.
+s=none
+
+We sat on high stools at the bar while the barman shook the martinis in a large nickelled shaker.
+
+
+“It’s funny what a wonderful gentility you get in the bar of a big hotel,” I said.
+s=jake
+
+“Barmen and jockeys are the only people who are polite any more.”
+
+
+“No matter how vulgar a hotel is, the bar is always nice.”
+s=brett;e:brett=happy
+
+“It’s odd.”
+s=jake
+
+“Bartenders have always been fine.”
+
+
+“You know,” Brett said, “it’s quite true. He is only nineteen. Isn’t it amazing?”
+s=brett;e:brett=contemplative
+
+We touched the two glasses as they stood side by side on the bar. They were coldly beaded.
+s=none
+
+Outside the curtained window was the summer heat of Madrid.
+
+
+“I like an olive in a martini,” I said to the barman.
+n:barman=Barman;s=jake
+
+“Right you are, sir. There you are.”
+s=barman;e:barman=happy
+
+“Thanks.”
+s=jake
+
+“I should have asked, you know.”
+s=barman
+
+The barman went far enough up the bar so that he would not hear our conversation.
+s=none
+
+Brett had sipped from the martini as it stood, on the wood. Then she picked it up.
+
+
+Her hand was steady enough to lift it after that first sip.
+
+
+“It’s good. Isn’t it a nice bar?”
+s=brett;e:brett=happy
+
+“They’re all nice bars.”
+s=jake
+
+“You know I didn’t believe it at first. He was born in 1905. I was in school in Paris, then. Think of that.”
+s=brett;e:brett=surprised
+
+“Anything you want me to think about it?”
+s=jake;e:jake=serious
+
+“Don’t be an ass. *Would* you buy a lady a drink?”
+s=brett;e:brett=neutral
+
+“We’ll have two more martinis.”
+s=jake
+
+“As they were before, sir?”
+s=barman;e:barman=neutral
+
+“They were very good.” Brett smiled at him.
+s=jake
+
+“Thank you, ma’am.”
+s=barman;e:barman=happy
+
+“Well, bung-o,” Brett said.
+s=brett;e:brett=happy
+
+“Bung-o!”
+s=jake;e:jake=happy
+
+“You know,” Brett said, “he’d only been with two women before. He never cared about anything but bullfighting.”
+s=brett;e:brett=contemplative
+
+“He’s got plenty of time.”
+s=jake;e:jake=neutral
+
+“I don’t know. He thinks it was me. Not the show in general.”
+s=brett
+
+“Well, it was you.”
+s=jake
+
+“Yes. It was me.”
+s=brett
+
+“I thought you weren’t going to ever talk about it.”
+s=jake;e:jake=serious
+
+“How can I help it?”
+s=brett
+
+“You’ll lose it if you talk about it.”
+s=jake
+
+“I just talk around it. You know I feel rather damned good, Jake.”
+s=brett;e:brett=happy
+
+“You should.”
+s=jake
+
+“You know it makes one feel rather good deciding not to be a bitch.”
+s=brett
+
+“Yes.”
+s=jake
+
+“It’s sort of what we have instead of God.”
+s=brett;e:brett=contemplative
+
+“Some people have God,” I said. “Quite a lot.”
+s=jake
+
+“He never worked very well with me.”
+s=brett;e:brett=neutral
+
+“Should we have another martini?”
+s=jake
+
+The barman shook up two more martinis and poured them out into fresh glasses.
+s=none
+
+“Where will we have lunch?”
+
+
+I asked Brett. The bar was cool. You could feel the heat outside through the window.
+
+
+“Here?” asked Brett.
+s=brett
+
+“It’s rotten here in the hotel. Do you know a place called Botin’s?” I asked the barman.
+s=jake
+
+“Yes, sir. Would you like to have me write out the address?”
+s=barman
+
+“Thank you.”
+s=jake
+
+We lunched upstairs at Botin’s.
+s=none
+
+It is one of the best restaurants in the world. We had roast young suckling pig and drank rioja alta.
+
+
+Brett did not eat much. She never ate much. I ate a very big meal and drank three bottles of rioja alta.
+
+
+“How do you feel, Jake?” Brett asked. “My God! what a meal you’ve eaten.”
+s=brett;e:brett=surprised
+
+“I feel fine. Do you want a dessert?”
+s=jake;e:jake=happy
+
+“Lord, no.”
+s=brett
+
+Brett was smoking.
+s=none;e:brett=neutral
+
+“You like to eat, don’t you?”
+s=brett
+
+she said.
+s=none
+
+“Yes.” I said. “I like to do a lot of things.”
+s=jake
+
+“What do you like to do?”
+s=brett
+
+“Oh,” I said, “I like to do a lot of things. Don’t you want a dessert?”
+s=jake
+
+“You asked me that once,” Brett said.
+s=brett
+
+“Yes,” I said. “So I did. Let’s have another bottle of rioja alta.”
+s=jake
+
+“It’s very good.”
+s=brett
+
+“You haven’t drunk much of it,” I said.
+s=jake
+
+“I have. You haven’t seen.”
+s=brett
+
+“Let’s get two bottles,” I said.
+s=jake
+
+The bottles came. I poured a little in my glass, then a glass for Brett, then filled my glass.
+s=none
+
+We touched glasses.
+
+
+“Bung-o!” Brett said.
+s=brett;e:brett=happy
+
+I drank my glass and poured out another.
+s=none
+
+Brett put her hand on my arm.
+
+
+“Don’t get drunk, Jake,” she said. “You don’t have to.”
+s=brett;e:brett=wary
+
+“How do you know?”
+s=jake
+
+“Don’t,” she said. “You’ll be all right.”
+s=brett
+
+“I’m not getting drunk,” I said.
+s=jake;e:jake=neutral
+
+“I’m just drinking a little wine. I like to drink wine.”
+
+
+“Don’t get drunk,” she said. “Jake, don’t get drunk.”
+s=brett;e:brett=serious
+
+“Want to go for a ride?” I said. “Want to ride through the town?”
+s=jake
+
+“Right,” Brett said.
+s=brett;e:brett=happy
+
+“I haven’t seen Madrid. I should see Madrid.”
+
+
+“I’ll finish this,” I said.
+s=jake
+
+Downstairs we came out through the first-floor dining-room to the street. A waiter went for a taxi.
+s=none
+
+It was hot and bright. Up the street was a little square with trees and grass where there were taxis parked.
+
+
+A taxi came up the street, the waiter hanging out at the side.
+
+
+I tipped him and told the driver where to drive, and got in beside Brett.
+
+
+The driver started up the street. I settled back. Brett moved close to me. We sat close against each other.
+
+
+I put my arm around her and she rested against me comfortably.
+
+
+It was very hot and bright, and the houses looked sharply white. We turned out onto the Gran Via.
+
+
+“Oh, Jake,” Brett said, “we could have had such a damned good time together.”
+s=brett;e:brett=unhappy
+
+Ahead was a mounted policeman in khaki directing traffic. He raised his baton.
+s=none
+
+The car slowed suddenly pressing Brett against me.
+
+
+“Yes,” I said. “Isn’t it pretty to think so?”
+s=jake;e:jake=contemplative
