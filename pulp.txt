@@ -4049,10 +4049,10 @@ I rang the bell. The door opened and I went upstairs and went to bed.
 s=none;e:jake=weary
 
 ## Book II
-
+r=title
 
 ### Chapter VIII
-
+r=title
 
 I did not see Brett again until she came back from San Sebastian.
 
@@ -4806,5 +4806,580 @@ s=jake;e:jake=smirking
 
 “Well,” said Bill. “You can’t blame him such a hell of a lot.”
 s=bill;e:bill=thinking
+
+### Chapter IX
+r=title
+
+The Ledoux-Kid Francis fight was the night of the 20th of June. It was a good fight.
+
+
+The morning after the fight I had a letter from Robert Cohn, written from Hendaye.
+
+
+He was having a very quiet time, he said, bathing, playing some golf and much bridge.
+
+
+Hendaye had a splendid beach, but he was anxious to start on the fishing-trip. When would I be down?
+
+
+If I would buy him a double-tapered line he would pay me when I came down.
+
+
+That same morning I wrote Cohn from the office that Bill and I would leave Paris on the 25th unless I wired him otherwise, and would meet him at Bayonne, where we could get a bus over the mountains to Pamplona.
+
+
+The same evening about seven o’clock I stopped in at the Select to see Michael and Brett.
+
+
+They were not there, and I went over to the Dingo. They were inside sitting at the bar.
+
+
+“Hello, darling.”
+s=brett;e:brett=happy
+
+Brett put out her hand.
+s=none
+
+“Hello, Jake,” Mike said. “I understand I was tight last night.”
+s=mike;e:mike=neutral
+
+“Weren’t you, though,” Brett said. “Disgraceful business.”
+s=brett;e:brett=smirking
+
+“Look,” said Mike, “when do you go down to Spain? Would you mind if we came down with you?”
+s=mike;e:mike=thinking
+
+“It would be grand.”
+s=jake;e:jake=happy
+
+“You wouldn’t mind, really? I’ve been at Pamplona, you know. Brett’s mad to go. You’re sure we wouldn’t just be a bloody nuisance?”
+s=mike;e:mike=wary
+
+“Don’t talk like a fool.”
+s=jake;e:jake=neutral
+
+“I’m a little tight, you know. I wouldn’t ask you like this if I weren’t. You’re sure you don’t mind?”
+s=mike;e:mike=wary
+
+“Oh, shut up, Michael,” Brett said. “How can the man say he’d mind now? I’ll ask him later.”
+s=brett;e:brett=scowling
+
+“But you don’t mind, do you?”
+s=mike;e:mike=wary
+
+“Don’t ask that again unless you want to make me sore. Bill and I go down on the morning of the 25th.”
+s=jake;e:jake=serious
+
+“By the way, where is Bill?” Brett asked.
+s=brett;e:brett=neutral
+
+“He’s out at Chantilly dining with some people.”
+s=jake
+
+“He’s a good chap.”
+s=brett;e:brett=happy
+
+“Splendid chap,” said Mike. “He is, you know.”
+s=mike;e:mike=happy
+
+“You don’t remember him,” Brett said.
+s=brett;e:brett=smirking
+
+“I do. Remember him perfectly. Look, Jake, we’ll come down the night of the 25th. Brett can’t get up in the morning.”
+s=mike;e:mike=neutral
+
+“Indeed not!”
+s=brett;e:brett=surprised
+
+“If our money comes and you’re sure you don’t mind.”
+s=mike
+
+“It will come, all right. I’ll see to that.”
+s=jake
+
+“Tell me what tackle to send for.”
+s=mike
+
+“Get two or three rods with reels, and lines, and some flies.”
+s=jake
+
+“I won’t fish,” Brett put in.
+s=brett;e:brett=neutral
+
+“Get two rods, then, and Bill won’t have to buy one.”
+s=jake
+
+“Right,” said Mike. “I’ll send a wire to the keeper.”
+s=mike
+
+“Won’t it be splendid,” Brett said. “Spain! We *will* have fun.”
+s=brett;e:brett=excited
+
+“The 25th. When is that?”
+s=mike
+
+“Saturday.”
+s=jake
+
+“We *will* have to get ready.”
+s=mike
+
+“I say,” said Mike, “I’m going to the barber’s.”
+s=mike;e:mike=thinking
+
+“I must bathe,” said Brett. “Walk up to the hotel with me, Jake. Be a good chap.”
+s=brett;e:brett=happy
+
+“We *have* got the loveliest hotel,” Mike said. “I think it’s a brothel!”
+s=mike;e:mike=excited
+
+“We left our bags here at the Dingo when we got in, and they asked us at this hotel if we wanted a room for the afternoon only. Seemed frightfully pleased we were going to stay all night.”
+
+
+“*I* believe it’s a brothel,” Mike said. “And *I* should know.”
+s=mike;e:mike=smirking
+
+“Oh, shut it and go and get your hair cut.”
+s=brett;e:brett=scowling
+
+Mike went out. Brett and I sat on at the bar.
+s=none
+
+“Have another?”
+s=jake;e:jake=neutral
+
+“Might.”
+s=brett
+
+“I needed that,” Brett said.
+s=brett;e:brett=weary
+
+We walked up the Rue Delambre.
+s=none
+
+“I haven’t seen you since I’ve been back,” Brett said.
+s=brett;e:brett=neutral
+
+“No.”
+s=jake
+
+“How *are* you, Jake?”
+s=brett
+
+“Fine.”
+s=jake
+
+Brett looked at me. “I say,” she said, “is Robert Cohn going on this trip?”
+s=brett;e:brett=thinking
+
+“Yes. Why?”
+s=jake;e:jake=neutral
+
+“Don’t you think it will be a bit rough on him?”
+s=brett;e:brett=wary
+
+“Why should it?”
+s=jake;e:jake=confused
+
+“Who did you think I went down to San Sebastian with?”
+s=brett;e:brett=neutral
+
+“Congratulations,” I said.
+s=jake;e:jake=unhappy
+
+We walked along.
+s=none
+
+“What did you say that for?”
+s=brett;e:brett=unhappy
+
+“I don’t know. What would you like me to say?”
+s=jake;e:jake=angry
+
+We walked along and turned a corner.
+s=none
+
+“He behaved rather well, too. He gets a little dull.”
+s=brett;e:brett=thinking
+
+“Does he?”
+s=jake;e:jake=neutral
+
+“I rather thought it would be good for him.”
+s=brett
+
+“You might take up social service.”
+s=jake;e:jake=smirking
+
+“Don’t be nasty.”
+s=brett;e:brett=angry
+
+“I won’t.”
+s=jake;e:jake=neutral
+
+“Didn’t you really know?”
+s=brett;e:brett=confused
+
+“No,” I said. “I guess I didn’t think about it.”
+s=jake
+
+“Do you think it will be too rough on him?”
+s=brett;e:brett=wary
+
+“That’s up to him,” I said. “Tell him you’re coming. He can always not come.”
+s=jake;e:jake=neutral
+
+“I’ll write him and give him a chance to pull out of it.”
+s=brett;e:brett=thinking
+
+I did not see Brett again until the night of the 24th of June.
+s=none
+
+“Did you hear from Cohn?”
+s=jake;e:jake=neutral
+
+“Rather. He’s keen about it.”
+s=brett;e:brett=neutral
+
+“My God!”
+s=jake;e:jake=surprised
+
+“I thought it was rather odd myself.”
+s=brett
+
+“Says he can’t wait to see me.”
+
+
+“Does he think you’re coming alone?”
+s=jake;e:jake=confused
+
+“No. I told him we were all coming down together. Michael and all.”
+s=brett;e:brett=neutral
+
+“He’s wonderful.”
+s=jake;e:jake=smirking
+
+“Isn’t he?”
+s=brett
+
+They expected their money the next day. We arranged to meet at Pamplona.
+s=
+
+They would go directly to San Sebastian and take the train from there. We would all meet at the Montoya in Pamplona.
+n:montoya=Montoya
+
+If they did not turn up on Monday at the latest we would go on ahead up to Burguete in the mountains, to start fishing.
+
+
+There was a bus to Burguete. I wrote out an itinerary so they could follow us.
+
+
+Bill and I took the morning train from the Gare d’Orsay. It was a lovely day, not too hot, and the country was beautiful from the start.
+
+
+We went back into the diner and had breakfast. Leaving the dining-car I asked the conductor for tickets for the first service.
+n:conductor=Conductor
+
+“Nothing until the fifth.”
+s=conductor;e:conductor=neutral
+
+“What’s this?”
+s=jake;e:jake=confused
+
+There were never more than two servings of lunch on that train, and always plenty of places for both of them.
+s=none
+
+“They’re all reserved,” the dining-car conductor said. “There will be a fifth service at three-thirty.”
+s=conductor
+
+“This is serious,” I said to Bill.
+s=jake;e:jake=serious
+
+“Give him ten francs.”
+s=bill;e:bill=neutral
+
+“Here,” I said. “We want to eat in the first service.”
+s=jake
+
+The conductor put the ten francs in his pocket.
+s=none
+
+“Thank you,” he said. “I would advise you gentlemen to get some sandwiches. All the places for the first four services were reserved at the office of the company.”
+s=conductor;e:conductor=neutral
+
+“You’ll go a long way, brother,” Bill said to him in English.
+s=bill;e:bill=smirking
+
+“I suppose if I’d given you five francs you would have advised us to jump off the train.”
+
+
+“*Comment?*”
+s=conductor;e:conductor=confused
+
+“Go to hell!” said Bill. “Get the sandwiches made and a bottle of wine. You tell him, Jake.”
+s=bill;e:bill=angry
+
+“And send it up to the next car.”
+s=jake
+
+I described where we were.
+s=none
+
+In our compartment were a man and his wife and their young son.
+n:hubertfather=Man;n:hubertmother=Woman;n:hubert=Hubert
+
+“I suppose you’re Americans, aren’t you?” the man asked. “Having a good trip?”
+s=hubertfather;e:hubertfather=happy
+
+“Wonderful,” said Bill.
+s=bill;e:bill=happy
+
+“That’s what you want to do. Travel while you’re young. Mother and I always wanted to get over, but we had to wait a while.”
+s=hubertfather
+
+“You could have come over ten years ago, if you’d wanted to,” the wife said.
+s=hubertmother;e:hubertmother=neutral
+
+“What you always said was: ‘See America first!’ I will say we’ve seen a good deal, take it one way and another.”
+
+
+“Say, there’s plenty of Americans on this train,” the husband said.
+s=hubertfather
+
+“They’ve got seven cars of them from Dayton, Ohio. They’ve been on a pilgrimage to Rome, and now they’re going down to Biarritz and Lourdes.”
+
+
+“So, that’s what they are. Pilgrims. Goddam Puritans,” Bill said.
+s=bill;e:bill=smirking
+
+“What part of the States you boys from?”
+s=hubertfather;e:hubertfather=neutral
+
+“Kansas City,” I said.
+s=jake
+
+“He’s from Chicago.”
+s=jake
+
+“You both going to Biarritz?”
+s=hubertfather
+
+“No. We’re going fishing in Spain.”
+s=jake
+
+“Well, I never cared for it, myself. There’s plenty that do out where I come from, though.”
+s=hubertfather
+
+“We got some of the best fishing in the State of Montana. I’ve been out with the boys, but I never cared for it any.”
+
+
+“Mighty little fishing you did on them trips,” his wife said.
+s=hubertmother;e:hubertmother=smirking
+
+He winked at us.
+s=none;e:hubertfather=smirking
+
+“You know how the ladies are. If there’s a jug goes along, or a case of beer, they think it’s hell and damnation.”
+s=hubertfather
+
+“That’s the way men are,” his wife said to us.
+s=hubertmother;e:hubertmother=neutral
+
+She smoothed her comfortable lap.
+s=none
+
+“I voted against prohibition to please him, and because I like a little beer in the house, and then he talks that way. It’s a wonder they ever find anyone to marry them.”
+s=hubertmother
+
+“Say,” said Bill, “do you know that gang of Pilgrim Fathers have cornered the dining-car until half past three this afternoon?”
+s=bill;e:bill=serious
+
+“How do you mean? They can’t do a thing like that.”
+s=hubertfather;e:hubertfather=surprised
+
+“You try and get seats.”
+s=bill
+
+“Well, mother, it looks as though we better go back and get another breakfast.”
+s=hubertfather
+
+She stood up and straightened her dress.
+s=none
+
+“Will you boys keep an eye on our things? Come on, Hubert.”
+s=hubertmother
+
+They all three went up to the wagon restaurant.
+s=none
+
+A little while after they were gone a steward went through announcing the first service, and pilgrims, with their priests, commenced filing down the corridor.
+
+
+Our friend and his family did not come back.
+
+
+A waiter passed in the corridor with our sandwiches and the bottle of Chablis, and we called him in.
+n:waiter=Waiter
+
+“You’re going to work today,” I said.
+s=jake;e:jake=neutral
+
+He nodded his head. “They start now, at ten-thirty.”
+s=waiter;e:waiter=weary
+
+“When do we eat?”
+s=jake
+
+“Huh! When do I eat?”
+s=waiter
+
+He left two glasses for the bottle, and we paid him for the sandwiches and tipped him.
+s=none
+
+“I’ll get the plates,” he said, “or bring them with you.”
+s=waiter
+
+We ate the sandwiches and drank the Chablis and watched the country out of the window. The grain was just beginning to ripen and the fields were full of poppies. The pastureland was green, and there were fine trees, and sometimes big rivers and châteaux off in the trees.
+s=
+
+At Tours we got off and bought another bottle of wine, and when we got back in the compartment the gentleman from Montana and his wife and his son, Hubert, were sitting comfortably.
+
+
+“Is there good swimming in Biarritz?” asked Hubert.
+s=hubert;e:hubert=excited
+
+“That boy’s just crazy till he can get in the water,” his mother said.
+s=hubertmother;e:hubertmother=happy
+
+“It’s pretty hard on youngsters travelling.”
+
+
+“There’s good swimming,” I said. “But it’s dangerous when it’s rough.”
+s=jake;e:jake=neutral
+
+“Did you get a meal?” Bill asked.
+s=bill
+
+“We sure did. We set right there when they started to come in, and they must have just thought we were in the party.”
+s=hubertfather;e:hubertfather=happy
+
+“One of the waiters said something to us in French, and then they just sent three of them back.”
+
+
+“They thought we were snappers, all right,” the man said.
+
+
+“It certainly shows you the power of the Catholic Church. It’s a pity you boys ain’t Catholics. You could get a meal, then, all right.”
+
+
+“I am,” I said. “That’s what makes me so sore.”
+s=jake;e:jake=angry
+
+Finally at a quarter past four we had lunch.
+s=none
+
+Bill had been rather difficult at the last. He buttonholed a priest who was coming back with one of the returning streams of pilgrims.
+n:priest=Priest
+
+“When do us Protestants get a chance to eat, father?”
+s=bill;e:bill=angry
+
+“I don’t know anything about it. Haven’t you got tickets?”
+s=priest;e:priest=neutral
+
+“It’s enough to make a man join the Klan,” Bill said.
+s=bill
+
+The priest looked back at him.
+s=none
+
+Inside the dining-car the waiters served the fifth successive table d’hôte meal. The waiter who served us was soaked through.
+
+
+His white jacket was purple under the arms.
+
+
+“He must drink a lot of wine.”
+s=bill;e:bill=thinking
+
+“Or wear purple undershirts.”
+s=jake;e:jake=neutral
+
+“Let’s ask him.”
+s=bill
+
+“No. He’s too tired.”
+s=jake
+
+The train stopped for half an hour at Bordeaux and we went out through the station for a little walk. There was not time to get in to the town.
+s=
+
+Afterward we passed through the Landes and watched the sun set.
+
+
+There were wide fire-gaps cut through the pines, and you could look up them like avenues and see wooded hills way off.
+
+
+About seven-thirty we had dinner and watched the country through the open window in the diner.
+
+
+It was all sandy pine country full of heather. There were little clearings with houses in them, and once in a while we passed a sawmill.
+
+
+It got dark and we could feel the country hot and sandy and dark outside of the window, and about nine o’clock we got into Bayonne.
+
+
+The man and his wife and Hubert all shook hands with us. They were going on to LaNegresse to change for Biarritz.
+
+
+“Well, I hope you have lots of luck,” he said.
+s=hubertfather;e:hubertfather=happy
+
+“Be careful about those bullfights.”
+
+
+“Maybe we’ll see you at Biarritz,” Hubert said.
+s=hubert;e:hubert=happy
+
+We got off with our bags and rod-cases and passed through the dark station and out to the lights and the line of cabs and hotel buses.
+s=none
+
+There, standing with the hotel runners, was Robert Cohn. He did not see us at first. Then he started forward.
+e:cohn=happy
+
+“Hello, Jake. Have a good trip?”
+s=cohn
+
+“Fine,” I said. “This is Bill Gorton.”
+s=jake;e:jake=neutral
+
+“How are you?”
+s=cohn
+
+“Come on,” said Robert. “I’ve got a cab.”
+s=cohn
+
+He was a little nearsighted. I had never noticed it before.
+s=none
+
+He was looking at Bill, trying to make him out. He was shy, too.
+e:cohn=neutral
+
+“We’ll go up to my hotel. It’s all right. It’s quite nice.”
+s=cohn
+
+We got into the cab, and the cabman put the bags up on the seat beside him and climbed up and cracked his whip, and we drove over the dark bridge and into the town.
+s=none
+
+“I’m awfully glad to meet you,” Robert said to Bill.
+s=cohn;e:cohn=happy
+
+“I’ve heard so much about you from Jake and I’ve read your books. Did you get my line, Jake?”
+
+
+The cab stopped in front of the hotel and we all got out and went in.
+s=none
+
+It was a nice hotel, and the people at the desk were very cheerful, and we each had a good small room.
 
 
