@@ -730,14 +730,17 @@ s=georgette;e:georgette=unhappy
 We would probably have gone on and discussed the war and agreed that it was in reality a calamity for civilization, and perhaps would have been better avoided. I was bored enough.
 s=none;e:jake=weary
 
-Just then from the other room someone called: “Barnes! I say, Barnes! Jacob Barnes!”
-n:braddocks=Braddocks;s=none;n:jake=Jacob Barnes
+Just then from the other room someone called:
+n:braddocks=?;s=none;n:jake=Jacob Barnes
+
+“Barnes! I say, Barnes! Jacob Barnes!”
+s=braddocks
 
 “It’s a friend calling me,” I explained, and went out.
 s=jake;e:jake=neutral
 
 There was Braddocks at a big table with a party: Cohn, Frances Clyne, Mrs. Braddocks, several people I did not know.
-n:mrsbraddocks=Mrs. Braddocks;e:cohn=neutral;e:frances=happy;e:braddocks=happy;n:frances=Frances Clyne;s=none
+n:mrsbraddocks=Mrs. Braddocks;e:cohn=neutral;e:frances=happy;e:braddocks=happy;n:frances=Frances Clyne;s=none;n:braddocks=Braddocks
 
 “You’re coming to the dance, aren’t you?” Braddocks asked.
 s=braddocks
@@ -9619,10 +9622,10 @@ e:mike=happy
 They were all drinking wine and mopping up the oil and vinegar with pieces of bread.
 
 
-“Hello, Jake. Hello!”
+“Hello, Jake. Hello!” Mike called.
 s=mike
 
-Mike called. “Come here. I want you to meet my friends. We’re all having an hors-d’œuvre.”
+“Come here. I want you to meet my friends. We’re all having an hors-d’œuvre.”
 
 
 I was introduced to the people at the table. They supplied their names to Mike and sent for a fork for me.
@@ -10670,7 +10673,7 @@ They were well ahead of me and it was no use trying to catch them.
 
 
 Bill was buying shoeshines for Mike.
-n:bill=Bill;n:mike=Mike
+
 
 Bootblacks opened the street door and each one Bill called over and started to work on Mike.
 
@@ -10700,13 +10703,13 @@ I was drinking red wine, and so far behind them that I felt a little uncomfortab
 s=none;e:jake=unhappy
 
 I looked around the room. At the next table was Pedro Romero.
-n:romero=Pedro Romero
+
 
 He stood up when I nodded, and asked me to come over and meet a friend.
 e:romero=happy
 
 His table was beside ours, almost touching. I met the friend, a Madrid bullfight critic, a little man with a drawn face.
-n:critic=The Critic;e:critic=serious
+e:critic=serious
 
 I told Romero how much I liked his work, and he was very pleased.
 
