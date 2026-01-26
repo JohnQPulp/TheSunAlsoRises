@@ -1,0 +1,1221 @@
+*The Sun Also Rises* by Ernest Hemingway
+n:author=;t=author;b=title
+
+This book is for **Hadley** and for **John Hadley Nicanor**
+
+
+“You are all a lost generation.” —Gertrude Stein in conversation
+n:stein=;t=stein
+
+“One generation passeth away, and another generation cometh; but the earth abideth forever.﻿ ﻿… The sun also ariseth, and the sun goeth down, and hasteth to the place where he arose.﻿ ﻿… The wind goeth toward the south, and turneth about unto the north; it whirleth about continually, and the wind returneth again according to his circuits.﻿ ﻿… All the rivers run into the sea; yet the sea is not full; unto the place from whence the rivers come, thither they return again.” —Ecclesiastes
+t=
+
+## Book I
+
+
+### Chapter I
+
+
+Robert Cohn was once middleweight boxing champion of Princeton.
+n:cohn=Robert Cohn;n:jake=Jake;e:cohn=neutral
+
+Do not think that I am very much impressed by that as a boxing title, but it meant a lot to Cohn.
+
+
+He cared nothing for boxing, in fact he disliked it, but he learned it painfully and thoroughly to counteract the feeling of inferiority and shyness he had felt on being treated as a Jew at Princeton.
+e:cohn=unhappy
+
+There was a certain inner comfort in knowing he could knock down anybody who was snooty to him, although, being very shy and a thoroughly nice boy, he never fought except in the gym.
+e:cohn=neutral
+
+He was Spider Kelly’s star pupil. Spider Kelly taught all his young gentlemen to box like featherweights, no matter whether they weighed one hundred and five or two hundred and five pounds.
+
+
+But it seemed to fit Cohn. He was really very fast.
+
+
+He was so good that Spider promptly overmatched him and got his nose permanently flattened.
+
+
+This increased Cohn’s distaste for boxing, but it gave him a certain satisfaction of some strange sort, and it certainly improved his nose.
+
+
+In his last year at Princeton he read too much and took to wearing spectacles.
+e:cohn=serious
+
+I never met anyone of his class who remembered him. They did not even remember that he was middleweight boxing champion.
+
+
+I mistrust all frank and simple people, especially when their stories hold together, and I always had a suspicion that perhaps Robert Cohn had never been middleweight boxing champion, and that perhaps a horse had stepped on his face, or that maybe his mother had been frightened or seen something, or that he had, maybe, bumped into something as a young child, but I finally had somebody verify the story from Spider Kelly.
+e:jake=suspicious
+
+Spider Kelly not only remembered Cohn.
+
+
+He had often wondered what had become of him.
+
+
+Robert Cohn was a member, through his father, of one of the richest Jewish families in New York, and through his mother of one of the oldest.
+e:cohn=neutral
+
+At the military school where he prepped for Princeton, and played a very good end on the football team, no one had made him race-conscious.
+
+
+No one had ever made him feel he was a Jew, and hence any different from anybody else, until he went to Princeton.
+
+
+He was a nice boy, a friendly boy, and very shy, and it made him bitter.
+e:cohn=unhappy
+
+He took it out in boxing, and he came out of Princeton with painful self-consciousness and the flattened nose, and was married by the first girl who was nice to him.
+
+
+He was married five years, had three children, lost most of the fifty thousand dollars his father left him, the balance of the estate having gone to his mother, hardened into a rather unattractive mould under domestic unhappiness with a rich wife; and just when he had made up his mind to leave his wife she left him and went off with a miniature-painter.
+e:cohn=surprised
+
+As he had been thinking for months about leaving his wife and had not done it because it would be too cruel to deprive her of himself, her departure was a very healthful shock.
+
+
+The divorce was arranged and Robert Cohn went out to the Coast.
+e:cohn=neutral
+
+In California he fell among literary people and, as he still had a little of the fifty thousand left, in a short time he was backing a review of the Arts.
+
+
+The review commenced publication in Carmel, California, and finished in Provincetown, Massachusetts.
+
+
+By that time Cohn, who had been regarded purely as an angel, and whose name had appeared on the editorial page merely as a member of the advisory board, had become the sole editor.
+e:cohn=happy
+
+It was his money and he discovered he liked the authority of editing. He was sorry when the magazine became too expensive and he had to give it up.
+e:cohn=unhappy
+
+By that time, though, he had other things to worry about.
+e:cohn=neutral
+
+He had been taken in hand by a lady who hoped to rise with the magazine.
+n:frances=Frances
+
+She was very forceful, and Cohn never had a chance of not being taken in hand.
+e:frances=serious
+
+Also he was sure that he loved her.
+e:cohn=happy
+
+When this lady saw that the magazine was not going to rise, she became a little disgusted with Cohn and decided that she might as well get what there was to get while there was still something available, so she urged that they go to Europe, where Cohn could write.
+e:frances=annoyed
+
+They came to Europe, where the lady had been educated, and stayed three years.
+e:frances=neutral
+
+During these three years, the first spent in travel, the last two in Paris, Robert Cohn had two friends, Braddocks and myself.
+
+
+Braddocks was his literary friend. I was his tennis friend.
+
+
+The lady who had him, her name was Frances, found toward the end of the second year that her looks were going, and her attitude toward Robert changed from one of careless possession and exploitation to the absolute determination that he should marry her.
+e:frances=serious
+
+During this time Robert’s mother had settled an allowance on him, about three hundred dollars a month.
+
+
+During two years and a half I do not believe that Robert Cohn looked at another woman.
+e:cohn=neutral
+
+He was fairly happy, except that, like many people living in Europe, he would rather have been in America, and he had discovered writing.
+e:cohn=happy
+
+He wrote a novel, and it was not really such a bad novel as the critics later called it, although it was a very poor novel.
+
+
+He read many books, played bridge, played tennis, and boxed at a local gymnasium.
+
+
+I first became aware of his lady’s attitude toward him one night after the three of us had dined together.
+
+
+We had dined at l’Avenue’s and afterward went to the Café de Versailles for coffee.
+
+
+We had several *fines* after the coffee, and I said I must be going.
+
+
+Cohn had been talking about the two of us going off somewhere on a weekend trip.
+
+
+He wanted to get out of town and get in a good walk.
+
+
+I suggested we fly to Strasbourg and walk up to Saint Odile, or somewhere or other in Alsace.
+
+
+“I know a girl in Strasbourg who can show us the town,” I said.
+s=jake
+
+Somebody kicked me under the table.
+s=none;e:jake=surprised
+
+I thought it was accidental and went on:
+
+
+“She’s been there two years and knows everything there is to know about the town. She’s a swell girl.”
+s=jake;e:jake=happy
+
+I was kicked again under the table and, looking, saw Frances, Robert’s lady, her chin lifting and her face hardening.
+s=none;e:frances=angry;e:cohn=nervous
+
+“Hell,” I said, “why go to Strasbourg? We could go up to Bruges, or to the Ardennes.”
+s=jake;e:jake=annoyed
+
+Cohn looked relieved.
+s=none;e:cohn=happy
+
+I was not kicked again.
+
+
+I said good night and went out.
+
+
+Cohn said he wanted to buy a paper and would walk to the corner with me.
+
+
+“For God’s sake,” he said, “why did you say that about that girl in Strasbourg for? Didn’t you see Frances?”
+s=cohn;e:cohn=upset
+
+“No, why should I? If I know an American girl that lives in Strasbourg what the hell is it to Frances?”
+s=jake;e:jake=annoyed
+
+“It doesn’t make any difference. Any girl. I couldn’t go, that would be all.”
+s=cohn;e:cohn=nervous
+
+“Don’t be silly.”
+s=jake
+
+“You don’t know Frances. Any girl at all. Didn’t you see the way she looked?”
+s=cohn;e:cohn=fearful
+
+“Oh, well,” I said, “let’s go to Senlis.”
+s=jake;e:jake=neutral
+
+“Don’t get sore.”
+s=cohn;e:cohn=nervous
+
+“I’m not sore. Senlis is a good place and we can stay at the Grand Cerf and take a hike in the woods and come home.”
+s=jake
+
+“Good, that will be fine.”
+s=cohn;e:cohn=happy
+
+“Well, I’ll see you tomorrow at the courts,” I said.
+s=jake
+
+“Good night, Jake,” he said, and started back to the café.
+s=cohn;e:cohn=neutral
+
+“You forgot to get your paper,” I said.
+s=jake
+
+“That’s so.”
+s=cohn;e:cohn=surprised
+
+He walked with me up to the kiosk at the corner.
+s=none
+
+“You are not sore, are you, Jake?”
+s=cohn;e:cohn=nervous
+
+He turned with the paper in his hand.
+s=none
+
+“No, why should I be?”
+s=jake;e:jake=neutral
+
+“See you at tennis,” he said.
+s=cohn;e:cohn=happy
+
+I watched him walk back to the café holding his paper.
+s=none;e:jake=thinking
+
+I rather liked him and evidently she led him quite a life.
+
+
+### Chapter II
+
+
+That winter Robert Cohn went over to America with his novel, and it was accepted by a fairly good publisher.
+e:cohn=happy
+
+His going made an awful row I heard, and I think that was where Frances lost him, because several women were nice to him in New York, and when he came back he was quite changed.
+
+
+He was more enthusiastic about America than ever, and he was not so simple, and he was not so nice.
+
+
+The publishers had praised his novel pretty highly and it rather went to his head.
+
+
+Then several women had put themselves out to be nice to him, and his horizons had all shifted.
+
+
+For four years his horizon had been absolutely limited to his wife. For three years, or almost three years, he had never seen beyond Frances.
+
+
+I am sure he had never been in love in his life.
+
+
+He had married on the rebound from the rotten time he had in college, and Frances took him on the rebound from his discovery that he had not been everything to his first wife.
+
+
+He was not in love yet but he realized that he was an attractive quantity to women, and that the fact of a woman caring for him and wanting to live with him was not simply a divine miracle.
+e:cohn=neutral
+
+This changed him so that he was not so pleasant to have around.
+
+
+Also, playing for higher stakes than he could afford in some rather steep bridge games with his New York connections, he had held cards and won several hundred dollars.
+
+
+It made him rather vain of his bridge game, and he talked several times of how a man could always make a living at bridge if he were ever forced to.
+e:cohn=smirking
+
+Then there was another thing. He had been reading W. H. Hudson.
+
+
+That sounds like an innocent occupation, but Cohn had read and reread *The Purple Land*. *The Purple Land* is a very sinister book if read too late in life.
+e:cohn=neutral
+
+It recounts splendid imaginary amorous adventures of a perfect English gentleman in an intensely romantic land, the scenery of which is very well described.
+
+
+For a man to take it at thirty-four as a guidebook to what life holds is about as safe as it would be for a man of the same age to enter Wall Street direct from a French convent, equipped with a complete set of the more practical Alger books.
+
+
+Cohn, I believe, took every word of *The Purple Land* as literally as though it had been an R. G. Dun report.
+
+
+You understand me, he made some reservations, but on the whole the book to him was sound. It was all that was needed to set him off.
+
+
+I did not realize the extent to which it had set him off until one day he came into my office.
+
+
+“Hello, Robert,” I said. “Did you come in to cheer me up?”
+s=jake;e:jake=neutral
+
+“Would you like to go to South America, Jake?” he asked.
+s=cohn;e:cohn=excited
+
+“No.”
+s=jake
+
+“Why not?”
+s=cohn
+
+“I don’t know. I never wanted to go. Too expensive. You can see all the South Americans you want in Paris anyway.”
+s=jake
+
+“They’re not the real South Americans.”
+s=cohn;e:cohn=serious
+
+“They look awfully real to me.”
+s=jake;e:jake=smirking
+
+I had a boat train to catch with a week’s mail stories, and only half of them written.
+s=none;e:jake=neutral
+
+“Do you know any dirt?” I asked.
+s=jake
+
+“No.”
+s=cohn;e:cohn=neutral
+
+“None of your exalted connections getting divorces?”
+s=jake
+
+“No; listen, Jake. If I handled both our expenses, would you go to South America with me?”
+s=cohn;e:cohn=excited
+
+“Why me?”
+s=jake
+
+“You can talk Spanish. And it would be more fun with two of us.”
+s=cohn
+
+“No,” I said, “I like this town and I go to Spain in the summertime.”
+s=jake
+
+“All my life I’ve wanted to go on a trip like that,” Cohn said.
+s=cohn;e:cohn=serious
+
+He sat down.
+s=none
+
+“I’ll be too old before I can ever do it.”
+s=cohn
+
+“Don’t be a fool,” I said. “You can go anywhere you want. You’ve got plenty of money.”
+s=jake
+
+“I know. But I can’t get started.”
+s=cohn;e:cohn=unhappy
+
+“Cheer up,” I said. “All countries look just like the moving pictures.”
+s=jake;e:jake=neutral
+
+But I felt sorry for him. He had it badly.
+s=none
+
+“I can’t stand it to think my life is going so fast and I’m not really living it.”
+s=cohn;e:cohn=upset
+
+“Nobody ever lives their life all the way up except bullfighters.”
+s=jake
+
+“I’m not interested in bullfighters. That’s an abnormal life. I want to go back in the country in South America. We could have a great trip.”
+s=cohn
+
+“Did you ever think about going to British East Africa to shoot?”
+s=jake;e:jake=thinking
+
+“No, I wouldn’t like that.”
+s=cohn
+
+“I’d go there with you.”
+s=jake
+
+“No; that doesn’t interest me.”
+s=cohn
+
+“That’s because you never read a book about it. Go on and read a book all full of love affairs with the beautiful shiny black princesses.”
+s=jake;e:jake=smirking
+
+“I want to go to South America.”
+s=cohn;e:cohn=serious
+
+He had a hard, Jewish, stubborn streak.
+s=none
+
+“Come on downstairs and have a drink.”
+s=jake;e:jake=neutral
+
+“Aren’t you working?”
+s=cohn;e:cohn=neutral
+
+“No,” I said.
+s=jake
+
+We went down the stairs to the café on the ground floor. I had discovered that was the best way to get rid of friends.
+s=none
+
+Once you had a drink all you had to say was: “Well, I’ve got to get back and get off some cables,” and it was done.
+e:jake=thinking
+
+It is very important to discover graceful exits like that in the newspaper business, where it is such an important part of the ethics that you should never seem to be working.
+
+
+Anyway, we went downstairs to the bar and had a whiskey and soda. Cohn looked at the bottles in bins around the wall.
+
+
+“This is a good place,” he said.
+s=cohn;e:cohn=neutral
+
+“There’s a lot of liquor,” I agreed.
+s=jake;e:jake=neutral
+
+“Listen, Jake,” he leaned forward on the bar. “Don’t you ever get the feeling that all your life is going by and you’re not taking advantage of it?”
+s=cohn;e:cohn=serious
+
+“Do you realize you’ve lived nearly half the time you have to live already?”
+
+
+“Yes, every once in a while.”
+s=jake
+
+“Do you know that in about thirty-five years more we’ll be dead?”
+s=cohn
+
+“What the hell, Robert,” I said. “What the hell.”
+s=jake;e:jake=weary
+
+“I’m serious.”
+s=cohn
+
+“It’s one thing I don’t worry about,” I said.
+s=jake
+
+“You ought to.”
+s=cohn
+
+“I’ve had plenty to worry about one time or other. I’m through worrying.”
+s=jake;e:jake=neutral
+
+“Well, I want to go to South America.”
+s=cohn;e:cohn=serious
+
+“Listen, Robert, going to another country doesn’t make any difference. I’ve tried all that. You can’t get away from yourself by moving from one place to another. There’s nothing to that.”
+s=jake;e:jake=serious
+
+“But you’ve never been to South America.”
+s=cohn
+
+“South America hell! If you went there the way you feel now it would be exactly the same. This is a good town. Why don’t you start living your life in Paris?”
+s=jake;e:jake=neutral
+
+“I’m sick of Paris, and I’m sick of the Quarter.”
+s=cohn;e:cohn=unhappy
+
+“Stay away from the Quarter. Cruise around by yourself and see what happens to you.”
+s=jake
+
+“Nothing happens to me. I walked alone all one night and nothing happened except a bicycle cop stopped me and asked to see my papers.”
+s=cohn;e:cohn=neutral
+
+“Wasn’t the town nice at night?”
+s=jake
+
+“I don’t care for Paris.”
+s=cohn;e:cohn=unhappy
+
+So there you were.
+s=none;e:jake=thinking
+
+I was sorry for him, but it was not a thing you could do anything about, because right away you ran up against the two stubbornnesses: South America could fix it and he did not like Paris.
+
+
+He got the first idea out of a book, and I suppose the second came out of a book too.
+
+
+“Well,” I said, “I’ve got to go upstairs and get off some cables.”
+s=jake;e:jake=neutral
+
+“Do you really have to go?”
+s=cohn;e:cohn=neutral
+
+“Yes, I’ve got to get these cables off.”
+s=jake
+
+“Do you mind if I come up and sit around the office?”
+s=cohn
+
+“No, come on up.”
+s=jake
+
+He sat in the outer room and read the papers, and the Editor and Publisher and I worked hard for two hours.
+s=none
+
+Then I sorted out the carbons, stamped on a by-line, put the stuff in a couple of big manila envelopes and rang for a boy to take them to the Gare St. Lazare.
+
+
+I went out into the other room and there was Robert Cohn asleep in the big chair. He was asleep with his head on his arms.
+e:cohn=weary
+
+I did not like to wake him up, but I wanted to lock the office and shove off. I put my hand on his shoulder. He shook his head.
+
+
+“I can’t do it,” he said, and put his head deeper into his arms. “I can’t do it. Nothing will make me do it.”
+s=cohn;e:cohn=confused
+
+“Robert,” I said, and shook him by the shoulder.
+s=jake;e:jake=neutral
+
+He looked up. He smiled and blinked.
+s=none;e:cohn=neutral
+
+“Did I talk out loud just then?”
+s=cohn
+
+“Something. But it wasn’t clear.”
+s=jake
+
+“God, what a rotten dream!”
+s=cohn;e:cohn=upset
+
+“Did the typewriter put you to sleep?”
+s=jake
+
+“Guess so. I didn’t sleep all last night.”
+s=cohn;e:cohn=weary
+
+“What was the matter?”
+s=jake
+
+“Talking,” he said.
+s=cohn
+
+I could picture it. I have a rotten habit of picturing the bedroom scenes of my friends.
+s=none;e:jake=thinking
+
+We went out to the Café Napolitain to have an apéritif and watch the evening crowd on the Boulevard.
+e:jake=neutral
+
+### Chapter III
+
+
+It was a warm spring night and I sat at a table on the terrace of the Napolitain after Robert had gone, watching it get dark and the electric signs come on, and the red and green stop-and-go traffic-signal, and the crowd going by, and the horse-cabs clippety-clopping along at the edge of the solid taxi traffic, and the *poules* going by, singly and in pairs, looking for the evening meal.
+e:jake=contemplative
+
+I watched a good-looking girl walk past the table and watched her go up the street and lost sight of her, and watched another, and then saw the first one coming back again.
+
+
+She went by once more and I caught her eye, and she came over and sat down at the table.
+n:georgette=?;e:georgette=neutral
+
+The waiter came up.
+
+
+“Well, what will you drink?” I asked.
+s=jake
+
+“Pernod.”
+s=georgette
+
+“That’s not good for little girls.”
+s=jake;e:jake=smirking
+
+“Little girl yourself. *Dites garçon, un pernod.*”
+s=georgette;e:georgette=scowling
+
+“A pernod for me, too.”
+s=jake;e:jake=neutral
+
+“What’s the matter?” she asked. “Going on a party?”
+s=georgette;e:georgette=neutral
+
+“Sure. Aren’t you?”
+s=jake
+
+“I don’t know. You never know in this town.”
+s=georgette
+
+“Don’t you like Paris?”
+s=jake
+
+“No.”
+s=georgette;e:georgette=unhappy
+
+“Why don’t you go somewhere else?”
+s=jake
+
+“Isn’t anywhere else.”
+s=georgette
+
+“You’re happy, all right.”
+s=jake;e:jake=smirking
+
+“Happy, hell!”
+s=georgette;e:georgette=scowling
+
+Pernod is greenish imitation absinthe. When you add water it turns milky. It tastes like licorice and it has a good uplift, but it drops you just as far.
+s=none;e:jake=contemplative
+
+We sat and drank it, and the girl looked sullen.
+e:georgette=unhappy
+
+“Well,” I said, “are you going to buy me a dinner?”
+s=jake;e:jake=neutral
+
+She grinned and I saw why she made a point of not laughing. With her mouth closed she was a rather pretty girl.
+s=none;e:georgette=happy
+
+I paid for the saucers and we walked out to the street. I hailed a horse-cab and the driver pulled up at the curb.
+
+
+Settled back in the slow, smoothly rolling *fiacre* we moved up the Avenue de l’Opéra, passed the locked doors of the shops, their windows lighted, the Avenue broad and shiny and almost deserted.
+
+
+The cab passed the New York *Herald* bureau with the window full of clocks.
+
+
+“What are all the clocks for?” she asked.
+s=georgette;e:georgette=neutral
+
+“They show the hour all over America.”
+s=jake
+
+“Don’t kid me.”
+s=georgette;e:georgette=suspicious
+
+We turned off the Avenue up the Rue des Pyramides, through the traffic of the Rue de Rivoli, and through a dark gate into the Tuileries.
+s=
+
+She cuddled against me and I put my arm around her. She looked up to be kissed. She touched me with one hand and I put her hand away.
+e:jake=weary
+
+“Never mind.”
+s=jake
+
+“What’s the matter? You sick?”
+s=georgette;e:georgette=confused
+
+“Yes.”
+s=jake
+
+“Everybody’s sick. I’m sick, too.”
+s=georgette;e:georgette=unhappy
+
+We came out of the Tuileries into the light and crossed the Seine and then turned up the Rue des Saints Pères.
+s=none
+
+“You oughtn’t to drink pernod if you’re sick.”
+s=georgette;e:georgette=neutral
+
+“You neither.”
+s=jake
+
+“It doesn’t make any difference with me. It doesn’t make any difference with a woman.”
+s=georgette;e:georgette=weary
+
+“What are you called?”
+s=jake
+
+“Georgette. How are you called?”
+s=georgette;e:georgette=neutral
+
+“Jacob.”
+s=jake;n:georgette=Georgette
+
+“That’s a Flemish name.”
+s=georgette
+
+“American too.”
+s=jake
+
+“You’re not Flamand?”
+s=georgette;e:georgette=suspicious
+
+“No, American.”
+s=jake
+
+“Good, I detest Flamands.”
+s=georgette;e:georgette=happy
+
+By this time we were at the restaurant. I called to the *cocher* to stop. We got out and Georgette did not like the looks of the place.
+s=none;e:georgette=unhappy
+
+“This is no great thing of a restaurant.”
+s=georgette
+
+“No,” I said. “Maybe you would rather go to Foyot’s. Why don’t you keep the cab and go on?”
+s=jake;e:jake=weary
+
+I had picked her up because of a vague sentimental idea that it would be nice to eat with someone. It was a long time since I had dined with a *poule*, and I had forgotten how dull it could be.
+s=none
+
+We went into the restaurant, passed Madame Lavigne at the desk and into a little room. Georgette cheered up a little under the food.
+e:georgette=neutral
+
+“It isn’t bad here,” she said. “It isn’t chic, but the food is all right.”
+s=georgette
+
+“Better than you eat in Liège.”
+s=jake
+
+“Brussels, you mean.”
+s=georgette
+
+We had another bottle of wine and Georgette made a joke. She smiled and showed all her bad teeth, and we touched glasses.
+s=none;e:georgette=happy
+
+“You’re not a bad type,” she said. “It’s a shame you’re sick. We get on well. What’s the matter with you, anyway?”
+s=georgette
+
+“I got hurt in the war,” I said.
+s=jake;e:jake=neutral
+
+“Oh, that dirty war.”
+s=georgette;e:georgette=unhappy
+
+We would probably have gone on and discussed the war and agreed that it was in reality a calamity for civilization, and perhaps would have been better avoided. I was bored enough.
+s=none;e:jake=weary
+
+Just then from the other room someone called: “Barnes! I say, Barnes! Jacob Barnes!”
+n:braddocks=Braddocks;s=none;n:jake=Jacob Barnes
+
+“It’s a friend calling me,” I explained, and went out.
+s=jake;e:jake=neutral
+
+There was Braddocks at a big table with a party: Cohn, Frances Clyne, Mrs. Braddocks, several people I did not know.
+n:mrsbraddocks=Mrs. Braddocks;e:cohn=neutral;e:frances=happy;e:braddocks=happy;n:frances=Frances Clyne;s=none
+
+“You’re coming to the dance, aren’t you?” Braddocks asked.
+s=braddocks
+
+“What dance?”
+s=jake
+
+“Why, the dancings. Don’t you know we’ve revived them?” Mrs. Braddocks put in.
+s=mrsbraddocks;e:mrsbraddocks=excited
+
+“You must come, Jake. We’re all going,” Frances said from the end of the table.
+s=frances;e:frances=happy
+
+She was tall and had a smile.
+s=
+
+“Of course, he’s coming,” Braddocks said. “Come in and have coffee with us, Barnes.”
+s=braddocks
+
+“Right.”
+s=jake
+
+“And bring your friend,” said Mrs. Braddocks laughing.
+s=mrsbraddocks
+
+She was a Canadian and had all their easy social graces.
+s=
+
+“Thanks, we’ll be in,” I said.
+s=jake
+
+I went back to the small room.
+s=
+
+“Who are your friends?” Georgette asked.
+s=georgette;e:georgette=neutral
+
+“Writers and artists.”
+s=jake
+
+“There are lots of those on this side of the river.”
+s=georgette
+
+“Too many.”
+s=jake
+
+“I think so. Still, some of them make money.”
+s=georgette
+
+“Oh, yes.”
+s=jake
+
+We finished the meal and the wine.
+s=none
+
+“Come on,” I said. “We’re going to have coffee with the others.”
+s=jake
+
+Georgette opened her bag, made a few passes at her face as she looked in the little mirror, redefined her lips with the lipstick, and straightened her hat.
+s=none
+
+“Good,” she said.
+s=georgette
+
+We went into the room full of people and Braddocks and the men at his table stood up.
+s=none
+
+“I wish to present my fiancée, Mademoiselle Georgette Leblanc,” I said.
+s=jake;e:jake=smirking
+
+Georgette smiled that wonderful smile, and we shook hands all round.
+s=none;e:georgette=happy
+
+“Are you related to Georgette Leblanc, the singer?” Mrs. Braddocks asked.
+s=mrsbraddocks;e:mrsbraddocks=neutral
+
+“*Connais pas*,” Georgette answered.
+s=georgette;e:georgette=neutral
+
+“But you have the same name,” Mrs. Braddocks insisted cordially.
+s=mrsbraddocks
+
+“No,” said Georgette. “Not at all. My name is Hobin.”
+s=georgette
+
+“But Mr. Barnes introduced you as Mademoiselle Georgette Leblanc. Surely he did,” insisted Mrs. Braddocks, who in the excitement of talking French was liable to have no idea what she was saying.
+s=mrsbraddocks;e:mrsbraddocks=confused
+
+“He’s a fool,” Georgette said.
+s=georgette;e:georgette=smirking
+
+“Oh, it was a joke, then,” Mrs. Braddocks said.
+s=mrsbraddocks;e:mrsbraddocks=happy
+
+“Yes,” said Georgette. “To laugh at.”
+s=georgette
+
+“Did you hear that, Henry?” Mrs. Braddocks called down the table to Braddocks. “Mr. Barnes introduced his fiancée as Mademoiselle Leblanc, and her name is actually Hobin.”
+s=mrsbraddocks
+
+“Of course, darling. Mademoiselle Hobin, I’ve known her for a very long time.”
+s=braddocks
+
+“Oh, Mademoiselle Hobin,” Frances Clyne called, speaking French very rapidly and not seeming so proud and astonished as Mrs. Braddocks at its coming out really French.
+s=frances;e:frances=happy
+
+“Have you been in Paris long? Do you like it here? You love Paris, do you not?”
+
+
+“Who’s she?” Georgette turned to me. “Do I have to talk to her?”
+s=georgette;e:georgette=neutral
+
+She turned to Frances, sitting smiling, her hands folded, her head poised on her long neck, her lips pursed ready to start talking again.
+s=none
+
+“No, I don’t like Paris. It’s expensive and dirty.”
+s=georgette;e:georgette=unhappy
+
+“Really? I find it so extraordinarily clean. One of the cleanest cities in all Europe.”
+s=frances;e:frances=surprised
+
+“I find it dirty.”
+s=georgette;e:georgette=scowling
+
+“How strange! But perhaps you have not been here very long.”
+s=frances;e:frances=happy
+
+“I’ve been here long enough.”
+s=georgette;e:georgette=neutral
+
+“But it does have nice people in it. One must grant that.”
+s=frances
+
+Georgette turned to me. “You have nice friends.”
+s=georgette
+
+Frances was a little drunk and would have liked to have kept it up but the coffee came, and Lavigne with the liqueurs, and after that we all went out and started for Braddocks’s dancing-club.
+s=none
+
+The dancing-club was a *bal musette* in the Rue de la Montagne Sainte Geneviève. Five nights a week the working people of the Pantheon quarter danced there.
+
+
+One night a week it was the dancing-club. On Monday nights it was closed. When we arrived it was quite empty, except for a policeman sitting near the door, the wife of the proprietor back of the zinc bar, and the proprietor himself.
+
+
+The daughter of the house came downstairs as we went in. There were long benches, and tables ran across the room, and at the far end a dancing-floor.
+
+
+“I wish people would come earlier,” Braddocks said.
+s=braddocks;e:braddocks=neutral
+
+The daughter came up and wanted to know what we would drink. The proprietor got up on a high stool beside the dancing-floor and began to play the accordion. He had a string of bells around one of his ankles and beat time with his foot as he played.
+s=none
+
+Everyone danced. It was hot and we came off the floor perspiring.
+
+
+“My God,” Georgette said. “What a box to sweat in!”
+s=georgette;e:georgette=unhappy
+
+“It’s hot.”
+s=jake;e:jake=weary
+
+“Hot, my God!”
+s=georgette
+
+“Take off your hat.”
+s=jake
+
+“That’s a good idea.”
+s=georgette;e:georgette=neutral
+
+Someone asked Georgette to dance, and I went over to the bar. It was really very hot and the accordion music was pleasant in the hot night.
+s=none
+
+I drank a beer, standing in the doorway and getting the cool breath of wind from the street. Two taxis were coming down the steep street. They both stopped in front of the Bal.
+
+
+A crowd of young men, some in jerseys and some in their shirtsleeves, got out. I could see their hands and newly washed, wavy hair in the light from the door.
+
+
+The policeman standing by the door looked at me and smiled. They came in. As they went in, under the light I saw white hands, wavy hair, white faces, grimacing, gesturing, talking.
+e:jake=scowling
+
+With them was Brett. She looked very lovely and she was very much with them.
+n:brett=Brett;e:brett=neutral
+
+One of them saw Georgette and said: “I do declare. There is an actual harlot. I’m going to dance with her, Lett. You watch me.”
+s=none
+
+The tall dark one, called Lett, said: “Don’t you be rash.”
+
+
+The wavy blond one answered: “Don’t you worry, dear.” And with them was Brett.
+
+
+I was very angry. Somehow they always made me angry. I know they are supposed to be amusing, and you should be tolerant, but I wanted to swing on one, any one, anything to shatter that superior, simpering composure.
+e:jake=angry
+
+Instead, I walked down the street and had a beer at the bar at the next Bal. The beer was not good and I had a worse cognac to take the taste out of my mouth.
+
+
+When I came back to the Bal there was a crowd on the floor and Georgette was dancing with the tall blond youth, who danced big-hippily, carrying his head on one side, his eyes lifted as he danced.
+
+
+As soon as the music stopped another one of them asked her to dance. She had been taken up by them. I knew then that they would all dance with her. They are like that.
+
+
+I sat down at a table. Cohn was sitting there. Frances was dancing.
+e:cohn=neutral;e:jake=neutral
+
+Mrs. Braddocks brought up somebody and introduced him as Robert Prentiss. He was from New York by way of Chicago, and was a rising new novelist. He had some sort of an English accent. I asked him to have a drink.
+n:prentiss=Robert Prentiss
+
+“Thanks so much,” he said, “I’ve just had one.”
+s=prentiss;e:prentiss=neutral
+
+“Have another.”
+s=jake
+
+“Thanks, I will then.”
+s=prentiss
+
+We got the daughter of the house over and each had a *fine à l’eau*.
+s=none
+
+“You’re from Kansas City, they tell me,” he said.
+s=prentiss
+
+“Yes.”
+s=jake
+
+“Do you find Paris amusing?”
+s=prentiss
+
+“Yes.”
+s=jake
+
+“Really?”
+s=prentiss
+
+I was a little drunk. Not drunk in any positive sense but just enough to be careless.
+s=none
+
+“For God’s sake,” I said, “yes. Don’t you?”
+s=jake;e:jake=angry
+
+“Oh, how charmingly you get angry,” he said. “I wish I had that faculty.”
+s=prentiss;e:prentiss=smirking
+
+I got up and walked over toward the dancing-floor. Mrs. Braddocks followed me.
+s=none;e:jake=neutral
+
+“Don’t be cross with Robert,” she said. “He’s still only a child, you know.”
+s=mrsbraddocks;e:mrsbraddocks=neutral
+
+“I wasn’t cross,” I said. “I just thought perhaps I was going to throw up.”
+s=jake
+
+“Your fiancée is having a great success,” Mrs. Braddocks looked out on the floor where Georgette was dancing in the arms of the tall, dark one, called Lett.
+s=mrsbraddocks;e:mrsbraddocks=happy
+
+“Isn’t she?” I said.
+s=jake
+
+“Rather,” said Mrs. Braddocks.
+s=mrsbraddocks
+
+Cohn came up.
+s=none
+
+“Come on, Jake,” he said, “have a drink.”
+s=cohn;e:cohn=neutral
+
+We walked over to the bar.
+s=none
+
+“What’s the matter with you? You seem all worked up over something?”
+s=cohn
+
+“Nothing. This whole show makes me sick is all.”
+s=jake;e:jake=unhappy
+
+Brett came up to the bar.
+s=none
+
+“Hello, you chaps.”
+s=brett;e:brett=neutral
+
+“Hello, Brett,” I said. “Why aren’t you tight?”
+s=jake
+
+“Never going to get tight any more. I say, give a chap a brandy and soda.”
+s=brett
+
+She stood holding the glass and I saw Robert Cohn looking at her. He looked a great deal as his compatriot must have looked when he saw the promised land.
+s=none;e:cohn=excited
+
+Cohn, of course, was much younger. But he had that look of eager, deserving expectation.
+
+
+Brett was damned good-looking. She wore a slipover jersey sweater and a tweed skirt, and her hair was brushed back like a boy’s. She started all that.
+
+
+She was built with curves like the hull of a racing yacht, and you missed none of it with that wool jersey.
+e:jake=contemplative
+
+“It’s a fine crowd you’re with, Brett,” I said.
+s=jake;e:jake=smirking
+
+“Aren’t they lovely? And you, my dear. Where did you get it?”
+s=brett;e:brett=smirking
+
+“At the Napolitain.”
+s=jake
+
+“And have you had a lovely evening?”
+s=brett
+
+“Oh, priceless,” I said.
+s=jake
+
+Brett laughed. “It’s wrong of you, Jake. It’s an insult to all of us. Look at Frances there, and Jo.”
+s=brett
+
+This for Cohn’s benefit.
+s=none
+
+“It’s in restraint of trade,” Brett said. She laughed again.
+s=brett
+
+“You’re wonderfully sober,” I said.
+s=jake
+
+“Yes. Aren’t I? And when one’s with the crowd I’m with, one can drink in such safety, too.”
+s=brett
+
+The music started and Robert Cohn said: “Will you dance this with me, Lady Brett?”
+s=cohn;e:cohn=nervous
+
+Brett smiled at him.
+s=none;e:brett=happy
+
+“I’ve promised to dance this with Jacob,” she laughed. “You’ve a hell of a biblical name, Jake.”
+s=brett
+
+“How about the next?” asked Cohn.
+s=cohn;e:cohn=neutral
+
+“We’re going,” Brett said. “We’ve a date up at Montmartre.”
+s=brett
+
+Dancing, I looked over Brett’s shoulder and saw Cohn, standing at the bar, still watching her.
+s=none
+
+“You’ve made a new one there,” I said to her.
+s=jake
+
+“Don’t talk about it. Poor chap. I never knew it till just now.”
+s=brett;e:brett=neutral
+
+“Oh, well,” I said. “I suppose you like to add them up.”
+s=jake
+
+“Don’t talk like a fool.”
+s=brett;e:brett=scowling
+
+“You do.”
+s=jake
+
+“Oh, well. What if I do?”
+s=brett
+
+“Nothing,” I said.
+s=jake;e:jake=neutral
+
+We were dancing to the accordion and someone was playing the banjo. It was hot and I felt happy. We passed close to Georgette dancing with another one of them.
+s=none;e:jake=happy
+
+“What possessed you to bring her?”
+s=brett
+
+“I don’t know, I just brought her.”
+s=jake
+
+“You’re getting damned romantic.”
+s=brett;e:brett=smirking
+
+“No, bored.”
+s=jake;e:jake=neutral
+
+“Now?”
+s=brett
+
+“No, not now.”
+s=jake
+
+“Let’s get out of here. She’s well taken care of.”
+s=brett
+
+“Do you want to?”
+s=jake
+
+“Would I ask you if I didn’t want to?”
+s=brett
+
+We left the floor and I took my coat off a hanger on the wall and put it on. Brett stood by the bar. Cohn was talking to her.
+s=none;e:cohn=happy
+
+I stopped at the bar and asked them for an envelope. The patronne found one. I took a fifty-franc note from my pocket, put it in the envelope, sealed it, and handed it to the patronne.
+
+
+“If the girl I came with asks for me, will you give her this?” I said. “If she goes out with one of those gentlemen, will you save this for me?”
+s=jake
+
+“*C’est entendu, Monsieur*,” the patronne said. “You go now? So early?”
+s=none
+
+“Yes,” I said.
+s=jake
+
+We started out the door. Cohn was still talking to Brett. She said good night and took my arm.
+s=none;e:brett=neutral
+
+“Good night, Cohn,” I said.
+s=jake
+
+Outside in the street we looked for a taxi.
+s=none;e:cohn=unhappy
+
+“You’re going to lose your fifty francs,” Brett said.
+s=brett
+
+“Oh, yes.”
+s=jake
+
+“No taxis.”
+s=brett
+
+“We could walk up to the Pantheon and get one.”
+s=jake
+
+“Come on and we’ll get a drink in the pub next door and send for one.”
+s=brett
+
+“You wouldn’t walk across the street.”
+s=jake
+
+“Not if I could help it.”
+s=brett;e:brett=smirking
+
+We went into the next bar and I sent a waiter for a taxi.
+s=none;e:jake=neutral
+
+“Well,” I said, “we’re out away from them.”
+s=jake
+
+We stood against the tall zinc bar and did not talk and looked at each other. The waiter came and said the taxi was outside.
+s=none
+
+Brett pressed my hand hard.
+e:brett=unhappy
+
+I gave the waiter a franc and we went out.
+
+
+“Where should I tell him?” I asked.
+s=jake
+
+“Oh, tell him to drive around.”
+s=brett
+
+I told the driver to go to the Parc Montsouris, and got in, and slammed the door. Brett was leaning back in the corner, her eyes closed.
+s=none
+
+I got in and sat beside her. The cab started with a jerk.
+
+
+“Oh, darling, I’ve been so miserable,” Brett said.
+s=brett;e:brett=unhappy
+
