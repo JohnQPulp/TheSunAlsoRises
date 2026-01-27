@@ -6371,7 +6371,7 @@ A man leaned over from the other side of the seat and asked in English:
 n:oldman=Old Man;s=oldman;e:oldman=neutral
 
 “Sure.”
-s=bill;e:bill=happy
+s=jake;e:jake=happy
 
 “I been there,” he said. “Forty years ago.”
 s=oldman
@@ -6380,31 +6380,31 @@ He was an old man, as brown as the others, with the stubble of a white beard.
 s=none
 
 “How was it?”
-s=bill
+s=jake
 
 “What you say?”
 s=oldman;e:oldman=confused
 
 “How was America?”
-s=bill
+s=jake
 
 “Oh, I was in California. It was fine.”
 s=oldman;e:oldman=happy
 
 “Why did you leave?”
-s=bill
+s=jake
 
 “What you say?”
 s=oldman;e:oldman=confused
 
 “Why did you come back here?”
-s=bill
+s=jake
 
 “Oh! I come back to get married. I was going to go back but my wife she don’t like to travel. Where you from?”
 s=oldman;e:oldman=neutral
 
 “Kansas City.”
-s=bill
+s=jake
 
 “I been there,” he said. “I been in Chicago, St. Louis, Kansas City, Denver, Los Angeles, Salt Lake City.”
 s=oldman
@@ -6413,31 +6413,31 @@ He named them carefully.
 s=none
 
 “How long were you over?”
-s=bill
+s=jake
 
 “Fifteen years. Then I come back and got married.”
 s=oldman
 
 “Have a drink?”
-s=bill
+s=jake
 
 “All right,” he said. “You can’t get this in America, eh?”
 s=oldman;e:oldman=happy
 
 “There’s plenty if you can pay for it.”
-s=bill
+s=jake
 
 “What you come over here for?”
 s=oldman;e:oldman=neutral
 
 “We’re going to the fiesta at Pamplona.”
-s=bill
+s=jake
 
 “You like the bullfights?”
 s=oldman
 
 “Sure. Don’t you?”
-s=bill
+s=jake
 
 “Yes,” he said.
 s=oldman
@@ -6452,7 +6452,7 @@ s=
 s=oldman
 
 “Up to Burguete to fish.”
-s=bill
+s=jake
 
 “Well,” he said, “I hope you catch something.”
 s=oldman
@@ -7567,11 +7567,8 @@ s=none;e:jake=contemplative
 “You asleep?”
 s=bill
 
-“No,” Bill said.
+“No,” Bill said. “I was thinking.”
 s=bill
-
-“I was thinking.”
-s=bill;e:bill=thinking
 
 I shut my eyes.
 s=none
@@ -10022,10 +10019,10 @@ s=jake
 s=bill
 
 “He spends a lot of time there.”
-
+s=jake
 
 “I want him to stay there.”
-
+s=bill
 
 In the hotel on the stairs we met Montoya.
 s=none;e:montoya=neutral
@@ -10112,10 +10109,10 @@ s=jake
 s=montoya
 
 “He’s a fine boy.”
-
+s=jake
 
 “We’ll see how he is in the ring,” Montoya said.
-
+s=montoya
 
 We found the big leather wine-bottle leaning against the wall in my room, took it and the field-glasses, locked the door, and went downstairs.
 s=none
@@ -10187,7 +10184,7 @@ s=jake
 s=bill
 
 “It’s swell dancing.”
-
+s=jake
 
 In front of us on a clear part of the street a company of boys were dancing.
 s=none
@@ -10448,10 +10445,10 @@ s=brett
 s=mike;e:mike=smirking
 
 “I wouldn’t be surprised.”
-
+s=jake
 
 “Be a good chap, Jake. Don’t tell her anything more about him. Tell her how they beat their old mothers.”
-
+s=mike
 
 “Tell me what drunks they are.”
 s=brett
@@ -11083,7 +11080,10 @@ s=mike
 Cohn stood up and took off his glasses. He stood waiting, his face sallow, his hands fairly low, proudly and firmly waiting for the assault, ready to do battle for his lady love.
 s=none;e:cohn=serious
 
-I grabbed Mike. “Come on to the café,” I said. “You can’t hit him here in the hotel.”
+I grabbed Mike.
+
+
+“Come on to the café,” I said. “You can’t hit him here in the hotel.”
 s=jake
 
 “Good!” said Mike. “Good idea!”
@@ -14291,7 +14291,7 @@ s=jake
 s=bill
 
 “That’s what you wanted, wasn’t it?”
-
+s=jake
 
 “Sure. Get tight. Get over your damn depression.”
 s=bill
@@ -15670,8 +15670,11 @@ s=jake
 “As they were before, sir?”
 s=barman;e:barman=neutral
 
-“They were very good.” Brett smiled at him.
-s=jake
+“They were very good.”
+s=brett
+
+Brett smiled at him.
+s=
 
 “Thank you, ma’am.”
 s=barman;e:barman=happy
