@@ -7759,22 +7759,7 @@ I opened the letter. It had been forwarded from Pamplona.
 It was dated San Sebastian, Sunday:
 
 
-Dear Jake, We got here Friday, Brett passed out on the train, so brought her here for 3 days rest with old friends of ours.
-
-
-We go to Montoya Hotel Pamplona Tuesday, arriving at I don’t know what hour.
-
-
-Will you send a note by the bus to tell us what to do to rejoin you all on Wednesday.
-
-
-All our love and sorry to be late, but Brett was really done in and will be quite all right by Tues.
-
-
-and is practically so now. I know her so well and try to look after her but it’s not so easy.
-
-
-Love to all the chaps, Michael.
+Dear Jake,<br>We got here Friday, Brett passed out on the train, so brought her here for 3 days rest with old friends of ours. We go to Montoya Hotel Pamplona Tuesday, arriving at I don’t know what hour. Will you send a note by the bus to tell us what to do to rejoin you all on Wednesday. All our love and sorry to be late, but Brett was really done in and will be quite all right by Tues. and is practically so now. I know her so well and try to look after her but it’s not so easy.<br>Love to all the chaps, Michael.
 
 
 “What day of the week is it?” I asked Harris.
@@ -15220,7 +15205,7 @@ s=none
 It had been forwarded from Paris:
 
 
-Could you come Hotel Montana Madrid am rather in trouble Brett.
+<span class='uppercase'>Could you come Hotel Montana Madrid am rather in trouble Brett.</span>
 
 
 I tipped the concierge and read the message again. A postman was coming along the sidewalk.
@@ -15241,7 +15226,7 @@ s=jake
 I opened it. It was forwarded from Pamplona.
 s=none
 
-Could you come Hotel Montana Madrid am rather in trouble Brett.
+<span class='uppercase'>Could you come Hotel Montana Madrid am rather in trouble Brett.</span>
 
 
 The concierge stood there waiting for another tip, probably.
@@ -15277,7 +15262,7 @@ s=jake
 He brought it and I took out my fountain-pen and printed:
 s=none
 
-Lady Ashley Hotel Montana Madrid arriving Sud Express tomorrow love Jake.
+<span class='uppercase'>Lady Ashley Hotel Montana Madrid arriving Sud Express tomorrow love Jake.</span>
 
 
 That seemed to handle it. That was it.
