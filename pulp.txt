@@ -1,104 +1,80 @@
-*The Sun Also Rises* by Ernest Hemingway<e>I'm not at all happy to be doing this novel, but the site needs some modernist literature to help round off the catalog. But look, it could be worse: it could be Faulkner. So we're going to get through this together.</e>
+*The Sun Also Rises* by Ernest Hemingway<e>Here we are: Public Domain Pulp's first modernist visual novel. I was originally going to do Faulkner first, but then I figured it's probably better to start with the overly readable one instead of the unreadable one. Still a hellish writing style either way. But we'll get through this together.</e>
 n:author=;t=author;b=title
 
-This book is for **Hadley** and for **John Hadley Nicanor**<e>lmao what a piece of shit for making that the dedication, if you know the context behind the writing of the book. But if would be too spoiler-heavy to get into now, so just put a pin in this.</e>
+This book is for **Hadley** and for **John Hadley Nicanor**<e>Put a pin in this dedication from Hemingway to his wife and son. It's the tip of an iceberg — the background behind this novel. But it requires spoilers to get into, so the discussion will have to wait until further into the book.</e>
 
 
 “You are all a lost generation.” —Gertrude Stein in conversation
-n:stein=;t=stein
+n:stein=;t=stein;b=think
 
-“One generation passeth away, and another generation cometh; but the earth abideth forever.﻿ ﻿… The sun also ariseth, and the sun goeth down, and hasteth to the place where he arose.﻿ ﻿… The wind goeth toward the south, and turneth about unto the north; it whirleth about continually, and the wind returneth again according to his circuits.﻿ ﻿… All the rivers run into the sea; yet the sea is not full; unto the place from whence the rivers come, thither they return again.” —Ecclesiastes<e>Way to name your book after the most basic bitch of all Biblical texts. (Pretty apropos, really.)</e>
+“One generation passeth away, and another generation cometh; but the earth abideth forever… The sun also ariseth, and the sun goeth down, and hasteth to the place where he arose﻿ ﻿… The wind goeth toward the south, and turneth about unto the north; it whirleth about continually, and the wind returneth again according to his circuits… All the rivers run into the sea; yet the sea is not full; unto the place from whence the rivers come, thither they return again.” —Ecclesiastes<e>Hemingway naming his book after the most basic bitch of all Biblical texts. Pretty apropos, really, but we'll get into it.</e>
 t=
 
 ## Book I
-
+r=title
 
 ### Chapter I
 r=title
 
-Robert Cohn was once middleweight boxing champion of Princeton.
-n:cohn=Robert Cohn;n:jake=Jake;e:cohn=neutral
+Robert Cohn was once middleweight boxing champion of Princeton. Do not think that I am very much impressed by that as a boxing title, but it meant a lot to Cohn.
+n:cohn=Robert Cohn;n:jake=?;e:cohn=neutral;b=princeton
 
-Do not think that I am very much impressed by that as a boxing title, but it meant a lot to Cohn.
-
-
-He cared nothing for boxing, in fact he disliked it, but he learned it painfully and thoroughly to counteract the feeling of inferiority and shyness he had felt on being treated as a Jew at Princeton.<e>Wow, Jew on sentence three — Hemingway beat the Buchan record! I'm back in.</e>
+He cared nothing for boxing, in fact he disliked it, but he learned it painfully and thoroughly to counteract the feeling of inferiority and shyness he had felt on being treated as a Jew at Princeton.<e>On the 3rd sentence! And here I thought Buchan's record in <i>39 Steps</i> would last a while.</e>
 e:cohn=unhappy
 
 There was a certain inner comfort in knowing he could knock down anybody who was snooty to him, although, being very shy and a thoroughly nice boy, he never fought except in the gym.
 e:cohn=neutral
 
-He was Spider Kelly’s star pupil. Spider Kelly taught all his young gentlemen to box like featherweights, no matter whether they weighed one hundred and five or two hundred and five pounds.
+He was Spider Kelly’s star pupil. Spider Kelly taught all his young gentlemen to box like featherweights, no matter whether they weighed one hundred and five or two hundred and five pounds. But it seemed to fit Cohn. He was really very fast.
 
 
-But it seemed to fit Cohn. He was really very fast.
+He was so good that Spider promptly overmatched him and got his nose permanently flattened.<e>Hemingway preempting me from giving this character a big schnoz.</e>
+b=light
 
-
-He was so good that Spider promptly overmatched him and got his nose permanently flattened.<e>You sneaky Hemingway, preempting me from giving this character a big schnoz. Well played.</e>
-
-
-This increased Cohn’s distaste for boxing, but it gave him a certain satisfaction of some strange sort, and it certainly improved his nose.
-
-
-In his last year at Princeton he read too much and took to wearing spectacles.
-e:cohn=serious
+This increased Cohn’s distaste for boxing, but it gave him a certain satisfaction of some strange sort, and it certainly improved his nose. In his last year at Princeton he read too much and took to wearing spectacles.
+e:cohn=;b=light;c=cohn;x:cohn=young
 
 I never met anyone of his class who remembered him. They did not even remember that he was middleweight boxing champion.
-
+b=light;c=
 
 I mistrust all frank and simple people, especially when their stories hold together, and I always had a suspicion that perhaps Robert Cohn had never been middleweight boxing champion, and that perhaps a horse had stepped on his face, or that maybe his mother had been frightened or seen something, or that he had, maybe, bumped into something as a young child, but I finally had somebody verify the story from Spider Kelly.
-e:jake=suspicious
+e:jake=suspicious;c=
 
-Spider Kelly not only remembered Cohn.
-
-
-He had often wondered what had become of him.
+Spider Kelly not only remembered Cohn. He had often wondered what had become of him.
 
 
-Robert Cohn was a member, through his father, of one of the richest Jewish families in New York, and through his mother of one of the oldest.
-e:cohn=neutral
-
-At the military school where he prepped for Princeton, and played a very good end on the football team, no one had made him race-conscious.
-
+Robert Cohn was a member, through his father, of one of the richest Jewish families in New York, and through his mother of one of the oldest. At the military school where he prepped for Princeton, and played a very good end on the football team, no one had made him race-conscious.
+e:cohn=neutral;b=military-school
 
 No one had ever made him feel he was a Jew, and hence any different from anybody else, until he went to Princeton.
 
 
 He was a nice boy, a friendly boy, and very shy, and it made him bitter.
-e:cohn=unhappy
+e:cohn=unhappy;b=princeton
 
 He took it out in boxing, and he came out of Princeton with painful self-consciousness and the flattened nose, and was married by the first girl who was nice to him.
 
 
 He was married five years, had three children, lost most of the fifty thousand dollars his father left him, the balance of the estate having gone to his mother, hardened into a rather unattractive mould under domestic unhappiness with a rich wife; and just when he had made up his mind to leave his wife she left him and went off with a miniature-painter.
-e:cohn=surprised
+e:cohn=surprised;b=light
 
-As he had been thinking for months about leaving his wife and had not done it because it would be too cruel to deprive her of himself, her departure was a very healthful shock.<e>John Updike in shambles.</e>
-
-
-The divorce was arranged and Robert Cohn went out to the Coast.
-e:cohn=neutral
-
-In California he fell among literary people and, as he still had a little of the fifty thousand left, in a short time he was backing a review of the Arts.
+As he had been thinking for months about leaving his wife and had not done it because it would be too cruel to deprive her of himself, her departure was a very healthful shock.
 
 
-The review commenced publication in Carmel, California, and finished in Provincetown, Massachusetts.
+The divorce was arranged and Robert Cohn went out to the Coast. In California he fell among literary people and, as he still had a little of the fifty thousand left, in a short time he was backing a review of the Arts. The review commenced publication in Carmel, California, and finished in Provincetown, Massachusetts.
 
 
 By that time Cohn, who had been regarded purely as an angel, and whose name had appeared on the editorial page merely as a member of the advisory board, had become the sole editor.
-e:cohn=happy
+e:cohn=;x:cohn=;c=cohn
 
 It was his money and he discovered he liked the authority of editing.<e>Yes… ha ha ha… <i><u>Yes!</u></i></e>
-e:cohn=unhappy
+
 
 He was sorry when the magazine became too expensive and he had to give it up.
-e:cohn=neutral
+c=
 
-By that time, though, he had other things to worry about. He had been taken in hand by a lady who hoped to rise with the magazine.
-n:frances=Frances
-
-She was very forceful, and Cohn never had a chance of not being taken in hand.
-e:frances=serious
+By that time, though, he had other things to worry about. He had been taken in hand by a lady who hoped to rise with the magazine. She was very forceful, and Cohn never had a chance of not being taken in hand.
+n:frances=Frances;c=frances
 
 Also he was sure that he loved her.
 e:cohn=happy
@@ -107,37 +83,31 @@ When this lady saw that the magazine was not going to rise, she became a little 
 e:frances=annoyed
 
 They came to Europe, where the lady had been educated, and stayed three years.
-e:frances=neutral
+e:frances=neutral;c=
 
 During these three years, the first spent in travel, the last two in Paris, Robert Cohn had two friends, Braddocks and myself.
 
 
 Braddocks was his literary friend. I was his tennis friend.
-
+n:braddocks=?;n:jake=?;c=braddocks,jake
 
 The lady who had him, her name was Frances, found toward the end of the second year that her looks were going, and her attitude toward Robert changed from one of careless possession and exploitation to the absolute determination that he should marry her.
-e:frances=serious
+e:frances=serious;c=frances
 
 During this time Robert’s mother had settled an allowance on him, about three hundred dollars a month.
-
+c=
 
 During two years and a half I do not believe that Robert Cohn looked at another woman.
-e:cohn=neutral
+e:cohn=neutral;b=paris-wide
 
-He was fairly happy, except that, like many people living in Europe, he would rather have been in America, and he had discovered writing.
+He was fairly happy, except that, like many people living in Europe, he would rather have been in America, and he had discovered writing. He wrote a novel, and it was not really such a bad novel as the critics later called it, although it was a very poor novel.
 e:cohn=happy
-
-He wrote a novel, and it was not really such a bad novel as the critics later called it, although it was a very poor novel.
-
 
 He read many books, played bridge, played tennis, and boxed at a local gymnasium.
 
 
-I first became aware of his lady’s attitude toward him one night after the three of us had dined together.
-
-
-We had dined at l’Avenue’s and afterward went to the Café de Versailles for coffee.
-
+I first became aware of his lady’s attitude toward him one night after the three of us had dined together. We had dined at l’Avenue’s and afterward went to the Café de Versailles for coffee.
+b=cafe-paris-int
 
 We had several *fines* after the coffee, and I said I must be going.
 
@@ -161,7 +131,7 @@ I thought it was accidental and went on:
 
 
 “She’s been there two years and knows everything there is to know about the town. She’s a swell girl.”
-s=jake;e:jake=happy
+s=jake;e:jake=
 
 I was kicked again under the table and, looking, saw Frances, Robert’s lady, her chin lifting and her face hardening.
 s=none;e:frances=angry;e:cohn=nervous
@@ -175,14 +145,11 @@ s=none;e:cohn=happy
 I was not kicked again.
 
 
-I said good night and went out.
-
-
-Cohn said he wanted to buy a paper and would walk to the corner with me.
-
+I said good night and went out. Cohn said he wanted to buy a paper and would walk to the corner with me.
+b=cafe-paris-ext-night
 
 “For God’s sake,” he said, “why did you say that about that girl in Strasbourg for? Didn’t you see Frances?”
-s=cohn;e:cohn=upset
+s=cohn;e:cohn=upset;c=cohn
 
 “No, why should I? If I know an American girl that lives in Strasbourg what the hell is it to Frances?”
 s=jake;e:jake=annoyed
@@ -194,7 +161,7 @@ s=cohn;e:cohn=nervous
 s=jake
 
 “You don’t know Frances. Any girl at all. Didn’t you see the way she looked?”
-s=cohn;e:cohn=fearful
+s=cohn
 
 “Oh, well,” I said, “let’s go to Senlis.”
 s=jake;e:jake=neutral
@@ -212,7 +179,7 @@ s=cohn;e:cohn=happy
 s=jake
 
 “Good night, Jake,” he said, and started back to the café.
-s=cohn;e:cohn=neutral
+s=cohn;e:cohn=neutral;n:jake=Jake;c=
 
 “You forgot to get your paper,” I said.
 s=jake
@@ -221,7 +188,7 @@ s=jake
 s=cohn;e:cohn=surprised
 
 He walked with me up to the kiosk at the corner.
-s=none
+s=none;b=kiosk-corner-night;c=
 
 “You are not sore, are you, Jake?”
 s=cohn;e:cohn=nervous
@@ -12625,7 +12592,7 @@ He had continued to come to the fiesta each year after he was married.
 The next day his wife came in from Tafalla to be with the body, and the day after there was a service in the chapel of San Fermin, and the coffin was carried to the railway-station by members of the dancing and drinking society of Tafalla.
 
 
-The drums marched ahead, and there was music on the fifes, and behind the men who carried the coffin walked the wife and two children.…
+The drums marched ahead, and there was music on the fifes, and behind the men who carried the coffin walked the wife and two children…
 
 
 Behind them marched all the members of the dancing and drinking societies of Pamplona, Estella, Tafalla, and Sanguesa who could stay over for the funeral.
