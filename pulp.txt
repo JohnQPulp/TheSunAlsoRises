@@ -5258,7 +5258,7 @@ Our friend and his family did not come back.
 
 
 A waiter passed in the corridor with our sandwiches and the bottle of Chablis, and we called him in.
-n:waiter=Waiter
+n:waiter1=Waiter
 
 “You’re going to work today,” I said.
 s=jake;e:jake=neutral
@@ -5267,19 +5267,19 @@ He nodded his head.
 s=
 
 “They start now, at ten-thirty.”
-s=waiter;e:waiter=weary
+s=waiter1;e:waiter1=weary
 
 “When do we eat?”
 s=jake
 
 “Huh! When do I eat?”
-s=waiter
+s=waiter1
 
 He left two glasses for the bottle, and we paid him for the sandwiches and tipped him.
 s=none
 
 “I’ll get the plates,” he said, “or bring them with you.”
-s=waiter
+s=waiter1
 
 We ate the sandwiches and drank the Chablis and watched the country out of the window. The grain was just beginning to ripen and the fields were full of poppies. The pastureland was green, and there were fine trees, and sometimes big rivers and châteaux off in the trees.
 s=
@@ -5531,7 +5531,7 @@ Bill tried to talk some Spanish to one of the carabineers, but it did not go ver
 
 
 Robert Cohn asked, pointing with his finger, if there were any trout in the stream, and the carabineer said yes, but not many.
-n:guard=Carabineer
+n:guard1=Carabineer
 
 I asked him if he ever fished, and he said no, that he didn’t care for it.
 
@@ -5549,7 +5549,7 @@ The carabineer waved him back with his sword. The man turned without saying anyt
 s=jake
 
 “He hasn’t got any passport.”
-s=guard
+s=guard1
 
 I offered the guard a cigarette.
 s=none
@@ -5564,13 +5564,13 @@ The guard spat in the dust.
 s=none
 
 “Oh, he’ll just wade across the stream.”
-s=guard
+s=guard1
 
 “Do you have much smuggling?”
 s=jake
 
 “Oh,” he said, “they go through.”
-s=guard
+s=guard1
 
 The chauffeur came out, folding up the papers and putting them in the inside pocket of his coat.
 s=none
@@ -6536,10 +6536,10 @@ We got down and the driver handed down our bags and the rod-case.
 
 
 A carabineer in his cocked hat and yellow leather cross-straps came up.
-n:guard=Carabineer
+n:guard2=Carabineer
 
 “What’s in there?” he pointed to the rod-case.
-s=guard;e:guard=suspicious
+s=guard2;e:guard2=suspicious
 
 I opened it and showed him. He asked to see our fishing permits and I got them out.
 s=none
@@ -6551,13 +6551,13 @@ He looked at the date and then waved us on.
 s=jake
 
 “Yes. Of course.”
-s=guard;e:guard=neutral
+s=guard2;e:guard2=neutral
 
 We went up the street, past the whitewashed stone houses, families sitting in their doorways watching us, to the inn.
 s=none
 
 The fat woman who ran the inn came out from the kitchen and shook hands with us.
-n:landlady=Innkeeper;e:landlady=happy
+n:landlady1=Innkeeper;e:landlady1=happy
 
 She took off her spectacles, wiped them, and put them on again.
 
@@ -6599,10 +6599,10 @@ I went out to find the woman and ask her how much the room and board was.
 s=none
 
 She put her hands under her apron and looked away from me.
-e:landlady=neutral
+e:landlady1=neutral
 
 “Twelve pesetas.”
-s=landlady
+s=landlady1
 
 “Why, we only paid that in Pamplona.”
 s=jake;e:jake=annoyed
@@ -6614,13 +6614,13 @@ s=none
 s=jake
 
 “We’ve put in a bathroom.”
-s=landlady
+s=landlady1
 
 “Haven’t you got anything cheaper?”
 s=jake
 
 “Not in the summer. Now is the big season.”
-s=landlady
+s=landlady1
 
 We were the only people in the inn. Well, I thought, it’s only a few days.
 s=none;e:jake=neutral
@@ -6629,7 +6629,7 @@ s=none;e:jake=neutral
 s=jake
 
 “Oh, yes.”
-s=landlady
+s=landlady1
 
 “Well,” I said. “It’s all right.”
 s=jake
@@ -12446,13 +12446,13 @@ They were still waiting for the tickets to go on sale at seven o’clock.
 
 
 I hurried across the street to the café. The waiter told me that my friends had been there and gone.
-n:waiter=Waiter
+n:waiter2=Waiter
 
 “How many were they?”
 s=jake
 
 “Two gentlemen and a lady.”
-s=waiter;e:waiter=neutral
+s=waiter2;e:waiter2=neutral
 
 That was all right. Bill and Mike were with Edna.
 s=none;e:jake=neutral
@@ -12542,13 +12542,13 @@ The waiters were sweeping out the café and mopping off the tables. One came ove
 
 
 “Anything happen at the *encierro*?”
-s=waiter;e:waiter=neutral
+s=waiter2;e:waiter2=neutral
 
 “I didn’t see it all. One man was badly *cogido*.”
 s=jake
 
 “Where?”
-s=waiter
+s=waiter2
 
 “Here.”
 s=jake
@@ -12560,7 +12560,7 @@ The waiter nodded his head and swept the crumbs from the table with his cloth.
 
 
 “Badly *cogido*,” he said.
-s=waiter;e:waiter=scowling
+s=waiter2;e:waiter2=scowling
 
 “All for sport. All for pleasure.”
 
@@ -12572,40 +12572,40 @@ He poured the milk and coffee. It came out of the long spouts in two streams int
 
 
 The waiter nodded his head.
-e:waiter=serious
+e:waiter2=serious
 
 “Badly *cogido* through the back,” he said.
-s=waiter
+s=waiter2
 
 He put the pots down on the table and sat down in the chair at the table.
 s=none
 
 “A big horn wound. All for fun. Just for fun. What do you think of that?”
-s=waiter;e:waiter=scowling
+s=waiter2;e:waiter2=scowling
 
 “I don’t know.”
 s=jake;e:jake=neutral
 
 “That’s it. All for fun. Fun, you understand.”
-s=waiter
+s=waiter2
 
 “You’re not an aficionado?”
 s=jake
 
 “Me? What are bulls? Animals. Brute animals.”
-s=waiter;e:waiter=angry
+s=waiter2;e:waiter2=angry
 
 He stood up and put his hand on the small of his back.
 s=none
 
 “Right through the back. A *cornada* right through the back. For fun—you understand.”
-s=waiter
+s=waiter2
 
 He shook his head and walked away, carrying the coffeepots. Two men were going by in the street.
 s=none
 
 The waiter shouted to them. They were grave-looking. One shook his head. “*Muerto!*” he called.
-s=waiter
+s=waiter2
 
 The waiter nodded his head.
 s=none
@@ -12614,13 +12614,13 @@ The two men went on. They were on some errand. The waiter came over to my table.
 
 
 “You hear? *Muerto.* Dead. He’s dead. With a horn through him. All for morning fun. *Es muy flamenco.*”
-s=waiter;e:waiter=serious
+s=waiter2;e:waiter2=serious
 
 “It’s bad.”
 s=jake
 
 “Not for me,” the waiter said. “No fun in that for me.”
-s=waiter;e:waiter=scowling
+s=waiter2;e:waiter2=scowling
 
 Later in the day we learned that the man who was killed was named Vicente Girones, and came from near Tafalla.
 s=none
@@ -13391,7 +13391,7 @@ We were back again in front of the hotel. All the tables were set now, and alrea
 s=brett;e:brett=serious
 
 “Your frients haff gone upstairs,” the German maître d’hôtel said in English.
-n:waiter=Waiter;s=waiter;e:waiter=happy
+n:waiter3=Waiter;s=waiter3;e:waiter3=happy
 
 He was a continual eavesdropper. Brett turned to him:
 s=none
@@ -13403,7 +13403,7 @@ s=brett;e:brett=neutral
 e:brett=scowling
 
 “No, *ma’am*.”
-s=waiter
+s=waiter3
 
 “Good,” said Brett.
 s=brett
@@ -13412,16 +13412,16 @@ s=brett
 s=jake;e:jake=neutral
 
 He smiled his dirty little pink-and-white smile.
-s=none;e:waiter=smirking
+s=none;e:waiter3=smirking
 
 “Iss madam eating here?”
-s=waiter
+s=waiter3
 
 “No,” Brett said.
 s=brett
 
 “Den I think a tabul for two will be enuff.”
-s=waiter
+s=waiter3
 
 “Don’t talk to him,” Brett said. “Mike must have been in bad shape,” she said on the stairs.
 s=brett;e:brett=unhappy
@@ -13526,10 +13526,10 @@ s=bill;e:bill=neutral
 s=jake
 
 Outside on the terrace under the arcade the German head waiter came up. His red cheeks were shiny. He was being polite.
-s=none;e:waiter=happy
+s=none;e:waiter3=happy
 
 “I haff a tabul for two for you gentlemen,” he said.
-s=waiter
+s=waiter3
 
 “Go sit at it,” Bill said.
 s=bill;e:bill=angry
@@ -14831,13 +14831,13 @@ I could sit in the Marinas and listen.
 
 
 “How does one eat inside?” I asked the waiter.
-n:waiter=Waiter;s=jake
+n:waiter4=Waiter;s=jake
 
 Inside the café was a restaurant.
 s=none
 
 “Well. Very well. One eats very well.”
-s=waiter;e:waiter=happy
+s=waiter4;e:waiter4=happy
 
 “Good.”
 s=jake
@@ -14870,7 +14870,7 @@ The *marc* was good. I had a second *marc* after the coffee.
 
 
 The waiter seemed a little offended about the flowers of the Pyrenees, so I overtipped him. That made him happy.
-e:waiter=neutral
+e:waiter4=neutral
 
 It felt comfortable to be in a country where it is so simple to make people happy.
 e:jake=contemplative
