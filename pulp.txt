@@ -1952,7 +1952,7 @@ It is awfully easy to be hard-boiled about everything in the daytime, but at nig
 r=title
 
 In the morning I walked down the Boulevard to the Rue Soufflot for coffee and brioche.
-e:jake=happy
+e:jake=happy;b=coffee-street
 
 It was a fine morning. The horse-chestnut trees in the Luxembourg gardens were in bloom.
 
@@ -1970,12 +1970,12 @@ Students went by going up to the law school, or down to the Sorbonne. The Boulev
 
 
 I got on an S bus and rode down to the Madeleine, standing on the back platform.
-
+b=light
 
 From the Madeleine I walked along the Boulevard des Capucines to the Opéra, and up to my office.
 
 
-I passed the man with the jumping frogs and the man with the boxer toys.<e>Nice Twain reference. (Really wish I was reading Twain.)</e>
+I passed the man with the jumping frogs and the man with the boxer toys.<e>Twain reference? I'm not sure, but I wish I was reading Twain.</e>
 
 
 I stepped aside to avoid walking into the thread with which his girl assistant manipulated the boxers.
@@ -1994,19 +1994,19 @@ I walked across the avenue and turned in to my office.
 
 
 Upstairs in the office I read the French morning papers, smoked, and then sat at the typewriter and got off a good morning’s work.
-e:jake=neutral
+e:jake=neutral;b=office-int
 
 At eleven o’clock I went over to the Quai d’Orsay in a taxi and went in and sat with about a dozen correspondents, while the foreign-office mouthpiece, a young Nouvelle Revue Française diplomat in horn-rimmed spectacles, talked and answered questions for half an hour.
-
+b=light
 
 The President of the Council was in Lyons making a speech, or, rather he was on his way back.
 
 
-Several people asked questions to hear themselves talk and there were a couple of questions asked by news service men who wanted to know the answers.
+Several people asked questions to hear themselves talk and there were a couple of questions asked by news service men who wanted to know the answers. There was no news.
 
 
-There was no news. I shared a taxi back from the Quai d’Orsay with Woolsey and Krum.
-
+I shared a taxi back from the Quai d’Orsay with Woolsey and Krum.
+b=taxi-abstract
 
 “What do you do nights, Jake?” asked Krum. “I never see you around.”
 n:krum=Krum;s=krum;n:woolsey=Woolsey
@@ -2078,7 +2078,7 @@ s=jake
 s=krum
 
 I waved goodbye. Krum put his head out.
-s=none
+s=none;b=office-ext
 
 “See you at the lunch on Wednesday.”
 s=krum
@@ -2086,14 +2086,17 @@ s=krum
 “You bet.”
 s=jake
 
-I went to the office in the elevator. Robert Cohn was waiting for me.
-s=none
+I went to the office in the elevator.
+b=office-int;s=
+
+Robert Cohn was waiting for me.
+s=none;c=cohn
 
 “Hello, Jake,” he said. “Going out to lunch?”
 s=cohn;e:cohn=neutral
 
 “Yes. Let me see if there is anything new.”
-s=jake
+s=jake;e:jake=
 
 “Where will we eat?”
 s=cohn
@@ -2111,7 +2114,7 @@ s=jake
 s=cohn
 
 In the restaurant we ordered hors d’œuvres and beer. The sommelier brought the beer, tall, beaded on the outside of the steins, and cold.
-s=none
+s=none;c=;b=wetzel-int
 
 There were a dozen different dishes of hors d’œuvres.
 
@@ -2204,7 +2207,7 @@ s=jake
 s=cohn
 
 “Yes,” I said. “She was a V.A.D. in a hospital I was in during the war.”
-s=jake
+s=jake;e:jake=serious
 
 “She must have been just a kid then.”
 s=cohn
@@ -2303,7 +2306,7 @@ s=cohn
 s=jake
 
 After we finished the lunch we walked up to the Café de la Paix and had coffee.
-s=none
+s=none;b=light
 
 I could feel Cohn wanted to bring up Brett again, but I held him off it.
 
