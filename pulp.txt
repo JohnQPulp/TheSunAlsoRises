@@ -9878,7 +9878,7 @@ s=jake;e:jake=surprised
 s=romero;e:romero=happy
 
 One of three men who had been sitting on the beds came up and asked us if we spoke French.
-n:critic=Man;s=none;e:critic=neutral
+n:critic=?;s=none;e:critic=neutral
 
 “Would you like me to interpret for you? Is there anything you would like to ask Pedro Romero?”
 s=critic
@@ -10285,16 +10285,10 @@ The next day there was no bullfight scheduled. But all day and all night the fie
 ### Chapter XVI
 r=title
 
-In the morning it was raining. A fog had come over the mountains from the sea.
+In the morning it was raining. A fog had come over the mountains from the sea. You could not see the tops of the mountains. The plateau was dull and gloomy, and the shapes of the trees and the houses were changed.
+b=pamplona-rain-wide
 
-
-You could not see the tops of the mountains. The plateau was dull and gloomy, and the shapes of the trees and the houses were changed.
-
-
-I walked out beyond the town to look at the weather.
-
-
-The bad weather was coming over the mountains from the sea.
+I walked out beyond the town to look at the weather. The bad weather was coming over the mountains from the sea.
 
 
 The flags in the square hung wet from the white poles and the banners were wet and hung damp against the front of the houses, and in between the steady drizzle the rain came down and drove everyone under the arcades and made pools of water in the square, and the streets wet and dark and deserted; yet the fiesta kept up without any pause.
@@ -10307,16 +10301,16 @@ The covered seats of the bullring had been crowded with people sitting out of th
 
 
 The crowd was in the cafés and the dancers came in, too, and sat, their tight-wound white legs under the tables, shaking the water from their belled caps, and spreading their red and purple jackets over the chairs to dry.
-
+b=pamplona-cafe-int
 
 It was raining hard outside.
 
 
 I left the crowd in the café and went over to the hotel to get shaved for dinner.
-
+b=light
 
 I was shaving in my room when there was a knock on the door.
-
+b=montoya-room
 
 “Come in,” I called.
 s=jake
@@ -10345,11 +10339,8 @@ s=jake
 Montoya smiled his embarrassed smile.
 s=none;e:montoya=nervous
 
-“Look,” he said.
+“Look,” he said. “Do you know the American ambassador?”
 s=montoya
-
-“Do you know the American ambassador?”
-
 
 “Yes,” I said. “Everybody knows the American ambassador.”
 s=jake
@@ -10378,11 +10369,8 @@ s=none
 Montoya was standing there looking more embarrassed.
 e:montoya=nervous
 
-“Look,” he said.
+“Look,” he said. “I’ve just had a message from them at the Grand Hotel that they want Pedro Romero and Marcial Lalanda to come over for coffee tonight after dinner.”
 s=montoya
-
-“I’ve just had a message from them at the Grand Hotel that they want Pedro Romero and Marcial Lalanda to come over for coffee tonight after dinner.”
-e:montoya=serious
 
 “Well,” I said, “it can’t hurt Marcial any.”
 s=jake;e:jake=thinking
@@ -10409,13 +10397,10 @@ s=none;e:montoya=happy
 s=montoya
 
 “That’s what I’d do.”
-s=jake
+s=jake;e:jake=
 
-“Look,” said Montoya.
+“Look,” said Montoya. “People take a boy like that. They don’t know what he’s worth. They don’t know what he means. Any foreigner can flatter him. They start this Grand Hotel business, and in one year they’re through.”
 s=montoya;e:montoya=serious
-
-“People take a boy like that. They don’t know what he’s worth. They don’t know what he means. Any foreigner can flatter him. They start this Grand Hotel business, and in one year they’re through.”
-
 
 “Like Algabeno,” I said.
 s=jake
@@ -10439,7 +10424,7 @@ s=montoya
 s=jake
 
 “He’s such a fine boy,” said Montoya.
-s=montoya
+s=montoya;e:montoya=thinking
 
 “He ought to stay with his own people. He shouldn’t mix in that stuff.”
 
@@ -10448,19 +10433,19 @@ s=montoya
 s=jake
 
 “No,” said Montoya, “I have to go.”
-s=montoya
+s=montoya;e:montoya=
 
 He went out.
 s=none
 
 I went downstairs and out the door and took a walk around through the arcades around the square.
-
+b=pamplona-rain-wide
 
 It was still raining. I looked in at the Iruña for the gang and they were not there, so I walked on around the square and back to the hotel.
 
 
 They were eating dinner in the downstairs dining-room.
-
+b=montoya-down-rain-dining
 
 They were well ahead of me and it was no use trying to catch them.
 
@@ -10591,17 +10576,20 @@ s=
 “I am anxious to see it,” the critic said. “I would like to be convinced.”
 s=critic;e:critic=serious
 
-“He doesn’t like my work much.” Romero turned to me. He was serious.
+“He doesn’t like my work much.” Romero turned to me.
 s=romero;e:romero=serious
+
+He was serious.
+s=
 
 The critic explained that he liked it very much, but that so far it had been incomplete.
 s=none;e:critic=neutral
 
 “Wait till tomorrow, if a good one comes out.”
-s=critic
+s=romero
 
 “Have you seen the bulls for tomorrow?” the critic asked me.
-
+s=critic
 
 “Yes. I saw them unloaded.”
 s=jake
@@ -10619,13 +10607,13 @@ s=jake
 
 
 “Oh, yes,” said Romero.
-s=romero
+s=romero;e:romero=happy
 
 “They won’t weigh twenty-six *arrobas*,” said the critic.
-s=critic
+s=critic;e:critic=serious
 
 “No,” said Romero.
-s=romero
+s=romero;e:romero=
 
 “They’ve got bananas for horns,” the critic said.
 s=critic;e:critic=smirking
@@ -10633,8 +10621,11 @@ s=critic;e:critic=smirking
 “You call them bananas?” asked Romero.
 s=romero;e:romero=happy
 
-He turned to me and smiled. “*You* wouldn’t call them bananas?”
-s=romero
+He turned to me and smiled.
+s=
+
+“*You* wouldn’t call them bananas?”
+s=romero;e:romero=serious
 
 “No,” I said.
 s=jake
@@ -10654,8 +10645,11 @@ s=jake
 “You *are* superior.”
 s=brett
 
-“Tell him that bulls have no balls,” Mike shouted. He was drunk.
+“Tell him that bulls have no balls,” Mike shouted.
 s=mike;e:mike=excited
+
+He was drunk.
+s=
 
 Romero looked at me inquiringly.
 s=none;e:romero=confused
@@ -10663,8 +10657,11 @@ s=none;e:romero=confused
 “Drunk,” I said. “*Borracho! Muy borracho!*”
 s=jake
 
-“You might introduce your friends,” Brett said. She had not stopped looking at Pedro Romero.
-s=brett
+“You might introduce your friends,” Brett said.
+s=brett;e:brett=smirking
+
+She had not stopped looking at Pedro Romero.
+s=
 
 I asked them if they would like to have coffee with us. They both stood up.
 s=none
@@ -10673,7 +10670,7 @@ Romero’s face was very brown. He had very nice manners.
 e:romero=neutral
 
 I introduced them all around and they started to sit down, but there was not enough room, so we all moved over to the big table by the wall to have coffee.
-
+b=montoya-down-wall-dining
 
 Mike ordered a bottle of Fundador and glasses for everybody. There was a lot of drunken talking.
 
@@ -10693,17 +10690,23 @@ s=none;e:romero=happy
 “This gentleman,” I said, “is a writer.”
 s=jake
 
-Romero was impressed. “This other one, too,” I said, pointing at Cohn.
-s=none;e:romero=surprised
+Romero was impressed.
+s=
 
-“He looks like Villalta,” Romero said, looking at Bill. “Rafael, doesn’t he look like Villalta?”
+“This other one, too,” I said, pointing at Cohn.
+s=jake
+
+“He looks like Villalta,” Romero said, looking at Bill.
 s=romero;e:romero=happy
+
+“Rafael, doesn’t he look like Villalta?”
+n:critic=Rafael
 
 “I can’t see it,” the critic said.
 s=critic;e:critic=serious
 
 “Really,” Romero said in Spanish.
-s=romero
+s=romero;e:romero=
 
 “He looks a lot like Villalta. What does the drunken one do?”
 
@@ -10729,11 +10732,8 @@ s=romero
 “He’s drunk.”
 s=jake
 
-“Jake,” Mike called.
+“Jake,” Mike called. “Tell him bulls have no balls!”
 s=mike
-
-“Tell him bulls have no balls!”
-
 
 “You understand?” I said.
 s=jake
@@ -10745,7 +10745,7 @@ I was sure he didn’t, so it was all right.
 s=none
 
 “Tell him Brett wants to see him put on those green pants.”
-s=mike
+s=mike;e:mike=smirking
 
 “Pipe down, Mike.”
 s=jake;e:jake=angry
@@ -10790,12 +10790,12 @@ Montoya went out of the room. Mike was on his feet proposing a toast.
 
 
 “Let’s all drink to—” he began.
-s=mike;e:mike=happy
+s=mike;e:mike=smirking
 
-“Pedro Romero,” I said. Everybody stood up.
-s=jake
+“Pedro Romero,” I said.
+s=jake;e:jake=serious
 
-Romero took it very seriously, and we touched glasses and drank it down, I rushing it a little because Mike was trying to make it clear that that was not at all what he was going to drink to.
+Everybody stood up. Romero took it very seriously, and we touched glasses and drank it down, I rushing it a little because Mike was trying to make it clear that that was not at all what he was going to drink to.
 s=none;e:romero=serious
 
 But it went off all right, and Pedro Romero shook hands with everyone and he and the critic went out together.
@@ -10817,7 +10817,7 @@ s=mike
 
 
 “Oh, cut it out, Mike,” Cohn said.
-s=cohn;e:cohn=serious
+s=cohn;e:cohn=wary
 
 “Do you think Brett wants you here? Do you think you add to the party? Why don’t you say something?”
 s=mike
@@ -10856,10 +10856,19 @@ The childish, drunken heroics of it. It was his affair with a lady of title.
 
 
 “Jake,” Mike said.
+s=mike;e:mike=upset
+
+He was almost crying.
+s=
+
+“You know I’m right. Listen, you!”
+s=mike
+
+He turned to Cohn:
+s=
+
+“Go away! Go away now!”
 s=mike;e:mike=angry
-
-He was almost crying. “You know I’m right. Listen, you!” He turned to Cohn: “Go away! Go away now!”
-
 
 “But I won’t go, Mike,” said Cohn.
 s=cohn
@@ -10874,7 +10883,7 @@ I grabbed Mike.
 
 
 “Come on to the café,” I said. “You can’t hit him here in the hotel.”
-s=jake
+s=jake;e:jake=serious
 
 “Good!” said Mike. “Good idea!”
 s=mike
@@ -10885,23 +10894,23 @@ s=none
 Bill was sitting at the table pouring another glass of Fundador.
 e:bill=neutral;e:brett=neutral
 
-Brett was sitting looking straight ahead at nothing.<e>Well, something interesting almost happened. And then it didn't. Good old iceberg theory: blow the main character's dick off and then do absolutely nothing with that premise. (I'm so bored.)</e>
+Brett was sitting looking straight ahead at nothing.<e>Well, something almost happened. But then it didn't. (Damn you, iceberg theory!)</e>
 
 
 Outside on the square it had stopped raining and the moon was trying to get through the clouds.
-
+b=pamplona-wide
 
 There was a wind blowing.
 
 
 The military band was playing and the crowd was massed on the far side of the square where the fireworks specialist and his son were trying to send up fire balloons.
-
+b=fire-balloons
 
 A balloon would start up jerkily, on a great bias, and be torn by the wind or blown against the houses of the square.
 
 
 Some fell into the crowd. The magnesium flared and the fireworks exploded and chased about in the crowd.
-
+b=light
 
 There was no one dancing in the square. The gravel was too wet.
 
@@ -10910,7 +10919,7 @@ Brett came out with Bill and joined us.
 e:brett=neutral
 
 We stood in the crowd and watched Don Manuel Orquito, the fireworks king, standing on a little platform, carefully starting the balloons with sticks, standing above the heads of the crowd to launch the balloons off into the wind.
-
+b=fire-balloons
 
 The wind brought them all down, and Don Manuel Orquito’s face was sweaty in the light of his complicated fireworks that fell into the crowd and charged and chased, sputtering and cracking, between the legs of the people.
 
@@ -10919,7 +10928,7 @@ The people shouted as each new luminous paper bubble careened, caught fire, and 
 
 
 “They’re razzing Don Manuel,” Bill said.
-s=bill
+s=bill;e:bill=
 
 “How do you know he’s Don Manuel?” Brett said.
 s=brett
@@ -10955,7 +10964,7 @@ s=mike
 s=brett
 
 Inside, the café was crowded and very noisy. No one noticed us come in. We could not find a table.
-s=none
+s=none;b=pamplona-cafe-int
 
 There was a great noise going on.
 
@@ -10964,18 +10973,12 @@ There was a great noise going on.
 s=bill;e:bill=unhappy
 
 Outside the paseo was going in under the arcade. There were some English and Americans from Biarritz in sport clothes scattered at the tables.
-s=none
+s=none;b=light
 
-Some of the women stared at the people going by with lorgnons.
-
-
-We had acquired, at some time, a friend of Bill’s from Biarritz.
+Some of the women stared at the people going by with lorgnons. We had acquired, at some time, a friend of Bill’s from Biarritz.
 
 
-She was staying with another girl at the Grand Hotel.
-
-
-The other girl had a headache and had gone to bed.
+She was staying with another girl at the Grand Hotel. The other girl had a headache and had gone to bed.
 
 
 “Here’s the pub,” Mike said.
@@ -10985,7 +10988,7 @@ It was the Bar Milano, a small, tough bar where you could get food and where the
 s=none
 
 We all sat down at a table and ordered a bottle of Fundador. The bar was not full.
-
+b=bar-milano
 
 There was nothing going on.
 
@@ -11015,10 +11018,10 @@ s=bill;e:bill=unhappy
 s=mike
 
 “I’ll festa them,” Bill said.
-s=bill
+s=bill;e:bill=serious
 
 “You’re an extraordinarily beautiful girl.”
-s=mike
+s=mike;e:mike=smirking
 
 Mike turned to Bill’s friend.
 s=
@@ -11062,7 +11065,13 @@ s=cohn;e:cohn=unhappy
 “What a hell of a reason for sitting with anyone. If you’re tight, go to bed. Go on to bed.”
 s=brett
 
-“Was I rude enough to him?” Brett asked. Cohn was gone. “My God! I’m so sick of him!”
+“Was I rude enough to him?” Brett asked.
+s=brett
+
+Cohn was gone.
+s=
+
+“My God! I’m so sick of him!”
 s=brett
 
 “He doesn’t add much to the gayety.”
@@ -11081,7 +11090,7 @@ s=brett
 s=jake
 
 “Yes. He would. You know I do know how he feels. He can’t believe it didn’t mean anything.”
-s=brett
+s=brett;e:brett=serious
 
 “I know.”
 s=jake
@@ -11167,11 +11176,11 @@ s=brett
 “I’m not sorry for him. I hate him, myself.”
 s=jake
 
-“I hate him, too,” she shivered. “I hate his damned suffering.”<e>I sure hope his people get—</e>
+“I hate him, too,” she shivered. “I hate his damned suffering.”<e>Oh those Jews and their suffering.</e>
 s=brett
 
 We walked arm in arm down the side street away from the crowd and the lights of the square.
-s=none
+s=none;b=pamplona-wide-night
 
 The street was dark and wet, and we walked along it to the fortifications at the edge of town.
 
@@ -11186,7 +11195,7 @@ s=jake
 s=brett
 
 We walked out across the wet grass and onto the stone wall of the fortifications.
-s=none
+s=none;b=fortifications
 
 I spread a newspaper on the stone and Brett sat down.
 
@@ -11234,10 +11243,10 @@ s=jake
 s=brett
 
 We climbed down. It was clouding over again.
-s=none
+s=none;b=light
 
 In the park it was dark under the trees.
-
+b=pamplona-park
 
 “Do you still love me, Jake?”
 s=brett;e:brett=neutral
@@ -11285,7 +11294,7 @@ s=jake
 s=brett
 
 “No.”
-s=jake
+s=jake;e:jake=
 
 “I’ve got to do something. I’ve got to do something I really want to do. I’ve lost my self-respect.”
 s=brett;e:brett=unhappy
@@ -11318,13 +11327,13 @@ s=brett;e:brett=unhappy
 s=jake
 
 “Come on,” Brett said. “Let’s go and find him.”
-s=brett
+s=brett;e:brett=serious
 
 Together we walked down the gravel path in the park in the dark, under the trees and then out from under the trees and past the gate into the street that led into town.
-s=none
+s=none;b=light
 
 Pedro Romero was in the café. He was at a table with other bullfighters and bullfight critics.
-
+b=pamplona-cafe-int
 
 They were smoking cigars. When we came in they looked up. Romero smiled and bowed.
 e:romero=happy
@@ -11354,7 +11363,7 @@ s=jake
 s=brett;e:brett=unhappy
 
 “Well,” I said.
-s=jake
+s=jake;e:jake=weary
 
 “My God!” said Brett, “the things a woman goes through.”
 s=brett
@@ -11363,7 +11372,7 @@ s=brett
 s=jake
 
 “Oh, I do feel such a bitch.”
-s=brett
+s=brett;e:jake=
 
 I looked across at the table. Pedro Romero smiled. He said something to the other people at his table, and stood up.
 s=none;e:romero=happy
@@ -11410,17 +11419,17 @@ s=jake
 “Yes,” he said. “Algabeno was hurt today in Madrid. Did you hear?”
 s=romero;e:romero=neutral
 
-“No,” I said.
-s=jake
-
-“Badly?”
-
+“No,” I said. “Badly?”
+s=jake;e:jake=serious
 
 He shook his head.
 s=none
 
-“Nothing. Here,” he showed his hand. Brett reached out and spread the fingers apart.
+“Nothing. Here,” he showed his hand.
 s=romero
+
+Brett reached out and spread the fingers apart.
+s=
 
 “Oh!” he said in English, “you tell fortunes?”
 s=romero;e:romero=happy
@@ -11431,8 +11440,11 @@ s=brett;e:brett=happy
 “No. I like it.”
 s=romero
 
-He spread his hand flat on the table. “Tell me I live for always, and be a millionaire.”
+He spread his hand flat on the table.
+s=
 
+“Tell me I live for always, and be a millionaire.”
+s=romero
 
 He was still very polite, but he was surer of himself.
 s=none
@@ -11455,7 +11467,10 @@ s=none;e:brett=happy
 “Good,” Romero laughed.
 s=romero;e:romero=happy
 
-“At a thousand duros apiece,” he said to me in Spanish. “Tell me some more.”
+“At a thousand duros apiece,” he said to me in Spanish.
+
+
+“Tell me some more.”
 
 
 “It’s a good hand,” Brett said. “I think he’ll live a long time.”
@@ -11495,7 +11510,7 @@ s=none
 s=brett
 
 “Yes,” he said. “Pretty well, sometimes. But I must not let anybody know. It would be very bad, a torero who speaks English.”
-s=romero
+s=romero;e:romero=
 
 “Why?” asked Brett.
 s=brett
@@ -11521,11 +11536,14 @@ s=romero
 I glanced over. He had mimicked exactly the expression of Nacional.
 s=none
 
-He smiled, his face natural again. “No. I must forget English.”
+He smiled, his face natural again.
+
+
+“No. I must forget English.”
 s=romero;e:romero=happy
 
 “Don’t forget it, yet,” Brett said.
-s=brett
+s=brett;e:brett=smirking
 
 “No?”
 s=romero
@@ -11534,7 +11552,7 @@ s=romero
 s=brett
 
 “All right.”
-s=romero
+s=romero;e:romero=smirking
 
 He laughed again.
 s=none;e:romero=happy
@@ -11567,13 +11585,13 @@ It was a final look to ask if it were understood. It was understood all right.
 s=brett
 
 He sat down and looked at her across the table. I went out.
-s=none
+s=none;b=light
 
 The hard-eyed people at the bullfighter table watched me go. It was not pleasant.
 
 
 When I came back and looked in the café, twenty minutes later, Brett and Pedro Romero were gone.
-
+b=pamplona-cafe-int
 
 The coffee-glasses and our three empty cognac-glasses were on the table.
 
