@@ -9142,41 +9142,29 @@ e:jake=neutral
 ### Chapter XV<e>Okay reader, five chapters to go. Five long-ass chapters. But we can finish this together, and then we never have to read another modernist book again.</e>
 r=title
 
-At noon of Sunday, the 6th of July, the fiesta exploded.
+At noon of Sunday, the 6th of July, the fiesta exploded. There is no other way to describe it. People had been coming in all day from the country, but they were assimilated in the town and you did not notice them.
+b=pamplona-wide
 
-
-There is no other way to describe it. People had been coming in all day from the country, but they were assimilated in the town and you did not notice them.
-
-
-The square was as quiet in the hot sun as on any other day.
+The square was as quiet in the hot sun as on any other day.<e>Wait what, you just said "the fiesta exploded". You don't make this stuff easy to visualize, Hemingway.</e>
 
 
 The peasants were in the outlying wine-shops. There they were drinking, getting ready for the fiesta.
 
 
-They had come in so recently from the plains and the hills that it was necessary that they make their shifting in values gradually.
+They had come in so recently from the plains and the hills that it was necessary that they make their shifting in values gradually. They could not start in paying café prices. They got their money’s worth in the wine-shops.
 
 
-They could not start in paying café prices. They got their money’s worth in the wine-shops.
-
-
-Money still had a definite value in hours worked and bushels of grain sold.
-
-
-Late in the fiesta it would not matter what they paid, nor where they bought.
+Money still had a definite value in hours worked and bushels of grain sold. Late in the fiesta it would not matter what they paid, nor where they bought.
 
 
 Now on the day of the starting of the fiesta of San Fermin they had been in the wine-shops of the narrow streets of the town since early morning.
 
 
-Going down the streets in the morning on the way to mass in the cathedral, I heard them singing through the open doors of the shops.
-
-
-They were warming up. There were many people at the eleven o’clock mass. San Fermin is also a religious festival.
+Going down the streets in the morning on the way to mass in the cathedral, I heard them singing through the open doors of the shops. They were warming up. There were many people at the eleven o’clock mass. San Fermin is also a religious festival.
 
 
 I walked down the hill from the cathedral and up the street to the café on the square.
-
+b=pamplona-square-festive-cafe
 
 It was a little before noon. Robert Cohn and Bill were sitting at one of the tables.
 e:cohn=neutral;e:bill=neutral
@@ -9200,7 +9188,7 @@ s=cohn
 s=jake
 
 Before the waiter brought the sherry the rocket that announced the fiesta went up in the square.
-s=none
+s=none;b=fireworks
 
 It burst and there was a gray ball of smoke high up above the Theatre Gayarre, across on the other side of the plaza.
 
@@ -9212,7 +9200,7 @@ I saw the bright flash as it burst and another little cloud of smoke appeared.
 
 
 By the time the second rocket had burst there were so many people in the arcade, that had been empty a minute before, that the waiter, holding the bottle high up over his head, could hardly get through the crowd to our table.
-
+b=pamplona-square-festive-crowded-cafe
 
 People were coming into the square from all sides, and down the street we heard the pipes and the fifes and the drums coming.
 
@@ -9259,11 +9247,11 @@ s=cohn;e:cohn=confused
 “We’re the foreigners,” Bill said.
 s=bill;e:bill=happy
 
-All the time rockets were going up. The café tables were all full now.
-s=none
+All the time rockets were going up.
+s=;b=fireworks
 
-The square was emptying of people and the crowd was filling the cafés.
-
+The café tables were all full now. The square was emptying of people and the crowd was filling the cafés.
+s=none;b=pamplona-square-festive-cafe
 
 “Where’s Brett and Mike?” Bill asked.
 s=bill;e:bill=neutral
@@ -9278,25 +9266,16 @@ The fiesta was really started.
 s=none
 
 It kept up day and night for seven days. The dancing kept up, the drinking kept up, the noise went on.
+b=pamplona-wide
+
+The things that happened could only have happened during a fiesta. Everything became quite unreal finally and it seemed as though nothing could have any consequences. It seemed out of place to think of consequences during the fiesta.
 
 
-The things that happened could only have happened during a fiesta.
-
-
-Everything became quite unreal finally and it seemed as though nothing could have any consequences.
-
-
-It seemed out of place to think of consequences during the fiesta.
-
-
-All during the fiesta you had the feeling, even when it was quiet, that you had to shout any remark to make it heard.
-
-
-It was the same feeling about any action. It was a fiesta and it went on for seven days.
+All during the fiesta you had the feeling, even when it was quiet, that you had to shout any remark to make it heard. It was the same feeling about any action. It was a fiesta and it went on for seven days.
 
 
 That afternoon was the big religious procession. San Fermin was translated from one church to another.
-
+b=festive-chapel-ext
 
 In the procession were all the dignitaries, civil and religious.
 
@@ -9334,11 +9313,14 @@ e:bill=happy
 They were all chanting. Brett wanted to dance but they did not want her to.
 
 
-They wanted her as an image to dance around. When the song ended with the sharp *riau-riau!* they rushed us into a wine-shop.
+They wanted her as an image to dance around.
 
+
+When the song ended with the sharp *riau-riau!* they rushed us into a wine-shop.
+b=light
 
 We stood at the counter. They had Brett seated on a wine-cask.
-
+b=wine-shop
 
 It was dark in the wine-shop and full of men singing, hard-voiced singing.
 
@@ -9364,17 +9346,14 @@ They had hung a wreath of garlics around her neck. Someone insisted on giving he
 Somebody was teaching Bill a song. Singing it into his ear. Beating time on Bill’s back.
 
 
-I explained to them that I would be back. Outside in the street I went down the street looking for the shop that made leather wine-bottles.
+I explained to them that I would be back.
 
 
-The crowd was packed on the sidewalks and many of the shops were shuttered, and I could not find it.
-
-
-I walked as far as the church, looking on both sides of the street.
-
+Outside in the street I went down the street looking for the shop that made leather wine-bottles. The crowd was packed on the sidewalks and many of the shops were shuttered, and I could not find it. I walked as far as the church, looking on both sides of the street.
+b=light
 
 Then I asked a man and he took me by the arm and led me to it.
-n:shopkeeper=Shopkeeper
+n:shopkeeper=Shopkeeper;b=pamplona-shop
 
 The shutters were up but the door was open.
 
@@ -9422,10 +9401,10 @@ s=shopkeeper;e:shopkeeper=serious
 
 
 I paid and went out and along the street back to the wine-shop.
-s=none
+s=none;b=light
 
 It was darker than ever inside and very crowded. I did not see Brett and Bill, and someone said they were in the back room.
-
+b=wine-shop
 
 At the counter the girl filled the two wineskins for me. One held two litres. The other held five litres.
 
@@ -9446,7 +9425,7 @@ He tipped the big five-litre bag up and squeezed it so the wine hissed against t
 s=man
 
 In the back room Brett and Bill were sitting on barrels surrounded by the dancers.
-s=none;e:brett=happy;e:bill=happy
+s=none;e:brett=happy;e:bill=happy;b=wine-barrels-shop
 
 Everybody had his arms on everybody else’s shoulders, and they were all singing.
 
@@ -9473,7 +9452,7 @@ s=brett;e:brett=angry
 s=jake
 
 “Eat,” he said.
-s=man
+s=
 
 “What do you think it’s here for?”
 
@@ -9488,16 +9467,16 @@ Outside, above the singing, we could hear the music of the procession going by.
 
 
 “Isn’t that the procession?” Mike asked.
-s=mike;e:mike=curious
+s=mike;e:mike=
 
 “*Nada*,” someone said. “It’s nothing. Drink up. Lift the bottle.”
 s=
 
 “Where did they find you?” I asked Mike.
-s=jake
+s=jake;e:jake=
 
 “Someone brought me here,” Mike said. “They said you were here.”
-s=mike
+s=mike;e:mike=happy
 
 “Where’s Cohn?”
 s=jake
@@ -9515,7 +9494,7 @@ s=jake
 s=brett
 
 “How should we know,” Bill said.
-s=bill;e:bill=neutral
+s=bill;e:bill=scowling
 
 “I think he’s dead.”
 
@@ -9530,7 +9509,7 @@ s=none
 s=jake
 
 “Yes. Yes. *Arriba!* Up with the bottle!”
-s=man
+s=man;e:man=happy
 
 I took a drink.
 s=none
@@ -9541,11 +9520,11 @@ It tasted of licorice and warmed all the way. I could feel it warming in my stom
 “Where the hell is Cohn?”
 s=jake
 
-“I don’t know,” Mike said. “I’ll ask. Where is the drunken comrade?”
-s=mike
+“I don’t know,” Mike said. “I’ll ask.”
+s=mike;e:mike=
 
-he asked in Spanish.
-s=none
+“Where is the drunken comrade?” he asked in Spanish.
+
 
 “You want to see him?”
 s=man
@@ -9563,7 +9542,7 @@ s=none
 s=man
 
 In a back room Robert Cohn was sleeping quietly on some wine-casks.
-s=none;e:cohn=neutral
+s=none;e:cohn=neutral;b=wine-back-shop
 
 It was almost too dark to see his face. They had covered him with a coat and another coat was folded under his head.
 
@@ -9571,14 +9550,11 @@ It was almost too dark to see his face. They had covered him with a coat and ano
 Around his neck and on his chest was a big wreath of twisted garlics.
 
 
-“Let him sleep,” the man whispered.
+“Let him sleep,” the man whispered. “He’s all right.”
 s=man
 
-“He’s all right.”
-
-
 Two hours later Cohn appeared. He came into the front room still with the wreath of garlics around his neck.
-s=none;e:cohn=confused
+s=none;e:cohn=confused;b=wine-shop
 
 The Spaniards shouted when he came in. Cohn wiped his eyes and grinned.
 e:cohn=happy
@@ -9617,7 +9593,7 @@ s=brett;e:brett=neutral
 s=bill
 
 We said goodbye to many people and shook hands with many people and went out. Outside it was dark.
-s=none
+s=none;b=pamplone-wide-night
 
 “What time is it do you suppose?” Cohn asked.
 s=cohn
@@ -9626,40 +9602,40 @@ s=cohn
 s=mike;e:mike=smirking
 
 “No,” said Cohn, “what time is it?”
-s=cohn;e:cohn=confused
+s=cohn;e:cohn=scowling
 
 “It’s ten o’clock.”
-s=mike
+s=mike;e:mike=
 
 “What a lot we’ve drunk.”
-s=cohn
+s=cohn;e:cohn=
 
 “You mean what a lot *we’ve* drunk. You went to sleep.”
 s=mike;e:mike=angry
 
 Going down the dark streets to the hotel we saw the skyrockets going up in the square.
-s=none
+s=none;b=light
 
 Down the side streets that led to the square we saw the square solid with people, those in the centre all dancing.
 
 
 It was a big meal at the hotel. It was the first meal of the prices being doubled for the fiesta, and there were several new courses.
-
+b=montoya-dining
 
 After the dinner we were out in the town. I remember resolving that I would stay up all night to watch the bulls go through the streets at six o’clock in the morning, and being so sleepy that I went to bed around four o’clock.
-
+b=light
 
 The others stayed up.
 
 
 My own room was locked and I could not find the key, so I went upstairs and slept on one of the beds in Cohn’s room.
-
+b=montoya-room-int
 
 The fiesta was going on outside in the night, but I was too sleepy for it to keep me awake.
-
+b=dream
 
 When I woke it was the sound of the rocket exploding that announced the release of the bulls from the corrals at the edge of town.
-
+b=montoya-room-int
 
 They would race through the streets and out to the bullring.
 
@@ -9667,14 +9643,11 @@ They would race through the streets and out to the bullring.
 I had been sleeping heavily and I woke feeling I was too late.
 e:jake=surprised
 
-I put on a coat of Cohn’s and went out on the balcony. Down below the narrow street was empty.
+I put on a coat of Cohn’s and went out on the balcony. Down below the narrow street was empty. All the balconies were crowded with people.
+b=light
 
-
-All the balconies were crowded with people. Suddenly a crowd came down the street.
-
-
-They were all running, packed close together.
-
+Suddenly a crowd came down the street. They were all running, packed close together.
+b=bull-run
 
 They passed along and up the street toward the bullring and behind them came more men running faster, and then some stragglers who were really running.
 
@@ -9682,32 +9655,29 @@ They passed along and up the street toward the bullring and behind them came mor
 Behind them was a little bare space, and then the bulls galloping, tossing their heads up and down.
 
 
-It all went out of sight around the corner. One man fell, rolled to the gutter, and lay quiet.
+It all went out of sight around the corner. One man fell, rolled to the gutter, and lay quiet. But the bulls went right on and did not notice him. They were all running together.
+b=light
 
-
-But the bulls went right on and did not notice him. They were all running together.
-
-
-After they went out of sight a great roar came from the bullring. It kept on.
-
-
-Then finally the pop of the rocket that meant the bulls had gotten through the people in the ring and into the corrals.
+After they went out of sight a great roar came from the bullring. It kept on. Then finally the pop of the rocket that meant the bulls had gotten through the people in the ring and into the corrals.
 
 
 I went back in the room and got into bed.
-
+b=montoya-room
 
 I had been standing on the stone balcony in bare feet.
 
 
-I knew our crowd must have all been out at the bullring. Back in bed, I went to sleep.
+I knew our crowd must have all been out at the bullring.
 
+
+Back in bed, I went to sleep.
+b=dream
 
 Cohn woke me when he came in. He started to undress and went over and closed the window because the people on the balcony of the house just across the street were looking in.
-e:cohn=neutral
+e:cohn=neutral;b=montoya-room
 
 “Did you see the show?” I asked.
-s=jake
+s=jake;e:jake=;e:cohn=
 
 “Yes. We were all there.”
 s=cohn
@@ -9725,16 +9695,16 @@ s=jake
 s=cohn
 
 “I wish I’d been up.”
-s=jake;e:jake=unhappy
+s=jake;e:jake=weary
 
 “We didn’t know where you were. We went to your room but it was locked.”
 s=cohn
 
 “Where did you stay up?”
-s=jake
+s=jake;e:jake=
 
 “We danced at some club.”
-s=cohn
+s=cohn;e:cohn=smirking
 
 “I got sleepy,” I said.
 s=jake
@@ -9749,7 +9719,7 @@ Bill opened the door and put his head in.
 s=none;e:bill=happy
 
 “Where were you, Jake?”
-s=bill
+s=bill;e:bill=happy
 
 “I saw them go through from the balcony. How was it?”
 s=jake
@@ -9761,16 +9731,16 @@ s=bill
 s=jake
 
 “To sleep.”
-s=bill
+s=bill;e:bill=
 
 No one was up before noon. We ate at tables set out under the arcade.
-s=none;e:cohn=neutral;e:bill=neutral;e:mike=neutral;e:brett=neutral
+s=none;e:cohn=neutral;e:bill=neutral;e:mike=neutral;e:brett=neutral;b=light
 
 The town was full of people. We had to wait for a table.
 
 
 After lunch we went over to the Iruña. It had filled up, and as the time for the bullfight came it got fuller, and the tables were crowded closer.
-
+b=pamplona-cafe-int
 
 There was a close, crowded hum that came every day before the bullfight.
 
@@ -9826,11 +9796,14 @@ s=jake
 “See you back here. Don’t get cockeyed.”
 
 
-“I’ll come along,” Bill said. Brett smiled at us.
+“I’ll come along,” Bill said.
 s=bill;e:brett=happy
 
+Brett smiled at us.
+s=
+
 We walked around through the arcade to avoid the heat of the square.
-s=none
+s=none;b=pamplona-wide
 
 “That Cohn gets me,” Bill said.
 s=bill;e:bill=angry
@@ -9851,7 +9824,7 @@ s=jake
 s=bill
 
 In the hotel on the stairs we met Montoya.
-s=none;e:montoya=neutral
+s=none;e:montoya=neutral;b=montoya-stairs
 
 “Come on,” said Montoya.
 s=montoya;e:montoya=excited
@@ -9863,28 +9836,25 @@ s=montoya;e:montoya=excited
 s=bill;e:bill=happy
 
 We followed Montoya up a flight and down the corridor.
-s=none
+s=none;b=montoya-hall
 
-“He’s in room number eight,” Montoya explained.
+“He’s in room number eight,” Montoya explained. “He’s getting dressed for the bullfight.”
 s=montoya
-
-“He’s getting dressed for the bullfight.”
-
 
 Montoya knocked on the door and opened it.
 s=none
 
 It was a gloomy room with a little light coming in from the window on the narrow street.
-
+b=montoya-otherroom
 
 There were two beds separated by a monastic partition. The electric light was on.
 
 
-The boy stood very straight and unsmiling in his bullfighting clothes. His jacket hung over the back of a chair.
-n:romero=Pedro Romero;e:romero=serious
+The boy stood very straight and unsmiling in his bullfighting clothes.
+n:romero=Pedro Romero;e:romero=serious;b=light;c=romero
 
-They were just finishing winding his sash. His black hair shone under the electric light.
-
+His jacket hung over the back of a chair. They were just finishing winding his sash. His black hair shone under the electric light.
+b=montoya-otherroom;c=
 
 He wore a white linen shirt and the sword-handler finished his sash and stood up and stepped back.
 
@@ -9923,10 +9893,10 @@ We wished him “*Mucha suerte*,” shook hands, and went out.
 s=jake
 
 He was standing, straight and handsome and altogether by himself, alone in the room with the hangers-on as we shut the door.
-s=none
+s=none;b=light;c=romero
 
 “He’s a fine boy, don’t you think so?” Montoya asked.
-s=montoya;e:montoya=happy
+s=montoya;e:montoya=happy;c=;b=montoya-hall
 
 “He’s a good-looking kid,” I said.
 s=jake
@@ -9941,10 +9911,10 @@ s=jake
 s=montoya
 
 We found the big leather wine-bottle leaning against the wall in my room, took it and the field-glasses, locked the door, and went downstairs.
-s=none
+s=none;b=light
 
 It was a good bullfight. Bill and I were very excited about Pedro Romero.
-e:bill=excited;e:jake=excited
+e:bill=excited;e:jake=excited;b=bullfight
 
 Montoya was sitting about ten places away. After Romero had killed his first bull Montoya caught my eye and nodded his head.
 e:montoya=happy
@@ -9952,10 +9922,7 @@ e:montoya=happy
 This was a real one. There had not been a real one for a long time.
 
 
-Of the other two matadors, one was very fair and the other was passable.
-
-
-But there was no comparison with Romero, although neither of his bulls was much.
+Of the other two matadors, one was very fair and the other was passable. But there was no comparison with Romero, although neither of his bulls was much.
 
 
 Several times during the bullfight I looked up at Mike and Brett and Cohn, with the glasses.
@@ -9977,7 +9944,7 @@ s=jake
 s=bill;e:bill=angry
 
 Outside the ring, after the bullfight was over, you could not move in the crowd.
-s=none
+s=none;b=light
 
 We could not make our way through but had to be moved with the whole thing, slowly, as a glacier, back to town.
 
@@ -9985,17 +9952,11 @@ We could not make our way through but had to be moved with the whole thing, slow
 We had that disturbed emotional feeling that always comes after a bullfight, and the feeling of elation that comes after a good bullfight.
 e:bill=happy;e:jake=happy
 
-The fiesta was going on. The drums pounded and the pipe music was shrill, and everywhere the flow of the crowd was broken by patches of dancers.
-
-
-The dancers were in a crowd, so you did not see the intricate play of the feet.
-
-
-All you saw was the heads and shoulders going up and down, up and down.
+The fiesta was going on. The drums pounded and the pipe music was shrill, and everywhere the flow of the crowd was broken by patches of dancers. The dancers were in a crowd, so you did not see the intricate play of the feet. All you saw was the heads and shoulders going up and down, up and down.
 
 
 Finally, we got out of the crowd and made for the café.
-
+b=pamplona-square-festive-crowded-cafe
 
 The waiter saved chairs for the others, and we each ordered an absinthe and watched the crowd in the square and the dancers.
 
@@ -10004,13 +9965,13 @@ The waiter saved chairs for the others, and we each ordered an absinthe and watc
 s=bill
 
 “It’s a sort of jota.”
-s=jake
+s=jake;e:jake=
 
 “They’re not all the same,” Bill said. “They dance differently to all the different tunes.”
 s=bill
 
 “It’s swell dancing.”
-s=jake
+s=jake;e:jake=
 
 In front of us on a clear part of the street a company of boys were dancing.
 s=none
@@ -10061,7 +10022,7 @@ s=brett
 s=jake
 
 “I couldn’t help looking at them.”
-s=brett
+s=brett;e:brett=
 
 “She couldn’t take her eyes off them,” Mike said. “She’s an extraordinary wench.”
 s=mike;e:mike=happy
@@ -10082,7 +10043,7 @@ s=mike;e:mike=smirking
 s=cohn;e:cohn=unhappy
 
 “You weren’t bored, were you?” asked Bill.
-s=bill;e:bill=neutral
+s=bill;e:bill=smirking
 
 Cohn laughed.
 s=none;e:cohn=nervous
@@ -10118,7 +10079,7 @@ s=bill
 s=mike;e:mike=smirking
 
 “Oh, shove it along, Michael,” Brett said.
-s=brett;e:brett=neutral
+s=brett;e:brett=scowling
 
 “He said Brett was a sadist,” Mike said.
 s=mike
@@ -10130,19 +10091,19 @@ s=mike
 s=jake
 
 “Hope not.”
-s=brett
+s=brett;e:brett=thinking
 
 “He said Brett was a sadist just because she has a good, healthy stomach.”
 s=mike
 
 “Won’t be healthy long.”
-s=brett
+s=brett;e:brett=smirking
 
 Bill got Mike started on something else than Cohn. The waiter brought the absinthe glasses.
 s=none
 
 “Did you really like it?”
-s=bill
+s=bill;e:bill=
 
 Bill asked Cohn.
 s=none
@@ -10160,7 +10121,7 @@ s=cohn
 s=bill
 
 “It is a bit strong just at the start,” Brett said.
-s=brett
+s=brett;e:brett=
 
 “There’s a dreadful moment for me just when the bull starts for the horse.”
 
@@ -10181,7 +10142,7 @@ s=none
 s=mike;e:mike=smirking
 
 “They are something,” Brett said. “That Romero lad is just a child.”
-s=brett
+s=brett;e:brett=happy
 
 “He’s a damned good-looking boy,” I said.
 s=jake
@@ -10199,7 +10160,7 @@ s=jake
 s=brett;e:brett=contemplative
 
 The bullfight on the second day was much better than on the first.
-s=none
+s=none;b=bullfight
 
 Brett sat between Mike and me at the barrera, and Bill and Cohn went up above.
 
@@ -10292,19 +10253,22 @@ s=brett;e:brett=smirking
 s=jake
 
 They had hitched the mules to the dead bull and then the whips cracked, the men ran, and the mules, straining forward, their legs pushing, broke into a gallop, and the bull, one horn up, his head on its side, swept a swath smoothly across the sand and out the red gate.
-s=none
+s=none;b=light
 
 “This next is the last one.”
-s=jake
+s=jake;b=bullfight
 
-“Not really,” Brett said. She leaned forward on the barrera.
-s=brett;e:brett=surprised
+“Not really,” Brett said.
+s=brett;e:brett=
+
+She leaned forward on the barrera.
+s=;e:brett=
 
 Romero waved his picadors to their places, then stood, his cape against his chest, looking across the ring to where the bull would come out.
 s=none
 
 After it was over we went out and were pressed tight in the crowd.
-
+b=light
 
 “These bullfights are hell on one,” Brett said. “I’m limp as a rag.”
 s=brett;e:brett=weary
