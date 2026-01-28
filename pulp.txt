@@ -11578,7 +11578,7 @@ s=jake
 He looked at me.
 s=none;e:romero=serious
 
-It was a final look to ask if it were understood. It was understood all right.
+It was a final look to ask if it were understood. It was understood all right.<e>They're all going to watch. That's the understanding. (Iceburg theory!)</e>
 
 
 “Sit down,” Brett said to him. “You must teach me Spanish.”
@@ -11603,40 +11603,37 @@ A waiter came with a cloth and picked up the glasses and mopped off the table.
 r=title
 
 Outside the Bar Milano I found Bill and Mike and Edna. Edna was the girl’s name.
-n:edna=Edna
+n:edna=Edna;b=milano-ext-night
 
 “We’ve been thrown out,” Edna said.
-s=edna;e:edna=weary
+s=edna;e:edna=weary;c=,edna
 
 “By the police,” said Mike. “There’s some people in there that don’t like me.”
-s=mike;e:mike=smirking
+s=mike;e:mike=smirking;c=mike,
 
 “I’ve kept them out of four fights,” Edna said. “You’ve got to help me.”
-s=edna;e:edna=nervous
+s=edna;e:edna=nervous;c=,edna
 
 Bill’s face was red.
-s=none;e:bill=angry
+s=none;e:bill=angry;c=bill,
 
 “Come back in, Edna,” he said. “Go on in there and dance with Mike.”
 s=bill
 
 “It’s silly,” Edna said.
-s=edna;e:edna=unhappy
+s=edna;e:edna=unhappy;c=,edna
 
 “There’ll just be another row.”
 
 
 “Damned Biarritz swine,” Bill said.
-s=bill
+s=bill;c=bill,
 
-“Come on,” Mike said.
-s=mike;e:mike=neutral
-
-“After all, it’s a pub. They can’t occupy a whole pub.”
-
+“Come on,” Mike said. “After all, it’s a pub. They can’t occupy a whole pub.”
+s=mike;e:mike=scowling;c=bill,mike
 
 “Good old Mike,” Bill said.
-s=bill
+s=bill;e:bill=scowling
 
 “Damned English swine come here and insult Mike and try and spoil the fiesta.”
 
@@ -11645,7 +11642,7 @@ s=bill
 s=mike;e:mike=scowling
 
 “I hate the English.”
-
+e:mike=angry
 
 “They can’t insult Mike,” Bill said.
 s=bill
@@ -11657,19 +11654,19 @@ His voice broke.
 s=none
 
 “Who cares?” Mike said. “I don’t care. Jake doesn’t care. Do *you* care?”
-s=mike;e:mike=happy
+s=mike;e:mike=smirking
 
 “No,” Edna said.
 s=edna;e:edna=neutral
 
 “Are you a bankrupt?”
-e:edna=curious
+e:edna=
 
 “Of course I am. You don’t care, do you, Bill?”
-s=mike;e:mike=happy
+s=mike
 
 Bill put his arm around Mike’s shoulder.
-s=none;e:bill=happy
+s=none;e:bill=happy;c=
 
 “I wish to hell I was a bankrupt. I’d show those bastards.”
 s=bill
@@ -11684,7 +11681,7 @@ s=bill;e:bill=angry
 
 
 “Bill,” Edna looked at me. “Please don’t go in again, Bill. They’re so stupid.”
-s=edna;e:edna=nervous
+s=edna;e:edna=nervous;c=edna,
 
 “That’s it,” said Mike. “They’re stupid. I knew that was what it was.”
 s=mike;e:mike=happy
@@ -11693,13 +11690,13 @@ s=mike;e:mike=happy
 s=bill
 
 “Do you know them?” I asked Mike.
-s=jake
+s=jake;c=,mike
 
 “No. I never saw them. They say they know me.”
 s=mike;e:mike=neutral
 
 “I won’t stand it,” Bill said.
-s=bill;e:bill=angry
+s=bill;e:bill=angry;c=bill,
 
 “Come on. Let’s go over to the Suizo,” I said.
 s=jake
@@ -11708,16 +11705,16 @@ s=jake
 s=bill
 
 “They’re simply stupid,” Edna said.
-s=edna;e:edna=scowling
+s=edna;e:edna=scowling;c=,edna
 
 “One of them’s Charley Blackman, from Chicago,” Bill said.
-s=bill
+s=bill;c=bill,
 
 “I was never in Chicago,” Mike said.
-s=mike;e:mike=thinking
+s=mike;e:mike=thinking;c=bill,mike
 
 Edna started to laugh and could not stop.
-s=none;e:edna=happy
+s=none;e:edna=happy;c=edna
 
 “Take me away from here,” she said, “you bankrupts.”
 s=edna
@@ -11726,7 +11723,7 @@ s=edna
 s=jake
 
 We were walking across the square to the Suizo. Bill was gone.
-s=none
+s=none;c=;b=pamplona-wide-night
 
 “I don’t know what happened, but someone had the police called to keep Mike out of the back room.”
 s=edna;e:edna=neutral
@@ -11750,16 +11747,13 @@ The night was clearing and the moon was out. Some of the people in the line were
 
 
 At the Café Suizo we had just sat down and ordered Fundador when Robert Cohn came up.
-e:cohn=serious
+e:cohn=serious;b=suizo-int
 
-“Where’s Brett?”
+“Where’s Brett?” he asked.
 s=cohn
 
-he asked.
-s=none
-
 “I don’t know.”
-s=jake
+s=jake;e:jake=
 
 “She was with you.”
 s=cohn;e:cohn=suspicious
@@ -11780,7 +11774,7 @@ s=none
 s=cohn
 
 “Sit down,” I said. “I don’t know where she is.”
-s=jake
+s=jake;e:jake=serious
 
 “The hell you don’t!”
 s=cohn
@@ -11819,7 +11813,7 @@ s=none
 s=cohn
 
 “Go to hell!”
-s=jake
+s=jake;e:jake=angry
 
 “She was with you. Is that where she is?”
 s=cohn
@@ -11830,23 +11824,20 @@ s=jake
 “I’ll make you tell me”—he stepped forward—“you damned pimp.”
 s=cohn
 
-I swung at him and he ducked.
-s=none
-
-I saw his face duck sideways in the light. He hit me and I sat down on the pavement.
-
+I swung at him and he ducked. I saw his face duck sideways in the light. He hit me and I sat down on the pavement.
+b=action;s=
 
 As I started to get on my feet he hit me twice. I went down backward under a table.
 
 
 I tried to get up and felt I did not have any legs.
-e:jake=confused
+e:jake=confused;b=light
 
 I felt I must get on my feet and try and hit him. Mike helped me up.
 e:jake=angry
 
 Someone poured a carafe of water on my head. Mike had an arm around me, and I found I was sitting on a chair.
-e:jake=weary
+e:jake=weary;b=suizo-int
 
 Mike was pulling at my ears.
 
@@ -11855,7 +11846,7 @@ Mike was pulling at my ears.
 s=mike;e:mike=surprised
 
 “Where the hell were you?”
-s=jake
+s=jake;e:jake=scowling
 
 “Oh, I was around.”
 s=mike;e:mike=neutral
@@ -11867,7 +11858,7 @@ s=jake
 s=edna;e:edna=excited
 
 “He didn’t knock me out,” Mike said. “I just lay there.”
-s=mike;e:mike=smirking
+s=mike;e:mike=serious
 
 “Does this happen every night at your fiestas?” Edna asked. “Wasn’t that Mr. Cohn?”
 s=edna;e:edna=surprised
@@ -11897,7 +11888,7 @@ s=edna
 e:edna=excited
 
 “I was hoping he would knock down a waiter,” Mike said, “and get arrested. I’d like to see Mr. Robert Cohn in jail.”
-s=mike;e:mike=happy
+s=mike;e:mike=scowling
 
 “No,” I said.
 s=jake
@@ -11918,7 +11909,7 @@ s=none
 s=mike;e:mike=neutral
 
 “All right.”
-s=jake
+s=jake;e:jake=
 
 “You’re nice,” Edna said to Mike. “Are you really a bankrupt?”
 s=edna;e:edna=happy
@@ -11956,40 +11947,31 @@ s=none
 I had heard them talking from a long way away. It all seemed like some bad play.
 e:jake=weary
 
-“I’m going over to the hotel,” I said. Then I heard them talking about me.
+“I’m going over to the hotel,” I said.
 s=jake
 
-“Is he all right?”
+Then I heard them talking about me.
+s=
+
+“Is he all right?” Edna asked.
 s=edna;e:edna=nervous
 
-Edna asked.
-s=none
-
 “We’d better walk with him.”
-s=edna
+s=mike;e:mike=serious
 
 “I’m all right,” I said. “Don’t come. I’ll see you all later.”
 s=jake
 
 I walked away from the café. They were sitting at the table.
-s=none
+s=none;b=light
 
-I looked back at them and at the empty tables.
-
-
-There was a waiter sitting at one of the tables with his head in his hands.
+I looked back at them and at the empty tables. There was a waiter sitting at one of the tables with his head in his hands.
 
 
-Walking across the square to the hotel everything looked new and changed. I had never seen the trees before.
-e:jake=confused
+Walking across the square to the hotel everything looked new and changed. I had never seen the trees before. I had never seen the flagpoles before, nor the front of the theatre. It was all different.
+e:jake=confused;b=think
 
-I had never seen the flagpoles before, nor the front of the theatre. It was all different.
-
-
-I felt as I felt once coming home from an out-of-town football game.
-
-
-I was carrying a suitcase with my football things in it, and I walked up the street from the station in the town I had lived in all my life and it was all new.
+I felt as I felt once coming home from an out-of-town football game. I was carrying a suitcase with my football things in it, and I walked up the street from the station in the town I had lived in all my life and it was all new.
 
 
 They were raking the lawns and burning leaves in the road, and I stopped for a long time and watched.
@@ -12002,16 +11984,16 @@ I had been kicked in the head early in the game. It was like that crossing the s
 
 
 It was like that going up the stairs in the hotel.
-
+b=montoya-stairs
 
 Going up the stairs took a long time, and I had the feeling that I was carrying my suitcase.
 
 
 There was a light in the room. Bill came out and met me in the hall.
-
+b=montoya-hall
 
 “Say,” he said, “go up and see Cohn. He’s been in a jam, and he’s asking for you.”
-s=bill;e:bill=serious
+s=bill;e:bill=serious;c=bill
 
 “The hell with him.”
 s=jake;e:jake=scowling
@@ -12041,25 +12023,25 @@ s=bill;e:bill=neutral
 s=jake
 
 It was just a matter of climbing more stairs. I went on up the stairs carrying my phantom suitcase.
-s=none
+s=none;b=montoya-stairs
 
 I walked down the hall to Cohn’s room. The door was shut and I knocked.
-
+b=montoya-hall
 
 “Who is it?”
-s=cohn
+s=cohn;e:cohn=serious;x:cohn=polo
 
 “Barnes.”
-s=jake
+s=jake;e:jake=serious
 
 “Come in, Jake.”
 s=cohn
 
 I opened the door and went in, and set down my suitcase.
-s=none
+s=none;b=montoya-room-flipped;f:b:montoya-room-flipped=brightness(85%)
 
 There was no light in the room. Cohn was lying, face down, on the bed in the dark.
-e:cohn=crying
+e:cohn=upset
 
 “Hello, Jake.”
 s=cohn
@@ -12073,20 +12055,17 @@ s=none
 Now it was a hot bath that I needed. A deep, hot bath, to lie back in.
 e:jake=weary
 
-“Where’s the bathroom?”
+“Where’s the bathroom?” I asked.
 s=jake
 
-I asked.
-s=none
-
 Cohn was crying. There he was, face down on the bed, crying.
-
+s=
 
 He had on a white polo shirt, the kind he’d worn at Princeton.
 
 
 “I’m sorry, Jake. Please forgive me.”
-s=cohn
+s=cohn;e:cohn=upset
 
 “Forgive you, hell.”
 s=jake;e:jake=angry
@@ -12101,7 +12080,7 @@ s=none
 s=cohn
 
 “Oh, that’s all right.”
-s=jake;e:jake=neutral
+s=jake;e:jake=serious
 
 “I couldn’t stand it about Brett.”
 s=cohn
@@ -12116,10 +12095,10 @@ I wanted a hot bath in deep water.
 
 
 “I know. Please don’t remember it. I was crazy.”
-s=cohn;e:cohn=crying
+s=cohn;e:cohn=upset
 
 “That’s all right.”
-s=jake;e:jake=neutral
+s=jake;e:jake=serious
 
 He was crying. His voice was funny. He lay there in his white shirt on the bed in the dark.
 s=none
@@ -12149,7 +12128,7 @@ s=none
 s=jake
 
 “You were the only friend I had, and I loved Brett so.”
-s=cohn
+s=cohn;e:cohn=unhappy
 
 “Well,” I said, “so long.”
 s=jake
@@ -12164,7 +12143,7 @@ s=jake;e:jake=confused
 s=cohn
 
 “Sure,” I said. “It’s all right.”
-s=jake;e:jake=neutral
+s=jake;e:jake=serious
 
 “I felt so terribly. I’ve been through such hell, Jake. Now everything’s gone. Everything.”
 s=cohn
@@ -12176,13 +12155,13 @@ He rolled over, sat on the edge of the bed, and then stood up.
 s=none
 
 “So long, Jake,” he said. “You’ll shake hands, won’t you?”
-s=cohn;e:cohn=neutral
+s=cohn
 
 “Sure. Why not?”
 s=jake
 
 We shook hands.
-s=none
+s=none;c=
 
 In the dark I could not see his face very well.
 
@@ -12211,11 +12190,11 @@ s=jake
 “I’m all right.”
 
 
-I could not find the bathroom. After a while I found it.
+I could not find the bathroom. After a while I found it.<e>Literature.</e>
 s=none
 
 There was a deep stone tub. I turned on the taps and the water would not run.
-e:jake=weary
+e:jake=weary;b=light
 
 I sat down on the edge of the bathtub. When I got up to go I found I had taken off my shoes.
 
@@ -12227,16 +12206,16 @@ I found my room and went inside and undressed and got into bed.
 
 
 —
-
+b=dream
 
 I woke with a headache and the noise of the bands going by in the street.
-
+b=montoya-room;f:b:montoya-room=
 
 I remembered I had promised to take Bill’s friend Edna to see the bulls go through the street and into the ring.
 
 
 I dressed and went downstairs and out into the cold early morning.
-
+b=light
 
 People were crossing the square, hurrying toward the bullring. Across the square were the two lines of men in front of the ticket-booths.
 
@@ -12245,7 +12224,7 @@ They were still waiting for the tickets to go on sale at seven o’clock.
 
 
 I hurried across the street to the café. The waiter told me that my friends had been there and gone.
-n:waiter2=Waiter
+n:waiter2=Waiter;b=pamplona-square-festive-cafe
 
 “How many were they?”
 s=jake
@@ -12262,8 +12241,8 @@ She had been afraid last night they would pass out.
 That was why I was to be sure to take her.
 
 
-I drank the coffee and hurried with the other people toward the bullring. I was not groggy now.<e>Please please please everyone get gored by bulls and die.</e>
-
+I drank the coffee and hurried with the other people toward the bullring. I was not groggy now.<e>Please please please everyone get gored by bulls and die and the book end.</e>
+b=bullring-fence-crowd
 
 There was only a bad headache. Everything looked sharp and clear, and the town smelt of the early morning.
 
@@ -12295,14 +12274,11 @@ There was a great shout from the crowd, and putting my head through between the 
 They were going fast and gaining on the crowd.
 
 
-Just then another drunk started out from the fence with a blouse in his hands.
-
-
-He wanted to do capework with the bulls.
+Just then another drunk started out from the fence with a blouse in his hands. He wanted to do capework with the bulls.
 
 
 The two policemen tore out, collared him, one hit him with a club, and they dragged him against the fence and stood flattened out against the fence as the last of the crowd and the bulls went by.
-
+b=action
 
 There were so many people running ahead of the bulls that the mass thickened and slowed up going through the gate into the ring, and as the bulls passed, galloping together, heavy, muddy-sided, horns swinging, one shot ahead, caught a man in the running crowd in the back and lifted him in the air.
 
@@ -12317,7 +12293,7 @@ The red door of the ring went shut, the crowd on the outside balconies of the bu
 
 
 The man who had been gored lay face down in the trampled mud.
-
+b=think
 
 People climbed over the fence, and I could not see the man because the crowd was so thick around him.
 
@@ -12332,10 +12308,10 @@ Then the rocket went up that meant the steers had gotten the bulls out of the ri
 e:jake=neutral
 
 I left the fence and started back toward the town.
-
+b=light
 
 Back in the town I went to the café to have a second coffee and some buttered toast.
-
+b=pamplona-square-festive-cafe
 
 The waiters were sweeping out the café and mopping off the tables. One came over and took my order.
 
@@ -12422,7 +12398,7 @@ s=jake
 s=waiter2;e:waiter2=scowling
 
 Later in the day we learned that the man who was killed was named Vicente Girones, and came from near Tafalla.
-s=none
+s=none;b=think
 
 The next day in the paper we read that he was twenty-eight years old, and had a farm, a wife, and two children.
 
@@ -12431,7 +12407,7 @@ He had continued to come to the fiesta each year after he was married.
 
 
 The next day his wife came in from Tafalla to be with the body, and the day after there was a service in the chapel of San Fermin, and the coffin was carried to the railway-station by members of the dancing and drinking society of Tafalla.
-
+o=coffin
 
 The drums marched ahead, and there was music on the fifes, and behind the men who carried the coffin walked the wife and two children…
 
@@ -12440,13 +12416,13 @@ Behind them marched all the members of the dancing and drinking societies of Pam
 
 
 The coffin was loaded into the baggage-car of the train, and the widow and the two children rode, sitting, all three together, in an open third-class railway-carriage.
-
+o=
 
 The train started with a jerk, and then ran smoothly, going down grade around the edge of the plateau and out into the fields of grain that blew in the wind on the plain on the way to Tafalla.
 
 
 The bull who killed Vicente Girones was named Bocanegra, was Number 118 of the bull-breeding establishment of Sanchez Tabemo, and was killed by Pedro Romero as the third bull of that same afternoon.
-
+b=light
 
 His ear was cut by popular acclamation and given to Pedro Romero, who, in turn, gave it to Brett, who wrapped it in a handkerchief belonging to myself, and left both ear and handkerchief, along with a number of Muratti cigarette-stubs, shoved far back in the drawer of the bed-table that stood beside her bed in the Hotel Montoya, in Pamplona.
 
@@ -12455,22 +12431,16 @@ His ear was cut by popular acclamation and given to Pedro Romero, who, in turn, 
 
 
 Back in the hotel, the night watchman was sitting on a bench inside the door.
+b=montoya-ext
+
+He had been there all night and was very sleepy. He stood up as I came in. Three of the waitresses came in at the same time. They had been to the morning show at the bullring.
 
 
-He had been there all night and was very sleepy.
+They went upstairs laughing. I followed them upstairs and went into my room.
+e:jake=weary;b=montoya-stairs
 
-
-He stood up as I came in. Three of the waitresses came in at the same time.
-
-
-They had been to the morning show at the bullring. They went upstairs laughing.
-
-
-I followed them upstairs and went into my room. I took off my shoes and lay down on the bed.
-e:jake=weary
-
-The window was open onto the balcony and the sunlight was bright in the room. I did not feel sleepy.
-
+I took off my shoes and lay down on the bed. The window was open onto the balcony and the sunlight was bright in the room. I did not feel sleepy.
+b=montoya-room
 
 It must have been half past three o’clock when I had gone to bed and the bands had waked me at six.
 
@@ -12499,11 +12469,14 @@ s=bill
 “I say, weren’t you there?” Mike asked. “Ring for some beer, Bill.”
 s=mike;e:mike=neutral
 
-“What a morning!” Bill said. He mopped off his face.
+“What a morning!” Bill said.
 s=bill;e:bill=excited
 
-“My God! what a morning! And here’s old Jake. Old Jake, the human punching-bag.”
+He mopped off his face.
+s=
 
+“My God! what a morning! And here’s old Jake. Old Jake, the human punching-bag.”
+s=bill
 
 “What happened inside?”
 s=jake
@@ -12553,7 +12526,7 @@ s=mike
 “Oh, go to hell,” Bill said.
 s=bill;e:bill=
 
-“You’ve been in the war. It was two hours and a half for me.”<e>Wah, wah, I'm Ernest Hemingway and I was in the war for one month and am therefore better than you.</e>
+“You’ve been in the war. It was two hours and a half for me.”<e>Remember: Hemingway was in the war for one month and is therefore better than you.</e>
 e:bill=scowling
 
 “Where’s that beer?” Mike asked.
@@ -12623,7 +12596,7 @@ He poured the beer into one of the glasses, holding the glass close to the bottl
 s=none
 
 “Really?” Bill asked.
-s=bill;e:bill=curious
+s=bill;e:bill=
 
 “Why he went in and found Brett and the bullfighter chap in the bullfighter’s room, and then he massacred the poor, bloody bullfighter.”
 s=mike;e:mike=happy
@@ -12644,16 +12617,16 @@ He took a long drink of the beer.
 s=none
 
 “He is an ass.”
-s=mike
+s=mike;e:mike=scowling
 
 “What happened?”
-s=jake;e:jake=curious
+s=jake;e:jake=serious
 
 “Brett gave him what for. She told him off. I think she was rather good.”
 s=mike
 
 “I’ll bet she was,” Bill said.
-s=bill
+s=bill;e:bill=serious
 
 “Then Cohn broke down and cried, and wanted to shake hands with the bullfighter fellow. He wanted to shake hands with Brett, too.”
 s=mike;e:mike=happy
@@ -12662,13 +12635,13 @@ s=mike;e:mike=happy
 s=jake;e:jake=neutral
 
 “Did he? Well, they weren’t having any of it. The bullfighter fellow was rather good. He didn’t say much, but he kept getting up and getting knocked down again.”
-s=mike
+s=mike;e:mike=
 
-“Cohn couldn’t knock him out. It must have been damned funny.”
-e:mike=happy
+“Cohn couldn’t knock him out. It must have been damned funny.”<e>Why did the fun stuff happen off-screen!</e>
+e:mike=smirking
 
 “Where did you hear all this?”
-s=jake
+s=jake;e:jake=serious
 
 “Brett. I saw her this morning.”
 s=mike
@@ -12683,7 +12656,7 @@ s=mike;e:mike=neutral
 e:mike=smirking
 
 “So the bullfighter chap sort of rather staggered over to him. Cohn went back against the wall.”
-
+e:mike=
 
 “ ‘So you won’t hit me?’”
 
@@ -12692,10 +12665,10 @@ e:mike=smirking
 
 
 “So the bullfighter fellow hit him just as hard as he could in the face, and then sat down on the floor. He couldn’t get up, Brett said.”
-e:mike=happy
+e:mike=smirking
 
 “Cohn wanted to pick him up and carry him to the bed.”
-
+e:mike=
 
 “He said if Cohn helped him he’d kill him, and he’d kill him anyway this morning if Cohn wasn’t out of town.”
 
@@ -12713,7 +12686,7 @@ s=mike
 
 
 “Brett wasn’t having any shaking hands, and Cohn was crying and telling her how much he loved her, and she was telling him not to be a ruddy ass.”
-e:mike=happy
+e:mike=smirking
 
 “Then Cohn leaned down to shake hands with the bullfighter fellow. No hard feelings, you know. All for forgiveness.”
 
@@ -12731,7 +12704,7 @@ s=mike
 s=jake;e:jake=neutral
 
 “This morning. She came in to get some things. She’s looking after this Romero lad.”
-s=mike
+s=mike;e:mike=
 
 He poured out another bottle of beer.
 s=none
@@ -12740,7 +12713,7 @@ s=none
 s=mike
 
 “That’s how we came to go off together. She was looking after me.”
-e:mike=happy
+e:mike=smirking
 
 “I know,” I said.
 s=jake
@@ -12760,7 +12733,10 @@ s=mike
 “I said if she would go about with Jews and bullfighters and such people, she must expect trouble.”
 e:mike=scowling
 
-He leaned forward. “I say, Jake, do you mind if I drink that bottle of yours?”
+He leaned forward.
+s=
+
+“I say, Jake, do you mind if I drink that bottle of yours?”
 s=mike;e:mike=neutral
 
 “She’ll bring you another one.”
@@ -12769,7 +12745,10 @@ s=mike;e:mike=neutral
 “Please,” I said. “I wasn’t drinking it, anyway.”
 s=jake
 
-Mike started to open the bottle. “Would you mind opening it?”
+Mike started to open the bottle.
+s=
+
+“Would you mind opening it?”
 s=mike
 
 I pressed up the wire fastener and poured it for him.
@@ -12874,41 +12853,29 @@ s=bill;e:bill=surprised
 ### Chapter XVIII
 r=title
 
-At noon we were all at the café. It was crowded. We were eating shrimps and drinking beer.
+At noon we were all at the café.
+b=pamplona-cafe-int
+
+It was crowded. We were eating shrimps and drinking beer.
 
 
 The town was crowded. Every street was full.
+b=pamplona-wide
 
-
-Big motorcars from Biarritz and San Sebastian kept driving up and parking around the square.
-
-
-They brought people for the bullfight. Sightseeing cars came up, too. There was one with twenty-five Englishwomen in it.
-
-
-They sat in the big, white car and looked through their glasses at the fiesta.
+Big motorcars from Biarritz and San Sebastian kept driving up and parking around the square. They brought people for the bullfight. Sightseeing cars came up, too. There was one with twenty-five Englishwomen in it. They sat in the big, white car and looked through their glasses at the fiesta.
 
 
 The dancers were all quite drunk. It was the last day of the fiesta.
 
 
-The fiesta was solid and unbroken, but the motorcars and tourist-cars made little islands of onlookers.
+The fiesta was solid and unbroken, but the motorcars and tourist-cars made little islands of onlookers. When the cars emptied, the onlookers were absorbed into the crowd. You did not see them again except as sport clothes, odd-looking at a table among the closely packed peasants in black smocks.
 
 
-When the cars emptied, the onlookers were absorbed into the crowd.
-
-
-You did not see them again except as sport clothes, odd-looking at a table among the closely packed peasants in black smocks.
-
-
-The fiesta absorbed even the Biarritz English so that you did not see them unless you passed close to a table.
-
-
-All the time there was music in the street. The drums kept on pounding and the pipes were going.
+The fiesta absorbed even the Biarritz English so that you did not see them unless you passed close to a table. All the time there was music in the street. The drums kept on pounding and the pipes were going.
 
 
 Inside the cafés men with their hands gripping the table, or on each other’s shoulders, were singing the hard-voiced singing.
-
+b=pamplona-cafe-int
 
 “Here comes Brett,” Bill said.
 s=bill
@@ -12917,13 +12884,13 @@ I looked and saw her coming through the crowd in the square, walking, her head u
 s=none;e:brett=happy
 
 “Hello, you chaps!” she said. “I say, I *have* a thirst.”
-s=brett
+s=brett;e:brett=happy
 
 “Get another big beer,” Bill said to the waiter.
 s=bill;e:bill=neutral
 
-“Shrimps?”
-
+“Shrimps?”<e>I have absolutely no idea who's saying this line or what it means.</e>
+s=
 
 “Is Cohn gone?” Brett asked.
 s=brett;e:brett=neutral
