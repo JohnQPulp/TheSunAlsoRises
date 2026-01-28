@@ -1211,15 +1211,15 @@ I gave the waiter a franc and we went out.
 b=light
 
 “Where should I tell him?” I asked.
-s=jake
+s=jake;b=dancing-bar-ext-night
 
 “Oh, tell him to drive around.”
 s=brett
 
-I told the driver to go to the Parc Montsouris, and got in, and slammed the door. Brett was leaning back in the corner, her eyes closed.
-s=none
+I told the driver to go to the Parc Montsouris, and got in, and slammed the door. Brett was leaning back in the corner, her eyes closed. I got in and sat beside her.<e>He got in, and then he got in. (Ha ha Hemingway you stupid hack.)</e>
+s=none;b=light
 
-I got in and sat beside her. The cab started with a jerk.
+The cab started with a jerk.
 
 
 “Oh, darling, I’ve been so miserable,” Brett said.
@@ -1229,7 +1229,7 @@ s=brett;e:brett=unhappy
 r=title
 
 The taxi went up the hill, passed the lighted square, then on into the dark, still climbing, then levelled out onto a dark street behind St. Etienne du Mont, went smoothly down the asphalt, passed the trees and the standing bus at the Place de la Contrescarpe, then turned onto the cobbles of the Rue Mouffetard.
-
+b=taxi-abstract
 
 There were lighted bars and late open shops on each side of the street.
 
@@ -1342,7 +1342,7 @@ s=none
 “A friend of my brother’s came home that way from Mons. It seemed like a hell of a joke. Chaps never know anything, do they?”
 s=brett;e:brett=smirking
 
-“No,” I said. “Nobody ever knows anything.”<e>Pack it up, boys. Hemingway's solved epistemology.</e>
+“No,” I said. “Nobody ever knows anything.”<e>How to write like Hemingway: when in doubt, declare epistemological bankruptcy and go get a drink.</e>
 s=jake;e:jake=weary
 
 I was pretty well through with the subject.
@@ -1372,16 +1372,13 @@ s=brett
 “Don’t you want to?”
 s=jake
 
-“I have to.”<e>The dialogue is already making my eyes glaze over, and we're barely into the book.</e>
+“I have to.”
 s=brett;e:brett=weary
 
 We were sitting now like two strangers.
 s=none;e:brett=neutral;e:jake=neutral
 
-On the right was the Parc Montsouris.
-
-
-The restaurant where they have the pool of live trout and where you can sit and look out over the park was closed and dark.
+On the right was the Parc Montsouris. The restaurant where they have the pool of live trout and where you can sit and look out over the park was closed and dark.
 
 
 The driver leaned his head around.
@@ -1418,7 +1415,7 @@ s=jake
 s=brett
 
 When the taxi stopped I got out and paid.
-s=none
+s=none;b=cafe-select-ext-night
 
 Brett came out putting on her hat. She gave me her hand as she stepped down.
 
@@ -1433,7 +1430,7 @@ She pulled her man’s felt hat down and started in for the bar.
 s=none
 
 Inside, against the bar and at tables, were most of the crowd who had been at the dance.
-
+b=cafe-select-int
 
 “Hello, you chaps,” Brett said. “I’m going to have a drink.”
 s=brett;e:brett=happy
@@ -1475,7 +1472,7 @@ s=count
 s=brett
 
 Braddocks called to me from a table.
-s=none
+s=none;b=cafe-select-table-int
 
 “Barnes,” he said, “have a drink. That girl of yours got in a frightful row.”
 s=braddocks;e:braddocks=excited
@@ -1508,7 +1505,7 @@ s=mrsbraddocks
 s=jake
 
 I said good night to Brett at the bar.
-s=none
+s=none;b=cafe-select-int
 
 The count was buying champagne.
 
@@ -1523,7 +1520,7 @@ s=jake
 s=brett;e:brett=wary
 
 “Yes,” I said. “I’ve got a rotten headache.”
-s=jake;e:jake=weary
+s=jake;e:jake=
 
 “I’ll see you tomorrow?”
 s=brett
@@ -1532,7 +1529,7 @@ s=brett
 s=jake
 
 “Hardly.”
-s=brett
+s=brett;e:brett=
 
 “Well, where will I see you?”
 s=jake
@@ -1562,19 +1559,16 @@ s=brett;e:brett=happy
 s=count;e:count=neutral
 
 I went out onto the sidewalk and walked down toward the Boulevard St. Michel, passed the tables of the Rotonde, still crowded, looked across the street at the Dome, its tables running out to the edge of the pavement.
-s=none
+s=none;b=light
 
 Someone waved at me from a table, I did not see who it was and went on. I wanted to get home.
 
 
-The Boulevard Montparnasse was deserted.
-
-
-Lavigne’s was closed tight, and they were stacking the tables outside the Closerie des Lilas.
+The Boulevard Montparnasse was deserted. Lavigne’s was closed tight, and they were stacking the tables outside the Closerie des Lilas.
 
 
 I passed Ney’s statue standing among the new-leaved chestnut-trees in the arc-light. There was a faded purple wreath leaning against the base. I stopped and read the inscription: from the Bonapartist Groups, some date; I forget.
-
+b=ney-night
 
 He looked very fine, Marshal Ney in his top-boots, gesturing with his sword among the green new horse-chestnut leaves.
 e:jake=contemplative
@@ -1583,13 +1577,13 @@ My flat was just across the street, a little way down the Boulevard St. Michel.
 
 
 There was a light in the concierge’s room and I knocked on the door and she gave me my mail.
-n:concierge=Concierge
+n:concierge=Concierge;b=flat-concierge-int
 
 I wished her good night and went upstairs.
 
 
 There were two letters and some papers. I looked at them under the gaslight in the dining-room. The letters were from the States.
-
+b=flat-dining-int
 
 One was a bank statement. It showed a balance of $2,432.60.
 
@@ -1619,7 +1613,7 @@ To hell with Brett. To hell with you, Lady Ashley.
 e:jake=angry
 
 I lit the lamp beside the bed, turned off the gas, and opened the wide windows.
-
+b=flat-bedroom-int-night
 
 The bed was far back from the windows, and I sat with the windows open and undressed by the bed.
 
@@ -1633,11 +1627,11 @@ Undressing, I looked at myself in the mirror of the big armoire beside the bed.
 That was a typically French way to furnish a room. Practical, too, I suppose.
 
 
-Of all the ways to be wounded. I suppose it was funny.<e>Heh heh, that is pretty funny. (If I'm understanding correctly.)</e>
+Of all the ways to be wounded. I suppose it was funny.<e>Heh heh, it is pretty funny.</e>
 e:jake=unhappy
 
 I put on my pajamas and got into bed.
-
+b=light
 
 I had the two bullfight papers, and I took their wrappers off. One was orange. The other yellow.
 
@@ -1649,16 +1643,16 @@ They would both have the same news, so whichever I read first would spoil the ot
 
 
 I blew out the lamp. Perhaps I would be able to sleep.
-
+b=flat-bedroom-int-dark-night
 
 My head started to work. The old grievance.
-e:jake=thinking
+e:jake=thinking;b=think
 
-Well, it was a rotten way to be wounded and flying on a joke front like the Italian.<e>Yeah okay, I'm understanding correctly. (Heh heh… his dick.)</e>
+Well, it was a rotten way to be wounded and flying on a joke front like the Italian.<e>Heh heh, his dick.</e>
 
 
 In the Italian hospital we were going to form a society. It had a funny name in Italian.
-
+b=italian-hospital;f:b:italian-hospital=blur(5px)
 
 I wonder what became of the others, the Italians.
 
@@ -1688,24 +1682,30 @@ He never laughed. He was putting himself in my place, I guess.
 
 
 I never used to realize it, I guess.
-
+b=think
 
 I try and play it along and just not make trouble for people.
 
 
-Probably I never would have had any trouble if I hadn’t run into Brett when they shipped me to England. I suppose she only wanted what she couldn’t have.<e>Imagine getting cucked so hard in real life you write a story where your self-insert is literally castrated. Holy shit man.</e>
+Probably I never would have had any trouble if I hadn’t run into Brett when they shipped me to England. I suppose she only wanted what she couldn’t have.<e>Imagine being so sexually frustrated from your failed affair that you literally castrate your self-insert character lmao. But I guess now's a good time to explain some of the context around the book:</e>
 
 
-<e>I guess I should explain how the cast of this book is based on Hemingway's actual friend(?) group. And Brett in particular is based on this one lady, Duff Twysden. And this isn't a case of vague speculation that the book was based upon him and his circle: no, he literally used his own name in place of Jake and Duff's name in place of Brett in the book's first draft.</e>
+<e>See, the main "friend" group of this novel is directly based on Hemingway and his real-life circle, with Brett in particular being based on this one lady, Duff Twysden. And I do mean <i>directly</i>. He literally used his own name in place of "Jake" and Duff's name in place of "Brett" in the book's first draft. And as in the book, Hemingway pined after Duff.</e>
 
 
-<e>Anyway, he was pining for Duff at the time, even though he was married to someone else at the time. Which would be pretty based, except he never consumated it, so instead: pretty cringe. And hence this book.</e>
+<e>Other guys also pined after Duff, which is part of the reason why it didn't work out for Hemingway. The other reason being: he was already married (lol) to a woman named Hadley. (Remember her from the book's dedication?)</e>
 
 
-<e>And then his wife divorced him while he writing this book lmao. And he still dedicated it to her and also gave her all the money from the book.</e>
+<e>So after failing to cuck his wife in real life, he resorted to cucking her via pen — hence this book. (And he also had an actual consumated affair with a third woman.)</e>
 
 
-<e>Remember kids: don't become a writer, or even interact with people who are writers.</e>
+<e>So his wife divorced him, because obviously, cucking him back by getting the right to all the royalties from the book for herself.</e>
+
+
+<e>As for Duff and the other real-life people who unwillingly became this book's characters, they got nothing out of it. So they were all pissed off, because obviously. I mean, Mark Twain did kind of the same thing with Becky Thatcher in <book>Tom Sawyer</book>, except he wasn't a total dick about it, since her character portrayal was sweet instead of, you know…</e>
+
+
+<e>But really the moral here is just: don't ever befriend a writer. That's a more cohesive theme than anything Hemingway says on purpose in this book. Anyway, back to the cringey book:</e>
 
 
 Well, people were that way. To hell with people.
@@ -1718,7 +1718,7 @@ Oh, it was swell advice. Try and take it sometime. Try and take it.
 
 
 I lay awake thinking and my mind jumping around.
-
+b=flat-bedroom-int-dark-night
 
 Then I couldn’t keep away from it, and I started to think about Brett and all the rest of it went away.
 
@@ -1730,16 +1730,16 @@ Then all of a sudden I started to cry.
 e:jake=crying
 
 Then after a while it was better and I lay in bed and listened to the heavy trams go by and way down the street, and then I went to sleep.
-
+b=dream
 
 I woke up. There was a row going on outside.
-
+b=flat-bedroom-int-dark-night
 
 I listened and I thought I recognized a voice.
 
 
 I put on a dressing-gown and went to the door.
-
+b=flat-stairs
 
 The concierge was talking downstairs. She was very angry.
 e:concierge=angry
@@ -1769,7 +1769,7 @@ She could not have known my address.
 s=jake
 
 Brett came up the stairs. I saw she was quite drunk.
-s=
+s=;c=brett;e:brett=smirking
 
 “Silly thing to do,” she said.
 s=brett;e:brett=smirking
@@ -1784,7 +1784,7 @@ s=jake
 s=brett;e:brett=confused
 
 I looked at the clock. It was half-past four.
-s=
+s=;c=;b=flat-dining
 
 “Had no idea what hour it was,” Brett said.
 s=brett
@@ -1834,7 +1834,7 @@ s=jake
 “Oh, everywhere. He just brought me here now. Offered me ten thousand dollars to go to Biarritz with him. How much is that in pounds?”
 s=brett
 
-“Around two thousand.”<e>5:1 exchange rate is nuts. What happened, Britain?</e>
+“Around two thousand.”<e>I didn't realize it used to be a 5:1 exchange ratio. How the Brits have fallen.</e>
 s=jake
 
 “Lot of money. I told him I couldn’t do it. He was awfully nice about it. Told him I knew too many people in Biarritz.”
@@ -1859,10 +1859,10 @@ She looked at me, her hand on the table, her glass raised.
 s=
 
 “Don’t look like that,” she said.
-s=brett
+s=brett;e:brett=serious
 
 “Told him I was in love with you. True, too. Don’t look like that. He was damn nice about it. Wants to drive us out to dinner tomorrow night. Like to go?”
-
+e:brett=smirking
 
 “Why not?”
 s=jake
@@ -1886,10 +1886,10 @@ s=brett;e:brett=excited
 s=jake;e:jake=weary
 
 “Don’t be an ass.”
-s=brett
+s=brett;e:brett=smirking
 
 “Can’t do it.”
-s=jake
+s=jake;e:jake=
 
 “Right. Send him a tender message?”
 s=brett
@@ -1922,22 +1922,22 @@ s=jake
 s=brett
 
 We kissed again on the stairs and as I called for the cordon the concierge muttered something behind her door.
-s=none
+s=none;b=flat-stairs
 
 I went back upstairs and from the open window watched Brett walking up the street to the big limousine drawn up to the curb under the arc-light.
-
+b=light
 
 She got in and it started off. I turned around.
 
 
 On the table was an empty glass and a glass half-full of brandy and soda.
-
+b=flat-dining
 
 I took them both out to the kitchen and poured the half-full glass down the sink.
 
 
 I turned off the gas in the dining-room, kicked off my slippers sitting on the bed, and got into bed.
-
+b=flat-bedroom-int-night
 
 This was Brett, that I had felt like crying about.
 e:jake=unhappy
