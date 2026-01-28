@@ -7619,7 +7619,7 @@ e:jake=thinking;b=light
 r=title
 
 One morning I went down to breakfast and the Englishman, Harris, was already at the table.
-n:harris=Harris;e:harris=neutral
+n:harris=Harris;e:harris=neutral;b=inn-dining-int
 
 He was reading the paper through spectacles. He looked up and smiled.
 e:harris=happy
@@ -7664,13 +7664,13 @@ s=jake;e:jake=unhappy
 s=harris;e:harris=unhappy
 
 “We have to go *into* Pamplona. We’re meeting people there.”
-s=jake
+s=jake;e:jake=
 
 “What rotten luck for me. We’ve had a jolly time here at Burguete.”
 s=harris
 
 “Come on in to Pamplona. We can play some bridge there, and there’s going to be a damned fine fiesta.”
-s=jake;e:jake=happy
+s=jake;e:jake=
 
 “I’d like to. Awfully nice of you to ask me. I’d best stop on here, though. I’ve not much more time to fish.”
 s=harris;e:harris=weary
@@ -7679,7 +7679,7 @@ s=harris;e:harris=weary
 s=jake
 
 “I say, I do, you know. They’re enormous trout there.”
-s=harris;e:harris=excited
+s=harris;e:harris=happy
 
 “I’d like to try them once more.”
 s=jake
@@ -7694,7 +7694,7 @@ s=jake
 s=harris;e:harris=unhappy
 
 After breakfast Bill and I were sitting warming in the sun on a bench out in front of the inn and talking it over.
-s=none;e:harris=neutral
+s=none;e:harris=neutral;b=inn-ext
 
 I saw a girl coming up the road from the centre of the town.
 
@@ -7739,7 +7739,7 @@ e:jake=thinking
 s=bill;e:bill=neutral
 
 We walked up to the post-office and asked for a telegraph blank.
-s=none
+s=none;b=light
 
 “What will we say?” Bill asked.
 s=bill
@@ -7747,14 +7747,11 @@ s=bill
 “ ‘Arriving tonight.’ That’s enough.”
 s=jake
 
-We paid for the message and walked back to the inn.
-s=none
-
-Harris was there and the three of us walked up to Roncesvalles. We went through the monastery.
-e:harris=happy
+We paid for the message and walked back to the inn. Harris was there and the three of us walked up to Roncesvalles. We went through the monastery.
+e:harris=happy;s=none
 
 “It’s a remarkable place,” Harris said, when we came out.
-s=harris
+s=harris;b=monastery
 
 “But you know I’m not much on those sort of places.”
 e:harris=thinking
@@ -7787,10 +7784,10 @@ s=jake
 s=harris;e:harris=excited
 
 He had taken up utilizing from Bill.
-s=none
+s=none;b=light
 
 We had a bottle of wine apiece. Harris would not let us pay.
-
+b=burguete-pub
 
 He talked Spanish quite well, and the innkeeper would not take our money.
 
@@ -7861,19 +7858,10 @@ s=harris;e:harris=serious
 “Drink up, Harris.”
 s=jake
 
-We walked back down the road from Roncesvalles with Harris between us.
-s=none
+We walked back down the road from Roncesvalles with Harris between us. We had lunch at the inn and Harris went with us to the bus.
+s=none;b=light
 
-We had lunch at the inn and Harris went with us to the bus.
-
-
-He gave us his card, with his address in London and his club and his business address, and as we got on the bus he handed us each an envelope.
-
-
-I opened mine and there were a dozen flies in it. Harris had tied them himself.
-
-
-He tied all his own flies.
+He gave us his card, with his address in London and his club and his business address, and as we got on the bus he handed us each an envelope. I opened mine and there were a dozen flies in it. Harris had tied them himself. He tied all his own flies.
 
 
 “I say, Harris﻿—” I began.
@@ -7888,14 +7876,11 @@ s=none
 “They’re not first-rate flies at all. I only thought if you fished them some time it might remind you of what a good time we had.”
 s=harris;e:harris=weary
 
-The bus started. Harris stood in front of the post-office. He waved.
+The bus started. Harris stood in front of the post-office. He waved. As we started along the road he turned and walked back toward the inn.
 s=none
 
-As we started along the road he turned and walked back toward the inn.
-
-
 “Say, wasn’t that Harris nice?” Bill said.
-s=bill;e:bill=happy
+s=bill;e:bill=happy;b=bus-abstract
 
 “I think he really did have a good time.”
 s=jake
@@ -7916,7 +7901,7 @@ s=jake;e:jake=thinking
 s=bill
 
 We got into Pamplona late in the afternoon and the bus stopped in front of the Hotel Montoya.
-s=none;e:jake=neutral;e:bill=neutral
+s=none;e:jake=neutral;e:bill=neutral;b=montoya-ext
 
 Out in the plaza they were stringing electric-light wires to light the plaza for the fiesta.
 
@@ -7925,7 +7910,7 @@ A few kids came up when the bus stopped, and a customs officer for the town made
 
 
 We went into the hotel and on the stairs I met Montoya.
-
+b=montoya-stairs
 
 He shook hands with us, smiling in his embarrassed way.
 e:montoya=happy
@@ -8006,7 +7991,7 @@ s=jake
 s=montoya;e:montoya=serious
 
 *Afición* means passion.
-s=none
+s=none;b=light
 
 An aficionado is one who is passionate about the bullfights. All the good bullfighters stayed at Montoya’s hotel; that is, those with *afición* stayed there. The commercial bullfighters stayed once, perhaps, and then did not come back.
 
@@ -8014,13 +7999,7 @@ An aficionado is one who is passionate about the bullfights. All the good bullfi
 The good ones came each year. In Montoya’s room were their photographs.
 
 
-The photographs were dedicated to Juanito Montoya or to his sister.
-
-
-The photographs of bullfighters Montoya had really believed in were framed.
-
-
-Photographs of bullfighters who had been without *afición* Montoya kept in a drawer of his desk.
+The photographs were dedicated to Juanito Montoya or to his sister. The photographs of bullfighters Montoya had really believed in were framed. Photographs of bullfighters who had been without *afición* Montoya kept in a drawer of his desk.
 
 
 They often had the most flattering inscriptions. But they did not mean anything.
@@ -8035,10 +8014,7 @@ We often talked about bulls and bullfighters. I had stopped at the Montoya for s
 We never talked for very long at a time. It was simply the pleasure of discovering what we each felt.
 
 
-Men would come in from distant towns and before they left Pamplona stop and talk for a few minutes with Montoya about bulls.
-
-
-These men were aficionados. Those who were aficionados could always get rooms even when the hotel was full.
+Men would come in from distant towns and before they left Pamplona stop and talk for a few minutes with Montoya about bulls. These men were aficionados. Those who were aficionados could always get rooms even when the hotel was full.
 
 
 Montoya introduced me to some of them. They were always very polite at first, and it amused them very much that I should be an American.
@@ -8069,7 +8045,7 @@ Without his ever saying anything they were simply a little something shameful be
 
 
 Bill had gone upstairs as we came in, and I found him washing and changing in his room.
-
+b=montoya-room-int
 
 “Well,” he said, “talk a lot of Spanish?”
 s=bill;e:bill=happy
@@ -8123,7 +8099,7 @@ s=jake
 s=bill;e:bill=smirking
 
 We went down the stairs and out of the door and walked across the square toward the Café Iruña.
-s=none;e:bill=neutral
+s=none;e:bill=neutral;b=pamplona-square-cafe
 
 There were two lonely looking ticket-houses standing in the square.
 
@@ -8141,7 +8117,7 @@ I looked for Brett and Mike at the tables. There they were. Brett and Mike and R
 
 
 Brett was wearing a Basque beret. So was Mike. Robert Cohn was bareheaded and wearing his spectacles.
-
+x:mike=basque
 
 Brett saw us coming and waved. Her eyes crinkled up as we came up to the table.
 e:brett=happy
@@ -8240,7 +8216,7 @@ s=jake
 s=brett
 
 “I’ll tell it myself.”
-s=mike;e:mike=excited
+s=mike;e:mike=
 
 “What medals have you got, Mike?”
 s=cohn
@@ -8252,7 +8228,7 @@ s=mike
 s=cohn
 
 “I suppose I’ve the usual medals. But I never sent in for them. One time there was this wopping big dinner and the Prince of Wales was to be there, and the cards said medals will be worn.”
-
+s=mike
 
 “So naturally I had no medals, and I stopped at my tailor’s and he was impressed by the invitation, and I thought that’s a good piece of business, and I said to him: ‘You’ve got to fix me up with some medals.’ He said: ‘What medals, sir?’ And I said: ‘Oh, any medals. Just give me a few medals.’ ”
 
@@ -8261,7 +8237,7 @@ s=cohn
 
 
 “So he got me some medals, you know, miniature medals, and handed me the box, and I put it in my pocket and forgot it.”
-
+e:mike=smirking
 
 “Well, I went to the dinner, and it was the night they’d shot Henry Wilson, so the Prince didn’t come and the King didn’t come, and no one wore any medals, and all these coves were busy taking off their medals, and I had mine in my pocket.”<e>Never heard of that guy, but apparently he was assassinated by the IRA. That's neat I guess.</e>
 
@@ -8299,8 +8275,11 @@ s=none
 “It was. I swear it was. Any rate, my tailor wrote me and wanted the medals back. Sent a man around. Kept on writing for months. Seems some chap had left them to be cleaned. Frightfully military cove. Set hell’s own store by them.”
 s=mike
 
-Mike paused. “Rotten luck for the tailor,” he said.
-e:mike=smirking
+Mike paused.
+s=
+
+“Rotten luck for the tailor,” he said.
+s=mike;e:mike=smirking
 
 “You don’t mean it,” Bill said.
 s=bill;e:bill=happy
@@ -8318,13 +8297,13 @@ s=mike
 s=bill;e:bill=confused
 
 “Two ways,” Mike said. “Gradually and then suddenly.”
-s=mike;e:mike=neutral
+s=mike;e:mike=smirking
 
 “What brought it on?”
 s=bill
 
 “Friends,” said Mike. “I had a lot of friends. False friends. Then I had creditors, too. Probably had more creditors than anybody in England.”
-s=mike
+s=mike;e:mike=
 
 “Tell them about in the court,” Brett said.
 s=brett
@@ -8351,7 +8330,7 @@ e:mike=excited
 s=jake
 
 We called the waiter, paid, and started to walk through the town.
-s=none
+s=none;b=pamplona-wide
 
 I started off walking with Brett, but Robert Cohn came up and joined her on the other side.
 e:cohn=neutral
@@ -8381,10 +8360,10 @@ They were staring at Brett.
 
 
 At the gate of the corrals two men took tickets from the people that went in. We went in through the gate.
-
+b=light
 
 There were trees inside and a low, stone house. At the far end was the stone wall of the corrals, with apertures in the stone that were like loopholes running all along the face of each corral.
-
+b=corrals-int
 
 A ladder led up to the top of the wall, and people were climbing up the ladder and spreading down to stand on the walls that separated the two corrals.
 
@@ -8399,7 +8378,7 @@ Each cage was stencilled with the name and the brand of the bull-breeder.
 
 
 We climbed up and found a place on the wall looking down into the corral.
-
+b=wall
 
 The stone walls were whitewashed, and there was straw on the ground and wooden feed-boxes and water-troughs set against the wall.
 
@@ -8410,16 +8389,10 @@ s=jake
 Beyond the river rose the plateau of the town.
 s=none
 
-All along the old walls and ramparts people were standing.
+All along the old walls and ramparts people were standing. The three lines of fortifications made three black lines of people.
 
 
-The three lines of fortifications made three black lines of people.
-
-
-Above the walls there were heads in the windows of the houses.
-
-
-At the far end of the plateau boys had climbed into the trees.
+Above the walls there were heads in the windows of the houses. At the far end of the plateau boys had climbed into the trees.
 
 
 “They must think something is going to happen,” Brett said.
@@ -8453,21 +8426,15 @@ They stood together at the far end, their heads toward the gate where the bull w
 
 
 “They don’t look happy,” Brett said.
-s=brett;e:brett=wary
+s=brett;e:brett=wary;b=wall
 
-The men on top of the wall leaned back and pulled up the door of the corral.
-s=none
-
-Then they pulled up the door of the cage.
-
+The men on top of the wall leaned back and pulled up the door of the corral. Then they pulled up the door of the cage.
+s=
 
 I leaned way over the wall and tried to see into the cage.
-e:jake=contemplative
+e:jake=contemplative;s=none
 
-It was dark. Someone rapped on the cage with an iron bar. Inside something seemed to explode.
-
-
-The bull, striking into the wood from side to side with his horns, made a great noise.
+It was dark. Someone rapped on the cage with an iron bar. Inside something seemed to explode. The bull, striking into the wood from side to side with his horns, made a great noise.
 
 
 Then I saw a dark muzzle and the shadow of horns, and then, with a clattering on the wood in the hollow box, the bull charged and came out into the corral, skidding with his forefeet in the straw as he stopped, his head up, the great hump of muscle on his neck swollen tight, his body muscles quivering as he looked up at the crowd on the stone walls.
@@ -8476,23 +8443,23 @@ Then I saw a dark muzzle and the shadow of horns, and then, with a clattering on
 The two steers backed away against the wall, their heads sunken, their eyes watching the bull.
 
 
-The bull saw them and charged.
+The bull saw them and charged. A man shouted from behind one of the boxes and slapped his hat against the planks, and the bull, before he reached the steer, turned, gathered himself and charged where the man had been, trying to reach him behind the planks with a half-dozen quick, searching drives with the right horn.
 
 
-A man shouted from behind one of the boxes and slapped his hat against the planks, and the bull, before he reached the steer, turned, gathered himself and charged where the man had been, trying to reach him behind the planks with a half-dozen quick, searching drives with the right horn.
-
-
-“My God, isn’t he beautiful?” Brett said. We were looking right down on him.
+“My God, isn’t he beautiful?” Brett said.
 s=brett;e:brett=excited
 
+We were looking right down on him.
+s=
+
 “Look how he knows how to use his horns,” I said.
-s=jake
+s=jake;e:jake=
 
 “He’s got a left and a right just like a boxer.”
 
 
 “Not really?”
-s=brett
+s=brett;e:brett=
 
 “You watch.”
 s=jake
@@ -8515,17 +8482,20 @@ He charged straight for the steers and two men ran out from behind the planks an
 He did not change his direction and the men shouted: “Hah! Hah! Toro!” and waved their arms; the two steers turned sideways to take the shock, and the bull drove into one of the steers.
 
 
-“Don’t look,” I said to Brett. She was watching, fascinated.
-s=jake
+“Don’t look,” I said to Brett.
+s=jake;e:jake=serious
+
+She was watching, fascinated.
+s=
 
 “Fine,” I said. “If it doesn’t buck you.”
-
+s=jake;e:jake=
 
 “I saw it,” she said. “I saw him shift from his left to his right horn.”
 s=brett;e:brett=excited
 
 “Damn good!”
-s=jake
+s=jake;e:jake=happy
 
 The steer was down now, his neck stretched out, his head twisted, he lay the way he had fallen.
 s=none
@@ -8558,7 +8528,7 @@ None of the bulls came near him, and he did not attempt to join the herd.
 
 
 We climbed down from the wall with the crowd, and had a last look at the bulls through the loopholes in the wall of the corral.
-
+b=light
 
 They were all quiet now, their heads down. We got a carriage outside and rode up to the café.
 
@@ -8567,16 +8537,19 @@ Mike and Bill came in half an hour later. They had stopped on the way for severa
 
 
 We were sitting in the café.
-
+b=pamplona-cafe-int
 
 “That’s an extraordinary business,” Brett said.
 s=brett;e:brett=contemplative
 
-“Will those last ones fight as well as the first?” Robert Cohn asked. “They seemed to quiet down awfully fast.”
+“Will those last ones fight as well as the first?” Robert Cohn asked.
 s=cohn;e:cohn=thinking
 
+“They seemed to quiet down awfully fast.”
+
+
 “They all know each other,” I said. “They’re only dangerous when they’re alone, or only two or three of them together.”
-s=jake
+s=jake;e:jake=
 
 “What do you mean, dangerous?” Bill said. “They all looked dangerous to me.”
 s=bill;e:bill=wary
@@ -8588,10 +8561,10 @@ s=jake
 s=bill;e:bill=smirking
 
 “I say,” Mike said, “they *were* fine bulls, weren’t they? Did you see their horns?”
-s=mike;e:mike=excited
+s=mike;e:mike=happy
 
 “Did I not,” said Brett.
-s=brett
+s=brett;e:brett=happy
 
 “I had no idea what they were like.”
 
@@ -8647,11 +8620,17 @@ s=mike
 “Why don’t you say something, Robert? Don’t sit there looking like a bloody funeral. What if Brett did sleep with you? She’s slept with lots of better people than you.”
 
 
-“Shut up,” Cohn said. He stood up. “Shut up, Mike.”
-s=cohn;e:cohn=angry
+“Shut up,” Cohn said.
+s=cohn;e:cohn=scowling
+
+He stood up.
+s=
+
+“Shut up, Mike.”
+s=cohn
 
 “Oh, don’t stand up and act as though you were going to hit me. That won’t make any difference to me. Tell me, Robert. Why do you follow Brett around like a poor bloody steer?”
-s=mike
+s=mike;e:mike=serious
 
 “Don’t you know you’re not wanted? I know when I’m not wanted. Why don’t you know when you’re not wanted? You came down to San Sebastian where you weren’t wanted, and followed Brett around like a bloody steer. Do you think that’s right?”
 
@@ -8663,7 +8642,7 @@ s=cohn
 s=mike
 
 “You can’t blame them hardly. Can you? I asked them to. They wouldn’t do it. You can’t blame them, now. Can you? Now, answer me. Can you blame them?”
-
+e:mike=scowling
 
 “Go to hell, Mike.”
 s=cohn
@@ -8678,7 +8657,7 @@ s=brett;e:brett=scowling
 s=bill;e:bill=wary
 
 “What do you follow her around for?”
-s=mike
+s=mike;e:mike=angry
 
 Bill stood up and took hold of Cohn.
 s=none
@@ -8698,8 +8677,11 @@ e:brett=upset
 “I say, Michael, you might not be such a bloody ass,” she interrupted.
 s=brett
 
-“I’m not saying he’s not right, you know.” She turned to me.
-s=brett
+“I’m not saying he’s not right, you know.”
+s=brett;e:brett=thinking
+
+She turned to me.
+s=
 
 The emotion left Mike’s voice.
 s=none;e:mike=weary
@@ -8717,7 +8699,7 @@ s=brett;e:brett=neutral
 s=jake
 
 “I didn’t say anything I didn’t mean.”
-s=mike
+s=mike;e:mike=scowling
 
 “But you put it so badly,” Brett laughed.
 s=brett;e:brett=happy
@@ -8738,16 +8720,16 @@ s=brett;e:brett=smirking
 s=mike
 
 “Damned good chaps,” Brett said. “It’s all rot to talk about it. Michael and I understand each other.”
-s=brett;e:brett=happy
+s=brett;e:brett=scowling
 
 “She gave me Robert Cohn’s letters. I wouldn’t read them.”
-s=mike
+s=mike;e:mike=scowling
 
 “You wouldn’t read any letters, darling. You wouldn’t read mine.”
 s=brett;e:brett=smirking
 
 “I can’t read letters,” Mike said. “Funny, isn’t it?”
-s=mike;e:mike=happy
+s=mike;e:mike=smirking
 
 “You can’t read anything.”
 s=brett
@@ -8774,7 +8756,7 @@ s=jake;e:jake=smirking
 s=mike;e:mike=happy
 
 “Oh, no. I can’t.”
-s=brett
+s=brett;e:brett=
 
 “Go on. We’re all friends. Aren’t we all friends, Jake?”
 s=mike
@@ -8783,28 +8765,25 @@ s=mike
 s=brett
 
 “I’ll tell him.”
-s=mike
+s=mike;e:mike=smirking
 
 “You won’t, Michael. Don’t be an ass.”
-s=brett
+s=brett;e:brett=scowling
 
-“He calls her Circe,” Mike said. “He claims she turns men into swine. Damn good. I wish I were one of these literary chaps.”<e>Is that your strategy, Hemingway, reminding me of dumber books like <book>Circe</book> so this one seems good by comparion?</e>
+“He calls her Circe,” Mike said. “He claims she turns men into swine. Damn good. I wish I were one of these literary chaps.”<e>Is that your strategy, Hemingway? To make this book look good by comparison by reminding me of dumber ones like <book>Circe</book>?</e>
 s=mike
 
 “He’d be good, you know,” Brett said. “He writes a good letter.”
 s=brett
 
-“I know,” I said.
+“I know,” I said. “He wrote me from San Sebastian.”
 s=jake
-
-“He wrote me from San Sebastian.”
-
 
 “That was nothing,” Brett said. “He can write a damned amusing letter.”
 s=brett;e:brett=happy
 
 “She made me write that. She was supposed to be ill.”
-s=mike
+s=mike;e:mike=
 
 “I damned well was, too.”
 s=brett
@@ -8830,17 +8809,11 @@ s=mike;e:mike=happy
 “Come on,” Brett said. “Are these poisonous things paid for? I must bathe before dinner.”
 s=brett
 
-We walked across the square.
-s=none
-
-It was dark and all around the square were the lights from the cafés under the arcades.
-
-
-We walked across the gravel under the trees to the hotel.
-
+We walked across the square. It was dark and all around the square were the lights from the cafés under the arcades. We walked across the gravel under the trees to the hotel.
+s=none;b=light
 
 They went upstairs and I stopped to speak with Montoya.
-
+b=montoya-stairs
 
 “Well, how did you like the bulls?” he asked.
 s=montoya;e:montoya=happy
@@ -8876,7 +8849,7 @@ s=jake
 s=montoya;e:montoya=happy
 
 I went upstairs. Bill was in his room standing on the balcony looking out at the square.
-s=none;e:bill=neutral
+s=none;e:bill=neutral;b=montoya-room-int
 
 I stood beside him.
 
@@ -8932,20 +8905,11 @@ s=bill;e:bill=neutral
 “Won’t it?”
 s=jake;e:jake=smirking
 
-As a matter of fact, supper was a pleasant meal. Brett wore a black, sleeveless evening dress.
-s=none;e:brett=happy
+As a matter of fact, supper was a pleasant meal. Brett wore a black, sleeveless evening dress. She looked quite beautiful. Mike acted as though nothing had happened.
+s=none;e:brett=happy;b=montoya-dining
 
-She looked quite beautiful. Mike acted as though nothing had happened.
-e:mike=happy
-
-I had to go up and bring Robert Cohn down.
-
-
-He was reserved and formal, and his face was still taut and sallow, but he cheered up finally.
+I had to go up and bring Robert Cohn down. He was reserved and formal, and his face was still taut and sallow, but he cheered up finally. He could not stop looking at Brett. It seemed to make him happy.
 e:cohn=unhappy
-
-He could not stop looking at Brett. It seemed to make him happy.
-e:cohn=happy
 
 It must have been pleasant for him to see her looking so lovely, and know he had been away with her and that everyone knew it.
 
@@ -8953,10 +8917,7 @@ It must have been pleasant for him to see her looking so lovely, and know he had
 They could not take that away from him. Bill was very funny. So was Michael. They were good together.
 e:bill=happy;e:mike=happy
 
-It was like certain dinners I remember from the war.
-e:jake=contemplative
-
-There was much wine, an ignored tension, and a feeling of things coming that you could not prevent happening.
+It was like certain dinners I remember from the war. There was much wine, an ignored tension, and a feeling of things coming that you could not prevent happening.
 
 
 Under the wine I lost the disgusted feeling and was happy. It seemed they were all such nice people.
