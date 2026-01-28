@@ -4808,12 +4808,9 @@ s=bill;e:bill=thinking
 r=title
 
 The Ledoux-Kid Francis fight was the night of the 20th of June. It was a good fight.
+b=light
 
-
-The morning after the fight I had a letter from Robert Cohn, written from Hendaye.
-
-
-He was having a very quiet time, he said, bathing, playing some golf and much bridge.
+The morning after the fight I had a letter from Robert Cohn, written from Hendaye. He was having a very quiet time, he said, bathing, playing some golf and much bridge.
 
 
 Hendaye had a splendid beach, but he was anxious to start on the fishing-trip. When would I be down?
@@ -4823,13 +4820,13 @@ If I would buy him a double-tapered line he would pay me when I came down.
 
 
 That same morning I wrote Cohn from the office that Bill and I would leave Paris on the 25th unless I wired him otherwise, and would meet him at Bayonne, where we could get a bus over the mountains to Pamplona.
-
+b=office-int
 
 The same evening about seven o’clock I stopped in at the Select to see Michael and Brett.
-
+b=select-int
 
 They were not there, and I went over to the Dingo. They were inside sitting at the bar.
-
+b=reuse-bar-int
 
 “Hello, darling.”
 s=brett;e:brett=happy
@@ -4952,7 +4949,7 @@ s=brett
 s=brett;e:brett=weary
 
 We walked up the Rue Delambre.
-s=none
+s=none;b=paris-wide-night
 
 “I haven’t seen you since I’ve been back,” Brett said.
 s=brett;e:brett=neutral
@@ -5030,10 +5027,10 @@ s=jake;e:jake=neutral
 s=brett;e:brett=thinking
 
 I did not see Brett again until the night of the 24th of June.
-s=none
+s=none;b=light
 
-“Did you hear from Cohn?”
-s=jake;e:jake=neutral
+“Did you hear from Cohn?”<e>For this part, Hemingway doesn't specify where this conversation is taking place. But the bar again seems a pretty fair assumption.</e>
+s=jake;e:jake=neutral;b=reuse-bar-int
 
 “Rather. He’s keen about it.”
 s=brett;e:brett=neutral
@@ -5060,7 +5057,7 @@ s=jake;e:jake=smirking
 s=brett
 
 They expected their money the next day. We arranged to meet at Pamplona.
-s=
+s=;b=light
 
 They would go directly to San Sebastian and take the train from there. We would all meet at the Montoya in Pamplona.
 n:montoya=Montoya
@@ -5071,11 +5068,17 @@ If they did not turn up on Monday at the latest we would go on ahead up to Burgu
 There was a bus to Burguete. I wrote out an itinerary so they could follow us.
 
 
-Bill and I took the morning train from the Gare d’Orsay. It was a lovely day, not too hot, and the country was beautiful from the start.
+Bill and I took the morning train from the Gare d’Orsay.
+b=train-int
+
+It was a lovely day, not too hot, and the country was beautiful from the start.
 
 
-We went back into the diner and had breakfast. Leaving the dining-car I asked the conductor for tickets for the first service.
-n:conductor=Conductor
+We went back into the diner and had breakfast.
+n:conductor=Conductor;b=train-dining-int
+
+Leaving the dining-car I asked the conductor for tickets for the first service.
+
 
 “Nothing until the fifth.”
 s=conductor;e:conductor=neutral
@@ -5105,7 +5108,7 @@ s=none
 s=conductor;e:conductor=neutral
 
 “You’ll go a long way, brother,” Bill said to him in English.
-s=bill;e:bill=smirking
+s=bill;e:bill=scowling
 
 “I suppose if I’d given you five francs you would have advised us to jump off the train.”
 
@@ -5123,7 +5126,7 @@ I described where we were.
 s=none
 
 In our compartment were a man and his wife and their young son.
-n:hubertfather=Man;n:hubertmother=Woman;n:hubert=Hubert
+n:hubertfather=Man;n:hubertmother=Woman;n:hubert=Hubert;b=train-int
 
 “I suppose you’re Americans, aren’t you?” the man asked. “Having a good trip?”
 s=hubertfather;e:hubertfather=happy
@@ -5173,7 +5176,7 @@ s=hubertfather
 “Mighty little fishing you did on them trips,” his wife said.
 s=hubertmother;e:hubertmother=smirking
 
-He winked at us.<e>…Gay sex?</e>
+He winked at us.<e>Gay sex.</e>
 s=none;e:hubertfather=smirking
 
 “You know how the ladies are. If there’s a jug goes along, or a case of beer, they think it’s hell and damnation.”
@@ -5225,7 +5228,7 @@ He nodded his head.
 s=
 
 “They start now, at ten-thirty.”
-s=waiter1;e:waiter1=weary
+s=waiter1;e:waiter1=
 
 “When do we eat?”
 s=jake
@@ -5240,13 +5243,13 @@ s=none
 s=waiter1
 
 We ate the sandwiches and drank the Chablis and watched the country out of the window. The grain was just beginning to ripen and the fields were full of poppies. The pastureland was green, and there were fine trees, and sometimes big rivers and châteaux off in the trees.
-s=
+s=;b=france-wide
 
 At Tours we got off and bought another bottle of wine, and when we got back in the compartment the gentleman from Montana and his wife and his son, Hubert, were sitting comfortably.
 
 
 “Is there good swimming in Biarritz?” asked Hubert.
-s=hubert;e:hubert=excited
+s=hubert;e:hubert=excited;b=train-int
 
 “That boy’s just crazy till he can get in the water,” his mother said.
 s=hubertmother;e:hubertmother=happy
@@ -5294,7 +5297,7 @@ The priest looked back at him.
 s=none
 
 Inside the dining-car the waiters served the fifth successive table d’hôte meal. The waiter who served us was soaked through.
-
+b=train-dining-int
 
 His white jacket was purple under the arms.
 
@@ -5306,31 +5309,25 @@ s=bill;e:bill=thinking
 s=jake;e:jake=neutral
 
 “Let’s ask him.”
-s=bill
+s=bill;e:bill=smirking
 
 “No. He’s too tired.”
 s=jake
 
 The train stopped for half an hour at Bordeaux and we went out through the station for a little walk. There was not time to get in to the town.
-s=
+s=;b=light
 
-Afterward we passed through the Landes and watched the sun set.
-
-
-There were wide fire-gaps cut through the pines, and you could look up them like avenues and see wooded hills way off.
+Afterward we passed through the Landes and watched the sun set. There were wide fire-gaps cut through the pines, and you could look up them like avenues and see wooded hills way off.
 
 
-About seven-thirty we had dinner and watched the country through the open window in the diner.
-
-
-It was all sandy pine country full of heather. There were little clearings with houses in them, and once in a while we passed a sawmill.
+About seven-thirty we had dinner and watched the country through the open window in the diner. It was all sandy pine country full of heather. There were little clearings with houses in them, and once in a while we passed a sawmill.
 
 
 It got dark and we could feel the country hot and sandy and dark outside of the window, and about nine o’clock we got into Bayonne.
 
 
 The man and his wife and Hubert all shook hands with us. They were going on to LaNegresse to change for Biarritz.
-
+b=train-int
 
 “Well, I hope you have lots of luck,” he said.
 s=hubertfather;e:hubertfather=happy
@@ -5342,13 +5339,13 @@ s=hubertfather;e:hubertfather=happy
 s=hubert;e:hubert=happy
 
 We got off with our bags and rod-cases and passed through the dark station and out to the lights and the line of cabs and hotel buses.
-s=none
+s=none;b=train-station-night
 
 There, standing with the hotel runners, was Robert Cohn. He did not see us at first. Then he started forward.
 e:cohn=happy
 
 “Hello, Jake. Have a good trip?”
-s=cohn
+s=cohn;c=cohn
 
 “Fine,” I said. “This is Bill Gorton.”
 s=jake;e:jake=neutral
@@ -5357,9 +5354,9 @@ s=jake;e:jake=neutral
 s=cohn
 
 “Come on,” said Robert. “I’ve got a cab.”
-s=cohn
+s=cohn;e:cohn=concentrating
 
-He was a little nearsighted. I had never noticed it before.
+He was a little nearsighted. I had never noticed it before.<e>Hah? He's been described as wearing spectacles from the first paragraph. (I have no idea what Hemingway is trying to say sometimes. I don't know if he knows either.)</e>
 s=none
 
 He was looking at Bill, trying to make him out. He was shy, too.
@@ -5369,7 +5366,7 @@ e:cohn=neutral
 s=cohn
 
 We got into the cab, and the cabman put the bags up on the seat beside him and climbed up and cracked his whip, and we drove over the dark bridge and into the town.
-s=none
+s=none;b=light
 
 “I’m awfully glad to meet you,” Robert said to Bill.
 s=cohn;e:cohn=happy
@@ -5387,10 +5384,10 @@ It was a nice hotel, and the people at the desk were very cheerful, and we each 
 r=title
 
 In the morning it was bright, and they were sprinkling the streets of the town, and we all had breakfast in a café.
-
+b=bayonne-cafe
 
 Bayonne is a nice town. It is like a very clean Spanish town and it is on a big river.
-
+b=bayonne-wide
 
 Already, so early in the morning, it was very hot on the bridge across the river.
 
@@ -5423,7 +5420,7 @@ We found out at the tourist office what we ought to pay for a motorcar to Pamplo
 
 
 The car was to pick us up at the hotel in forty minutes, and we stopped at the café on the square where we had eaten breakfast, and had a beer.
-
+b=bayonne-cafe
 
 It was hot, but the town had a cool, fresh, early-morning smell and it was pleasant sitting in the café. A breeze started to blow, and you could feel that the air came from the sea.
 
@@ -5435,16 +5432,16 @@ But we had to go to the hotel to get our bags packed and pay the bill.
 
 
 We paid for the beers, we matched and I think Cohn paid, and went up to the hotel.
-
+b=light
 
 It was only sixteen francs apiece for Bill and me, with ten percent added for the service, and we had the bags sent down and waited for Robert Cohn.
 
 
-While we were waiting I saw a cockroach on the parquet floor that must have been at least three inches long. I pointed him out to Bill and then put my shoe on him. We agreed he must have just come in from the garden. It was really an awfully clean hotel.<e>"put my shoe on him" is just peak modernist writing.</e>
+While we were waiting I saw a cockroach on the parquet floor that must have been at least three inches long. I pointed him out to Bill and then put my shoe on him. We agreed he must have just come in from the garden. It was really an awfully clean hotel.
 
 
 Cohn came down, finally, and we all went out to the car.
-
+b=bayonne-wide
 
 It was a big, closed car, with a driver in a white duster with blue collar and cuffs, and we had him put the back of the car down.
 
@@ -5453,7 +5450,7 @@ He piled in the bags and we started off up the street and out of the town.
 
 
 We passed some lovely gardens and had a good look back at the town, and then we were out in the country, green and rolling, and the road climbing all the time.
-
+b=basque-wide
 
 We passed lots of Basques with oxen, or cattle, hauling carts along the road, and nice farmhouses, low roofs, and all white-plastered.
 
@@ -5474,7 +5471,7 @@ We crossed the Spanish frontier.
 
 
 There was a little stream and a bridge, and Spanish carabineers, with patent-leather Bonaparte hats, and short guns on their backs, on one side, and on the other fat Frenchmen in kepis and mustaches.
-
+b=border-bridge
 
 They only opened one bag and took the passports in and looked at them.
 
@@ -5534,10 +5531,10 @@ The chauffeur came out, folding up the papers and putting them in the inside poc
 s=none
 
 We all got in the car and it started up the white dusty road into Spain.
-
+b=light
 
 For a while the country was much as it had been; then, climbing all the time, we crossed the top of a Col, the road winding back and forth on itself, and then it was really Spain.
-
+b=spain-wide-1
 
 There were long brown mountains and a few pines and far-off forests of beech-trees on some of the mountainsides.
 
@@ -5557,14 +5554,11 @@ We climbed up and up and crossed another high Col and turned along it, and the r
 After a while we came out of the mountains, and there were trees along both sides of the road, and a stream and ripe fields of grain, and the road went on, very white and straight ahead, and then lifted to a little rise, and off on the left was a hill with an old castle, with buildings close around it and a field of grain going right up to the walls and shifting in the wind.
 
 
-I was up in front with the driver and I turned around.
-
-
-Robert Cohn was asleep, but Bill looked and nodded his head.
-
+I was up in front with the driver and I turned around. Robert Cohn was asleep, but Bill looked and nodded his head.
+b=light
 
 Then we crossed a wide plain, and there was a big river off on the right shining in the sun from between the line of trees, and away off you could see the plateau of Pamplona rising out of the plain, and the walls of the city, and the great brown cathedral, and the broken skyline of the other churches.
-
+b=pamplona-wide
 
 In back of the plateau were the mountains, and every way you looked there were other mountains, and ahead the road stretched out white across the plain going toward Pamplona.
 
@@ -5573,28 +5567,22 @@ We came into the town on the other side of the plateau, the road slanting up ste
 
 
 We passed the bullring, high and white and concrete-looking in the sun, and then came into the big square by a side street and stopped in front of the Hotel Montoya.
-
+b=light
 
 The driver helped us down with the bags.
-
+b=montoya-ext
 
 There was a crowd of kids watching the car, and the square was hot, and the trees were green, and the flags hung on their staffs, and it was good to get out of the sun and under the shade of the arcade that runs all the way around the square.
 
 
-Montoya was glad to see us, and shook hands and gave us good rooms looking out on the square, and then we washed and cleaned up and went downstairs in the dining-room for lunch.
-e:montoya=happy
+Montoya was glad to see us, and shook hands and gave us good rooms looking out on the square, and then we washed and cleaned up and went downstairs in the dining-room for lunch. The driver stayed for lunch, too, and afterward we paid him and he started back to Bayonne.
+e:montoya=happy;b=light
 
-The driver stayed for lunch, too, and afterward we paid him and he started back to Bayonne.
-
-
-There are two dining-rooms in the Montoya. One is upstairs on the second floor and looks out on the square.
-
-
-The other is down one floor below the level of the square and has a door that opens on the back street that the bulls pass along when they run through the streets early in the morning on their way to the ring.
+There are two dining-rooms in the Montoya. One is upstairs on the second floor and looks out on the square. The other is down one floor below the level of the square and has a door that opens on the back street that the bulls pass along when they run through the streets early in the morning on their way to the ring.
 
 
 It is always cool in the downstairs dining-room and we had a very good lunch.
-
+b=montoya-down-dining
 
 The first meal in Spain was always a shock with the hors d’œuvres, an egg course, two meat courses, vegetables, salad, and dessert and fruit.
 
@@ -5678,22 +5666,22 @@ s=cohn
 s=bill
 
 We went out to walk around under the arcade to the Café Iruña for coffee.
-s=
+s=;b=pamplona-arcade
 
 Cohn said he was going over and get a shave.
 
 
 “Say,” Bill said to me, “have I got any chance on that bet?”
-s=bill;e:bill=neutral
+s=bill;e:bill=neutral;c=bill
 
 “You’ve got a rotten chance. They’ve never been on time anywhere. If their money doesn’t come it’s a cinch they won’t get in tonight.”
-s=jake
+s=jake;e:jake=
 
 “I was sorry as soon as I opened my mouth. But I had to call him. He’s all right, I guess, but where does he get this inside stuff? Mike and Brett fixed it up with us about coming down here.”
-s=bill;e:bill=thinking
+s=bill;e:bill=scowling
 
 I saw Cohn coming over across the square.
-s=none
+s=none;c=
 
 “Here he comes.”
 s=jake
@@ -5702,24 +5690,24 @@ s=jake
 s=bill;e:bill=angry
 
 “The barber shop’s closed,” Cohn said. “It’s not open till four.”
-s=cohn;e:cohn=neutral
+s=cohn;e:cohn=neutral;c=cohn
 
 We had coffee at the Iruña, sitting in comfortable wicker chairs looking out from the cool of the arcade at the big square.
-s=
+s=;b=pamplona-square-cafe
 
-After a while Bill went to write some letters and Cohn went over to the barbershop.
-
-
-It was still closed, so he decided to go up to the hotel and get a bath, and I sat out in front of the café and then went for a walk in the town.
-
+After a while Bill went to write some letters and Cohn went over to the barbershop. It was still closed, so he decided to go up to the hotel and get a bath, and I sat out in front of the café and then went for a walk in the town.
+b=light
 
 It was very hot, but I kept on the shady side of the streets and went through the market and had a good time seeing the town again.
-
+b=archive-office-ext
 
 I went to the Ayuntamiento and found the old gentleman who subscribes for the bullfight tickets for me every year, and he had gotten the money I sent him from Paris and renewed my subscriptions, so that was all set.
 
 
-He was the archivist, and all the archives of the town were in his office. That has nothing to do with the story.
+He was the archivist, and all the archives of the town were in his office.
+
+
+That has nothing to do with the story.<e>Hemingway!</e>
 
 
 Anyway, his office had a green baize door and a big wooden door, and when I went out I left him sitting among the archives that covered all the walls, and I shut both the doors, and as I went out of the building into the street the porter stopped me to brush off my coat.
@@ -5740,50 +5728,38 @@ s=other
 So I gave him two copper coins.
 s=none
 
-At the end of the street I saw the cathedral and walked up toward it.
-
-
-The first time I ever saw it I thought the façade was ugly but I liked it now.
-
+At the end of the street I saw the cathedral and walked up toward it. The first time I ever saw it I thought the façade was ugly but I liked it now.
+b=light
 
 I went inside. It was dim and dark and the pillars went high up, and there were people praying, and it smelt of incense, and there were some wonderful big windows.
-
+b=cathedral-int
 
 I knelt and started to pray and prayed for everybody I thought of, Brett and Mike and Bill and Robert Cohn and myself, and all the bullfighters, separately for the ones I liked, and lumping all the rest, then I prayed for myself again, and while I was praying for myself I found I was getting sleepy, so I prayed that the bullfights would be good, and that it would be a fine fiesta, and that we would get some fishing.
 e:jake=thinking
 
-I wondered if there was anything else I might pray for, and I thought I would like to have some money, so I prayed that I would make a lot of money, and then I started to think how I would make it, and thinking of making money reminded me of the count, and I started wondering about where he was, and regretting I hadn’t seen him since that night in Montmartre, and about something funny Brett told me about him, and as all the time I was kneeling with my forehead on the wood in front of me, and was thinking of myself as praying, I was a little ashamed, and regretted that I was such a rotten Catholic, but realized there was nothing I could do about it, at least for a while, and maybe never, but that anyway it was a grand religion, and I only wished I felt religious and maybe I would the next time; and then I was out in the hot sun on the steps of the cathedral, and the forefingers and the thumb of my right hand were still damp, and I felt them dry in the sun.
+I wondered if there was anything else I might pray for, and I thought I would like to have some money, so I prayed that I would make a lot of money, and then I started to think how I would make it, and thinking of making money reminded me of the count, and I started wondering about where he was, and regretting I hadn’t seen him since that night in Montmartre, and about something funny Brett told me about him, and as all the time I was kneeling with my forehead on the wood in front of me, and was thinking of myself as praying, I was a little ashamed, and regretted that I was such a rotten Catholic, but realized there was nothing I could do about it, at least for a while, and maybe never, but that anyway it was a grand religion, and I only wished I felt religious and maybe I would the next time; and then I was out in the hot sun on the steps of the cathedral, and the forefingers and the thumb of my right hand were still damp, and I felt them dry in the sun.<e>You're supposed to be the short sentence guy!</e>
 
 
 The sunlight was hot and hard, and I crossed over beside some buildings, and walked back along side-streets to the hotel.
-e:jake=neutral
+e:jake=neutral;b=montoya-ext
 
-At dinner that night we found that Robert Cohn had taken a bath, had had a shave and a haircut and a shampoo, and something put on his hair afterward to make it stay down.
-
-
-He was nervous, and I did not try to help him any.
-e:cohn=nervous
+At dinner that night we found that Robert Cohn had taken a bath, had had a shave and a haircut and a shampoo, and something put on his hair afterward to make it stay down. He was nervous, and I did not try to help him any.
+e:cohn=nervous;b=montoya-dining
 
 The train was due in at nine o’clock from San Sebastian, and, if Brett and Mike were coming, they would be on it.
 
 
-At twenty minutes to nine we were not half through dinner.
-
-
-Robert Cohn got up from the table and said he would go to the station.
-
-
-I said I would go with him, just to devil him.
+At twenty minutes to nine we were not half through dinner. Robert Cohn got up from the table and said he would go to the station. I said I would go with him, just to devil him.
 e:jake=smirking
 
 Bill said he would be damned if he would leave his dinner. I said we would be right back.
 e:bill=neutral
 
 We walked to the station. I was enjoying Cohn’s nervousness. I hoped Brett would be on the train.
-
+b=light
 
 At the station the train was late, and we sat on a baggage-truck and waited outside in the dark.
-
+b=station-ext-night
 
 I have never seen a man in civil life as nervous as Robert Cohn—nor as eager. I was enjoying it. It was lousy to enjoy it, but I felt lousy.
 
@@ -5795,7 +5771,7 @@ After a while we heard the train-whistle way off below on the other side of the 
 
 
 We went inside the station and stood with a crowd of people just back of the gates, and the train came in and stopped, and everybody started coming out through the gates.
-
+b=station-int
 
 They were not in the crowd.
 
@@ -5807,13 +5783,13 @@ We waited till everybody had gone through and out of the station and gotten into
 s=cohn;e:cohn=smirking
 
 We were going back to the hotel.
-s=none
+s=none;b=light
 
 “I thought they might,” I said.
 s=jake;e:jake=neutral
 
 Bill was eating fruit when we came in and finishing a bottle of wine.
-s=
+s=;b=montoya-dining
 
 “Didn’t come, eh?”
 s=bill
@@ -5845,7 +5821,10 @@ s=cohn
 Montoya came up to our table.
 s=none
 
-He had a telegram in his hand. “It’s for you.”
+He had a telegram in his hand.
+
+
+“It’s for you.”
 s=montoya
 
 He handed it to me.
@@ -5897,19 +5876,16 @@ s=jake
 s=bill;e:bill=happy
 
 We sat in the Iruña for a while and had coffee and then took a little walk out to the bullring and across the field and under the trees at the edge of the cliff and looked down at the river in the dark, and I turned in early.
-s=none;e:jake=neutral
+s=none;e:jake=neutral;b=light
 
 Bill and Cohn stayed out in the café quite late, I believe, because I was asleep when they came in.
 
 
-In the morning I bought three tickets for the bus to Burguete.
-
-
-It was scheduled to leave at two o’clock. There was nothing earlier.
+In the morning I bought three tickets for the bus to Burguete. It was scheduled to leave at two o’clock. There was nothing earlier.
 
 
 I was sitting over at the Iruña reading the papers when I saw Robert Cohn coming across the square.
-
+b=pamplona-square-cafe
 
 He came up to the table and sat down in one of the wicker chairs.
 
@@ -5927,7 +5903,7 @@ s=cohn;e:cohn=weary
 s=jake
 
 “Here. And after it shut we went over to that other café. The old man there speaks German and English.”
-s=cohn
+s=cohn;e:cohn=
 
 “The Café Suizo.”
 s=jake
@@ -5960,7 +5936,7 @@ s=cohn;e:cohn=nervous
 
 
 “Why,” I said.
-s=jake
+s=jake;e:jake=scowling
 
 “They may not come here for three or four days now if they start on parties at San Sebastian.”
 
@@ -6005,7 +5981,7 @@ s=cohn
 s=jake
 
 I found Bill up in his room. He was shaving.
-s=none;e:bill=neutral
+s=none;e:bill=neutral;b=montoya-room;x:bill=shaving
 
 “Oh, yes, he told me all about it last night,” Bill said.
 s=bill
@@ -6032,7 +6008,7 @@ He rubbed his chin with his thumb, looked at it, and then started scraping again
 s=none
 
 “You’ve got some fine ones yourself.”
-s=jake
+s=jake;e:jake=
 
 “Oh, yes. I’ve got some darbs. But not alongside of this Robert Cohn. The funny thing is he’s nice, too. I like him. But he’s just so awful.”
 s=bill
@@ -6062,7 +6038,7 @@ s=none
 s=jake
 
 “What a damn-fool thing to do. Why did she do that?”
-s=bill;e:bill=confused
+s=bill;e:bill=serious
 
 “She wanted to get out of town and she can’t go anywhere alone. She said she thought it would be good for him.”
 s=jake
@@ -6074,13 +6050,16 @@ He looked at his face carefully in the glass, put a big dab of lather on each ch
 s=none
 
 “It’s an honest face. It’s a face any woman would be safe with.”
-s=bill
+s=bill;x:bill=
 
 “She’d never seen it.”
 s=jake
 
-“She should have. All women should see it. It’s a face that ought to be thrown on every screen in the country. Every woman ought to be given a copy of this face as she leaves the altar. Mothers should tell their daughters about this face. My son”—he pointed the razor at me—“go west with this face and grow up with the country.”
+“She should have. All women should see it. It’s a face that ought to be thrown on every screen in the country. Every woman ought to be given a copy of this face as she leaves the altar.”
 s=bill
+
+“Mothers should tell their daughters about this face. My son”—he pointed the razor at me—“go west with this face and grow up with the country.”
+s=bill;e:bill=smirking
 
 He ducked down to the bowl, rinsed his face with cold water, put on some alcohol, and then looked at himself carefully in the glass, pulling down his long upper lip.
 s=none
