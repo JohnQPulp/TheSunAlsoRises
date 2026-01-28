@@ -2317,23 +2317,14 @@ We talked about one thing and another, and I left him to come to the office.
 ### Chapter VI
 r=title
 
-At five o’clock I was in the Hotel Crillon waiting for Brett.
+At five o’clock I was in the Hotel Crillon waiting for Brett. She was not there, so I sat down and wrote some letters. They were not very good letters but I hoped their being on Crillon stationery would help them.
+b=light
 
-
-She was not there, so I sat down and wrote some letters.
-
-
-They were not very good letters but I hoped their being on Crillon stationery would help them.
-
-
-Brett did not turn up, so about quarter to six I went down to the bar and had a Jack Rose with George the barman.
-
-
-Brett had not been in the bar either, and so I looked for her upstairs on my way out, and took a taxi to the Café Select.
+Brett did not turn up, so about quarter to six I went down to the bar and had a Jack Rose with George the barman. Brett had not been in the bar either, and so I looked for her upstairs on my way out, and took a taxi to the Café Select.
 
 
 Crossing the Seine I saw a string of barges being towed empty down the current, riding high, the bargemen at the sweeps as they came toward the bridge.
-
+b=taxi-abstract
 
 The river looked nice. It was always pleasant crossing bridges in Paris.
 
@@ -2356,23 +2347,14 @@ It is a street I do not mind walking down at all. But I cannot stand to ride alo
 Perhaps I had read something about it once. That was the way Robert Cohn was about all of Paris.
 e:jake=thinking
 
-I wondered where Cohn got that incapacity to enjoy Paris. Possibly from Mencken. Mencken hates Paris, I believe.
+I wondered where Cohn got that incapacity to enjoy Paris. Possibly from Mencken. Mencken hates Paris, I believe. So many young men get their likes and dislikes from Mencken.<e>If it makes you feel better, Standard Ebooks doesn't carry any of Mencken's works as of my writing this. For better of worse, you've won the test of time, Hemingway.</e>
 
 
-So many young men get their likes and dislikes from Mencken.
-
-
-The taxi stopped in front of the Rotonde.
-
-
-No matter what café in Montparnasse you ask a taxi-driver to bring you to from the right bank of the river, they always take you to the Rotonde.
-
-
-Ten years from now it will probably be the Dome. It was near enough, anyway.
-
+The taxi stopped in front of the Rotonde. No matter what café in Montparnasse you ask a taxi-driver to bring you to from the right bank of the river, they always take you to the Rotonde. Ten years from now it will probably be the Dome. It was near enough, anyway.
+b=light
 
 I walked past the sad tables of the Rotonde to the Select.
-
+b=rotonde-ext
 
 There were a few people inside at the bar, and outside, alone, sat Harvey Stone.
 n:harvey=Harvey Stone
@@ -2503,7 +2485,7 @@ s=harvey
 “There comes Cohn,” I said.
 s=jake
 
-Robert Cohn was crossing the street.
+Robert Cohn was crossing the street.<e>How do you assholes constantly run into each other?</e>
 s=none
 
 “That moron,” said Harvey.
@@ -2584,17 +2566,11 @@ I watched him crossing the street through the taxis, small, heavy, slowly sure o
 “He always gets me sore,” Cohn said. “I can’t stand him.”
 s=cohn;e:cohn=angry
 
-“I like him,” I said.
+“I like him,” I said. “I’m fond of him. You don’t want to get sore at him.”
 s=jake
 
-“I’m fond of him. You don’t want to get sore at him.”
-
-
-“I know it,” Cohn said.
+“I know it,” Cohn said. “He just gets on my nerves.”
 s=cohn;e:cohn=unhappy
-
-“He just gets on my nerves.”
-
 
 “Write this afternoon?”
 s=jake
@@ -2609,7 +2585,7 @@ Then he had been sure of his work, only with these personal longings for adventu
 
 
 Somehow I feel I have not shown Robert Cohn clearly.
-e:jake=thinking
+e:jake=thinking;b=light
 
 The reason is that until he fell in love with Brett, I never heard him make one remark that would, in any way, detach him from other people.
 
@@ -2617,35 +2593,29 @@ The reason is that until he fell in love with Brett, I never heard him make one 
 He was nice to watch on the tennis-court, he had a good body, and he kept it in shape; he handled his cards well at bridge, and he had a funny sort of undergraduate quality about him.
 
 
-If he were in a crowd nothing he said stood out.
+If he were in a crowd nothing he said stood out. He wore what used to be called polo shirts at school, and may be called that still, but he was not professionally youthful.
+c=cohn;e:cohn=
 
-
-He wore what used to be called polo shirts at school, and may be called that still, but he was not professionally youthful.
-
-
-I do not believe he thought about his clothes much. Externally he had been formed at Princeton.
-
-
-Internally he had been moulded by the two women who had trained him.
+I do not believe he thought about his clothes much. Externally he had been formed at Princeton. Internally he had been moulded by the two women who had trained him.
 
 
 He had a nice, boyish sort of cheerfulness that had never been trained out of him, and I probably have not brought it out.
-
+e:cohn=happy
 
 He loved to win at tennis. He probably loved to win as much as Lenglen, for instance.
 
 
 On the other hand, he was not angry at being beaten.
-
+e:cohn=
 
 When he fell in love with Brett his tennis game went all to pieces.
-
+c=
 
 People beat him who had never had a chance with him. He was very nice about it.
 
 
-Anyhow, we were sitting on the terrace of the Café Select, and Harvey Stone had just crossed the street.
-
+Anyhow, we were sitting on the terrace of the Café Select, and Harvey Stone had just crossed the street.<e>What the f&#9472;&#9472;&#9472; was that?</e>
+b=rotonde-ext
 
 “Come on up to the Lilas,” I said.
 s=jake
@@ -2674,8 +2644,11 @@ We watched her cross the street.
 “Hello,” she said, “I’m so glad you’re here, Jake. I’ve been wanting to talk to you.”
 s=frances
 
-“Hello, Frances,” said Cohn. He smiled.
+“Hello, Frances,” said Cohn.
 s=cohn;e:cohn=happy
+
+He smiled.
+s=
 
 “Why, hello, Robert. Are you here?”
 s=frances;e:frances=excited
@@ -2729,7 +2702,7 @@ s=none
 s=frances;e:frances=excited
 
 We crossed the Boulevard Montparnasse and sat down at a table.
-s=none
+s=none;b=dome-ext
 
 A boy came up with the *Paris Times*, and I bought one and opened it.
 
@@ -2765,7 +2738,7 @@ I said nothing.
 s=none;e:jake=neutral
 
 “We were going to celebrate so, and instead we’ve just had scenes. It’s so childish.”
-s=frances
+s=frances;e:frances=upset
 
 “We have dreadful scenes, and he cries and begs me to be reasonable, but he says he just can’t do it.”
 
@@ -2846,7 +2819,7 @@ s=jake
 s=frances
 
 We got up from the table—they had never brought us a drink—and started across the street toward the Select, where Cohn sat smiling at us from behind the marble-topped table.
-s=none;e:cohn=happy
+s=none;e:cohn=happy;b=rotonde-ext
 
 “Well, what are you smiling at?” Frances asked him. “Feel pretty happy?”
 s=frances;e:frances=smirking
@@ -2947,7 +2920,7 @@ s=frances
 “So now he’s going out and get some new material. Well, I hope he gets something frightfully interesting.”
 
 
-“Listen, Robert, dear. Let me tell you something. You won’t mind, will you?”<e>AHH she won't shut up.</e>
+“Listen, Robert, dear. Let me tell you something. You won’t mind, will you?”<e><span class='uppercase'>AHHHHH why won't she shut up.</span> (I'm on Cohn's side here.)</e>
 
 
 “Don’t have scenes with your young ladies. Try not to. Because you can’t have scenes without crying, and then you pity yourself so much you can’t remember what the other person’s said.”
@@ -3016,11 +2989,11 @@ s=frances
 “Look at him and see if it’s not. Where are you going, Jake?”
 
 
-“I’ve got to go in and see Harvey Stone a minute.”<e>All right, that's finally over. That was like a workout. Credit where credit's due: Hemingway did have me emotionally engaged there for a second.</e>
+“I’ve got to go in and see Harvey Stone a minute.”<e>It's finally over. That was like a workout. But credit where credit's due: Hemingway did have me emotionally engaged there I guess, even if the emotion was frustration.</e>
 s=jake
 
 Cohn looked up as I went in. His face was white. Why did he sit there? Why did he keep on taking it like that?
-s=none;e:cohn=unhappy
+s=none;e:cohn=unhappy;b=light
 
 As I stood against the bar looking out I could see them through the window.
 
@@ -3034,7 +3007,7 @@ Or maybe she did not ask that now. Perhaps she said something else.
 I told the barman I did not want anything to drink and went out through the side door.
 
 
-As I went out the door I looked back through the two thicknesses of glass and saw them sitting there. She was still talking to him.<e>Poor guy lmao.</e>
+As I went out the door I looked back through the two thicknesses of glass and saw them sitting there. She was still talking to him.<e>The poor guy lmao.</e>
 
 
 I went down a side street to the Boulevard Raspail.
