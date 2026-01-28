@@ -3020,13 +3020,13 @@ A taxi came along and I got in and gave the driver the address of my flat.
 r=title
 
 As I started up the stairs the concierge knocked on the glass of the door of her lodge, and as I stopped she came out.
-s=none
+s=none;b=flat-concierge-int
 
 She had some letters and a telegram.
-
+c=concierge;e:concierge=happy
 
 “Here is the post. And there was a lady here to see you.”
-s=concierge;e:concierge=excited
+s=concierge
 
 “Did she leave a card?”
 s=jake;e:jake=neutral
@@ -3047,13 +3047,13 @@ s=concierge
 e:concierge=thinking
 
 She put her head on one hand and rocked it up and down.
-s=none
+s=none;c=
 
 “I’ll speak perfectly frankly, Monsieur Barnes. Last night I found her not so *gentille*. Last night I formed another idea of her.”
-s=concierge;e:concierge=serious
+s=concierge;e:concierge=serious;c=concierge
 
 “But listen to what I tell you. She is *très, très gentille*. She is of very good family. It is a thing you can see.”
-e:concierge=excited
+e:concierge=happy
 
 “They did not leave any word?”
 s=jake
@@ -3068,7 +3068,7 @@ s=jake
 s=concierge;e:concierge=happy
 
 The concierge, before she became a concierge, had owned a drink-selling concession at the Paris racecourses.
-s=none;e:concierge=neutral
+s=none;e:concierge=neutral;c=
 
 Her lifework lay in the *pelouse*, but she kept an eye on the people of the *pesage*, and she took great pride in telling me which of my guests were well brought up, which were of good family, who were sportsmen, a French word pronounced with the accent on the men.
 
@@ -3080,34 +3080,34 @@ One of my friends, an extremely underfed-looking painter, who was obviously to M
 
 
 I went up to the flat wondering what Brett had done to the concierge.
-
+b=flat-dining-int
 
 The wire was a cable from Bill Gorton, saying he was arriving on the *France*.
 n:bill=Bill Gorton
 
 I put the mail on the table, went back to the bedroom, undressed and had a shower.
-
+b=flat-bedroom-int
 
 I was rubbing down when I heard the doorbell pull.
 
 
-I put on a bathrobe and slippers and went to the door. It was Brett.
-e:brett=happy
+I put on a bathrobe and slippers and went to the door.
+e:brett=happy;x:jake=bathrobe;b=flat-stairs
 
-Back of her was the count. He was holding a great bunch of roses.
-e:count=happy
+It was Brett. Back of her was the count. He was holding a great bunch of roses.
+e:count=happy;x:count=roses;b=count,brett
 
 “Hello, darling,” said Brett. “Aren’t you going to let us in?”
 s=brett
 
 “Come on. I was just bathing.”
-s=jake
+s=jake;c=;b=flat-dining-int
 
 “Aren’t you the fortunate man. Bathing.”
 s=brett
 
 “Only a shower. Sit down, Count Mippipopolous. What will you drink?”
-s=jake;e:jake=happy
+s=jake;e:jake=happy;x:count=
 
 “I don’t know whether you like flowers, sir,” the count said, “but I took the liberty of just bringing these roses.”
 s=count;e:count=neutral
@@ -3154,7 +3154,7 @@ s=brett;e:brett=neutral
 “I thought we ought to give her a little something for last night. It was very late.”
 s=count;e:count=happy
 
-“He’s wonderful,” Brett said. “He remembers everything that’s happened.”<e>Nothing ever happens. (In a Hemingway novel.)</e>
+“He’s wonderful,” Brett said. “He remembers everything that’s happened.”<e>Everything that's happened? <i>Nothing</i> ever happens in Hemingway novels.</e>
 s=brett
 
 “So do you, my dear.”
@@ -3170,7 +3170,7 @@ s=jake
 s=brett;e:brett=happy
 
 While I dressed I heard Brett put down glasses and then a siphon, and then heard them talking.
-s=none
+s=none;x:jake=;b=flat-bedroom-int-day
 
 I dressed slowly, sitting on the bed. I felt tired and pretty rotten.
 e:jake=weary
@@ -3194,7 +3194,7 @@ s=brett;e:brett=unhappy
 s=jake
 
 “I’ll send him away.”
-s=brett
+s=brett;e:brett=
 
 “No, don’t.”
 s=jake
@@ -3247,10 +3247,10 @@ s=brett
 “Couldn’t we live together, Brett? Couldn’t we just live together?”
 s=jake
 
-“I don’t think so. I’d just *tromper* you with everybody. You couldn’t stand it.”
+“I don’t think so. I’d just *tromper* you with everybody. You couldn’t stand it.”<e>Wow what a bitch.</e>
 s=brett;e:brett=unhappy
 
-“I stand it now.”
+“I stand it now.”<e>Wow what a cuck. (I said it in <i>Cup of Gold</i>, and I'll say it again here: everyone involved in this story should die.)</e>
 s=jake
 
 “That would be different. It’s my fault, Jake. It’s the way I’m made.”
@@ -3271,11 +3271,11 @@ s=brett
 “You know I love you.”
 s=jake
 
-“Let’s not talk. Talking’s all bilge.”<e>Ethos of the book right here: why risk saying what you mean when you could be vague and annoying instead?</e>
+“Let’s not talk. Talking’s all bilge.”<e>"Why risk saying what you mean when you could be vague and annoying instead?" —Hemingway</e>
 s=brett
 
 “I’m going away from you, and then Michael’s coming back.”
-
+e:brett=
 
 “Why are you going away?”
 s=jake;e:jake=confused
@@ -3296,7 +3296,7 @@ s=jake
 s=brett
 
 “Can’t we go together?”
-s=jake
+s=jake;e:jake=unhappy
 
 “No. That would be a hell of an idea after we’d just talked it out.”
 s=brett;e:brett=serious
@@ -3335,22 +3335,22 @@ s=jake;e:jake=neutral
 s=brett;e:brett=neutral
 
 We went into the dining-room. I took up the brandy bottle and poured Brett a drink and one for myself.
-s=none
+s=none;b=flat-dining-int
 
-There was a ring at the bellpull. I went to the door and there was the count.
-e:count=happy
+There was a ring at the bellpull.
+e:count=happy;b=flat-stairs;n:chauffeur=Henry the Chauffeur
 
-Behind him was the chauffeur carrying a basket of champagne.
-
+I went to the door and there was the count. Behind him was the chauffeur carrying a basket of champagne.
+c=chauffeur,count;x:chauffeur=basket
 
 “Where should I have him put it, sir?” asked the count.
 s=count
 
 “In the kitchen,” Brett said.
-s=brett
+s=brett;c=;b=flat-dining-int
 
 “Put it in there, Henry,” the count motioned.
-s=count
+s=count;
 
 “Now go down and get the ice.”
 
@@ -3395,7 +3395,7 @@ s=count
 s=brett
 
 “Do sit down, count,” I said. “Let me take that stick.”
-s=jake;e:jake=happy
+s=jake;e:jake=
 
 The count was looking at Brett across the table under the gaslight.
 s=none;e:count=contemplative
@@ -3410,7 +3410,7 @@ I found some ashtrays and spread them around.
 s=none
 
 The chauffeur came up with a bucket full of salted ice.
-n:chauffeur=Henry the Chauffeur
+
 
 “Put two bottles in it, Henry,” the count called.
 s=count
@@ -3482,7 +3482,7 @@ s=brett
 
 
 “I’d tell her, too,” said the count. “I’m not joking you. I never joke people. Joke people and you make enemies. That’s what I always say.”
-s=count
+s=count;e:count=serious
 
 “You’re right,” Brett said. “You’re terribly right. I always joke people and I haven’t a friend in the world. Except Jake here.”
 s=brett
@@ -3505,8 +3505,8 @@ s=brett
 “See,” said the count. “You don’t joke him.”
 s=count
 
-“This is a hell of a dull talk,” Brett said. “How about some of that champagne?”<e>You could insert these two sentences literally anywhere in the book.</e>
-s=brett;e:brett=weary
+“This is a hell of a dull talk,” Brett said. “How about some of that champagne?”<e>These two sentences are the whole book.</e>
+s=brett;e:brett=
 
 The count reached down and twirled the bottles in the shiny bucket.
 s=none
@@ -3587,7 +3587,7 @@ s=brett;e:brett=surprised
 s=count;e:count=smirking
 
 “Listen to the man.”
-s=brett
+s=brett;e:brett=smirking
 
 “Mr. Barnes,” the count poured my glass full.
 s=count
@@ -3610,14 +3610,14 @@ s=count
 “Of course you have, my dear,” Brett said. “I was only ragging.”
 s=brett;e:brett=happy
 
-“I have been in seven wars and four revolutions,” the count said.<e>Is that including the one where Karolides got killed? (Ho ho! I'm on a roll with these <i>39 Steps</i> references. That book was fun.)</e>
+“I have been in seven wars and four revolutions,” the count said.<e>Including the one with Karolides? (Ho ho! I'm on a roll with these <i>39 Steps</i> references. That book was stupid, but at least it was fun.)</e>
 s=count
 
 “Soldiering?” Brett asked.
 s=brett
 
 “Sometimes, my dear. And I have got arrow wounds. Have you ever seen arrow wounds?”
-s=count
+s=count;e:count=
 
 “Let’s have a look at them.”
 s=brett;e:brett=excited
@@ -3650,7 +3650,7 @@ The count was tucking in his shirt.
 s=none
 
 “Where did you get those?” I asked.
-s=jake;e:jake=curious
+s=jake;e:jake=
 
 “In Abyssinia. When I was twenty-one years old.”
 s=count
@@ -3710,10 +3710,10 @@ s=brett;e:brett=scowling
 s=count;e:count=serious
 
 We drank three bottles of the champagne and the count left the basket in my kitchen.
-s=none
+s=none;b=light
 
 We dined at a restaurant in the Bois. It was a good dinner.
-
+b=bois-int
 
 Food had an excellent place in the count’s values. So did wine.
 
@@ -3722,7 +3722,7 @@ The count was in fine form during the meal. So was Brett. It was a good party.
 
 
 “Where would you like to go?” asked the count after dinner.
-s=count
+s=count;e:count=
 
 We were the only people left in the restaurant.
 s=none
@@ -3746,7 +3746,7 @@ s=none
 s=count
 
 “We want to lead our own lives,” I said.
-s=jake
+s=jake;e:jake=
 
 “We have our careers,” Brett said. “Come on. Let’s get out of this.”
 s=brett
@@ -3797,22 +3797,22 @@ s=brett
 s=count
 
 Finally we went up to Montmartre.
-s=none
+s=none;b=light
 
 Inside Zelli’s it was crowded, smoky, and noisy. The music hit you as you went in.
-
+b=zelli-int
 
 Brett and I danced. It was so crowded we could barely move.
 
 
-The nigger drummer waved at Brett.
+The nigger drummer waved at Brett.<e>Hey hey hey that's <i>Twain's</i> word — not yours.</e>
 n:drummer=Drummer
 
 We were caught in the jam, dancing in one place in front of him.
 
 
 “Hahre you?”
-s=drummer
+s=drummer;e:drummer=happy
 
 “Great.”
 s=brett
@@ -3854,7 +3854,7 @@ s=brett
 s=jake
 
 “I’m going to marry him,” Brett said. “Funny. I haven’t thought about him for a week.”
-s=brett;e:brett=thinking
+s=brett;e:brett=contemplative
 
 “Don’t you write him?”
 s=jake
@@ -3872,7 +3872,7 @@ s=brett
 s=jake
 
 “How do I know? As soon as we can get the divorce. Michael’s trying to get his mother to put up for it.”
-s=brett
+s=brett;e:brett=
 
 “Could I help you?”
 s=jake
@@ -3880,8 +3880,11 @@ s=jake
 “Don’t be an ass. Michael’s people have loads of money.”
 s=brett
 
-The music stopped. We walked over to the table. The count stood up.
-s=none
+The music stopped.
+s=
+
+We walked over to the table. The count stood up.
+s=none;b=zelli-table-int
 
 “Very nice,” he said. “You looked very, very nice.”
 s=count;e:count=happy
@@ -3893,7 +3896,7 @@ s=jake
 s=count
 
 “Oh, come off it,” Brett said.
-s=brett
+s=brett;e:brett=smirking
 
 “My dear, I would do it if I would enjoy it. I enjoy to watch you dance.”
 s=count
@@ -3905,7 +3908,7 @@ s=brett
 s=count;e:count=serious
 
 “He is rather hard.”
-s=brett
+s=brett;e:brett=
 
 “You know I think that boy’s got a future. But personally I don’t want him around.”
 s=count
@@ -3926,18 +3929,21 @@ s=count
 s=brett;e:brett=happy
 
 We danced. It was crowded and close.
-s=none
+s=none;b=zelli-int
 
 “Oh, darling,” Brett said, “I’m so miserable.”
-s=brett;e:brett=miserable
+s=brett;e:brett=upset
 
-I had that feeling of going through something that has all happened before.
+I had that feeling of going through something that has all happened before.<e>Ahh now he's lampshading his own… ooh, I'm annoyed.</e>
 s=none;e:jake=weary
 
 “You were happy a minute ago.”
 s=jake
 
-The drummer shouted: “You can’t two time—”
+The drummer shouted:
+s=
+
+“You can’t two time—”
 s=drummer
 
 “It’s all gone.”
@@ -3949,11 +3955,14 @@ s=jake
 “I don’t know. I just feel terribly.”
 s=brett
 
-“… …” the drummer chanted. Then turned to his sticks.
-s=drummer
+“… …” the drummer chanted.
+s=drummer;e:drummer=
+
+Then turned to his sticks.
+s=
 
 “Want to go?”
-s=jake
+s=jake;e:jake=unhappy
 
 I had the feeling as in a nightmare of it all being something repeated, something I had been through and that now I must go through again.
 s=none;e:jake=unhappy
@@ -3964,17 +3973,17 @@ s=drummer
 “Let’s go,” said Brett. “You don’t mind.”
 s=brett
 
-“… …” the drummer shouted and grinned at Brett.<e>Yeah I'll just be tugging on my collar over here.</e>
-s=drummer
+“… …” the drummer shouted and grinned at Brett.<e>If you're not sure what Hemingway meant by these ellipses quotes, just imagine the most racist thing you can.</e>
+s=drummer;e:drummer=happy
 
 “All right,” I said.
 s=jake
 
 We got out from the crowd. Brett went to the dressing-room.
-s=none
+s=none;b=zelli-table-int
 
 “Brett wants to go,” I said to the count.
-s=jake
+s=jake;e:jake=
 
 He nodded.
 s=none
@@ -4001,19 +4010,19 @@ She kissed the count and put her hand on his shoulder to keep him from standing 
 
 
 As we went out the door I looked back and there were three girls at his table.
-
+b=light
 
 We got into the big car. Brett gave the chauffeur the address of her hotel.
 
 
 “No, don’t come up,” she said at the hotel.
-s=brett;e:brett=serious
+s=brett;e:brett=serious;b=paris-hotel-ext-night
 
 She had rung and the door was unlatched.
 s=none
 
 “Really?”
-s=jake
+s=jake;e:jake=unhappy
 
 “No. Please.”
 s=brett
@@ -4033,11 +4042,8 @@ s=brett
 She turned quickly and went into the hotel.
 s=none
 
-The chauffeur drove me around to my flat.
-s=none
-
-I gave him twenty francs and he touched his cap and said: “Good night, sir,” and drove off.
-
+The chauffeur drove me around to my flat. I gave him twenty francs and he touched his cap and said: “Good night, sir,” and drove off.
+s=none;b=light
 
 I rang the bell. The door opened and I went upstairs and went to bed.
 s=none;e:jake=weary
@@ -12415,7 +12421,7 @@ She had been afraid last night they would pass out.
 That was why I was to be sure to take her.
 
 
-I drank the coffee and hurried with the other people toward the bullring. I was not groggy now.<e>I said it in <i>Cup of Gold</i>, and I'll say it again here: everyone involved in this story should die. I hope they all get gored by the bulls.</e>
+I drank the coffee and hurried with the other people toward the bullring. I was not groggy now.<e>Please please please everyone get gored by bulls and die.</e>
 
 
 There was only a bad headache. Everything looked sharp and clear, and the town smelt of the early morning.
