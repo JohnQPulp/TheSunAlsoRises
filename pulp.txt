@@ -9914,7 +9914,7 @@ We found the big leather wine-bottle leaning against the wall in my room, took i
 s=none;b=light
 
 It was a good bullfight. Bill and I were very excited about Pedro Romero.
-e:bill=excited;e:jake=excited;b=bullfight
+e:bill=excited;e:jake=excited;b=ringside
 
 Montoya was sitting about ten places away. After Romero had killed his first bull Montoya caught my eye and nodded his head.
 e:montoya=happy
@@ -10160,7 +10160,7 @@ s=jake
 s=brett;e:brett=contemplative
 
 The bullfight on the second day was much better than on the first.
-s=none;b=bullfight
+s=none;b=ringside
 
 Brett sat between Mike and me at the barrera, and Bill and Cohn went up above.
 
@@ -10178,10 +10178,10 @@ I sat beside Brett and explained to Brett what it was all about.
 e:brett=serious
 
 I told her about watching the bull, not the horse, when the bulls charged the picadors, and got her to watching the picador place the point of his pic so that she saw what it was all about, so that it became more something that was going on with a definite end, and less of a spectacle with unexplained horrors.
-
+b=bullfight-picadors
 
 I had her watch how Romero took the bull away from a fallen horse with his cape, and how he held him with the cape and turned him, smoothly and suavely, never wasting the bull.
-
+b=bullfight-capework
 
 She saw how Romero avoided every brusque movement and saved his bulls for the last when he wanted them, not winded and discomposed but smoothly worn down.
 
@@ -10208,7 +10208,7 @@ He did not have to emphasize their closeness. Brett saw how something that was b
 
 
 I told her how since the death of Joselito all the bullfighters had been developing a technic that simulated this appearance of danger in order to give a fake emotional feeling, while the bullfighter was really safe.
-
+b=ringside
 
 Romero had the old thing, the holding of his purity of line through the maximum of exposure, while he dominated the bull by making him realize he was unattainable, while he prepared him for the killing.
 
@@ -10256,7 +10256,7 @@ They had hitched the mules to the dead bull and then the whips cracked, the men 
 s=none;b=light
 
 “This next is the last one.”
-s=jake;b=bullfight
+s=jake
 
 “Not really,” Brett said.
 s=brett;e:brett=
@@ -10267,7 +10267,7 @@ s=;e:brett=
 Romero waved his picadors to their places, then stood, his cape against his chest, looking across the ring to where the bull would come out.
 s=none
 
-After it was over we went out and were pressed tight in the crowd.
+After it was over we went out and were pressed tight in the crowd.<e>What do you mean "after it was over"? You didn't finish describing it.</e>
 b=light
 
 “These bullfights are hell on one,” Brett said. “I’m limp as a rag.”
@@ -13315,22 +13315,16 @@ e:brett=neutral
 When the fiesta boiled over and toward the bullring we went with the crowd.
 b=light
 
-Brett sat at the ringside between Bill and me.
-b=bullring-ringside
+Brett sat at the ringside between Bill and me.<e><a href="https://www.youtube.com/watch?v=gWy1utqHD0s">Brett and Romero ringside.</a></e>
+b=ringside
 
 Directly below us was the callejón, the passageway between the stands and the red fence of the barrera.
 
 
-Behind us the concrete stands filled solidly. Out in front, beyond the red fence, the sand of the ring was smooth-rolled and yellow.
+Behind us the concrete stands filled solidly. Out in front, beyond the red fence, the sand of the ring was smooth-rolled and yellow. It looked a little heavy from the rain, but it was dry in the sun and firm and smooth.
 
 
-It looked a little heavy from the rain, but it was dry in the sun and firm and smooth.
-
-
-The sword-handlers and bullring servants came down the callejón carrying on their shoulders the wicker baskets of fighting capes and muletas.
-
-
-They were bloodstained and compactly folded and packed in the baskets.
+The sword-handlers and bullring servants came down the callejón carrying on their shoulders the wicker baskets of fighting capes and muletas. They were bloodstained and compactly folded and packed in the baskets.
 
 
 The sword-handlers opened the heavy leather sword-cases so the red wrapped hilts of the sheaf of swords showed as the leather case leaned against the fence.
@@ -13363,14 +13357,11 @@ s=brett;e:brett=neutral
 Below in the narrow passage of the callejón the sword-handlers arranged everything. All the seats were full.
 s=none
 
-Above, all the boxes were full. There was not an empty seat except in the President’s box.
-
-
-When he came in the fight would start.
-
+Above, all the boxes were full. There was not an empty seat except in the President’s box. When he came in the fight would start.
+b=box-crowd
 
 Across the smooth sand, in the high doorway that led into the corrals, the bullfighters were standing, their arms furled in their capes, talking, waiting for the signal to march in across the arena.
-
+b=ringside
 
 Brett was watching them with the glasses.
 e:brett=serious
@@ -13379,31 +13370,31 @@ e:brett=serious
 s=brett
 
 I looked through the glasses and saw the three matadors.
-s=none
+s=none;x:romero=black;b=light;n:belmonte=Belmonte;n:marcial=Marcial
 
 Romero was in the centre, Belmonte on his left, Marcial on his right.
-e:romero=serious
+e:romero=serious;c=belmonte,romero,marcial
 
 Back of them were their people, and behind the banderilleros, back in the passageway and in the open space of the corral, I saw the picadors.
-
+c=
 
 Romero was wearing a black suit. His tricornered hat was low down over his eyes.
-x:romero=black
+c=romero
 
 I could not see his face clearly under the hat, but it looked badly marked. He was looking straight ahead.
 
 
 Marcial was smoking a cigarette guardedly, holding it in his hand.
-
+b=light;c=,,marcial;x:marcial=smoking
 
 Belmonte looked ahead, his face wan and yellow, his long wolf jaw out. He was looking at nothing.
-
+c=belmonte,,
 
 Neither he nor Romero seemed to have anything in common with the others. They were all alone.
-
+c=
 
 The President came in; there was handclapping above us in the grand stand, and I handed the glasses to Brett.
-
+b=ringside
 
 There was applause. The music started. Brett looked through the glasses.
 
@@ -13424,16 +13415,22 @@ Behind all came the two trains of mules and the bullring servants.
 
 
 The matadors bowed, holding their hats on, before the President’s box, and then came over to the barrera below us.
-
+b=box-crowd
 
 Pedro Romero took off his heavy gold-brocaded cape and handed it over the fence to his sword-handler.
+x:romero=black,capeless
+
+He said something to the sword-handler.
+b=light
+
+Close below us we saw Romero’s lips were puffed, both eyes were discolored.
+c=romero
+
+His face was discolored and swollen.
 
 
-He said something to the sword-handler. Close below us we saw Romero’s lips were puffed, both eyes were discolored.
-
-
-His face was discolored and swollen. The sword-handler took the cape, looked up at Brett, and came over to us and handed up the cape.
-
+The sword-handler took the cape, looked up at Brett, and came over to us and handed up the cape.
+c=;b=ringside
 
 “Spread it out in front of you,” I said.
 s=jake
@@ -13441,28 +13438,28 @@ s=jake
 Brett leaned forward.
 s=none;e:brett=neutral
 
-The cape was heavy and smoothly stiff with gold. The sword-handler looked back, shook his head, and said something.
+The cape was heavy and smoothly stiff with gold.
+o=cape
+
+The sword-handler looked back, shook his head, and said something.
 
 
 A man beside me leaned over toward Brett.
 
 
-“He doesn’t want you to spread it,” he said.
+“He doesn’t want you to spread it,” he said.<e>Sure he doesn't.</e>
 n:man2=Man;s=man2
 
 “You should fold it and keep it in your lap.”
 
 
 Brett folded the heavy cape.
-s=none
+s=none;o=
 
 Romero did not look up at us. He was speaking to Belmonte.
 e:romero=neutral
 
-Belmonte had sent his formal cape over to some friends.
-
-
-He looked across at them and smiled, his wolf smile that was only with the mouth.
+Belmonte had sent his formal cape over to some friends. He looked across at them and smiled, his wolf smile that was only with the mouth.
 
 
 Romero leaned over the barrera and asked for the water-jug.
@@ -13490,7 +13487,7 @@ But because he got thirty thousand pesetas and people had stayed in line all nig
 
 
 Belmonte’s great attraction is working close to the bull. In bullfighting they speak of the terrain of the bull and the terrain of the bullfighter.
-
+o=bullfight-capework
 
 As long as a bullfighter stays in his own terrain he is comparatively safe.
 
@@ -13507,11 +13504,8 @@ This way he gave the sensation of coming tragedy.
 People went to the corrida to see Belmonte, to be given tragic sensations, and perhaps to see the death of Belmonte.
 
 
-Fifteen years ago they said if you wanted to see Belmonte you should go quickly, while he was still alive.
-
-
-Since then he has killed more than a thousand bulls.
-
+Fifteen years ago they said if you wanted to see Belmonte you should go quickly, while he was still alive. Since then he has killed more than a thousand bulls.
+b=light
 
 When he retired the legend grew up about how his bullfighting had been, and when he came out of retirement the public were disappointed because no real man could work as close to the bulls as Belmonte was supposed to have done, not, of course, even Belmonte.
 
@@ -13523,27 +13517,18 @@ He had meant to have a great afternoon, and instead it was an afternoon of sneer
 
 
 His jaw only went further out.
-
+x:belmonte=longjaw;c=belmonte
 
 Sometimes he turned to smile that toothed, long-jawed, lipless smile when he was called something particularly insulting, and always the pain that any movement produced grew stronger and stronger, until finally his yellow face was parchment color, and after his second bull was dead and the throwing of bread and cushions was over, after he had saluted the President with the same wolf-jawed smile and contemptuous eyes, and handed his sword over the barrera to be wiped, and put back in its case, he passed through into the callejón and leaned on the barrera below us, his head on his arms, not seeing, not hearing anything, only going through his pain.
+c=
+
+When he looked up, finally, he asked for a drink of water. He swallowed a little, rinsed his mouth, spat the water, took his cape, and went back into the ring.
+b=ringside
+
+Because they were against Belmonte the public were for Romero. From the moment he left the barrera and went toward the bull they applauded him.
 
 
-When he looked up, finally, he asked for a drink of water.
-
-
-He swallowed a little, rinsed his mouth, spat the water, took his cape, and went back into the ring.
-
-
-Because they were against Belmonte the public were for Romero.
-
-
-From the moment he left the barrera and went toward the bull they applauded him.
-
-
-Belmonte watched Romero, too, watched him always without seeming to. He paid no attention to Marcial.
-
-
-Marcial was the sort of thing he knew all about.
+Belmonte watched Romero, too, watched him always without seeming to. He paid no attention to Marcial. Marcial was the sort of thing he knew all about.
 
 
 He had come out of retirement to compete with Marcial, knowing it was a competition gained in advance.
@@ -13561,16 +13546,10 @@ e:romero=neutral
 The crowd felt it, even the people from Biarritz, even the American ambassador saw it, finally.
 
 
-It was a competition that Belmonte would not enter because it would lead only to a bad horn wound or death.
+It was a competition that Belmonte would not enter because it would lead only to a bad horn wound or death. Belmonte was no longer well enough. He no longer had his greatest moments in the bullring.
+b=think
 
-
-Belmonte was no longer well enough. He no longer had his greatest moments in the bullring.
-
-
-He was not sure that there were any great moments.
-
-
-Things were not the same and now life only came in flashes.
+He was not sure that there were any great moments. Things were not the same and now life only came in flashes.<e>Belmonte, the character only introduced in this scene, who won't appear after this scene, gets his emotional backstory more fleshed out than any of our main characters.</e>
 
 
 He had flashes of the old greatness with his bulls, but they were not of value because he had discounted them in advance when he had picked the bulls out for their safety, getting out of a motor and leaning on a fence, looking over at the herd on the ranch of his friend the bull-breeder.
@@ -13583,7 +13562,7 @@ It was the greatness, but it did not make bullfighting wonderful to him any more
 
 
 Pedro Romero had the greatness.
-
+b=ringside
 
 He loved bullfighting, and I think he loved the bulls, and I think he loved Brett.
 e:romero=happy
@@ -13594,10 +13573,7 @@ Everything of which he could control the locality he did in front of her all tha
 Never once did he look up. He made it stronger that way, and did it for himself, too, as well as for her.
 
 
-Because he did not look up to ask if it pleased he did it all for himself inside, and it strengthened him, and yet he did it for her, too.
-
-
-But he did not do it for her at any loss to himself.
+Because he did not look up to ask if it pleased he did it all for himself inside, and it strengthened him, and yet he did it for her, too. But he did not do it for her at any loss to himself.
 
 
 He gained by it all through the afternoon.
@@ -13606,14 +13582,11 @@ He gained by it all through the afternoon.
 His first “*quite*” was directly below us.
 
 
-The three matadors take the bull in turn after each charge he makes at a picador. Belmonte was the first.
-
-
-Marcial was the second. Then came Romero. The three of them were standing at the left of the horse.
+The three matadors take the bull in turn after each charge he makes at a picador. Belmonte was the first. Marcial was the second. Then came Romero. The three of them were standing at the left of the horse.
 
 
 The picador, his hat down over his eyes, the shaft of his pic angling sharply toward the bull, kicked in the spurs and held them and with the reins in his left hand walked the horse forward toward the bull.
-
+b=bullfight-picadors
 
 The bull was watching. Seemingly he watched the white horse, but really he watched the triangular steel point of the pic.
 
@@ -13622,16 +13595,13 @@ Romero, watching, saw the bull start to turn his head. He did not want to charge
 
 
 Romero flicked his cape so the color caught the bull’s eye.
-
+b=bullfight-capework
 
 The bull charged with the reflex, charged, and found not the flash of color but a white horse, and a man leaned far over the horse, shot the steel point of the long hickory shaft into the hump of muscle on the bull’s shoulder, and pulled his horse sideways as he pivoted on the pic, making a wound, enforcing the iron into the bull’s shoulder, making him bleed for Belmonte.
+b=action
 
-
-The bull did not insist under the iron. He did not really want to get at the horse.
-
-
-He turned and the group broke apart and Romero was taking him out with his cape.
-
+The bull did not insist under the iron. He did not really want to get at the horse. He turned and the group broke apart and Romero was taking him out with his cape.
+b=bullfight-capework
 
 He took him out softly and smoothly, and then stopped and, standing squarely in front of the bull, offered him the cape.
 
@@ -13649,7 +13619,7 @@ The bull wanted it again, and Romero’s cape filled again, this time on the oth
 
 
 Each time he let the bull pass so close that the man and the bull and the cape that filled and pivoted ahead of the bull were all one sharply etched mass.
-
+b=ringside
 
 It was all so slow and so controlled. It was as though he were rocking the bull to sleep.
 
@@ -13730,10 +13700,10 @@ The bull charged as Romero charged.
 
 
 Romero’s left hand dropped the muleta over the bull’s muzzle to blind him, his left shoulder went forward between the horns as the sword went in, and for just an instant he and the bull were one, Romero way out over the bull, the right arm extended high up to where the hilt of the sword had gone in between the bull’s shoulders.
-
+b=bullfight-kill
 
 Then the figure was broken.
-
+b=ringside
 
 There was a little jolt as Romero came clear, and then he was standing, one hand up, facing the bull, his shirt ripped out from under his sleeve, the white blowing in the wind, and the bull, the red sword hilt tight between his shoulders, his head going down and his legs settling.
 
@@ -13748,16 +13718,19 @@ His hand still up, he spoke to the bull.
 
 
 The bull gathered himself, then his head went forward and he went over slowly, then all over, suddenly, four feet in the air.
-
+b=light
 
 They handed the sword to Romero, and carrying it blade down, the muleta in his other hand, he walked over to in front of the President’s box, bowed, straightened, and came over to the barrera and handed over the sword and muleta.
-
+b=box-crowd
 
 “Bad one,” said the sword-handler.
 n:swordguy=Sword Guy;s=swordguy
 
-“He made me sweat,” said Romero. He wiped off his face.
-s=romero;e:romero=weary
+“He made me sweat,” said Romero.
+s=romero;e:romero=weary;b=ringside
+
+He wiped off his face.
+s=
 
 The sword-handler handed him the water-jug. Romero wiped his lips. It hurt him to drink out of the jug.
 s=none
@@ -13795,13 +13768,7 @@ e:romero=serious
 They did not want the bull killed yet, they did not want it to be over. Romero went on.
 
 
-It was like a course in bullfighting. All the passes he linked up, all completed, all slow, templed and smooth.
-
-
-There were no tricks and no mystifications. There was no brusqueness.
-
-
-And each pass as it reached the summit gave you a sudden ache inside.
+It was like a course in bullfighting. All the passes he linked up, all completed, all slow, templed and smooth. There were no tricks and no mystifications. There was no brusqueness. And each pass as it reached the summit gave you a sudden ache inside.
 
 
 The crowd did not want it ever to be finished.
@@ -13814,7 +13781,7 @@ He killed not as he had been forced to by the last bull, but as he wanted to.
 
 
 He profiled directly in front of the bull, drew the sword out of the folds of the muleta and sighted along the blade.
-
+b=ringside
 
 The bull watched him. Romero spoke to the bull and tapped one of his feet.
 
@@ -13823,52 +13790,58 @@ The bull charged and Romero waited for the charge, the muleta held low, sighting
 
 
 Then without taking a step forward, he became one with the bull, the sword was in high between the shoulders, the bull had followed the low-swung flannel, that disappeared as Romero lurched clear to the left, and it was over.
-
+b=bullfight-kill
 
 The bull tried to go forward, his legs commenced to settle, he swung from side to side, hesitated, then went down on his knees, and Romero’s older brother leaned forward behind him and drove a short knife into the bull’s neck at the base of the horns.
-
+b=light
 
 The first time he missed. He drove the knife in again, and the bull went over, twitching and rigid.
 
 
 Romero’s brother, holding the bull’s horn in one hand, the knife in the other, looked up at the President’s box.
-
+b=box-crowd
 
 Handkerchiefs were waving all over the bullring. The President looked down from the box and waved his handkerchief.
 
 
-The brother cut the notched black ear from the dead bull and trotted over with it to Romero.
+The brother cut the notched black ear from the dead bull and trotted over with it to Romero. The bull lay heavy and black on the sand, his tongue out.
+b=ringside
 
-
-The bull lay heavy and black on the sand, his tongue out.
-
-
-Boys were running toward him from all parts of the arena, making a little circle around him.
-
-
-They were starting to dance around the bull.
+Boys were running toward him from all parts of the arena, making a little circle around him. They were starting to dance around the bull.
 
 
 Romero took the ear from his brother and held it up toward the President.
-e:romero=happy
+e:romero=happy;b=light
 
 The President bowed and Romero, running to get ahead of the crowd, came toward us.
 
 
-He leaned up against the barrera and gave the ear to Brett. He nodded his head and smiled.
+He leaned up against the barrera and gave the ear to Brett.
+o=ear
+
+He nodded his head and smiled.
+o=
+
+The crowd were all about him.
 
 
-The crowd were all about him. Brett held down the cape.
-
+Brett held down the cape.
+b=ringside
 
 “You liked it?” Romero called.
 s=romero
 
-Brett did not say anything. They looked at each other and smiled. Brett had the ear in her hand.
+Brett did not say anything. They looked at each other and smiled.
 s=none;e:brett=happy
 
-“Don’t get bloody,” Romero said, and grinned. The crowd wanted him. Several boys shouted at Brett.
+Brett had the ear in her hand.
+o=ear
+
+“Don’t get bloody,” Romero said, and grinned.
 s=romero
+
+The crowd wanted him. Several boys shouted at Brett.
+o=;s=
 
 The crowd was the boys, the dancers, and the drunks. Romero turned and tried to get through the crowd.
 s=none
@@ -13879,10 +13852,7 @@ They were all around him trying to lift him and put him on their shoulders.
 He fought and twisted away, and started running, in the midst of them, toward the exit.
 
 
-He did not want to be carried on people’s shoulders. But they held him and lifted him.
-
-
-It was uncomfortable and his legs were spraddled and his body was very sore.
+He did not want to be carried on people’s shoulders. But they held him and lifted him. It was uncomfortable and his legs were spraddled and his body was very sore.
 
 
 They were lifting him and all running toward the gate. He had his hand on somebody’s shoulder.
@@ -13892,10 +13862,10 @@ He looked around at us apologetically. The crowd, running, went out the gate wit
 e:romero=weary
 
 We all three went back to the hotel. Brett went upstairs.
-e:brett=neutral
+e:brett=neutral;b=light
 
 Bill and I sat in the downstairs dining-room and ate some hard-boiled eggs and drank several bottles of beer.
-s=none;e:bill=weary;e:jake=weary
+s=none;e:bill=weary;e:jake=weary;b=montoya-down-dining
 
 Belmonte came down in his street clothes with his manager and two other men.
 
@@ -13907,7 +13877,7 @@ They were leaving on the seven o’clock train for Barcelona.
 
 
 Belmonte wore a blue-striped shirt and a dark suit, and ate soft-boiled eggs. The others ate a big meal.
-
+x:belmonte=suit
 
 Belmonte did not talk. He only answered questions.
 
@@ -13928,10 +13898,10 @@ The men with him were tough-looking and businesslike.
 s=bill
 
 It was the last day of the fiesta. Outside it was beginning to be cloudy again.
-s=none
+s=none;b=light
 
 The square was full of people and the fireworks experts were making up their set pieces for the night and covering them over with beech branches.
-
+b=pamplona-square-festive-crowded-cafe
 
 Boys were watching. We passed stands of rockets with long bamboo stems. Outside the café there was a great crowd.
 
@@ -14012,7 +13982,7 @@ s=bill;e:bill=thinking
 s=jake;e:jake=unhappy
 
 “Have another absinthe. Here, waiter! Another absinthe for this señor.”
-s=bill
+s=bill;e:bill=
 
 “I feel like hell,” I said.
 s=jake
@@ -14030,7 +14000,7 @@ e:jake=confused
 s=bill
 
 “I feel like hell.”
-s=jake
+s=jake;e:jake=weary
 
 “Have another?”
 s=bill
@@ -14051,7 +14021,7 @@ Bill put in a lump of ice. I stirred the ice around with a spoon in the brownish
 s=bill
 
 “Fine.”
-s=jake
+s=jake;e:jake=serious
 
 “Don’t drink it fast that way. It will make you sick.”
 s=bill
@@ -14060,7 +14030,7 @@ I set down the glass.
 s=none
 
 I had not meant to drink it fast.
-
+f:b:pamplona-square-festive-crowded-cafe=blur(3px)
 
 “I feel tight.”
 s=jake
@@ -14084,19 +14054,16 @@ s=bill
 s=jake
 
 I was very drunk.
-s=none
+s=none;b=light;f:b:light=blur(3px)
 
 I was drunker than I ever remembered having been. At the hotel I went upstairs. Brett’s door was open.
 
 
 I put my head in the room. Mike was sitting on the bed. He waved a bottle.
-e:mike=weary
+e:mike=weary;b=montoya-room;f:b:montoya-room=blur(3px)
 
-“Jake,” he said.
+“Jake,” he said. “Come in, Jake.”
 s=mike
-
-“Come in, Jake.”
-
 
 I went in and sat down. The room was unstable unless I looked at some fixed point.
 s=none
@@ -14105,13 +14072,13 @@ s=none
 s=mike
 
 “No.”
-s=jake
+s=jake;e:jake=unhappy
 
 “Yes. She looked for you to say goodbye. They went on the seven o’clock train.”
 s=mike
 
 “Did they?”
-s=jake;e:jake=thinking
+s=jake
 
 “Bad thing to do,” Mike said. “She shouldn’t have done it.”
 s=mike;e:mike=unhappy
@@ -14126,19 +14093,16 @@ s=mike
 s=jake;e:jake=weary
 
 “Are you blind? I was blind myself.”
-s=mike
+s=mike;e:mike=
 
 “Yes,” I said, “I’m blind.”
 s=jake
 
-“Well, bung-o,” Mike said.
+“Well, bung-o,” Mike said. “Get some sleep, old Jake.”
 s=mike
 
-“Get some sleep, old Jake.”
-
-
 I went out the door and into my own room and lay on the bed.
-s=none
+s=none;b=light
 
 The bed went sailing off and I sat up in bed and looked at the wall to make it stop.
 
@@ -14146,10 +14110,7 @@ The bed went sailing off and I sat up in bed and looked at the wall to make it s
 Outside in the square the fiesta was going on. It did not mean anything.
 
 
-Later Bill and Mike came in to get me to go down and eat with them.
-
-
-I pretended to be asleep.
+Later Bill and Mike came in to get me to go down and eat with them. I pretended to be asleep.
 
 
 “He’s asleep. Better let him alone.”
@@ -14161,17 +14122,14 @@ s=mike
 They went out.
 s=none
 
-I got up and went to the balcony and looked out at the dancing in the square.
+I got up and went to the balcony and looked out at the dancing in the square. The world was not wheeling any more. It was just very clear and bright, and inclined to blur at the edges.
 e:jake=neutral
-
-The world was not wheeling any more. It was just very clear and bright, and inclined to blur at the edges.
-
 
 I washed, brushed my hair. I looked strange to myself in the glass, and went downstairs to the dining-room.
 
 
 “Here he is!” said Bill. “Good old Jake! I knew you wouldn’t pass out.”
-s=bill;e:bill=happy
+s=bill;e:bill=happy;b=montoya-down-dining
 
 “Hello, you old drunk,” Mike said.
 s=mike;e:mike=smirking
@@ -14186,7 +14144,7 @@ The three of us sat at the table, and it seemed as though about six people were 
 s=none;e:jake=unhappy
 
 ## Book III
-
+r=title
 
 ### Chapter XIX
 r=title
