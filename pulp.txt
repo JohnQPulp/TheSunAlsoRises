@@ -4742,7 +4742,7 @@ s=mike;e:mike=happy
 s=bill;e:bill=neutral
 
 “Fight,” said Mike. “Who’s fighting?”
-s=mike;e:mike=curious
+s=mike;e:mike=
 
 “Ledoux and somebody.”
 s=bill
@@ -5351,10 +5351,10 @@ s=cohn;c=cohn
 s=jake;e:jake=neutral
 
 “How are you?”
-s=cohn
+s=bill;e:bill=
 
 “Come on,” said Robert. “I’ve got a cab.”
-s=cohn;e:cohn=concentrating
+s=cohn;e:cohn=
 
 He was a little nearsighted. I had never noticed it before.<e>Hah? He's been described as wearing spectacles from the first paragraph. (I have no idea what Hemingway is trying to say sometimes. I don't know if he knows either.)</e>
 s=none
@@ -6845,7 +6845,7 @@ s=bill;e:bill=scowling
 s=bill
 
 “Go on,” I said. “Who did you get this stuff from?”
-s=jake;e:jake=amused
+s=jake;e:jake=smirking
 
 “Everybody. Don’t you read? Don’t you ever see anybody? You know what you are? You’re an expatriate.”
 s=bill;e:bill=serious
@@ -12938,7 +12938,7 @@ s=brett
 s=jake
 
 “Very. He was really hurt. I told him I wanted to pop out and see you chaps for a minute.”
-s=brett;e:brett=sad
+s=brett;e:brett=unhappy
 
 “Is he going to fight?”
 s=jake
@@ -14114,7 +14114,7 @@ s=mike
 s=jake;e:jake=thinking
 
 “Bad thing to do,” Mike said. “She shouldn’t have done it.”
-s=mike;e:mike=sad
+s=mike;e:mike=unhappy
 
 “No.”
 s=jake
