@@ -12889,7 +12889,7 @@ s=brett;e:brett=happy
 “Get another big beer,” Bill said to the waiter.
 s=bill;e:bill=neutral
 
-“Shrimps?”<e>I have absolutely no idea who's saying this line or what it means.</e>
+“Shrimps?”<e>I have no idea who's saying this line or what it means.</e>
 s=
 
 “Is Cohn gone?” Brett asked.
@@ -12980,13 +12980,13 @@ s=brett;e:brett=serious
 s=mike;e:mike=angry
 
 He tipped the table so that all the beers and the dish of shrimps went over in a crash.
-s=none
+s=none;b=action
 
 “Come on,” Brett said. “Let’s get out of this.”
-s=brett;e:brett=angry
+s=brett;e:brett=angry;b=pamplona-cafe-int
 
 In the crowd crossing the square I said:
-s=
+s=;b=pamplona-wide
 
 “How is it?”
 s=jake;e:jake=neutral
@@ -13013,7 +13013,7 @@ s=jake
 s=brett
 
 We were standing under the arcade at the door of the hotel.
-s=none
+s=none;b=montoya-ext
 
 They were carrying tables out and setting them up under the arcade.
 
@@ -13025,22 +13025,13 @@ s=brett
 e:brett=thinking
 
 We walked along past the theatre and out of the square and along through the barracks of the fair, moving with the crowd between the lines of booths.
-s=none
+s=none;b=light
 
-We came out on a cross-street that led to the Paseo de Sarasate.
+We came out on a cross-street that led to the Paseo de Sarasate. We could see the crowd walking there, all the fashionably dressed people. They were making the turn at the upper end of the park.
+b=chapel-ext
 
-
-We could see the crowd walking there, all the fashionably dressed people.
-
-
-They were making the turn at the upper end of the park.
-
-
-“Don’t let’s go there,” Brett said.
-s=brett
-
-“I don’t want staring at just now.”
-e:brett=nervous
+“Don’t let’s go there,” Brett said. “I don’t want staring at just now.”
+s=brett;e:brett=nervous;c=brett
 
 We stood in the sunlight.
 s=none
@@ -13049,7 +13040,7 @@ It was hot and good after the rain and the clouds from the sea.
 
 
 “I hope the wind goes down,” Brett said. “It’s very bad for him.”
-s=brett;e:brett=thinking
+s=brett;e:brett=thinking;c=brett
 
 “So do I.”
 s=jake
@@ -13064,7 +13055,7 @@ s=jake
 s=brett
 
 Brett looked at the yellow wall of the chapel.
-s=none
+s=none;c=
 
 “Yes. Where the show started on Sunday.”
 s=jake
@@ -13073,7 +13064,7 @@ s=jake
 s=brett;e:brett=serious
 
 We went in through the heavy leather door that moved very lightly. It was dark inside. Many people were praying.
-s=none
+s=none;b=chapel-int
 
 You saw them as your eyes adjusted themselves to the half-light. We knelt at one of the long wooden benches.
 
@@ -13085,7 +13076,7 @@ e:brett=nervous
 s=brett
 
 Outside in the hot brightness of the street Brett looked up at the treetops in the wind.
-s=none;e:brett=wary
+s=none;e:brett=wary;b=chapel-ext
 
 The praying had not been much of a success.
 
@@ -13097,7 +13088,7 @@ s=brett;e:brett=thinking
 
 
 We walked along.
-s=none
+s=none;b=pamplona-wide
 
 “I’m damned bad for a religious atmosphere,” Brett said.
 s=brett
@@ -13147,8 +13138,11 @@ s=brett;e:brett=nervous
 It was the first time I had seen her in the old happy, careless way since before she went off with Cohn.
 s=none;e:brett=happy
 
-We were back again in front of the hotel. All the tables were set now, and already several were filled with people eating.
+We were back again in front of the hotel.
+b=montoya-ext
 
+All the tables were set now, and already several were filled with people eating.
+b=montoya-dining
 
 “Do look after Mike,” Brett said. “Don’t let him get too bad.”
 s=brett;e:brett=serious
@@ -13186,8 +13180,11 @@ s=brett
 “Den I think a tabul for two will be enuff.”
 s=waiter3
 
-“Don’t talk to him,” Brett said. “Mike must have been in bad shape,” she said on the stairs.
-s=brett;e:brett=unhappy
+“Don’t talk to him,” Brett said.
+s=brett
+
+“Mike must have been in bad shape,” she said on the stairs.
+s=brett;e:brett=unhappy;b=montoya-stairs
 
 We passed Montoya on the stairs. He bowed and did not smile.
 s=none;e:montoya=neutral
@@ -13196,7 +13193,7 @@ s=none;e:montoya=neutral
 s=brett;e:brett=happy
 
 We had stopped at the floor our rooms were on. She went straight down the hall and into Romero’s room.
-s=none
+s=none;b=montoya-hall
 
 She did not knock. She simply opened the door, went in, and closed it behind her.
 
@@ -13204,8 +13201,11 @@ She did not knock. She simply opened the door, went in, and closed it behind her
 I stood in front of the door of Mike’s room and knocked. There was no answer.
 
 
-I tried the knob and it opened. Inside the room was in great disorder.
+I tried the knob and it opened.
 
+
+Inside the room was in great disorder.
+b=montoya-messy-room
 
 All the bags were opened and clothing was strewn around. There were empty bottles beside the bed.
 
@@ -13226,7 +13226,7 @@ s=jake
 s=mike
 
 “Don’t go.”
-
+s=mike
 
 “I haven’t got ten to sleep yet.”
 
@@ -13235,7 +13235,7 @@ s=mike
 s=jake
 
 “Brett’s got a bullfighter,” Mike said. “But her Jew has gone away.”
-s=mike;e:mike=sad
+s=mike;e:mike=unhappy
 
 He turned his head and looked at me.
 s=none
@@ -13252,11 +13252,14 @@ s=jake
 “I’m just start ing. I’m go ing to get a lit tle sleep.”
 s=mike
 
-He shut his eyes. I went out of the room and turned the door to quietly.
-s=none
+He shut his eyes.
+s=
+
+I went out of the room and turned the door to quietly.
+s=none;b=montoya-hall
 
 Bill was in my room reading the paper.
-e:bill=neutral
+e:bill=neutral;b=montoya-room
 
 “See Mike?”
 s=bill
@@ -13280,7 +13283,7 @@ s=jake
 s=bill
 
 We went down the stairs. On the stairs we passed a girl coming up with a covered tray.
-s=none
+s=none;b=light
 
 “There goes Brett’s lunch,” Bill said.
 s=bill;e:bill=neutral
@@ -13289,7 +13292,7 @@ s=bill;e:bill=neutral
 s=jake
 
 Outside on the terrace under the arcade the German head waiter came up. His red cheeks were shiny. He was being polite.
-s=none;e:waiter3=happy
+s=none;e:waiter3=happy;b=montoya-ext
 
 “I haff a tabul for two for you gentlemen,” he said.
 s=waiter3
@@ -13298,22 +13301,22 @@ s=waiter3
 s=bill;e:bill=angry
 
 We went on out across the street.
-s=none
+s=none;b=light
 
-We ate at a restaurant in a side street off the square. They were all men eating in the restaurant.
-
-
-It was full of smoke and drinking and singing. The food was good and so was the wine. We did not talk much.
+We ate at a restaurant in a side street off the square. They were all men eating in the restaurant. It was full of smoke and drinking and singing. The food was good and so was the wine. We did not talk much.
 
 
 Afterward we went to the café and watched the fiesta come to the boiling-point.
-
+b=pamplona-square-festive-crowded-cafe
 
 Brett came over soon after lunch. She said she had looked in the room and that Mike was asleep.
 e:brett=neutral
 
-When the fiesta boiled over and toward the bullring we went with the crowd. Brett sat at the ringside between Bill and me.
+When the fiesta boiled over and toward the bullring we went with the crowd.
+b=light
 
+Brett sat at the ringside between Bill and me.
+b=bullring-ringside
 
 Directly below us was the callejón, the passageway between the stands and the red fence of the barrera.
 
@@ -13385,7 +13388,7 @@ Back of them were their people, and behind the banderilleros, back in the passag
 
 
 Romero was wearing a black suit. His tricornered hat was low down over his eyes.
-
+x:romero=black
 
 I could not see his face clearly under the hat, but it looked badly marked. He was looking straight ahead.
 
