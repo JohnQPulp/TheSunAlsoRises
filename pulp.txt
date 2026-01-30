@@ -910,8 +910,11 @@ n:blond=Blond;n:dark=Lett;b=dancing-bar-int;c=
 “I do declare. There is an actual harlot.”<e>Actual funny line lmao.</e>
 s=blond
 
-“I’m going to dance with her, Lett. You watch me.”
+<e>Though to be honest, I hadn't picked up on that Georgette was supposed to be a prostitute prior to that line. I guess when she walked by the cafe table, Hemingway wanted you to think <i>Full Metal Jacket</i>. Now I get it.</e>
+s=
 
+“I’m going to dance with her, Lett. You watch me.”
+b=blond
 
 The tall dark one, called Lett, said:
 s=
