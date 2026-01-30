@@ -140,7 +140,7 @@ I thought it was accidental and went on:
 s=jake;e:jake=
 
 I was kicked again under the table and, looking, saw Frances, Robert’s lady, her chin lifting and her face hardening.
-s=none;e:frances=angry;e:cohn=nervous
+s=none;e:frances=angry;e:cohn=wary
 
 “Hell,” I said, “why go to Strasbourg? We could go up to Bruges, or to the Ardennes.”
 s=jake;e:jake=annoyed
@@ -161,7 +161,7 @@ s=cohn;e:cohn=upset;c=cohn
 s=jake;e:jake=annoyed
 
 “It doesn’t make any difference. Any girl. I couldn’t go, that would be all.”
-s=cohn;e:cohn=nervous
+s=cohn;e:cohn=wary
 
 “Don’t be silly.”
 s=jake
@@ -173,7 +173,7 @@ s=cohn
 s=jake;e:jake=neutral
 
 “Don’t get sore.”
-s=cohn;e:cohn=nervous
+s=cohn;e:cohn=wary
 
 “I’m not sore. Senlis is a good place and we can stay at the Grand Cerf and take a hike in the woods and come home.”
 s=jake
@@ -197,7 +197,7 @@ He walked with me up to the kiosk at the corner.
 s=none;b=kiosk-corner-night;c=
 
 “You are not sore, are you, Jake?”
-s=cohn;e:cohn=nervous
+s=cohn;e:cohn=wary
 
 He turned with the paper in his hand.
 s=none
@@ -1085,7 +1085,7 @@ The music started and Robert Cohn said:
 s=
 
 “Will you dance this with me, Lady Brett?”
-s=cohn;e:cohn=nervous
+s=cohn;e:cohn=wary
 
 Brett smiled at him.
 s=none;e:brett=happy
@@ -1409,7 +1409,7 @@ On the Boulevard Raspail, with the lights of Montparnasse in sight, Brett said:
 
 
 “Would you mind very much if I asked you to do something?”
-s=brett;e:brett=nervous
+s=brett;e:brett=wary
 
 “Don’t be silly.”
 s=jake
@@ -1793,7 +1793,7 @@ s=;c=;b=flat-dining
 s=brett
 
 “I say, can a chap sit down? Don’t be cross, darling. Just left the count. He brought me here.”
-e:brett=nervous
+e:brett=wary
 
 “What’s he like?”
 s=jake
@@ -2138,7 +2138,7 @@ s=cohn
 s=jake
 
 “Oh, I’m sure of that. It gets me worried, though.”
-s=cohn;e:cohn=nervous
+s=cohn;e:cohn=wary
 
 “Thought any more about going to South America?”
 s=jake
@@ -4337,7 +4337,7 @@ s=bill;e:bill=unhappy
 s=jake
 
 “Splendid. Wish he wouldn’t keep going off like a cat, though. Makes me nervous.”
-s=bill;e:bill=nervous
+s=bill;e:bill=wary
 
 “What’ll we do tonight?”
 s=jake
@@ -5594,7 +5594,7 @@ You have to drink plenty of wine to get it all down.
 
 
 Robert Cohn tried to say he did not want any of the second meat course, but we would not interpret for him, and so the waitress brought him something else as a replacement, a plate of cold meats, I think.
-e:cohn=nervous
+e:cohn=wary
 
 Cohn had been rather nervous ever since we had met at Bayonne.
 
@@ -5747,7 +5747,7 @@ The sunlight was hot and hard, and I crossed over beside some buildings, and wal
 e:jake=neutral;b=montoya-ext
 
 At dinner that night we found that Robert Cohn had taken a bath, had had a shave and a haircut and a shampoo, and something put on his hair afterward to make it stay down. He was nervous, and I did not try to help him any.
-e:cohn=nervous;b=montoya-dining
+e:cohn=wary;b=montoya-dining
 
 The train was due in at nine o’clock from San Sebastian, and, if Brett and Mike were coming, they would be on it.
 
@@ -5933,7 +5933,7 @@ Robert Cohn took out a silver five-peseta piece and gave it to me.
 s=none
 
 “I ought to stay,” he said.
-s=cohn;e:cohn=nervous
+s=cohn;e:cohn=wary
 
 “You see I’m afraid there’s some sort of misunderstanding.”
 
@@ -7871,7 +7871,7 @@ He gave us his card, with his address in London and his club and his business ad
 s=jake
 
 “No, no!” he said.
-s=harris;e:harris=nervous
+s=harris;e:harris=wary
 
 He was climbing down from the bus.
 s=none
@@ -9782,7 +9782,7 @@ s=jake
 
 
 “I’m a little nervy about it,” Brett said. “I’m worried whether I’ll be able to go through with it all right.”
-s=brett;e:brett=nervous
+s=brett;e:brett=wary
 
 “You’ll be all right. There’s nothing but that horse part that will bother you, and they’re only in for a few minutes with each bull. Just don’t watch when it’s bad.”
 s=jake
@@ -10049,7 +10049,7 @@ s=cohn;e:cohn=unhappy
 s=bill;e:bill=smirking
 
 Cohn laughed.
-s=none;e:cohn=nervous
+s=none;e:cohn=wary
 
 “No. I wasn’t bored. I wish you’d forgive me that.”
 s=cohn
@@ -10340,7 +10340,7 @@ s=montoya
 s=jake
 
 Montoya smiled his embarrassed smile.
-s=none;e:montoya=nervous
+s=none;e:montoya=wary
 
 “Look,” he said. “Do you know the American ambassador?”
 s=montoya
@@ -10370,7 +10370,7 @@ I finished shaving and put my face down into the bowl and washed it with cold wa
 s=none
 
 Montoya was standing there looking more embarrassed.
-e:montoya=nervous
+e:montoya=wary
 
 “Look,” he said. “I’ve just had a message from them at the Grand Hotel that they want Pedro Romero and Marcial Lalanda to come over for coffee tonight after dinner.”
 s=montoya
@@ -10382,7 +10382,7 @@ s=jake;e:jake=thinking
 s=montoya
 
 Montoya stood embarrassed. He wanted me to say something.
-s=none;e:montoya=nervous
+s=none;e:montoya=wary
 
 “Don’t give Romero the message,” I said.
 s=jake;e:jake=serious
@@ -11141,7 +11141,7 @@ s=jake
 s=brett
 
 Brett was nervous as I had never seen her before.
-s=none;e:brett=nervous
+s=none;e:brett=wary
 
 She kept looking away from me and looking ahead at the wall.
 
@@ -11285,7 +11285,7 @@ s=jake
 s=brett
 
 Her hand was trembling.
-s=none;e:brett=nervous
+s=none;e:brett=wary
 
 “I’m like that all through.”
 s=brett
@@ -11351,7 +11351,7 @@ s=brett
 s=jake
 
 “I can’t look at him.”
-s=brett;e:brett=nervous
+s=brett;e:brett=wary
 
 “He’s nice to look at,” I said.
 s=jake
@@ -11615,7 +11615,7 @@ s=edna;e:edna=weary;c=,edna
 s=mike;e:mike=smirking;c=mike,
 
 “I’ve kept them out of four fights,” Edna said. “You’ve got to help me.”
-s=edna;e:edna=nervous;c=,edna
+s=edna;e:edna=wary;c=,edna
 
 Bill’s face was red.
 s=none;e:bill=angry;c=bill,
@@ -11684,7 +11684,7 @@ s=bill;e:bill=angry
 
 
 “Bill,” Edna looked at me. “Please don’t go in again, Bill. They’re so stupid.”
-s=edna;e:edna=nervous;c=edna,
+s=edna;e:edna=wary;c=edna,
 
 “That’s it,” said Mike. “They’re stupid. I knew that was what it was.”
 s=mike;e:mike=happy
@@ -11957,7 +11957,7 @@ Then I heard them talking about me.
 s=
 
 “Is he all right?” Edna asked.
-s=edna;e:edna=nervous
+s=edna;e:edna=wary
 
 “We’d better walk with him.”
 s=mike;e:mike=serious
@@ -12905,7 +12905,7 @@ The beer came.
 s=none
 
 Brett started to lift the glass mug and her hand shook.
-e:brett=nervous
+e:brett=wary
 
 She saw it and smiled, and leaned forward and took a long sip.
 e:brett=happy
@@ -12995,7 +12995,7 @@ s=;b=pamplona-wide
 s=jake;e:jake=neutral
 
 “I’m not going to see him after lunch until the fight. His people come in and dress him. They’re very angry about me, he says.”
-s=brett;e:brett=nervous
+s=brett;e:brett=wary
 
 Brett was radiant. She was happy. The sun was out and the day was bright.
 s=none;e:brett=happy
@@ -13034,7 +13034,7 @@ We came out on a cross-street that led to the Paseo de Sarasate. We could see th
 b=chapel-ext
 
 “Don’t let’s go there,” Brett said. “I don’t want staring at just now.”
-s=brett;e:brett=nervous;c=brett
+s=brett;e:brett=wary;c=brett
 
 We stood in the sunlight.
 s=none
@@ -13073,7 +13073,7 @@ You saw them as your eyes adjusted themselves to the half-light. We knelt at one
 
 
 After a little I felt Brett stiffen beside me, and saw she was looking straight ahead.
-e:brett=nervous
+e:brett=wary
 
 “Come on,” she whispered throatily. “Let’s get out of here. Makes me damned nervous.”
 s=brett
@@ -13136,7 +13136,7 @@ s=brett;e:brett=smirking
 s=jake;e:jake=neutral
 
 “Oh, rot,” said Brett. “Don’t start proselyting today. Today’s going to be bad enough as it is.”
-s=brett;e:brett=nervous
+s=brett;e:brett=wary
 
 It was the first time I had seen her in the old happy, careless way since before she went off with Cohn.
 s=none;e:brett=happy
@@ -14315,7 +14315,7 @@ s=mike
 s=bill;e:bill=serious
 
 “That’s damned nice of you, but you see I can’t write checks.”
-s=mike;e:mike=nervous
+s=mike;e:mike=wary
 
 “What are you going to do for money?”
 s=bill
@@ -15050,7 +15050,7 @@ I followed the maid’s back down a long, dark corridor. At the end she knocked 
 s=none;b=light
 
 “Hello,” said Brett. “Is it you, Jake?”
-s=brett;e:brett=nervous
+s=brett;e:brett=wary
 
 “It’s me.”
 s=jake
@@ -15143,7 +15143,7 @@ s=brett
 s=jake
 
 “Oh, let’s not talk about it. There were some funny things, though. Do give me a cigarette.”
-s=brett;e:brett=nervous
+s=brett;e:brett=wary
 
 I lit the cigarette.
 s=none
