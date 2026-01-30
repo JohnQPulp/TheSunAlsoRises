@@ -1577,7 +1577,7 @@ My flat was just across the street, a little way down the Boulevard St. Michel.
 
 
 There was a light in the concierge’s room and I knocked on the door and she gave me my mail.
-n:concierge=Concierge;b=flat-concierge-int
+n:concierge1=Concierge;b=flat-concierge-int
 
 I wished her good night and went upstairs.
 
@@ -1742,19 +1742,19 @@ I put on a dressing-gown and went to the door.
 b=flat-stairs
 
 The concierge was talking downstairs. She was very angry.
-e:concierge=angry
+e:concierge1=angry
 
 I heard my name and called down the stairs.
 
 
 “Is that you, Monsieur Barnes?” the concierge called.
-s=concierge
+s=concierge1
 
 “Yes. It’s me.”
 s=jake
 
 “There’s a species of woman here who’s waked the whole street up. What kind of a dirty business at this time of night! She says she must see you. I’ve told her you’re asleep.”
-s=concierge
+s=concierge1
 
 Then I heard Brett’s voice.
 s=
@@ -3023,52 +3023,52 @@ As I started up the stairs the concierge knocked on the glass of the door of her
 s=none;b=flat-concierge-int
 
 She had some letters and a telegram.
-c=concierge;e:concierge=happy
+n:concierge1=Concierge;c=concierge1;e:concierge1=happy
 
 “Here is the post. And there was a lady here to see you.”
-s=concierge
+s=concierge1
 
 “Did she leave a card?”
 s=jake;e:jake=neutral
 
 “No. She was with a gentleman. It was the one who was here last night. In the end I find she is very nice.”
-s=concierge;e:concierge=happy
+s=concierge1;e:concierge1=happy
 
 “Was she with a friend of mine?”
 s=jake
 
 “I don’t know. He was never here before. He was very large. Very, very large.”
-s=concierge
+s=concierge1
 
 “She was very nice. Very, very nice.”
 
 
 “Last night she was, perhaps, a little—”
-e:concierge=thinking
+e:concierge1=thinking
 
 She put her head on one hand and rocked it up and down.
 s=none;c=
 
 “I’ll speak perfectly frankly, Monsieur Barnes. Last night I found her not so *gentille*. Last night I formed another idea of her.”
-s=concierge;e:concierge=serious;c=concierge
+s=concierge1;e:concierge1=serious;c=concierge1
 
 “But listen to what I tell you. She is *très, très gentille*. She is of very good family. It is a thing you can see.”
-e:concierge=happy
+e:concierge1=happy
 
 “They did not leave any word?”
 s=jake
 
 “Yes. They said they would be back in an hour.”
-s=concierge
+s=concierge1
 
 “Send them up when they come.”
 s=jake
 
 “Yes, Monsieur Barnes. And that lady, that lady there is someone. An eccentric, perhaps, but *quelqu’une, quelqu’une*!”
-s=concierge;e:concierge=happy
+s=concierge1;e:concierge1=happy
 
 The concierge, before she became a concierge, had owned a drink-selling concession at the Paris racecourses.
-s=none;e:concierge=neutral;c=
+s=none;e:concierge1=neutral;c=
 
 Her lifework lay in the *pelouse*, but she kept an eye on the people of the *pesage*, and she took great pride in telling me which of my guests were well brought up, which were of good family, who were sportsmen, a French word pronounced with the accent on the men.
 
@@ -9413,16 +9413,16 @@ Filling them both cost three pesetas sixty centimos. Someone at the counter, tha
 
 
 The man who had wanted to pay then bought me a drink.
-n:man=Man
+n:basque=Man
 
 He would not let me buy one in return, but said he would take a rinse of the mouth from the new wine-bag.
-e:man=happy
+e:basque=happy
 
 He tipped the big five-litre bag up and squeezed it so the wine hissed against the back of his throat.
 
 
 “All right,” he said, and handed back the bag.
-s=man
+s=basque
 
 In the back room Brett and Bill were sitting on barrels surrounded by the dancers.
 s=none;e:brett=happy;e:bill=happy;b=wine-barrels-shop
@@ -9509,7 +9509,7 @@ s=none
 s=jake
 
 “Yes. Yes. *Arriba!* Up with the bottle!”
-s=man;e:man=happy
+s=basque;e:basque=happy
 
 I took a drink.
 s=none
@@ -9527,7 +9527,7 @@ s=mike;e:mike=
 
 
 “You want to see him?”
-s=man
+s=basque
 
 “Yes,” I said.
 s=jake
@@ -9539,7 +9539,7 @@ The Anis del Mono man wiped his mouth and stood up.
 s=none
 
 “Come on.”
-s=man
+s=basque
 
 In a back room Robert Cohn was sleeping quietly on some wine-casks.
 s=none;e:cohn=neutral;b=wine-back-shop
@@ -9551,7 +9551,7 @@ Around his neck and on his chest was a big wreath of twisted garlics.
 
 
 “Let him sleep,” the man whispered. “He’s all right.”
-s=man
+s=basque
 
 Two hours later Cohn appeared. He came into the front room still with the wreath of garlics around his neck.
 s=none;e:cohn=confused;b=wine-shop
@@ -10010,7 +10010,7 @@ s=brett
 s=mike;e:mike=smirking
 
 “I say, I must borrow your glasses tomorrow.”
-
+s=brett
 
 “How did it go?”
 s=jake
@@ -12029,7 +12029,7 @@ I walked down the hall to Cohn’s room. The door was shut and I knocked.
 b=montoya-hall
 
 “Who is it?”
-s=cohn;e:cohn=serious;x:cohn=polo
+s=cohn;e:cohn=serious
 
 “Barnes.”
 s=jake;e:jake=serious
@@ -13448,7 +13448,7 @@ A man beside me leaned over toward Brett.
 
 
 “He doesn’t want you to spread it,” he said.<e>Sure he doesn't.</e>
-n:man2=Man;s=man2
+n:basque=Man;s=basque
 
 “You should fold it and keep it in your lap.”
 
@@ -13517,7 +13517,7 @@ He had meant to have a great afternoon, and instead it was an afternoon of sneer
 
 
 His jaw only went further out.
-x:belmonte=longjaw;c=belmonte
+x:belmonte=longjaw,capeless;c=belmonte
 
 Sometimes he turned to smile that toothed, long-jawed, lipless smile when he was called something particularly insulting, and always the pain that any movement produced grew stronger and stronger, until finally his yellow face was parchment color, and after his second bull was dead and the throwing of bread and cushions was over, after he had saluted the President with the same wolf-jawed smile and contemptuous eyes, and handed his sword over the barrera to be wiped, and put back in its case, he passed through into the callejón and leaned on the barrera below us, his head on his arms, not seeing, not hearing anything, only going through his pain.
 c=
@@ -14540,13 +14540,13 @@ In the evening there would be band concerts under the trees across from the Caf�
 b=cafe-marinas
 
 “How does one eat inside?” I asked the waiter.
-n:waiter4=Waiter;s=jake
+s=jake
 
 Inside the café was a restaurant.
 s=none
 
 “Well. Very well. One eats very well.”
-s=waiter4;e:waiter4=happy
+s=waiter2;e:waiter2=happy
 
 “Good.”
 s=jake
@@ -14579,7 +14579,7 @@ The *marc* was good. I had a second *marc* after the coffee.
 
 
 The waiter seemed a little offended about the flowers of the Pyrenees, so I overtipped him. That made him happy.
-e:waiter4=neutral
+e:waiter2=neutral
 
 It felt comfortable to be in a country where it is so simple to make people happy.
 e:jake=contemplative
@@ -14867,10 +14867,10 @@ The bicycle-racers had left several copies of *L’Auto* around, and I gathered 
 b=san-sebastian-reading-room
 
 While I was sitting there the concierge came out with a blue envelope in his hand.
-
+n:concierge2=Concierge
 
 “A telegram for you, sir.”
-s=concierge;e:concierge=neutral
+s=concierge2;e:concierge2=neutral
 
 I poked my finger along under the fold that was fastened down, spread it open, and read it.
 s=none
@@ -14891,7 +14891,7 @@ He came out of the hotel again. The concierge was just behind him.
 
 
 “Here’s another telegram for you, sir.”
-s=concierge
+s=concierge2
 
 “Thank you,” I said.
 s=jake
@@ -14909,13 +14909,13 @@ The concierge stood there waiting for another tip, probably.
 s=jake;e:jake=serious
 
 “It left at nine this morning. There is a slow train at eleven, and the Sud Express at ten tonight.”
-s=concierge
+s=concierge2
 
 “Get me a berth on the Sud Express. Do you want the money now?”
 s=jake
 
 “Just as you wish,” he said.
-s=concierge;e:concierge=happy
+s=concierge2;e:concierge2=happy
 
 “I will have it put on the bill.”
 
