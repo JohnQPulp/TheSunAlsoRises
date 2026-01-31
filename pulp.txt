@@ -314,7 +314,7 @@ s=jake
 s=cohn;e:cohn=serious
 
 He sat down.
-s=none
+s=none;c=
 
 “I’ll be too old before I can ever do it.”
 s=cohn
@@ -478,8 +478,11 @@ e:cohn=weary;b=office-room-int
 I did not like to wake him up, but I wanted to lock the office and shove off. I put my hand on his shoulder. He shook his head.
 
 
-“I can’t do it,” he said, and put his head deeper into his arms. “I can’t do it. Nothing will make me do it.”
-s=cohn;e:cohn=confused
+“I can’t do it,” he said, and put his head deeper into his arms.
+s=cohn;e:cohn=contemplative
+
+“I can’t do it. Nothing will make me do it.”
+e:cohn=thinking
 
 “Robert,” I said, and shook him by the shoulder.
 s=jake;e:jake=neutral
@@ -857,7 +860,7 @@ Frances was a little drunk and would have liked to have kept it up but the coffe
 s=none;b=light
 
 The dancing-club was a *bal musette* in the Rue de la Montagne Sainte Geneviève. Five nights a week the working people of the Pantheon quarter danced there.
-b=dancing-club-int
+b=dancing-bar-int-empty
 
 One night a week it was the dancing-club. On Monday nights it was closed. When we arrived it was quite empty, except for a policeman sitting near the door, the wife of the proprietor back of the zinc bar, and the proprietor himself.
 
@@ -869,10 +872,10 @@ The daughter of the house came downstairs as we went in. There were long benches
 s=braddocks;e:braddocks=neutral
 
 The daughter came up and wanted to know what we would drink. The proprietor got up on a high stool beside the dancing-floor and began to play the accordion. He had a string of bells around one of his ankles and beat time with his foot as he played.
-s=none;b=accordion-man
+s=none
 
 Everyone danced. It was hot and we came off the floor perspiring.
-
+b=dancing-club-int
 
 “My God,” Georgette said. “What a box to sweat in!”
 s=georgette;e:georgette=
@@ -938,13 +941,13 @@ Instead, I walked down the street and had a beer at the bar at the next Bal. The
 b=light
 
 When I came back to the Bal there was a crowd on the floor and Georgette was dancing with the tall blond youth, who danced big-hippily, carrying his head on one side, his eyes lifted as he danced.
-b=accordion-man
+b=dancing-club-int
 
 As soon as the music stopped another one of them asked her to dance. She had been taken up by them. I knew then that they would all dance with her. They are like that.
 
 
 I sat down at a table. Cohn was sitting there. Frances was dancing.
-e:cohn=neutral;e:jake=neutral;b=dancing-table
+e:cohn=neutral;e:jake=neutral;b=dancing-club-int
 
 Mrs. Braddocks brought up somebody and introduced him as Robert Prentiss. He was from New York by way of Chicago, and was a rising new novelist. He had some sort of an English accent. I asked him to have a drink.
 n:prentiss=Robert Prentiss
@@ -986,7 +989,7 @@ s=jake;e:jake=angry
 s=prentiss;e:prentiss=smirking
 
 I got up and walked over toward the dancing-floor. Mrs. Braddocks followed me.
-s=none;e:jake=neutral;b=accordion-man
+s=none;e:jake=neutral;b=dancing-club-int
 
 “Don’t be cross with Robert,” she said. “He’s still only a child, you know.”
 s=mrsbraddocks;e:mrsbraddocks=neutral
@@ -1043,7 +1046,7 @@ Brett was damned good-looking. She wore a slipover jersey sweater and a tweed sk
 c=brett
 
 She was built with curves like the hull of a racing yacht, and you missed none of it with that wool jersey.
-e:jake=contemplative
+e:jake=contemplative;c=
 
 “It’s a fine crowd you’re with, Brett,” I said.
 s=jake;e:jake=smirking;b=dancing-bar-int
@@ -1100,7 +1103,7 @@ s=cohn;e:cohn=neutral
 s=brett
 
 Dancing, I looked over Brett’s shoulder and saw Cohn, standing at the bar, still watching her.
-s=none;b=accordion-man
+s=none;b=dancing-club-int
 
 “You’ve made a new one there,” I said to her.
 s=jake
@@ -1418,7 +1421,7 @@ s=jake
 s=brett
 
 When the taxi stopped I got out and paid.
-s=none;b=cafe-select-ext-night
+s=none;b=cafe-select-ext
 
 Brett came out putting on her hat. She gave me her hand as she stepped down.
 
@@ -1571,13 +1574,13 @@ The Boulevard Montparnasse was deserted. Lavigne’s was closed tight, and they 
 
 
 I passed Ney’s statue standing among the new-leaved chestnut-trees in the arc-light. There was a faded purple wreath leaning against the base. I stopped and read the inscription: from the Bonapartist Groups, some date; I forget.
-b=ney-night
+o=ney
 
 He looked very fine, Marshal Ney in his top-boots, gesturing with his sword among the green new horse-chestnut leaves.
 e:jake=contemplative
 
 My flat was just across the street, a little way down the Boulevard St. Michel.
-
+o=
 
 There was a light in the concierge’s room and I knocked on the door and she gave me my mail.
 n:concierge1=Concierge;b=flat-concierge-int
@@ -1787,7 +1790,7 @@ s=jake
 s=brett;e:brett=confused
 
 I looked at the clock. It was half-past four.
-s=;c=;b=flat-dining
+s=;c=;b=flat-dining-int
 
 “Had no idea what hour it was,” Brett said.
 s=brett
@@ -1934,7 +1937,7 @@ She got in and it started off. I turned around.
 
 
 On the table was an empty glass and a glass half-full of brandy and soda.
-b=flat-dining
+b=flat-dining-int
 
 I took them both out to the kitchen and poured the half-full glass down the sink.
 
@@ -2357,7 +2360,7 @@ The taxi stopped in front of the Rotonde. No matter what café in Montparnasse y
 b=light
 
 I walked past the sad tables of the Rotonde to the Select.
-b=rotonde-ext
+b=cafe-select-uncrowded-ext
 
 There were a few people inside at the bar, and outside, alone, sat Harvey Stone.
 n:harvey=Harvey Stone
@@ -2618,7 +2621,7 @@ People beat him who had never had a chance with him. He was very nice about it.
 
 
 Anyhow, we were sitting on the terrace of the Café Select, and Harvey Stone had just crossed the street.<e>What the f&#9472;&#9472;&#9472; was that?</e>
-b=rotonde-ext
+b=cafe-select-uncrowded-ext
 
 “Come on up to the Lilas,” I said.
 s=jake
@@ -2822,7 +2825,7 @@ s=jake
 s=frances
 
 We got up from the table—they had never brought us a drink—and started across the street toward the Select, where Cohn sat smiling at us from behind the marble-topped table.
-s=none;e:cohn=happy;b=rotonde-ext
+s=none;e:cohn=happy;b=cafe-select-ext
 
 “Well, what are you smiling at?” Frances asked him. “Feel pretty happy?”
 s=frances;e:frances=smirking
@@ -3098,7 +3101,7 @@ I put on a bathrobe and slippers and went to the door.
 e:brett=happy;x:jake=bathrobe;b=flat-stairs
 
 It was Brett. Back of her was the count. He was holding a great bunch of roses.
-e:count=happy;x:count=roses;b=count,brett
+e:count=happy;x:count=roses;c=count,brett
 
 “Hello, darling,” said Brett. “Aren’t you going to let us in?”
 s=brett
@@ -4304,7 +4307,7 @@ s=jake
 s=bill;e:bill=serious
 
 We stopped and had a drink.
-s=none;b=reuse-bar-int
+s=none;b=next-bar-int
 
 “Certainly like to drink,” Bill said. “You ought to try it some times, Jake.”
 s=bill;e:bill=happy
@@ -4442,7 +4445,7 @@ s=bill
 s=brett
 
 Sitting out on the terraces of the Lilas Brett ordered a whiskey and soda, I took one, too, and Bill took another pernod.
-s=none;b=lilas-terraces
+s=none;b=napolitain-night
 
 “How are you, Jake?”
 s=brett;e:brett=neutral
@@ -4664,7 +4667,7 @@ We walked along Port Royal until it became Montparnasse, and then on past the Li
 s=none
 
 Michael came toward us from the tables. He was tanned and healthy-looking.
-n:mike=Michael Campbell;b=select-int
+n:mike=Michael Campbell;b=cafe-select-int
 
 “Hello, Jake,” he said. “Hello! Hello! How are you, old lad?”
 s=mike;e:mike=excited
@@ -4793,7 +4796,7 @@ Brett was looking at him quite coolly, but the corners of her eyes were smiling.
 e:brett=happy
 
 Outside on the pavement I said:
-b=rotonde-ext-night
+b=cafe-select-ext
 
 “Do you want to go to the fight?”
 s=jake;e:jake=neutral
@@ -4826,10 +4829,10 @@ That same morning I wrote Cohn from the office that Bill and I would leave Paris
 b=office-int
 
 The same evening about seven o’clock I stopped in at the Select to see Michael and Brett.
-b=select-int
+b=cafe-select-int
 
 They were not there, and I went over to the Dingo. They were inside sitting at the bar.
-b=reuse-bar-int
+b=next-bar-int
 
 “Hello, darling.”
 s=brett;e:brett=happy
@@ -5033,7 +5036,7 @@ I did not see Brett again until the night of the 24th of June.
 s=none;b=light
 
 “Did you hear from Cohn?”<e>For this part, Hemingway doesn't specify where this conversation is taking place. But the bar again seems a pretty fair assumption.</e>
-s=jake;e:jake=neutral;b=reuse-bar-int
+s=jake;e:jake=neutral;b=next-bar-int
 
 “Rather. He’s keen about it.”
 s=brett;e:brett=neutral
@@ -9596,7 +9599,7 @@ s=brett;e:brett=neutral
 s=bill
 
 We said goodbye to many people and shook hands with many people and went out. Outside it was dark.
-s=none;b=pamplone-wide-night
+s=none;b=pamplona-wide-night
 
 “What time is it do you suppose?” Cohn asked.
 s=cohn
@@ -15251,7 +15254,7 @@ We rode in a taxi down to the Palace Hotel, left the bags, arranged for berths o
 s=none
 
 We sat on high stools at the bar while the barman shook the martinis in a large nickelled shaker.
-b=reuse-bar-int
+b=next-bar-int
 
 “It’s funny what a wonderful gentility you get in the bar of a big hotel,” I said.
 s=jake;e:jake=
