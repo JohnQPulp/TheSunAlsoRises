@@ -914,7 +914,7 @@ s=blond
 s=
 
 “I’m going to dance with her, Lett. You watch me.”
-b=blond
+s=blond
 
 The tall dark one, called Lett, said:
 s=
