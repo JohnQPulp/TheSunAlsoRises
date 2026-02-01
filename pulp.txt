@@ -4327,20 +4327,23 @@ s=bill
 “You’ll be daunted after about three more pernods.”
 s=jake;e:jake=smirking
 
-“Not in public. If I begin to feel daunted I’ll go off by myself. I’m like a cat that way.”
+“Not in public. If I begin to feel daunted I’ll go off by myself. I’m like a cat that way.”<e>Like a cat.</e>
 s=bill;e:bill=serious
 
 “When did you see Harvey Stone?”
 s=jake
 
-“At the Crillon. Harvey was just a little daunted. Hadn’t eaten for three days. Doesn’t eat any more. Just goes off like a cat. Pretty sad.”
+“At the Crillon. Harvey was just a little daunted. Hadn’t eaten for three days. Doesn’t eat any more. Just goes off like a cat. Pretty sad.”<e>Like a cat. (Sad!)</e>
 s=bill;e:bill=unhappy
 
 “He’s all right.”
 s=jake
 
-“Splendid. Wish he wouldn’t keep going off like a cat, though. Makes me nervous.”
+“Splendid. Wish he wouldn’t keep going off like a cat, though. Makes me nervous.”<e>Like a cat. (Bill are you okay?)</e>
 s=bill;e:bill=wary
+
+<e>Also remember that Hemingway spent his later years trying to breed a race of mutant supercats. So I don't trust him writing about them.</e>
+s=
 
 “What’ll we do tonight?”
 s=jake
