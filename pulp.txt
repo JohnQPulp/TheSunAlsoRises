@@ -5675,7 +5675,7 @@ s=cohn
 s=bill
 
 We went out to walk around under the arcade to the Café Iruña for coffee.
-s=;b=pamplona-arcade
+s=;b=pamplona-square-cafe
 
 Cohn said he was going over and get a shave.
 
@@ -6149,7 +6149,7 @@ Finally, after a couple more false klaxons, the bus started, and Robert Cohn wav
 
 
 As soon as we started out on the road outside of town it was cool.
-b=spain-wide-2
+b=pamplona-wide
 
 It felt nice riding high up and close under the trees.
 
@@ -6512,7 +6512,7 @@ The wind was blowing against the shutters. The room was on the north side of the
 
 
 We washed, put on sweaters, and came downstairs into the dining-room.
-b=inn-dining-int
+b=inn-commons-int
 
 It had a stone floor, low ceiling, and was oak-panelled.
 
@@ -6572,7 +6572,7 @@ s=landlady1
 s=jake
 
 I went back to Bill.
-s=none;b=inn-dining-int
+s=none;b=inn-commons-int
 
 He blew his breath at me to show how cold it was, and went on playing.
 e:bill=happy
@@ -6596,7 +6596,7 @@ I went out and told the woman what a rum punch was and how to make it.
 s=none;b=inn-commons-int
 
 In a few minutes a girl brought a stone pitcher, steaming, into the room.
-b=inn-dining-int
+b=inn-commons-int
 
 Bill came over from the piano and we drank the hot punch and listened to the wind.
 
@@ -6665,7 +6665,7 @@ It was cool outside in the early morning and the sun had not yet dried the dew t
 e:jake=contemplative
 
 I hunted around in the shed behind the inn and found a sort of mattock, and went down toward the stream to try and dig some worms for bait.
-b=burguete-stream
+b=burguete-wide
 
 The stream was clear and shallow but it did not look trouty.
 
@@ -6779,7 +6779,7 @@ The tune was: “The Bells Are Ringing for Me and My Gal.”
 e:jake=neutral
 
 I was reading a week-old Spanish paper.
-x:bill=fishing;b=inn-dining-int
+x:bill=fishing;b=inn-commons-int
 
 “What’s all this irony and pity?”
 s=jake
@@ -7148,7 +7148,7 @@ I got my rod that was leaning against the tree, took the bait-can and landing-ne
 e:jake=neutral
 
 It was built to provide a head of water for driving logs.
-b=dam-on
+b=dam-trees
 
 The gate was up, and I sat on one of the squared timbers and watched the smooth apron of water before the river tumbled into the falls.
 e:jake=contemplative
@@ -7613,13 +7613,13 @@ We stayed five days at Burguete and had good fishing.
 e:jake=happy
 
 The nights were cold and the days were hot, and there was always a breeze even in the heat of the day. It was hot enough so that it felt good to wade in a cold stream, and the sun dried you when you came out and sat on the bank. We found a stream with a pool deep enough to swim in.
-b=dam-on
+b=dam-trees
 
 In the evenings we played three-handed bridge with an Englishman named Harris, who had walked over from Saint Jean Pied de Port and was stopping at the inn for the fishing.
-b=inn-dining-int
+b=inn-commons-int
 
 He was very pleasant and went with us twice to the Irati River.
-e:jake=happy;b=dam-on
+e:jake=happy;b=dam-trees
 
 There was no word from Robert Cohn nor from Brett and Mike.
 e:jake=thinking;b=light
@@ -7628,7 +7628,7 @@ e:jake=thinking;b=light
 r=title
 
 One morning I went down to breakfast and the Englishman, Harris, was already at the table.
-n:harris=Harris;e:harris=neutral;b=inn-dining-int
+n:harris=Harris;e:harris=neutral;b=inn-commons-int
 
 He was reading the paper through spectacles. He looked up and smiled.
 e:harris=happy
@@ -7703,7 +7703,7 @@ s=jake
 s=harris;e:harris=unhappy
 
 After breakfast Bill and I were sitting warming in the sun on a bench out in front of the inn and talking it over.
-s=none;e:harris=neutral;b=inn-ext
+s=none;e:harris=neutral;b=burguete-street
 
 I saw a girl coming up the road from the centre of the town.
 
@@ -13496,7 +13496,7 @@ But because he got thirty thousand pesetas and people had stayed in line all nig
 
 
 Belmonte’s great attraction is working close to the bull. In bullfighting they speak of the terrain of the bull and the terrain of the bullfighter.
-o=bullfight-capework
+b=bullfight-capework
 
 As long as a bullfighter stays in his own terrain he is comparatively safe.
 
