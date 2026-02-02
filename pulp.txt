@@ -8351,7 +8351,7 @@ There were many people walking to go and see the bulls, and carriages drove down
 
 
 Across the bridge we turned up a road to the corrals.
-
+b=corrals-road
 
 We passed a wine-shop with a sign in the window: Good Wine 30 Centimes A Liter.
 
@@ -8369,10 +8369,10 @@ They were staring at Brett.
 
 
 At the gate of the corrals two men took tickets from the people that went in. We went in through the gate.
-b=light
+
 
 There were trees inside and a low, stone house. At the far end was the stone wall of the corrals, with apertures in the stone that were like loopholes running all along the face of each corral.
-b=corrals-int
+
 
 A ladder led up to the top of the wall, and people were climbing up the ladder and spreading down to stand on the walls that separated the two corrals.
 
@@ -8387,7 +8387,7 @@ Each cage was stencilled with the name and the brand of the bull-breeder.
 
 
 We climbed up and found a place on the wall looking down into the corral.
-b=wall
+b=corrals-wall
 
 The stone walls were whitewashed, and there was straw on the ground and wooden feed-boxes and water-troughs set against the wall.
 
@@ -8396,7 +8396,7 @@ The stone walls were whitewashed, and there was straw on the ground and wooden f
 s=jake
 
 Beyond the river rose the plateau of the town.
-s=none
+b=pamplona-wide;s=
 
 All along the old walls and ramparts people were standing. The three lines of fortifications made three black lines of people.
 
@@ -8411,7 +8411,7 @@ s=brett;e:brett=surprised
 s=jake
 
 Mike and Bill were on the other wall across the pit of the corral. They waved to us.
-s=none
+s=none;b=corrals-wall
 
 People who had come late were standing behind us, pressing against us when other people crowded them.
 
@@ -8435,7 +8435,7 @@ They stood together at the far end, their heads toward the gate where the bull w
 
 
 “They don’t look happy,” Brett said.
-s=brett;e:brett=wary;b=wall
+s=brett;e:brett=wary
 
 The men on top of the wall leaned back and pulled up the door of the corral. Then they pulled up the door of the cage.
 s=
@@ -8537,16 +8537,19 @@ None of the bulls came near him, and he did not attempt to join the herd.
 
 
 We climbed down from the wall with the crowd, and had a last look at the bulls through the loopholes in the wall of the corral.
+b=corrals-road
+
+They were all quiet now, their heads down.
+
+
+We got a carriage outside and rode up to the café.
 b=light
 
-They were all quiet now, their heads down. We got a carriage outside and rode up to the café.
-
-
 Mike and Bill came in half an hour later. They had stopped on the way for several drinks.
-
+b=pamplona-cafe-int
 
 We were sitting in the café.
-b=pamplona-cafe-int
+
 
 “That’s an extraordinary business,” Brett said.
 s=brett;e:brett=contemplative
@@ -9434,7 +9437,7 @@ He tipped the big five-litre bag up and squeezed it so the wine hissed against t
 s=basque
 
 In the back room Brett and Bill were sitting on barrels surrounded by the dancers.
-s=none;e:brett=happy;e:bill=happy;b=wine-barrels-shop
+s=none;e:brett=happy;e:bill=happy
 
 Everybody had his arms on everybody else’s shoulders, and they were all singing.
 
@@ -9551,7 +9554,7 @@ s=none
 s=basque
 
 In a back room Robert Cohn was sleeping quietly on some wine-casks.
-s=none;e:cohn=neutral;b=wine-back-shop
+s=none;e:cohn=neutral
 
 It was almost too dark to see his face. They had covered him with a coat and another coat was folded under his head.
 
@@ -10679,7 +10682,7 @@ Romero’s face was very brown. He had very nice manners.
 e:romero=neutral
 
 I introduced them all around and they started to sit down, but there was not enough room, so we all moved over to the big table by the wall to have coffee.
-b=montoya-down-wall-dining
+
 
 Mike ordered a bottle of Fundador and glasses for everybody. There was a lot of drunken talking.
 
@@ -10913,28 +10916,28 @@ There was a wind blowing.
 
 
 The military band was playing and the crowd was massed on the far side of the square where the fireworks specialist and his son were trying to send up fire balloons.
-b=fire-balloons
+o=fire-balloons
 
 A balloon would start up jerkily, on a great bias, and be torn by the wind or blown against the houses of the square.
 
 
 Some fell into the crowd. The magnesium flared and the fireworks exploded and chased about in the crowd.
-b=light
+o=balloon-explosion
 
 There was no one dancing in the square. The gravel was too wet.
-
+o=
 
 Brett came out with Bill and joined us.
 e:brett=neutral
 
 We stood in the crowd and watched Don Manuel Orquito, the fireworks king, standing on a little platform, carefully starting the balloons with sticks, standing above the heads of the crowd to launch the balloons off into the wind.
-b=fire-balloons
+o=fire-balloons
 
 The wind brought them all down, and Don Manuel Orquito’s face was sweaty in the light of his complicated fireworks that fell into the crowd and charged and chased, sputtering and cracking, between the legs of the people.
-
+o=balloon-explosion
 
 The people shouted as each new luminous paper bubble careened, caught fire, and fell.
-
+o=
 
 “They’re razzing Don Manuel,” Bill said.
 s=bill;e:bill=
