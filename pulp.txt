@@ -8054,7 +8054,7 @@ Without his ever saying anything they were simply a little something shameful be
 
 
 Bill had gone upstairs as we came in, and I found him washing and changing in his room.
-b=montoya-room-int
+b=montoya-room
 
 “Well,” he said, “talk a lot of Spanish?”
 s=bill;e:bill=happy
@@ -8858,7 +8858,7 @@ s=jake
 s=montoya;e:montoya=happy
 
 I went upstairs. Bill was in his room standing on the balcony looking out at the square.
-s=none;e:bill=neutral;b=montoya-room-int
+s=none;e:bill=neutral;b=montoya-room
 
 I stood beside him.
 
@@ -9638,13 +9638,13 @@ The others stayed up.
 
 
 My own room was locked and I could not find the key, so I went upstairs and slept on one of the beds in Cohn’s room.
-b=montoya-room-int
+b=montoya-room
 
 The fiesta was going on outside in the night, but I was too sleepy for it to keep me awake.
 b=dream
 
 When I woke it was the sound of the rocket exploding that announced the release of the bulls from the corrals at the edge of town.
-b=montoya-room-int
+b=montoya-room
 
 They would race through the streets and out to the bullring.
 
