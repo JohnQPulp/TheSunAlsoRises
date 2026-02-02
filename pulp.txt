@@ -1619,7 +1619,7 @@ To hell with Brett. To hell with you, Lady Ashley.
 e:jake=angry
 
 I lit the lamp beside the bed, turned off the gas, and opened the wide windows.
-b=flat-bedroom-int-night
+b=flat-bedroom-int
 
 The bed was far back from the windows, and I sat with the windows open and undressed by the bed.
 
@@ -1649,7 +1649,7 @@ They would both have the same news, so whichever I read first would spoil the ot
 
 
 I blew out the lamp. Perhaps I would be able to sleep.
-b=flat-bedroom-int-dark-night
+b=think
 
 My head started to work. The old grievance.
 e:jake=thinking;b=think
@@ -1723,10 +1723,7 @@ The Catholic Church had an awfully good way of handling all that. Good advice, a
 Oh, it was swell advice. Try and take it sometime. Try and take it.
 
 
-I lay awake thinking and my mind jumping around.
-b=flat-bedroom-int-dark-night
-
-Then I couldn’t keep away from it, and I started to think about Brett and all the rest of it went away.
+I lay awake thinking and my mind jumping around. Then I couldn’t keep away from it, and I started to think about Brett and all the rest of it went away.
 
 
 I was thinking about Brett and my mind stopped jumping around and started to go in sort of smooth waves.
@@ -1739,7 +1736,7 @@ Then after a while it was better and I lay in bed and listened to the heavy tram
 b=dream
 
 I woke up. There was a row going on outside.
-b=flat-bedroom-int-dark-night
+b=think
 
 I listened and I thought I recognized a voice.
 
@@ -1943,7 +1940,7 @@ I took them both out to the kitchen and poured the half-full glass down the sink
 
 
 I turned off the gas in the dining-room, kicked off my slippers sitting on the bed, and got into bed.
-b=flat-bedroom-int-night
+b=flat-bedroom-int
 
 This was Brett, that I had felt like crying about.
 e:jake=unhappy
@@ -9605,7 +9602,7 @@ s=brett;e:brett=neutral
 s=bill
 
 We said goodbye to many people and shook hands with many people and went out. Outside it was dark.
-s=none;b=pamplona-wide-night
+s=none;b=pamplona-wide;f:b:pamplona-wide=brightness(85%)
 
 “What time is it do you suppose?” Cohn asked.
 s=cohn
@@ -9815,7 +9812,7 @@ Brett smiled at us.
 s=
 
 We walked around through the arcade to avoid the heat of the square.
-s=none;b=pamplona-wide
+s=none;b=pamplona-wide;f:b:pamplona-wide=
 
 “That Cohn gets me,” Bill said.
 s=bill;e:bill=angry
@@ -10916,7 +10913,7 @@ There was a wind blowing.
 
 
 The military band was playing and the crowd was massed on the far side of the square where the fireworks specialist and his son were trying to send up fire balloons.
-o=fire-balloons
+o=fire-balloon
 
 A balloon would start up jerkily, on a great bias, and be torn by the wind or blown against the houses of the square.
 
@@ -10931,7 +10928,7 @@ Brett came out with Bill and joined us.
 e:brett=neutral
 
 We stood in the crowd and watched Don Manuel Orquito, the fireworks king, standing on a little platform, carefully starting the balloons with sticks, standing above the heads of the crowd to launch the balloons off into the wind.
-o=fire-balloons
+o=fire-balloon
 
 The wind brought them all down, and Don Manuel Orquito’s face was sweaty in the light of his complicated fireworks that fell into the crowd and charged and chased, sputtering and cracking, between the legs of the people.
 o=balloon-explosion
@@ -11192,7 +11189,7 @@ s=jake
 s=brett
 
 We walked arm in arm down the side street away from the crowd and the lights of the square.
-s=none;b=pamplona-wide-night
+s=none;b=pamplona-wide;f:b:pamplona-wide=brightness(85%)
 
 The street was dark and wet, and we walked along it to the fortifications at the edge of town.
 
@@ -11735,7 +11732,7 @@ s=edna
 s=jake
 
 We were walking across the square to the Suizo. Bill was gone.
-s=none;c=;b=pamplona-wide-night
+s=none;c=;b=pamplona-wide;f:b:pamplona-wide=brightness(85%)
 
 “I don’t know what happened, but someone had the police called to keep Mike out of the back room.”
 s=edna;e:edna=neutral
@@ -12872,7 +12869,7 @@ It was crowded. We were eating shrimps and drinking beer.
 
 
 The town was crowded. Every street was full.
-b=pamplona-wide
+b=pamplona-wide;f:b:pamplona-wide=
 
 Big motorcars from Biarritz and San Sebastian kept driving up and parking around the square. They brought people for the bullfight. Sightseeing cars came up, too. There was one with twenty-five Englishwomen in it. They sat in the big, white car and looked through their glasses at the fiesta.
 
@@ -13370,7 +13367,7 @@ Below in the narrow passage of the callejón the sword-handlers arranged everyth
 s=none
 
 Above, all the boxes were full. There was not an empty seat except in the President’s box. When he came in the fight would start.
-b=box-crowd
+b=ringside
 
 Across the smooth sand, in the high doorway that led into the corrals, the bullfighters were standing, their arms furled in their capes, talking, waiting for the signal to march in across the arena.
 b=ringside
@@ -13712,7 +13709,7 @@ The bull charged as Romero charged.
 
 
 Romero’s left hand dropped the muleta over the bull’s muzzle to blind him, his left shoulder went forward between the horns as the sword went in, and for just an instant he and the bull were one, Romero way out over the bull, the right arm extended high up to where the hilt of the sword had gone in between the bull’s shoulders.
-b=bullfight-kill
+b=action
 
 Then the figure was broken.
 b=ringside
@@ -13802,7 +13799,7 @@ The bull charged and Romero waited for the charge, the muleta held low, sighting
 
 
 Then without taking a step forward, he became one with the bull, the sword was in high between the shoulders, the bull had followed the low-swung flannel, that disappeared as Romero lurched clear to the left, and it was over.
-b=bullfight-kill
+b=action
 
 The bull tried to go forward, his legs commenced to settle, he swung from side to side, hesitated, then went down on his knees, and Romero’s older brother leaned forward behind him and drove a short knife into the bull’s neck at the base of the horns.
 b=light
