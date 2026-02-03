@@ -13,7 +13,7 @@ t=
 ## Book I
 r=title
 
-### Chapter I
+### I
 r=title
 
 Robert Cohn was once middleweight boxing champion of Princeton. Do not think that I am very much impressed by that as a boxing title, but it meant a lot to Cohn.
@@ -214,7 +214,7 @@ s=none;e:jake=thinking
 I rather liked him and evidently she led him quite a life.
 
 
-### Chapter II
+### II
 r=title
 
 That winter Robert Cohn went over to America with his novel, and it was accepted by a fairly good publisher.
@@ -517,7 +517,7 @@ s=none;e:jake=thinking
 We went out to the Café Napolitain to have an apéritif and watch the evening crowd on the Boulevard.
 e:jake=neutral;b=light
 
-### Chapter III
+### III
 r=title
 
 It was a warm spring night and I sat at a table on the terrace of the Napolitain after Robert had gone, watching it get dark and the electric signs come on, and the red and green stop-and-go traffic-signal, and the crowd going by, and the horse-cabs clippety-clopping along at the edge of the solid taxi traffic, and the *poules* going by, singly and in pairs, looking for the evening meal.
@@ -1231,7 +1231,7 @@ The cab started with a jerk.
 “Oh, darling, I’ve been so miserable,” Brett said.
 s=brett;e:brett=unhappy
 
-### Chapter IV
+### IV
 r=title
 
 The taxi went up the hill, passed the lighted square, then on into the dark, still climbing, then levelled out onto a dark street behind St. Etienne du Mont, went smoothly down the asphalt, passed the trees and the standing bus at the Place de la Contrescarpe, then turned onto the cobbles of the Rue Mouffetard.
@@ -1951,7 +1951,7 @@ Then I thought of her walking up the street and stepping into the car, as I had 
 It is awfully easy to be hard-boiled about everything in the daytime, but at night it is another thing.
 
 
-### Chapter V
+### V
 r=title
 
 In the morning I walked down the Boulevard to the Rue Soufflot for coffee and brioche.
@@ -2317,7 +2317,7 @@ I could feel Cohn wanted to bring up Brett again, but I held him off it.
 We talked about one thing and another, and I left him to come to the office.
 
 
-### Chapter VI
+### VI
 r=title
 
 At five o’clock I was in the Hotel Crillon waiting for Brett. She was not there, so I sat down and wrote some letters. They were not very good letters but I hoped their being on Crillon stationery would help them.
@@ -3019,7 +3019,7 @@ I went down a side street to the Boulevard Raspail.
 A taxi came along and I got in and gave the driver the address of my flat.
 
 
-### Chapter VII
+### VII
 r=title
 
 As I started up the stairs the concierge knocked on the glass of the door of her lodge, and as I stopped she came out.
@@ -4054,7 +4054,7 @@ s=none;e:jake=weary
 ## Book II
 r=title
 
-### Chapter VIII
+### VIII
 r=title
 
 I did not see Brett again until she came back from San Sebastian.
@@ -4810,7 +4810,7 @@ s=jake;e:jake=smirking;b=light
 “Well,” said Bill. “You can’t blame him such a hell of a lot.”
 s=bill;e:bill=thinking
 
-### Chapter IX
+### IX
 r=title
 
 The Ledoux-Kid Francis fight was the night of the 20th of June. It was a good fight.
@@ -5386,7 +5386,7 @@ s=none
 It was a nice hotel, and the people at the desk were very cheerful, and we each had a good small room.
 
 
-### Chapter X
+### X
 r=title
 
 In the morning it was bright, and they were sprinkling the streets of the town, and we all had breakfast in a café.
@@ -6088,7 +6088,7 @@ s=bill;e:bill=excited
 “Come on. Let’s go over to the Iruña and start,” I said.
 s=jake;e:jake=happy
 
-### Chapter XI
+### XI
 r=title
 
 It was baking hot in the square when we came out after lunch with our bags and the rod-case to go to Burguete. People were on top of the bus, and others were climbing up a ladder.
@@ -6631,7 +6631,7 @@ b=inn-room-int
 Once in the night I woke and heard the wind blowing. It felt good to be warm and in bed.
 
 
-### Chapter XII
+### XII
 r=title
 
 When I woke in the morning I went to the window and looked out.
@@ -7621,7 +7621,7 @@ e:jake=happy;b=dam-trees
 There was no word from Robert Cohn nor from Brett and Mike.
 e:jake=thinking;b=light
 
-### Chapter XIII
+### XIII
 r=title
 
 One morning I went down to breakfast and the Englishman, Harris, was already at the table.
@@ -8932,7 +8932,7 @@ It was like certain dinners I remember from the war. There was much wine, an ign
 Under the wine I lost the disgusted feeling and was happy. It seemed they were all such nice people.
 e:jake=happy
 
-### Chapter XIV
+### XIV
 r=title
 
 I do not know what time I got to bed.
@@ -9148,7 +9148,7 @@ We all felt good and we felt healthy, and I felt quite friendly to Cohn. You cou
 That was the last day before the fiesta.
 e:jake=neutral
 
-### Chapter XV<e>Okay reader, five chapters to go. Five long-ass chapters. But we can finish this together, and then we never have to read another modernist book again.</e>
+### XV<e>Okay reader, five chapters to go. Five long-ass chapters. But we can finish this together, and then we never have to read another modernist book again.</e>
 r=title
 
 At noon of Sunday, the 6th of July, the fiesta exploded. There is no other way to describe it. People had been coming in all day from the country, but they were assimilated in the town and you did not notice them.
@@ -10291,7 +10291,7 @@ s=none
 The next day there was no bullfight scheduled. But all day and all night the fiesta kept on.
 
 
-### Chapter XVI
+### XVI
 r=title
 
 In the morning it was raining. A fog had come over the mountains from the sea. You could not see the tops of the mountains. The plateau was dull and gloomy, and the shapes of the trees and the houses were changed.
@@ -11608,7 +11608,7 @@ The coffee-glasses and our three empty cognac-glasses were on the table.
 A waiter came with a cloth and picked up the glasses and mopped off the table.
 
 
-### Chapter XVII
+### XVII
 r=title
 
 Outside the Bar Milano I found Bill and Mike and Edna. Edna was the girl’s name.
@@ -12859,7 +12859,7 @@ s=jake
 “Was there?” said Bill.
 s=bill;e:bill=surprised
 
-### Chapter XVIII
+### XVIII
 r=title
 
 At noon we were all at the café.
@@ -14155,7 +14155,7 @@ s=none;e:jake=unhappy
 ## Book III
 r=title
 
-### Chapter XIX
+### XIX
 r=title
 
 In the morning it was all over. The fiesta was finished.
