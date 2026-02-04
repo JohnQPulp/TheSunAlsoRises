@@ -1985,16 +1985,16 @@ Students went by going up to the law school, or down to the Sorbonne. The Boulev
 
 
 I got on an S bus and rode down to the Madeleine, standing on the back platform.
-b=light
+b=paris-wide
 
 From the Madeleine I walked along the Boulevard des Capucines to the Opéra, and up to my office.
 
 
-I passed the man with the jumping frogs and the man with the boxer toys.<e>Twain reference? I'm not sure, but I wish I was reading Twain.</e>
+I passed the man with the jumping frogs and the man with the boxer toys.
 
 
 I stepped aside to avoid walking into the thread with which his girl assistant manipulated the boxers.
-
+t=
 
 She was standing looking away, the thread in her folded hands. The man was urging two tourists to buy.
 
@@ -2012,7 +2012,7 @@ Upstairs in the office I read the French morning papers, smoked, and then sat at
 e:jake=neutral;b=office-int
 
 At eleven o’clock I went over to the Quai d’Orsay in a taxi and went in and sat with about a dozen correspondents, while the foreign-office mouthpiece, a young Nouvelle Revue Française diplomat in horn-rimmed spectacles, talked and answered questions for half an hour.
-b=light
+b=paris-wide
 
 The President of the Council was in Lyons making a speech, or, rather he was on his way back.
 
@@ -2024,7 +2024,7 @@ I shared a taxi back from the Quai d’Orsay with Woolsey and Krum.
 b=taxi-abstract
 
 “What do you do nights, Jake?” asked Krum. “I never see you around.”
-n:krum=Krum;s=krum;n:woolsey=Woolsey
+n:krum=Krum;s=krum;n:woolsey=Woolsey;z:krum=95;z:woolsey=95
 
 “Oh, I’m over in the Quarter.”
 s=jake
@@ -2102,16 +2102,16 @@ s=krum
 s=jake
 
 I went to the office in the elevator.
-b=office-int;s=
+b=light;s=
 
 Robert Cohn was waiting for me.
-s=none;c=cohn
+s=none;c=cohn;b=office-int;v=100,125;e:cohn=happy
 
 “Hello, Jake,” he said. “Going out to lunch?”
-s=cohn;e:cohn=neutral
+s=cohn;
 
 “Yes. Let me see if there is anything new.”
-s=jake;e:jake=
+s=jake;e:jake=annoyed
 
 “Where will we eat?”
 s=cohn
@@ -2120,7 +2120,7 @@ s=cohn
 s=jake
 
 I was looking over my desk.
-s=none
+s=none;c=
 
 “Where do you want to eat?”
 s=jake
@@ -2141,7 +2141,7 @@ s=jake
 s=cohn;e:cohn=unhappy
 
 “How’s the writing going?”
-s=jake
+s=jake;e:jake=contemplative
 
 “Rotten. I can’t get this second book going.”
 s=cohn
@@ -2153,7 +2153,7 @@ s=jake
 s=cohn;e:cohn=wary
 
 “Thought any more about going to South America?”
-s=jake
+s=jake;e:jake=thinking
 
 “I mean that.”
 s=cohn;e:cohn=serious
@@ -2204,7 +2204,7 @@ s=jake
 s=cohn
 
 “You sound as though you liked her pretty well.”
-s=jake
+s=jake;e:jake=annoyed
 
 “I do. I shouldn’t wonder if I were in love with her.”
 s=cohn;e:cohn=serious
@@ -2240,13 +2240,13 @@ s=jake
 s=cohn;e:cohn=wary
 
 “Sorry. I didn’t mean to. I was just trying to give you the facts.”
-s=jake;e:jake=neutral
+s=jake;e:jake=thinking
 
 “I don’t believe she would marry anybody she didn’t love.”
 s=cohn
 
 “Well,” I said. “She’s done it twice.”
-s=jake
+s=jake;e:jake=contemplative
 
 “I don’t believe it.”
 s=cohn
@@ -2270,7 +2270,7 @@ He stood up from the table his face white, and stood there white and angry behin
 s=none;e:cohn=angry
 
 “Sit down,” I said. “Don’t be a fool.”
-s=jake;e:jake=neutral
+s=jake;e:jake=annoyed
 
 “You’ve got to take that back.”
 s=cohn
@@ -2291,7 +2291,7 @@ s=cohn
 s=jake
 
 “Stick around. We’re just starting lunch.”
-
+e:jake=contemplative
 
 Cohn smiled again and sat down. He seemed glad to sit down.
 s=none;e:cohn=happy
@@ -2321,7 +2321,7 @@ s=cohn
 s=jake
 
 After we finished the lunch we walked up to the Café de la Paix and had coffee.
-s=none;b=light
+s=none;b=paris-wide
 
 I could feel Cohn wanted to bring up Brett again, but I held him off it.
 
