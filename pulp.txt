@@ -1,13 +1,13 @@
-*The Sun Also Rises* by Ernest Hemingway<e>Here we are: Public Domain Pulp's first modernist visual novel. I was originally going to do Faulkner first, but then I figured it's probably better to start with the overly readable one instead of the unreadable one. Still a hellish writing style either way. But we'll get through this together.</e>
-n:author=;t=author;b=title
+*The Sun Also Rises* by Ernest Hemingway<e>This here is Public Domain Pulp's first modernist visual novel, featuring who else but Mr. Iceberg himself. You've got deep prose ahead of you, reader. Keep up.</e>
+n:author=;t=author;b=title;z:author=105
 
-This book is for **Hadley** and for **John Hadley Nicanor**<e>Put a pin in this dedication from Hemingway to his wife and son. It's the tip of an iceberg — the background behind this novel. But it requires spoilers to get into, so the discussion will have to wait until further into the book.</e>
-
+This book is for **Hadley** and for **John Hadley Nicanor**<e>Put a pin in this dedication to his wife and son. It will be important later.</e>
+t=
 
 “You are all a lost generation.” —Gertrude Stein in conversation
 n:stein=;t=stein;b=think
 
-“One generation passeth away, and another generation cometh; but the earth abideth forever… The sun also ariseth, and the sun goeth down, and hasteth to the place where he arose﻿ ﻿… The wind goeth toward the south, and turneth about unto the north; it whirleth about continually, and the wind returneth again according to his circuits… All the rivers run into the sea; yet the sea is not full; unto the place from whence the rivers come, thither they return again.” —Ecclesiastes<e>Hemingway naming his book after the most basic bitch of all Biblical texts. Pretty apropos, really, but we'll get into it.</e>
+“One generation passeth away, and another generation cometh; but the earth abideth forever… The sun also ariseth, and the sun goeth down, and hasteth to the place where he arose﻿ ﻿… The wind goeth toward the south, and turneth about unto the north; it whirleth about continually, and the wind returneth again according to his circuits… All the rivers run into the sea; yet the sea is not full; unto the place from whence the rivers come, thither they return again.” —Ecclesiastes
 t=
 
 ## Book I
@@ -17,7 +17,7 @@ r=title
 r=title
 
 Robert Cohn was once middleweight boxing champion of Princeton. Do not think that I am very much impressed by that as a boxing title, but it meant a lot to Cohn.
-n:cohn=Robert Cohn;n:jake=?;e:cohn=neutral;b=princeton
+n:cohn=Robert Cohn;n:jake=?;e:cohn=neutral;b=princeton;z:cohn=99
 
 He cared nothing for boxing, in fact he disliked it, but he learned it painfully and thoroughly to counteract the feeling of inferiority and shyness he had felt on being treated as a Jew at Princeton.
 e:cohn=unhappy
@@ -25,23 +25,26 @@ e:cohn=unhappy
 There was a certain inner comfort in knowing he could knock down anybody who was snooty to him, although, being very shy and a thoroughly nice boy, he never fought except in the gym.
 e:cohn=neutral
 
-He was Spider Kelly’s star pupil. Spider Kelly taught all his young gentlemen to box like featherweights, no matter whether they weighed one hundred and five or two hundred and five pounds. But it seemed to fit Cohn. He was really very fast.
+He was Spider Kelly’s star pupil. Spider Kelly taught all his young gentlemen to box like featherweights, no matter whether they weighed one hundred and five or two hundred and five pounds.
+
+
+But it seemed to fit Cohn. He was really very fast.
 
 
 He was so good that Spider promptly overmatched him and got his nose permanently flattened.
-b=light
+c=cohn;x:cohn=young;b=light;v=100,110;e:cohn=contemplative
 
-This increased Cohn’s distaste for boxing, but it gave him a certain satisfaction of some strange sort, and it certainly improved his nose.<e>Highbrow author Hemingway opening with a Mel Brooks Jew joke.</e>
-
+This increased Cohn’s distaste for boxing, but it gave him a certain satisfaction of some strange sort, and it certainly improved his nose.<e>Paragraph one Jew joke.</e>
+t=author
 
 In his last year at Princeton he read too much and took to wearing spectacles.
-e:cohn=;b=light;c=cohn;x:cohn=young
+b=princeton;t=;c=
 
 I never met anyone of his class who remembered him. They did not even remember that he was middleweight boxing champion.
-b=light;e:cohn=contemplative
+f:b:princeton=blur(5px)
 
 I mistrust all frank and simple people, especially when their stories hold together, and I always had a suspicion that perhaps Robert Cohn had never been middleweight boxing champion, and that perhaps a horse had stepped on his face, or that maybe his mother had been frightened or seen something, or that he had, maybe, bumped into something as a young child, but I finally had somebody verify the story from Spider Kelly.
-e:jake=suspicious;c=
+
 
 Spider Kelly not only remembered Cohn. He had often wondered what had become of him.
 
@@ -56,19 +59,19 @@ No one had ever made him feel he was a Jew, and hence any different from anybody
 
 
 He was a nice boy, a friendly boy, and very shy, and it made him bitter.
-e:cohn=unhappy;b=princeton
+e:cohn=unhappy;b=princeton;f:b:princeton=
 
 He took it out in boxing, and he came out of Princeton with painful self-consciousness and the flattened nose, and was married by the first girl who was nice to him.
 
 
 He was married five years, had three children, lost most of the fifty thousand dollars his father left him, the balance of the estate having gone to his mother, hardened into a rather unattractive mould under domestic unhappiness with a rich wife; and just when he had made up his mind to leave his wife she left him and went off with a miniature-painter.
-e:cohn=surprised;b=light
+e:cohn=surprised;b=newyork
 
 As he had been thinking for months about leaving his wife and had not done it because it would be too cruel to deprive her of himself, her departure was a very healthful shock.
 
 
 The divorce was arranged and Robert Cohn went out to the Coast. In California he fell among literary people and, as he still had a little of the fifty thousand left, in a short time he was backing a review of the Arts. The review commenced publication in Carmel, California, and finished in Provincetown, Massachusetts.
-
+b=light
 
 By that time Cohn, who had been regarded purely as an angel, and whose name had appeared on the editorial page merely as a member of the advisory board, had become the sole editor.
 e:cohn=;x:cohn=;c=cohn
@@ -80,7 +83,7 @@ He was sorry when the magazine became too expensive and he had to give it up.
 c=
 
 By that time, though, he had other things to worry about. He had been taken in hand by a lady who hoped to rise with the magazine. She was very forceful, and Cohn never had a chance of not being taken in hand.
-n:frances=Frances;c=frances
+n:frances=Frances;c=frances;z:frances=102
 
 Also he was sure that he loved her.
 e:cohn=happy
@@ -95,7 +98,7 @@ During these three years, the first spent in travel, the last two in Paris, Robe
 
 
 Braddocks was his literary friend. I was his tennis friend.
-n:braddocks=?;n:jake=?;c=braddocks,jake
+n:braddocks=?;n:jake=?;c=braddocks,jake;z:braddocks=101;z:jake=98
 
 The lady who had him, her name was Frances, found toward the end of the second year that her looks were going, and her attitude toward Robert changed from one of careless possession and exploitation to the absolute determination that he should marry her.
 e:frances=serious;c=frances
@@ -155,7 +158,7 @@ I said good night and went out. Cohn said he wanted to buy a paper and would wal
 b=cafe-paris-ext-night
 
 “For God’s sake,” he said, “why did you say that about that girl in Strasbourg for? Didn’t you see Frances?”
-s=cohn;e:cohn=upset;c=cohn
+s=cohn;e:cohn=upset;v=100,120
 
 “No, why should I? If I know an American girl that lives in Strasbourg what the hell is it to Frances?”
 s=jake;e:jake=annoyed
