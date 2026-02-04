@@ -1255,7 +1255,10 @@ There were lighted bars and late open shops on each side of the street.
 We were sitting apart and we jolted close together going down the old street.
 
 
-Brett’s hat was off. Her head was back.<e>No. The hat stays on.</e>
+Brett’s hat was off.<e>No.</e>
+
+
+Her head was back.
 
 
 I saw her face in the lights from the open shops, then it was dark, then I saw her face clearly as we came out on the Avenue des Gobelins.
@@ -1349,7 +1352,7 @@ s=jake;e:jake=neutral
 s=brett;e:brett=serious
 
 “Well, let’s shut up about it.”
-s=jake
+s=jake;e:jake=thinking
 
 “I laughed about it too, myself, once.”
 s=brett
@@ -1358,10 +1361,10 @@ She wasn’t looking at me.
 s=none
 
 “A friend of my brother’s came home that way from Mons. It seemed like a hell of a joke. Chaps never know anything, do they?”
-s=brett;e:brett=smirking
+s=brett;e:brett=contemplative
 
-“No,” I said. “Nobody ever knows anything.”<e>How to write like Hemingway: when in doubt, declare epistemological bankruptcy and go get a drink.</e>
-s=jake;e:jake=weary
+“No,” I said. “Nobody ever knows anything.”<e>Especially not you, stupid reader.</e>
+s=jake;e:jake=thinking
 
 I was pretty well through with the subject.
 s=none
@@ -1382,7 +1385,7 @@ s=jake
 s=brett;e:brett=unhappy
 
 “It’s good to see each other.”
-s=jake
+s=jake;e:jake=
 
 “No. I don’t think it is.”
 s=brett
@@ -1424,16 +1427,16 @@ On the Boulevard Raspail, with the lights of Montparnasse in sight, Brett said:
 
 
 “Would you mind very much if I asked you to do something?”
-s=brett;e:brett=wary
+s=brett;e:brett=contemplative
 
 “Don’t be silly.”
-s=jake
+s=jake;e:jake=thinking
 
 “Kiss me just once more before we get there.”
-s=brett
+s=brett;e:brett=thinking
 
 When the taxi stopped I got out and paid.
-s=none;b=cafe-select-ext
+s=none;b=cafe-select-ext;f:b:cafe-select-ext=brightness(85%)
 
 Brett came out putting on her hat. She gave me her hand as she stepped down.
 
@@ -1451,10 +1454,10 @@ Inside, against the bar and at tables, were most of the crowd who had been at th
 b=cafe-select-int
 
 “Hello, you chaps,” Brett said. “I’m going to have a drink.”
-s=brett;e:brett=happy
+s=brett;e:brett=
 
 “Oh, Brett! Brett!” the little Greek portrait-painter, who called himself a duke, and whom everybody called Zizi, pushed up to her.
-n:zizi=Zizi;s=zizi;e:zizi=excited
+n:zizi=Zizi;s=zizi;e:zizi=excited;z:zizi=80
 
 “I got something fine to tell you.”
 s=zizi
@@ -1475,7 +1478,7 @@ s=zizi;n:brett=Brett Ashley
 s=brett
 
 “Well, does your Ladyship have a good time here in Paris?” asked Count Mippipopolous, who wore an elk’s tooth on his watch-chain.
-s=count;e:count=happy
+s=count;e:count=happy;z:count=88
 
 “Rather,” said Brett.
 s=brett;e:brett=smirking
@@ -1493,7 +1496,7 @@ Braddocks called to me from a table.
 s=none;b=cafe-select-table-int
 
 “Barnes,” he said, “have a drink. That girl of yours got in a frightful row.”
-s=braddocks;e:braddocks=excited
+s=braddocks;e:braddocks=happy
 
 “What about?”
 s=jake
@@ -1508,7 +1511,7 @@ s=jake
 s=braddocks
 
 “No,” I said. “I must shove off. Seen Cohn?”
-s=jake
+s=jake;e:jake=
 
 “He went home with Frances,” Mrs. Braddock put in.
 s=mrsbraddocks
@@ -1577,7 +1580,7 @@ s=brett;e:brett=happy
 s=count;e:count=neutral
 
 I went out onto the sidewalk and walked down toward the Boulevard St. Michel, passed the tables of the Rotonde, still crowded, looked across the street at the Dome, its tables running out to the edge of the pavement.
-s=none;b=light
+s=none;b=light;f:b:light=brightness(85%)
 
 Someone waved at me from a table, I did not see who it was and went on. I wanted to get home.
 
@@ -1645,11 +1648,11 @@ Undressing, I looked at myself in the mirror of the big armoire beside the bed.
 That was a typically French way to furnish a room. Practical, too, I suppose.
 
 
-Of all the ways to be wounded. I suppose it was funny.<e>Heh heh, it is pretty funny.</e>
+Of all the ways to be wounded. I suppose it was funny.<e>It <i>is</i> funny.</e>
 e:jake=unhappy
 
 I put on my pajamas and got into bed.
-b=light
+b=light;f:b:light=
 
 I had the two bullfight papers, and I took their wrappers off. One was orange. The other yellow.
 
@@ -1705,29 +1708,23 @@ b=think
 I try and play it along and just not make trouble for people.
 
 
-Probably I never would have had any trouble if I hadn’t run into Brett when they shipped me to England. I suppose she only wanted what she couldn’t have.<e>Imagine being so sexually frustrated from your failed affair that you literally castrate your self-insert character lmao. But I guess now's a good time to explain some of the context around the book:</e>
+Probably I never would have had any trouble if I hadn’t run into Brett when they shipped me to England. I suppose she only wanted what she couldn’t have.<e>Quick lore dump time.</e>
 
 
-<e>See, the main "friend" group of this novel is directly based on Hemingway and his real-life circle, with Brett in particular being based on this one lady, Duff Twysden. And I do mean <i>directly</i>. He literally used his own name in place of "Jake" and Duff's name in place of "Brett" in the book's first draft. And as in the book, Hemingway pined after Duff.</e>
+<e>This book's cast of main characters is based on Hemingway's real-life circle of friends. Brett in particular is based on this one lady who pined after him, Duff Twysden. And Jake is based on Hemingway himself, except castrated, so that Hemingway's overwhelming masculinity wouldn't derail the story. (He knew ignorant readers would accuse it of being unrealistic otherwise.)</e>
+t=author
+
+<e>Biased literary historians will try to tell you that the castration is a metaphor for unconsummated sexual frustration or some nonsense, but that's only because they're jealous of Hemingway hooking up with <s>two</s> three chicks at the same time. (Remember Hadley from the book's dedication? He was married to her during all this. And then there was another lady, Pauline, who isn't important.)</e>
 
 
-<e>Other guys also pined after Duff, which is part of the reason why it didn't work out for Hemingway. The other reason being: he was already married (lol) to a woman named Hadley. (Remember her from the book's dedication?)</e>
+<e>Anyway, you'd think his friends and lovers would be happy having their lives codified in one of the great works of the western canon — following in the footsteps of giants like Mark Twain (remember Becky Thatcher from <book>Tom Sawyer</book>?) — but on, they were too stupid to appreciate the kind gesture.</e>
 
 
-<e>So after failing to cuck his wife in real life, he resorted to cucking her via pen — hence this book. (And he also had an actual consumated affair with a third woman.)</e>
-
-
-<e>So his wife divorced him, because obviously, cucking him back by getting the right to all the royalties from the book for herself.</e>
-
-
-<e>As for Duff and the other real-life people who unwillingly became this book's characters, they got nothing out of it. So they were all pissed off, because obviously. I mean, Mark Twain did kind of the same thing with Becky Thatcher in <book>Tom Sawyer</book>, except he wasn't a total dick about it, since her character portrayal was sweet instead of, you know…</e>
-
-
-<e>But really the moral here is just: don't ever befriend a writer. That's a more cohesive theme than anything Hemingway says on purpose in this book. Anyway, back to the cringey book:</e>
+<e>So his wife pushed for a divorce while he was working on the book, but in Hemingway's infinite selflessness, he still let her have the royalties from the book's sales. And he didn't let any of the unfair animosity contaminate the book — not a single drop of misanthropy.</e>
 
 
 Well, people were that way. To hell with people.
-e:jake=angry
+e:jake=angry;t=
 
 The Catholic Church had an awfully good way of handling all that. Good advice, anyway. Not to think about it.
 
@@ -1766,7 +1763,7 @@ I heard my name and called down the stairs.
 s=concierge1
 
 “Yes. It’s me.”
-s=jake
+s=jake;e:jake=
 
 “There’s a species of woman here who’s waked the whole street up. What kind of a dirty business at this time of night! She says she must see you. I’ve told her you’re asleep.”
 s=concierge1
@@ -1781,10 +1778,13 @@ She could not have known my address.
 
 
 “Will you send her up, please?”
-s=jake
+s=jake;e:jake=thinking
 
-Brett came up the stairs. I saw she was quite drunk.
-s=;c=brett;e:brett=smirking
+Brett came up the stairs.
+s=
+
+I saw she was quite drunk.
+s=;c=brett;e:brett=smirking;v=100,120
 
 “Silly thing to do,” she said.
 s=brett;e:brett=smirking
@@ -1796,7 +1796,7 @@ s=brett;e:brett=smirking
 s=jake
 
 “Don’t know. What time is it?”
-s=brett;e:brett=confused
+s=brett;e:brett=contemplative
 
 I looked at the clock. It was half-past four.
 s=;c=;b=flat-dining-int
@@ -1805,7 +1805,7 @@ s=;c=;b=flat-dining-int
 s=brett
 
 “I say, can a chap sit down? Don’t be cross, darling. Just left the count. He brought me here.”
-e:brett=wary
+e:brett=
 
 “What’s he like?”
 s=jake
@@ -1829,7 +1829,7 @@ She sipped at her glass.
 s=none
 
 “Think he called it a chain. Something like that. Linked them all up. Told me a little about it. Damned interesting. He’s one of us, though. Oh, quite. No doubt. One can always tell.”
-s=brett
+s=brett;e:brett=smirking
 
 She took another drink.
 s=none
@@ -1847,9 +1847,9 @@ s=brett
 s=jake
 
 “Oh, everywhere. He just brought me here now. Offered me ten thousand dollars to go to Biarritz with him. How much is that in pounds?”
-s=brett
+s=brett;e:brett=happy
 
-“Around two thousand.”<e>I didn't realize it used to be a 5:1 exchange ratio. How the Brits have fallen.</e>
+“Around two thousand.”<e>Five-to-one exchange ratio. How the Brits have fallen.</e>
 s=jake
 
 “Lot of money. I told him I couldn’t do it. He was awfully nice about it. Told him I knew too many people in Biarritz.”
@@ -1859,7 +1859,7 @@ Brett laughed.
 s=none;e:brett=happy
 
 “I say, you are slow on the uptake,” she said.
-s=brett
+s=brett;e:brett=smirking
 
 I had only sipped my brandy and soda. I took a long drink.
 s=
@@ -1880,13 +1880,13 @@ s=brett;e:brett=serious
 e:brett=smirking
 
 “Why not?”
-s=jake
+s=jake;e:jake=thinking
 
 “I’d better go now.”
 s=brett
 
 “Why?”
-s=jake
+s=jake;e:jake=serious
 
 “Just wanted to see you. Damned silly idea. Want to get dressed and come down? He’s got the car just up the street.”
 s=brett
@@ -1904,7 +1904,7 @@ s=jake;e:jake=weary
 s=brett;e:brett=smirking
 
 “Can’t do it.”
-s=jake;e:jake=
+s=jake;e:jake=thinking
 
 “Right. Send him a tender message?”
 s=brett
@@ -1916,7 +1916,7 @@ s=jake
 s=brett
 
 “Don’t be sentimental.”
-s=jake
+s=jake;e:jake=serious
 
 “You make me ill.”
 s=brett;e:brett=unhappy
