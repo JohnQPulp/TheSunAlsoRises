@@ -2333,13 +2333,13 @@ We talked about one thing and another, and I left him to come to the office.
 r=title
 
 At five o’clock I was in the Hotel Crillon waiting for Brett. She was not there, so I sat down and wrote some letters. They were not very good letters but I hoped their being on Crillon stationery would help them.
-b=light
+b=paris-wide
 
 Brett did not turn up, so about quarter to six I went down to the bar and had a Jack Rose with George the barman. Brett had not been in the bar either, and so I looked for her upstairs on my way out, and took a taxi to the Café Select.
 
 
 Crossing the Seine I saw a string of barges being towed empty down the current, riding high, the bargemen at the sweeps as they came toward the bridge.
-b=taxi-abstract
+b=paris-river-wide
 
 The river looked nice. It was always pleasant crossing bridges in Paris.
 
@@ -2362,11 +2362,11 @@ It is a street I do not mind walking down at all. But I cannot stand to ride alo
 Perhaps I had read something about it once. That was the way Robert Cohn was about all of Paris.
 e:jake=thinking
 
-I wondered where Cohn got that incapacity to enjoy Paris. Possibly from Mencken. Mencken hates Paris, I believe. So many young men get their likes and dislikes from Mencken.<e>If it makes you feel better, Standard Ebooks doesn't carry any of Mencken's works as of my writing this. For better of worse, you've won the test of time, Hemingway.</e>
-
+I wondered where Cohn got that incapacity to enjoy Paris. Possibly from Mencken. Mencken hates Paris, I believe. So many young men get their likes and dislikes from Mencken.<e>Standard Ebooks doesn't carry any of Mencken's works. Hemingway won.</e>
+t=author
 
 The taxi stopped in front of the Rotonde. No matter what café in Montparnasse you ask a taxi-driver to bring you to from the right bank of the river, they always take you to the Rotonde. Ten years from now it will probably be the Dome. It was near enough, anyway.
-b=light
+b=paris-river-wide;t=
 
 I walked past the sad tables of the Rotonde to the Select.
 b=cafe-select-uncrowded-ext
@@ -2378,7 +2378,7 @@ He had a pile of saucers in front of him, and he needed a shave.
 e:harvey=weary
 
 “Sit down,” said Harvey, “I’ve been looking for you.”
-s=harvey
+s=harvey;z:harvey=85
 
 “What’s the matter?”
 s=jake
@@ -2387,7 +2387,7 @@ s=jake
 s=harvey;e:harvey=neutral
 
 “Been out to the races?”
-s=jake
+s=jake;e:jake=
 
 “No. Not since Sunday.”
 s=harvey
@@ -2399,7 +2399,7 @@ s=jake
 s=harvey
 
 “What’s the matter?”
-s=jake
+s=jake;e:jake=contemplative
 
 “I don’t know. I’m through with them. I’m absolutely through with them.”
 s=harvey;e:harvey=unhappy
@@ -2462,7 +2462,7 @@ s=jake
 s=harvey
 
 “What’s he like?”
-s=jake
+s=jake;e:jake=contemplative
 
 “He’s all right. He says some pretty funny things. Last time I had dinner with him we talked about Hoffenheimer.”
 s=harvey;e:harvey=neutral
@@ -2483,10 +2483,10 @@ s=jake
 s=harvey;e:harvey=smirking
 
 “Well,” I said. “That was a good thing, too.”
-s=jake
+s=jake;e:jake=thinking
 
 “Sure,” said Harvey.
-s=harvey
+s=harvey;
 
 So we sat and thought deeply for a while.
 s=none
@@ -2495,12 +2495,12 @@ s=none
 s=jake
 
 “All right,” said Harvey.
-s=harvey
+s=harvey;e:harvey=
 
 “There comes Cohn,” I said.
 s=jake
 
-Robert Cohn was crossing the street.<e>How do you assholes constantly run into each other?</e>
+Robert Cohn was crossing the street.
 s=none
 
 “That moron,” said Harvey.
@@ -2609,7 +2609,7 @@ He was nice to watch on the tennis-court, he had a good body, and he kept it in 
 
 
 If he were in a crowd nothing he said stood out. He wore what used to be called polo shirts at school, and may be called that still, but he was not professionally youthful.
-c=cohn;e:cohn=
+c=cohn;e:cohn=;v=100,125
 
 I do not believe he thought about his clothes much. Externally he had been formed at Princeton. Internally he had been moulded by the two women who had trained him.
 
@@ -2629,11 +2629,11 @@ c=
 People beat him who had never had a chance with him. He was very nice about it.
 
 
-Anyhow, we were sitting on the terrace of the Café Select, and Harvey Stone had just crossed the street.<e>What the f&#9472;&#9472;&#9472; was that?</e>
-b=cafe-select-uncrowded-ext
+Anyhow, we were sitting on the terrace of the Café Select, and Harvey Stone had just crossed the street.<e>"Anyhow"</e>
+b=cafe-select-uncrowded-ext;t=author
 
 “Come on up to the Lilas,” I said.
-s=jake
+s=jake;t=
 
 “I have a date.”
 s=cohn;e:cohn=neutral
@@ -2645,7 +2645,7 @@ s=jake
 s=cohn
 
 “There she is.”
-s=jake
+s=jake;e:jake=contemplative
 
 Frances Clyne was coming toward us from across the street.
 s=none
@@ -2675,7 +2675,7 @@ s=
 s=frances
 
 “I wasn’t supposed to.”
-s=cohn
+s=cohn;e:cohn=wary
 
 “Oh, I know. But you didn’t say anything about it to the cook.”
 s=frances
@@ -2723,16 +2723,16 @@ A boy came up with the *Paris Times*, and I bought one and opened it.
 
 
 “What’s the matter, Frances?”
-s=jake;e:jake=wary
+s=jake;e:jake=annoyed
 
 “Oh, nothing,” she said, “except that he wants to leave me.”
-s=frances;e:frances=unhappy
+s=frances;e:frances=happy
 
 “How do you mean?”
-s=jake;e:jake=confused
+s=jake;e:jake=contemplative
 
 “Oh, he told everyone that we were going to be married, and I told my mother and everyone, and now he doesn’t want to do it.”
-s=frances;e:frances=unhappy
+s=frances
 
 “What’s the matter?”
 s=jake
@@ -2744,16 +2744,16 @@ She looked up, very bright-eyed and trying to talk inconsequentially.
 s=none;e:frances=excited
 
 “I wouldn’t marry him if he doesn’t want to. Of course I wouldn’t. I wouldn’t marry him now for anything.”
-
+s=frances;e:frances=happy
 
 “But it does seem to me to be a little late now, after we’ve waited three years, and I’ve just gotten my divorce.”
-
+e:frances=happy
 
 I said nothing.
 s=none;e:jake=neutral
 
 “We were going to celebrate so, and instead we’ve just had scenes. It’s so childish.”
-s=frances;e:frances=upset
+s=frances;e:frances=happy
 
 “We have dreadful scenes, and he cries and begs me to be reasonable, but he says he just can’t do it.”
 
@@ -2777,13 +2777,13 @@ She looked at me very brightly.
 s=none;e:frances=happy
 
 “I never liked children much, but I don’t want to think I’ll never have them. I always thought I’d have them and then like them.”
-s=frances
+s=frances;e:frances=excited
 
 “He’s got children.”
 s=jake
 
 “Oh, yes. He’s got children, and he’s got money, and he’s got a rich mother, and he’s written a book, and nobody will publish my stuff; nobody at all.”
-s=frances;e:frances=unhappy
+s=frances
 
 “It isn’t bad, either. And I haven’t got any money at all. I could have had alimony, but I got the divorce the quickest way.”
 
@@ -2798,19 +2798,19 @@ s=frances
 
 
 “I’d be a good wife. I’m easy to get along with. I leave him alone. It doesn’t do any good.”
-
+e:frances=excited
 
 “It’s a rotten shame.”
-s=jake
+s=jake;e:jake=annoyed
 
 “Yes, it is a rotten shame. But there’s no use talking about it, is there? Come on, let’s go back to the café.”
-s=frances;e:frances=neutral
+s=frances
 
 “And of course there isn’t anything I can do.”
 s=jake
 
 “No. Just don’t let him know I talked to you. I know what he wants.”
-s=frances;e:frances=serious
+s=frances;e:frances=happy
 
 Now for the first time she dropped her bright, terribly cheerful manner.
 s=none
@@ -2852,7 +2852,7 @@ s=cohn;e:cohn=confused
 s=frances;e:frances=happy
 
 “Isn’t that fine!”
-s=jake
+s=jake;e:jake=smirking
 
 “Yes, that’s the way it’s done in the very best families. Robert’s sending me. He’s going to give me two hundred pounds and then I’m going to visit friends.”
 s=frances
@@ -2894,7 +2894,7 @@ s=frances;e:frances=happy
 
 
 “Won’t it be fun, Robert? Don’t you think it will be fun, Jake?”
-
+e:frances=excited
 
 She turned to me with that terribly bright smile. It was very satisfactory to her to have an audience for this.
 s=none
@@ -2912,16 +2912,16 @@ s=cohn;e:cohn=angry
 s=frances
 
 “So I made him get rid of her, and he had brought her to Provincetown from Carmel when he moved the magazine, and he didn’t even pay her fare back to the coast.”
-
+e:frances=smirking
 
 “All to please me. He thought I was pretty fine, then. Didn’t you, Robert?”
-
+e:frances=excited
 
 “You mustn’t misunderstand, Jake, it was absolutely platonic with the secretary. Not even platonic. Nothing at all, really. It was just that she was so nice.”
-
+e:frances=smirking
 
 “And he did that just to please me. Well, I suppose that we that live by the sword shall perish by the sword.”
-
+e:frances=happy
 
 “Isn’t that literary, though? You want to remember that for your next book, Robert.”
 
@@ -2935,8 +2935,8 @@ s=frances
 “So now he’s going out and get some new material. Well, I hope he gets something frightfully interesting.”
 
 
-“Listen, Robert, dear. Let me tell you something. You won’t mind, will you?”<e><span class='uppercase'>AHHHHH why won't she shut up.</span> (I'm on Cohn's side here.)</e>
-
+“Listen, Robert, dear. Let me tell you something. You won’t mind, will you?”<e>Hemingway you magnificent bastard. She just keeps going!</e>
+e:frances=excited
 
 “Don’t have scenes with your young ladies. Try not to. Because you can’t have scenes without crying, and then you pity yourself so much you can’t remember what the other person’s said.”
 
@@ -2945,13 +2945,13 @@ s=frances
 
 
 “But remember, it’s for literature. We all ought to make sacrifices for literature. Look at me.”
-
+e:frances=happy
 
 “I’m going to England without a protest. All for literature. We must all help young writers.”
-
+e:frances=smirking
 
 “Don’t you think so, Jake? But you’re not a young writer. Are you, Robert? You’re thirty-four.”
-
+e:frances=happy
 
 “Still, I suppose that is young for a great writer. Look at Hardy. Look at Anatole France.”
 
@@ -2990,10 +2990,10 @@ s=frances
 
 
 “Why, you see, Robert’s always wanted to have a mistress, and if he doesn’t marry me, why, then he’s had one.”
-
+e:frances=smirking
 
 “She was his mistress for over two years. See how it is?”
-
+e:frances=happy
 
 “And if he marries me, like he’s always promised he would, that would be the end of all the romance.”
 
@@ -3004,14 +3004,14 @@ s=frances
 “Look at him and see if it’s not. Where are you going, Jake?”
 
 
-“I’ve got to go in and see Harvey Stone a minute.”<e>It's finally over. That was like a workout. But credit where credit's due: Hemingway did have me emotionally engaged there I guess, even if the emotion was frustration.</e>
-s=jake
+“I’ve got to go in and see Harvey Stone a minute.”
+s=jake;e:jake=annoyed
 
-Cohn looked up as I went in. His face was white. Why did he sit there? Why did he keep on taking it like that?
-s=none;e:cohn=unhappy;b=light
+Cohn looked up as I went in. His face was white. Why did he sit there? Why did he keep on taking it like that?<e>Incredible bit.</e>
+s=none;e:cohn=unhappy;b=light;t=author
 
 As I stood against the bar looking out I could see them through the window.
-
+t=
 
 Frances was talking on to him, smiling brightly, looking into his face each time she asked: “Isn’t it so, Robert?”
 e:frances=happy
@@ -3022,11 +3022,14 @@ Or maybe she did not ask that now. Perhaps she said something else.
 I told the barman I did not want anything to drink and went out through the side door.
 
 
-As I went out the door I looked back through the two thicknesses of glass and saw them sitting there. She was still talking to him.<e>The poor guy lmao.</e>
+As I went out the door I looked back through the two thicknesses of glass and saw them sitting there.
 
+
+She was still talking to him.<e>lmao</e>
+t=author
 
 I went down a side street to the Boulevard Raspail.
-
+t=
 
 A taxi came along and I got in and gave the driver the address of my flat.
 
@@ -3071,7 +3074,7 @@ s=concierge1;e:concierge1=serious;c=concierge1
 e:concierge1=happy
 
 “They did not leave any word?”
-s=jake
+s=jake;e:jake=contemplative
 
 “Yes. They said they would be back in an hour.”
 s=concierge1
@@ -3110,7 +3113,7 @@ I put on a bathrobe and slippers and went to the door.
 e:brett=happy;x:jake=bathrobe;b=flat-stairs
 
 It was Brett. Back of her was the count. He was holding a great bunch of roses.
-e:count=happy;x:count=roses;c=count,brett
+e:count=happy;x:count=roses;c=count,brett;v=60,100;e:jake=
 
 “Hello, darling,” said Brett. “Aren’t you going to let us in?”
 s=brett
@@ -3122,7 +3125,7 @@ s=jake;c=;b=flat-dining-int
 s=brett
 
 “Only a shower. Sit down, Count Mippipopolous. What will you drink?”
-s=jake;e:jake=happy;x:count=
+s=jake;e:jake=;x:count=
 
 “I don’t know whether you like flowers, sir,” the count said, “but I took the liberty of just bringing these roses.”
 s=count;e:count=neutral
@@ -3169,7 +3172,7 @@ s=brett;e:brett=neutral
 “I thought we ought to give her a little something for last night. It was very late.”
 s=count;e:count=happy
 
-“He’s wonderful,” Brett said. “He remembers everything that’s happened.”<e>Everything that's happened? <i>Nothing</i> ever happens in Hemingway novels.</e>
+“He’s wonderful,” Brett said. “He remembers everything that’s happened.”
 s=brett
 
 “So do you, my dear.”
@@ -3179,7 +3182,7 @@ s=count
 s=brett
 
 “You get it while I go in and dress. You know where it is.”
-s=jake
+s=jake;e:jake=
 
 “Rather.”
 s=brett;e:brett=happy
@@ -3233,25 +3236,25 @@ I heard them talking but I did not listen. Brett came in and sat on the bed.
 
 
 “Poor old darling.”
-s=brett;e:brett=neutral
+s=brett;e:brett=unhappy
 
 She stroked my head.
 s=none
 
 “What did you say to him?”
-s=jake
+s=jake;e:jake=contemplative
 
 I was lying with my face away from her. I did not want to see her.
 s=none
 
 “Sent him for champagne. He loves to go for champagne.”
-s=brett
+s=brett;e:brett=
 
 Then later:
 s=
 
 “Do you feel better, darling? Is the head any better?”
-s=brett
+s=brett;e:brett=thinking
 
 “It’s better.”
 s=jake
@@ -3260,13 +3263,13 @@ s=jake
 s=brett
 
 “Couldn’t we live together, Brett? Couldn’t we just live together?”
-s=jake
+s=jake;e:jake=thinking
 
-“I don’t think so. I’d just *tromper* you with everybody. You couldn’t stand it.”<e>Wow what a bitch.</e>
+“I don’t think so. I’d just *tromper* you with everybody. You couldn’t stand it.”
 s=brett;e:brett=unhappy
 
-“I stand it now.”<e>Wow what a cuck. (I said it in <i>Cup of Gold</i>, and I'll say it again here: everyone involved in this story should die.)</e>
-s=jake
+“I stand it now.”
+s=jake;e:jake=serious
 
 “That would be different. It’s my fault, Jake. It’s the way I’m made.”
 s=brett
@@ -3275,18 +3278,18 @@ s=brett
 s=jake
 
 “It wouldn’t be any good. I’ll go if you like. But I couldn’t live quietly in the country. Not with my own true love.”
-s=brett
+s=brett;e:brett=thinking
 
 “I know.”
-s=jake
+s=jake;e:jake=contemplative
 
 “Isn’t it rotten? There isn’t any use my telling you I love you.”
-s=brett
+s=brett;e:brett=unhappy
 
 “You know I love you.”
-s=jake
+s=jake;e:jake=serious
 
-“Let’s not talk. Talking’s all bilge.”<e>"Why risk saying what you mean when you could be vague and annoying instead?" —Hemingway</e>
+“Let’s not talk. Talking’s all bilge.”
 s=brett
 
 “I’m going away from you, and then Michael’s coming back.”
@@ -3299,7 +3302,7 @@ s=jake;e:jake=confused
 s=brett
 
 “When are you going?”
-s=jake
+s=jake;e:jake=unhappy
 
 “Soon as I can.”
 s=brett
@@ -3311,7 +3314,7 @@ s=jake
 s=brett
 
 “Can’t we go together?”
-s=jake;e:jake=unhappy
+s=jake;e:jake=contemplative
 
 “No. That would be a hell of an idea after we’d just talked it out.”
 s=brett;e:brett=serious
@@ -3344,7 +3347,7 @@ s=jake;e:jake=surprised
 s=brett
 
 “Let’s have a drink, then. The count will be back.”
-s=jake;e:jake=neutral
+s=jake;e:jake=thinking
 
 “Yes. He should be back. You know he’s extraordinary about buying champagne. It means any amount to him.”
 s=brett;e:brett=neutral
@@ -3415,11 +3418,11 @@ s=jake;e:jake=
 The count was looking at Brett across the table under the gaslight.
 s=none;e:count=contemplative
 
-She was smoking a cigarette and flicking the ashes on the rug. She saw me notice it.
-
+She was smoking a cigarette and flicking the ashes on the rug. She saw me notice it.<e>Hemingway making this character just the most total bitch lol.</e>
+t=author
 
 “I say, Jake, I don’t want to ruin your rugs. Can’t you give a chap an ashtray?”
-s=brett;e:brett=neutral
+s=brett;e:brett=neutral;t=
 
 I found some ashtrays and spread them around.
 s=none
@@ -3520,7 +3523,7 @@ s=brett
 “See,” said the count. “You don’t joke him.”
 s=count
 
-“This is a hell of a dull talk,” Brett said. “How about some of that champagne?”<e>These two sentences are the whole book.</e>
+“This is a hell of a dull talk,” Brett said. “How about some of that champagne?”
 s=brett;e:brett=
 
 The count reached down and twirled the bottles in the shiny bucket.
@@ -3581,7 +3584,7 @@ Brett’s glass was empty.
 s=none
 
 “You ought to write a book on wines, count,” I said.
-s=jake
+s=jake;e:jake=contemplative
 
 “Mr. Barnes,” answered the count, “all I want out of wines is to enjoy them.”
 s=count;e:count=happy
@@ -3625,7 +3628,7 @@ s=count
 “Of course you have, my dear,” Brett said. “I was only ragging.”
 s=brett;e:brett=happy
 
-“I have been in seven wars and four revolutions,” the count said.<e>Including the one with Karolides? (Ho ho! I'm on a roll with these <i>39 Steps</i> references. That book was stupid, but at least it was fun.)</e>
+“I have been in seven wars and four revolutions,” the count said.<e>Including the one with Karolides. (Ho ho! <i>Thirty-Nine Steps</i> reference.)</e>
 s=count
 
 “Soldiering?” Brett asked.
@@ -3728,7 +3731,7 @@ We drank three bottles of the champagne and the count left the basket in my kitc
 s=none;b=light
 
 We dined at a restaurant in the Bois. It was a good dinner.
-b=bois-int
+b=bois-empty-int
 
 Food had an excellent place in the count’s values. So did wine.
 
@@ -3761,7 +3764,7 @@ s=none
 s=count
 
 “We want to lead our own lives,” I said.
-s=jake;e:jake=
+s=jake;e:jake=thinking
 
 “We have our careers,” Brett said. “Come on. Let’s get out of this.”
 s=brett
@@ -3820,11 +3823,11 @@ b=zelli-int
 Brett and I danced. It was so crowded we could barely move.
 
 
-The nigger drummer waved at Brett.<e>Hey hey hey that's <i>Twain's</i> word — not yours.</e>
-n:drummer=Drummer
+The nigger drummer waved at Brett.
+n:drummer=Drummer;t=author
 
 We were caught in the jam, dancing in one place in front of him.
-
+t=
 
 “Hahre you?”
 s=drummer;e:drummer=happy
@@ -3857,22 +3860,22 @@ Brett started toward the table. The music started and again we danced, tight in 
 s=none
 
 “You are a rotten dancer, Jake. Michael’s the best dancer I know.”
-s=brett
+s=brett;e:brett=smirking
 
 “He’s splendid.”
-s=jake;e:jake=neutral
+s=jake;e:jake=neutral;e:jake=contemplative
 
 “He’s got his points.”
 s=brett
 
 “I like him,” I said. “I’m damned fond of him.”
-s=jake
+s=jake;e:jake=thinking
 
 “I’m going to marry him,” Brett said. “Funny. I haven’t thought about him for a week.”
 s=brett;e:brett=contemplative
 
 “Don’t you write him?”
-s=jake
+s=jake;e:jake=
 
 “Not I. Never write letters.”
 s=brett
@@ -3881,10 +3884,10 @@ s=brett
 s=jake
 
 “Rather. Damned good letters, too.”
-s=brett
+s=brett;e:brett=smirking
 
 “When are you going to get married?”
-s=jake
+s=jake;e:jake=contemplative
 
 “How do I know? As soon as we can get the divorce. Michael’s trying to get his mother to put up for it.”
 s=brett;e:brett=
@@ -3929,10 +3932,10 @@ s=brett;e:brett=
 s=count
 
 “Jake’s rather the same way.”
-s=brett
+s=brett;e:brett=contemplative
 
 “He gives me the willys.”
-s=jake;e:jake=unhappy
+s=jake;e:jake=annoyed
 
 “Well,” the count shrugged his shoulders.
 s=count
@@ -3949,17 +3952,17 @@ s=none;b=zelli-int
 “Oh, darling,” Brett said, “I’m so miserable.”
 s=brett;e:brett=upset
 
-I had that feeling of going through something that has all happened before.<e>Ahh now he's lampshading his own… ooh, I'm annoyed.</e>
-s=none;e:jake=weary
+I had that feeling of going through something that has all happened before.<e>Lampshading his own writing. This guy.</e>
+s=none;e:jake=weary;t=author
 
 “You were happy a minute ago.”
-s=jake
+s=jake;t=
 
 The drummer shouted:
 s=
 
 “You can’t two time—”
-s=drummer
+s=drummer;z:drummer=100,49,3
 
 “It’s all gone.”
 s=brett
@@ -3971,10 +3974,10 @@ s=jake
 s=brett
 
 “… …” the drummer chanted.
-s=drummer;e:drummer=
+e:drummer=;t=author;s=
 
 Then turned to his sticks.
-s=
+s=;t=
 
 “Want to go?”
 s=jake;e:jake=unhappy
@@ -3983,16 +3986,16 @@ I had the feeling as in a nightmare of it all being something repeated, somethin
 s=none;e:jake=unhappy
 
 “… …” the drummer sang softly.
-s=drummer
+t=author
 
 “Let’s go,” said Brett. “You don’t mind.”
-s=brett
+s=brett;t=
 
-“… …” the drummer shouted and grinned at Brett.<e>If you're not sure what Hemingway meant by these ellipses quotes, just imagine the most racist thing you can.</e>
-s=drummer;e:drummer=happy
+“… …” the drummer shouted and grinned at Brett.<e>This ellipsis dialogue.</e>
+e:drummer=happy;t=author;s=
 
 “All right,” I said.
-s=jake
+s=jake;t=
 
 We got out from the crowd. Brett went to the dressing-room.
 s=none;b=zelli-table-int
