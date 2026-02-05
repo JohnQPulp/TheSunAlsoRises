@@ -1,8 +1,14 @@
 ### *The Sun Also Rises: The Visual Novel*
 
-This repository will contain the metadata and images for the visual novel transformation (pulpification) of Ernest Hemingway's book *The Sun Also Rises*.
+This repository contains the metadata and images for the visual novel transformation (pulpification) of Ernest Hemingway's book *The Sun Also Rises*.
 
-This VN is a work-in-progress.
+You can read it in a few ways:
+
+* Online at https://publicdomainpulp.com/vn/TheSunAlsoRises
+* Locally at http://localhost:1929/vn/TheSunAlsoRises running https://github.com/JohnQPulp/PublicDomainPulp (ASP.NET/C#) from source
+* Locally via static html file using the tool https://github.com/JohnQPulp/Pulpifier (C#) from source
+
+![Preview](images/preview.webp)
 
 ### License Information
 
