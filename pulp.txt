@@ -14159,7 +14159,7 @@ r=title
 r=title
 
 In the morning it was all over. The fiesta was finished.
-b=light
+b=pamplona-wide
 
 I woke about nine o’clock, had a bath, dressed, and went downstairs.
 e:jake=weary
@@ -14210,7 +14210,7 @@ s=jake
 s=bill;e:bill=neutral
 
 “What’s Mike going to do?”
-s=jake
+s=jake;e:jake=thinking
 
 “He’s going to Saint Jean de Luz.”
 s=bill
@@ -14222,7 +14222,7 @@ s=jake
 s=bill;e:bill=happy
 
 “All right. I’ll get the car.”
-s=jake
+s=jake;e:jake=
 
 We had lunch and paid the bill.
 s=none
@@ -14402,7 +14402,7 @@ s=mike
 s=bill
 
 We drove out along the coast road.
-s=none;b=taxi-abstract
+s=none;b=coast-road-wide
 
 There was the green of the headlands, the white, red-roofed villas, patches of forest, and the ocean very blue with the tide out and the water curling far out along the beach.
 b=coast-road-wide
@@ -14465,22 +14465,22 @@ I went as far as the inner gate to the tracks.
 b=bayonne-station
 
 “So long, fella,” Bill said.
-s=bill;e:bill=happy;c=bill
+s=bill;e:bill=happy;c=
 
 “So long, kid!”
-s=jake
+s=jake;e:jake=smirking
 
 “It was swell. I’ve had a swell time.”
 s=bill
 
 “Will you be in Paris?”
-s=jake
+s=jake;e:jake=
 
 “No, I have to sail on the 17th. So long, fella!”
 s=bill
 
 “So long, old kid!”
-s=jake
+s=jake;e:jake=thinking
 
 He went in through the gate to the train. The porter went ahead with the bags.
 s=none;c=
@@ -14489,16 +14489,16 @@ I watched the train pull out. Bill was at one of the windows.
 
 
 The window passed, the rest of the train passed, and the tracks were empty. I went outside to the car.
-e:jake=weary;b=light
+e:jake=weary;b=bayonne-wide
 
 “How much do we owe you?” I asked the driver.
-s=jake
+s=jake;e:jake=contemplative
 
 The price to Bayonne had been fixed at a hundred and fifty pesetas.
 s=none
 
 “Two hundred pesetas.”
-n:driver=Driver;s=driver;e:driver=neutral
+n:driver=Driver;s=driver;e:driver=neutral;z:driver=95
 
 “How much more will it be if you drive me to San Sebastian on your way back?”
 s=jake
@@ -14513,7 +14513,7 @@ s=jake;e:jake=scowling
 s=driver
 
 “It’s not worth it,” I said. “Drive me to the Hotel Panier Fleuri.”
-s=jake
+s=jake;e:jake=contemplative
 
 At the hotel I paid the driver and gave him a tip. The car was powdered with dust.
 s=none;e:jake=neutral;b=bayonne-wide
@@ -14546,7 +14546,7 @@ There was a fine beach there. There were wonderful trees along the promenade abo
 
 
 In the evening there would be band concerts under the trees across from the Café Marinas. I could sit in the Marinas and listen.
-b=cafe-marinas
+b=light
 
 “How does one eat inside?” I asked the waiter.
 s=jake
@@ -14561,7 +14561,7 @@ s=waiter2;e:waiter2=happy
 s=jake
 
 I went in and ate dinner.
-s=none
+s=none;b=cafe-marinas
 
 It was a big meal for France but it seemed very carefully apportioned after Spain.
 
@@ -14666,7 +14666,7 @@ Then I went in and had lunch.
 
 
 After lunch I went up to my room, read a while, and went to sleep.
-b=dream
+
 
 When I woke it was half past four. I found my swimming-suit, wrapped it with a comb in a towel, and went downstairs and walked up the street to the Concha.
 x:jake=swimsiut
@@ -14708,19 +14708,19 @@ I lay on the beach until I was dry, then went into the bathing-cabin, took off m
 
 
 I walked around the harbor under the trees to the casino, and then up one of the cool streets to the Café Marinas.
-b=light
+b=san-sebastian-wide
 
 There was an orchestra playing inside the café and I sat out on the terrace and enjoyed the fresh coolness in the hot day, and had a glass of lemon-juice and shaved ice and then a long whiskey and soda.
-b=cafe-marinas
+
 
 I sat in front of the Marinas for a long time and read and watched the people, and listened to the music.
 
 
 Later when it began to get dark, I walked around the harbor and out along the promenade, and finally back to the hotel for supper.
-b=light
+f:b:san-sebastian-wide=brightness(85%)
 
 There was a bicycle-race on, the Tour du Pays Basque, and the riders were stopping that night in San Sebastian. In the dining-room, at one side, there was a long table of bicycle-riders, eating with their trainers and managers.
-b=san-sebastian-hotel-dining;x:jake=
+b=san-sebastian-hotel-dining;x:jake=;f:b:san-sebastian-hotel-dining=brightness(85%)
 
 They were all French and Belgians, and paid close attention to their meal, but they were having a good time.
 
@@ -14762,7 +14762,7 @@ The Spaniards, they said, did not know how to pedal.
 
 
 I had coffee out on the terrasse with the team manager of one of the big bicycle manufacturers.
-b=san-sebastian-hotel-terrasse
+b=san-sebastian-hotel-terrasse;f:b:san-sebastian-hotel-terrasse=brightness(85%)
 
 He said it had been a very pleasant race, and would have been worth watching if Bottechia had not abandoned it at Pamplona. The dust had been bad, but in Spain the roads were better than in France.
 
@@ -14804,10 +14804,10 @@ It was very interesting. I would leave a call at the desk. He would not mind cal
 
 
 We said goodbye until the next morning.
-b=light
+
 
 In the morning when I awoke the bicycle-riders and their following cars had been on the road for three hours.
-
+r=san-sebastian-wide
 
 I had coffee and the papers in bed and then dressed and took my bathing-suit down to the beach.
 x:jake=simsuit
@@ -14839,17 +14839,14 @@ I swam back to the surf and coasted in, face down, on a big roller, then turned 
 It made me tired, swimming in the trough, and I turned and swam out to the raft.
 e:jake=weary
 
-The water was buoyant and cold. It felt as though you could never sink.<e>Now seems a good time to quote the book's Hemingway Library Edition:</e>
+The water was buoyant and cold. It felt as though you could never sink.<e>"It is very difficult for a poor swimmer in the cold water of an arctic sea to take even a partial measure of that large portion of the literary iceberg that lies beneath the surface in a masterpiece of world literature such as <i>The Sun Also Rises</i>!" —The opening sentence of the Hemingway Library Edition's foreword, lmao. (Not exactly living up to your father's prose there, Patrick.)</e>
 
 
-<e>"It is very difficult for a poor swimmer in the cold water of an arctic sea to take even a partial measure of that large portion of the literary iceberg that lies beneath the surface in a masterpiece of world literature such as <i>The Sun Also Rises</i>!"</e>
-
-
-<e>That's the very first sentence from the foreword — that's really what they led with lmao.</e>
-
+<e>But I guess only one man really deserves the Hemingway name.</e>
+t=author
 
 I swam slowly, it seemed like a long swim with the high tide, and then pulled up on the raft and sat, dripping, on the boards that were becoming hot in the sun.
-
+t=
 
 I looked around at the bay, the old town, the casino, the line of trees along the promenade, and the big hotels with their white porches and gold-lettered names.
 
@@ -14870,7 +14867,7 @@ After a while I stood up, gripped with my toes on the edge of the raft as it tip
 
 
 After I was dressed and had paid for the bath-cabin, I walked back to the hotel.
-e:jake=neutral;b=light;x:jake=
+e:jake=neutral;b=san-sebastian-reading-room;x:jake=
 
 The bicycle-racers had left several copies of *L’Auto* around, and I gathered them up in the reading-room and took them out and sat in an easy chair in the sun to read about and catch up on French sporting life.
 b=san-sebastian-reading-room
@@ -14879,7 +14876,7 @@ While I was sitting there the concierge came out with a blue envelope in his han
 n:concierge2=Concierge
 
 “A telegram for you, sir.”
-s=concierge2;e:concierge2=neutral
+s=concierge2;e:concierge2=neutral;z:concierge2=92
 
 I poked my finger along under the fold that was fastened down, spread it open, and read it.
 s=none
@@ -14939,7 +14936,7 @@ I suppose, vaguely, I had expected something of the sort. I saw the concierge st
 e:jake=weary
 
 “Bring me a telegram form, please.”
-s=jake
+s=jake;e:jake=thinking
 
 He brought it and I took out my fountain-pen and printed:
 s=none
@@ -14950,7 +14947,7 @@ s=none
 That seemed to handle it. That was it.
 e:jake=scowling
 
-Send a girl off with one man. Introduce her to another to go off with him. Now go and bring her back. And sign the wire with love.<e>Yeah what a cuck. But we already knew that.</e>
+Send a girl off with one man. Introduce her to another to go off with him. Now go and bring her back. And sign the wire with love.<e>Remember: Hemingway's not a cuck. He's just a good-enough writer that he can see into the mind of one.</e>
 
 
 That was it all right. I went in to lunch.
@@ -15008,10 +15005,10 @@ n:landlady2=Woman;e:landlady2=serious
 s=jake;e:jake=neutral
 
 “*Muy buenos.* Yes, there is a female English. Certainly you can see her if she wishes to see you.”
-s=landlady2
+s=landlady2;z:landlady2=80
 
 “She wishes to see me.”
-s=jake
+s=jake;e:jake=contemplative
 
 “The chica will ask her.”
 s=landlady2
@@ -15023,7 +15020,7 @@ s=jake
 s=landlady2
 
 “And how cold in winter.”
-s=jake
+s=jake;e:jake=thinking
 
 “Yes, it is very cold in winter.”
 s=landlady2
@@ -15053,7 +15050,7 @@ s=jake
 s=landlady2
 
 I followed the maid’s back down a long, dark corridor. At the end she knocked on a door.
-s=none;b=light
+s=none
 
 “Hello,” said Brett. “Is it you, Jake?”
 s=brett;e:brett=wary
@@ -15065,7 +15062,7 @@ s=jake
 s=brett
 
 I opened the door. The maid closed it after me. Brett was in bed.
-s=none;b=light;b=montana-room
+s=none;b=montana-room
 
 She had just been brushing her hair and held the brush in her hand.
 
@@ -15089,7 +15086,7 @@ She was trembling in my arms. She felt very small.
 s=brett
 
 “Tell me about it.”
-s=jake;e:jake=serious
+s=jake;e:jake=contemplative
 
 “Nothing to tell. He only left yesterday. I made him go.”
 s=brett
@@ -15101,7 +15098,7 @@ s=jake
 s=brett;e:brett=contemplative
 
 “You were probably damn good for him.”
-s=jake
+s=jake;e:jake=thinking
 
 “He shouldn’t be living with anyone. I realized that right away.”
 s=brett
@@ -15113,7 +15110,7 @@ s=jake
 s=brett;e:brett=serious
 
 “All right.”
-s=jake
+s=jake;e:jake=serious
 
 “It was rather a knock his being ashamed of me. He was ashamed of me for a while, you know.”
 s=brett;e:brett=unhappy
@@ -15125,7 +15122,7 @@ s=jake;e:jake=serious
 s=brett;e:brett=neutral
 
 “It’s funny.”
-s=jake;e:jake=neutral
+s=jake;e:jake=contemplative
 
 “He said it would make me more womanly. I’d look a fright.”
 s=brett
@@ -15164,19 +15161,19 @@ s=jake
 s=brett
 
 “Really?”
-s=jake;e:jake=surprised
+s=jake;e:jake=contemplative
 
 “Of course. I can’t even marry Mike.”
 s=brett
 
 “Maybe he thought that would make him Lord Ashley.”
-s=jake;e:jake=
+s=jake
 
 “No. It wasn’t that. He really wanted to marry me. So I couldn’t go away from him, he said. He wanted to make it sure I could never go away from him. After I’d gotten more womanly, of course.”
 s=brett
 
 “You ought to feel set up.”
-s=jake;e:jake=neutral
+s=jake;e:jake=thinking
 
 “I do. I’m all right again. He’s wiped out that damned Cohn.”
 s=brett;e:brett=happy
@@ -15199,10 +15196,10 @@ s=none;e:brett=serious
 “I’m thirty-four, you know. I’m not going to be one of these bitches that ruins children.”
 s=brett
 
-“No.”<e>At this point in the book's original draft, Hemingway had the line “‘In Paris you can’t tell if whether a boy’s with his wife or his mother.’” And that would've been funny — I could have made a <i>Murmur of the Heart</i> joke. Why did he remove it!</e>
+“No.”<e>At this point in the book's original draft, Hemingway had the line “‘In Paris you can’t tell if whether a boy’s with his wife or his mother.’” Should've kept it in!</e>
 s=jake;e:jake=serious
 
-<e>There were also two chapters at the beginning of the book that he deleted. Which was mostly an improvement, because it made the book shorter, but we did also lose the line: “‘Good God,’ said Alec, who thereafter took no further part in the conversation, and does not again appear in the story.” Shame.</e>
+<e>Also in the two chapters cut from the beginning of the book, we lost the line: “‘Good God,’ said Alec, who thereafter took no further part in the conversation, and does not again appear in the story.” Shame.</e>
 s=
 
 “I’m not going to be that way. I feel rather good, you know. I feel rather set up.”
@@ -15260,13 +15257,13 @@ We sat on high stools at the bar while the barman shook the martinis in a large 
 b=next-bar-int
 
 “It’s funny what a wonderful gentility you get in the bar of a big hotel,” I said.
-s=jake;e:jake=
+s=jake;e:jake=thinking
 
 “Barmen and jockeys are the only people who are polite any more.”
 s=brett;e:brett=
 
 “No matter how vulgar a hotel is, the bar is always nice.”
-s=jake;e:brett=
+s=jake;e:brett=;e:jake=contemplative
 
 “It’s odd.”
 s=brett
@@ -15284,7 +15281,7 @@ Outside the curtained window was the summer heat of Madrid.
 
 
 “I like an olive in a martini,” I said to the barman.
-n:barman=Barman;s=jake
+n:barman=Barman;s=jake;e:jake=
 
 “Right you are, sir. There you are.”
 s=barman;e:barman=happy
@@ -15338,7 +15335,7 @@ s=barman;e:barman=
 s=brett;e:brett=happy
 
 “Bung-o!”
-s=jake;e:jake=happy
+s=jake;e:jake=thinking
 
 “You know,” Brett said, “he’d only been with two women before. He never cared about anything but bullfighting.”
 s=brett;e:brett=contemplative
@@ -15446,13 +15443,13 @@ s=jake
 s=brett
 
 “Yes,” I said. “So I did. Let’s have another bottle of rioja alta.”
-s=jake
+s=jake;e:jake=thinking
 
 “It’s very good.”
 s=brett
 
 “You haven’t drunk much of it,” I said.
-s=jake
+s=jake;e:jake=
 
 “I have. You haven’t seen.”
 s=brett
@@ -15479,28 +15476,25 @@ Brett put her hand on my arm.
 s=brett;e:brett=wary
 
 “How do you know?”
-s=jake
+s=jake;e:jake=contemplative
 
 “Don’t,” she said. “You’ll be all right.”
 s=brett
 
 “I’m not getting drunk,” I said.
-s=jake;e:jake=neutral
+s=jake;
 
 “I’m just drinking a little wine. I like to drink wine.”
-
+e:jake=thinking
 
 “Don’t get drunk,” she said. “Jake, don’t get drunk.”
 s=brett;e:brett=serious
 
 “Want to go for a ride?” I said. “Want to ride through the town?”
-s=jake
+s=jake;e:jake=
 
-“Right,” Brett said.
+“Right,” Brett said. “I haven’t seen Madrid. I should see Madrid.”
 s=brett;e:brett=happy
-
-“I haven’t seen Madrid. I should see Madrid.”
-
 
 “I’ll finish this,” I said.
 s=jake
@@ -15520,7 +15514,7 @@ I put my arm around her and she rested against me comfortably.
 It was very hot and bright, and the houses looked sharply white. We turned out onto the Gran Via.
 
 
-“Oh, Jake,” Brett said, “we could have had such a damned good time together.”<e>Brett, shut the f&#9472;&#9472;&#9472; up. You would've gotten bored and cheated on him in two weeks.</e>
+“Oh, Jake,” Brett said, “we could have had such a damned good time together.”
 s=brett;e:brett=unhappy
 
 Ahead was a mounted policeman in khaki directing traffic. He raised his baton.
@@ -15529,5 +15523,5 @@ s=none
 The car slowed suddenly pressing Brett against me.
 
 
-“Yes,” I said. “Isn’t it pretty to think so?”<e>No, it really isn't. (The End.)</e>
-s=jake;e:jake=contemplative
+“Yes,” I said. “Isn’t it pretty to think so?”<e>Take that, Duff, you bitch. (The End.)</e>
+s=jake;e:jake=thinking
