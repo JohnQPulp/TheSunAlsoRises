@@ -11615,37 +11615,37 @@ Outside the Bar Milano I found Bill and Mike and Edna. Edna was the girl’s nam
 n:edna=Edna;b=milano-ext-night
 
 “We’ve been thrown out,” Edna said.
-s=edna;e:edna=weary;c=,edna
+s=edna;e:edna=weary;v=100,90;z:edna=92
 
 “By the police,” said Mike. “There’s some people in there that don’t like me.”
-s=mike;e:mike=smirking;c=mike,
+s=mike;e:mike=smirking
 
 “I’ve kept them out of four fights,” Edna said. “You’ve got to help me.”
-s=edna;e:edna=wary;c=,edna
+s=edna;e:edna=wary
 
 Bill’s face was red.
-s=none;e:bill=angry;c=bill,
+s=none;e:bill=angry;c=,bill;v=100,110
 
 “Come back in, Edna,” he said. “Go on in there and dance with Mike.”
 s=bill
 
 “It’s silly,” Edna said.
-s=edna;e:edna=unhappy;c=,edna
+s=edna;e:edna=unhappy
 
 “There’ll just be another row.”
 
 
 “Damned Biarritz swine,” Bill said.
-s=bill;c=bill,
+s=bill
 
 “Come on,” Mike said. “After all, it’s a pub. They can’t occupy a whole pub.”
-s=mike;e:mike=scowling;c=bill,mike
+s=mike;e:mike=scowling;c=mike,bill
 
 “Good old Mike,” Bill said.
-s=bill;e:bill=scowling
+s=bill;e:bill=
 
 “Damned English swine come here and insult Mike and try and spoil the fiesta.”
-
+e:bill=scowling
 
 “They’re so bloody,” Mike said.
 s=mike;e:mike=scowling
@@ -11653,11 +11653,8 @@ s=mike;e:mike=scowling
 “I hate the English.”
 e:mike=angry
 
-“They can’t insult Mike,” Bill said.
-s=bill
-
-“Mike is a swell fellow. They can’t insult Mike. I won’t stand it. Who cares if he is a damn bankrupt?”
-
+“They can’t insult Mike,” Bill said. “Mike is a swell fellow. They can’t insult Mike. I won’t stand it. Who cares if he is a damn bankrupt?”
+s=bill;e:bill=scowling
 
 His voice broke.
 s=none
@@ -11678,10 +11675,10 @@ Bill put his arm around Mike’s shoulder.
 s=none;e:bill=happy;c=
 
 “I wish to hell I was a bankrupt. I’d show those bastards.”
-s=bill
+s=bill;c=,bill
 
 “They’re just English,” Mike said. “It never makes any difference what the English say.”
-s=mike;e:mike=smirking
+s=mike;e:mike=smirking;c=mike,bill
 
 “The dirty swine,” Bill said.
 s=bill;e:bill=angry
@@ -11690,46 +11687,46 @@ s=bill;e:bill=angry
 
 
 “Bill,” Edna looked at me. “Please don’t go in again, Bill. They’re so stupid.”
-s=edna;e:edna=wary;c=edna,
+s=edna;e:edna=wary
 
 “That’s it,” said Mike. “They’re stupid. I knew that was what it was.”
-s=mike;e:mike=happy
+s=mike;e:mike=happy;c=mike,bill
 
 “They can’t say things like that about Mike,” Bill said.
 s=bill
 
 “Do you know them?” I asked Mike.
-s=jake;c=,mike
+s=jake
 
 “No. I never saw them. They say they know me.”
 s=mike;e:mike=neutral
 
 “I won’t stand it,” Bill said.
-s=bill;e:bill=angry;c=bill,
+s=bill;e:bill=angry
 
 “Come on. Let’s go over to the Suizo,” I said.
 s=jake
 
 “They’re a bunch of Edna’s friends from Biarritz,” Bill said.
-s=bill
+s=bill;e:bill=scowling
 
 “They’re simply stupid,” Edna said.
-s=edna;e:edna=scowling;c=,edna
+s=edna;e:edna=scowling
 
 “One of them’s Charley Blackman, from Chicago,” Bill said.
-s=bill;c=bill,
+s=bill
 
 “I was never in Chicago,” Mike said.
-s=mike;e:mike=thinking;c=bill,mike
+s=mike;e:mike=thinking
 
 Edna started to laugh and could not stop.
-s=none;e:edna=happy;c=edna
+s=none;e:edna=happy;c=
 
 “Take me away from here,” she said, “you bankrupts.”
 s=edna
 
 “What kind of a row was it?” I asked Edna.
-s=jake
+s=jake;e:jake=contemplative
 
 We were walking across the square to the Suizo. Bill was gone.
 s=none;c=;b=pamplona-wide;f:b:pamplona-wide=brightness(85%)
@@ -11762,7 +11759,7 @@ e:cohn=serious;b=suizo-int
 s=cohn
 
 “I don’t know.”
-s=jake;e:jake=
+s=jake;e:jake=contemplative
 
 “She was with you.”
 s=cohn;e:cohn=suspicious
@@ -11774,7 +11771,7 @@ s=jake
 s=cohn;e:cohn=angry
 
 “I don’t know where she is.”
-s=jake
+s=jake;e:jake=annoyed
 
 His face was sallow under the light. He was standing up.
 s=none
@@ -11812,11 +11809,8 @@ e:mike=smirking
 “You shut up.”
 s=cohn;e:cohn=angry
 
-“Oh, go to hell!”
-s=mike
-
-Mike said languidly.
-s=none
+“Oh, go to hell!” Mike said languidly.
+s=mike;e:mike=weary
 
 “Is that where she is?” Cohn turned to me.
 s=cohn
@@ -11840,13 +11834,13 @@ As I started to get on my feet he hit me twice. I went down backward under a tab
 
 
 I tried to get up and felt I did not have any legs.
-e:jake=confused;b=light
+e:jake=confused;b=think
 
 I felt I must get on my feet and try and hit him. Mike helped me up.
 e:jake=angry
 
 Someone poured a carafe of water on my head. Mike had an arm around me, and I found I was sitting on a chair.
-e:jake=weary;b=suizo-int
+e:jake=weary;b=suizo-int;f:b:suizo-int=blur(15px)
 
 Mike was pulling at my ears.
 
@@ -11885,25 +11879,25 @@ The waiters moved the people away.
 s=none
 
 “It was quite a thing to watch,” Edna said. “He must be a boxer.”
-s=edna;e:edna=happy
+s=edna;e:edna=happy;f:b:suizo-int=blur(12px)
 
 “He is.”
-s=jake
+s=jake;f:b:suizo-int=blur(10px)
 
 “I wish Bill had been here,” Edna said.
-s=edna
+s=edna;f:b:suizo-int=blur(9px)
 
 “I’d like to have seen Bill knocked down, too. I’ve always wanted to see Bill knocked down. He’s so big.”
-e:edna=excited
+e:edna=excited;f:b:suizo-int=blur(7px)
 
 “I was hoping he would knock down a waiter,” Mike said, “and get arrested. I’d like to see Mr. Robert Cohn in jail.”
-s=mike;e:mike=scowling
+s=mike;e:mike=scowling;f:b:suizo-int=blur(6px)
 
 “No,” I said.
-s=jake
+s=jake;f:b:suizo-int=blur(4px)
 
 “Oh, no,” said Edna. “You don’t mean that.”
-s=edna;e:edna=unhappy
+s=edna;e:edna=unhappy;f:b:suizo-int=blur(3px)
 
 “I do, though,” Mike said.
 s=mike;e:mike=serious
@@ -11918,7 +11912,7 @@ s=none
 s=mike;e:mike=neutral
 
 “All right.”
-s=jake;e:jake=
+s=jake;e:jake=contemplative
 
 “You’re nice,” Edna said to Mike. “Are you really a bankrupt?”
 s=edna;e:edna=happy
@@ -11939,7 +11933,7 @@ s=mike
 
 
 “The hell you did,” I said.
-s=jake;e:jake=surprised
+s=jake;e:jake=contemplative
 
 “I’ll pay it back,” Mike said.
 s=mike
@@ -11972,13 +11966,13 @@ s=mike;e:mike=serious
 s=jake
 
 I walked away from the café. They were sitting at the table.
-s=none;b=light
+s=none
 
 I looked back at them and at the empty tables. There was a waiter sitting at one of the tables with his head in his hands.
 
 
 Walking across the square to the hotel everything looked new and changed. I had never seen the trees before. I had never seen the flagpoles before, nor the front of the theatre. It was all different.
-e:jake=confused;b=think
+e:jake=confused;b=pamplona-wide;f:b:pamplona-wide=brightness(85%) blur(3px)
 
 I felt as I felt once coming home from an out-of-town football game. I was carrying a suitcase with my football things in it, and I walked up the street from the station in the town I had lived in all my life and it was all new.
 
@@ -11993,16 +11987,16 @@ I had been kicked in the head early in the game. It was like that crossing the s
 
 
 It was like that going up the stairs in the hotel.
-b=montoya-stairs
+b=montoya-stairs;f:b:montoya-stairs=blur(3px)
 
 Going up the stairs took a long time, and I had the feeling that I was carrying my suitcase.
 
 
 There was a light in the room. Bill came out and met me in the hall.
-b=montoya-hall
+b=montoya-hall;f:b:montoya-hall=blur(3px)
 
 “Say,” he said, “go up and see Cohn. He’s been in a jam, and he’s asking for you.”
-s=bill;e:bill=serious;c=bill
+s=bill;e:bill=serious;c=
 
 “The hell with him.”
 s=jake;e:jake=scowling
@@ -12047,7 +12041,7 @@ s=jake;e:jake=serious
 s=cohn
 
 I opened the door and went in, and set down my suitcase.
-s=none;b=montoya-room-flipped;f:b:montoya-room-flipped=brightness(85%)
+s=none;b=montoya-room-flipped;f:b:montoya-room-flipped=brightness(85%) blur(3px)
 
 There was no light in the room. Cohn was lying, face down, on the bed in the dark.
 e:cohn=upset
@@ -12109,11 +12103,8 @@ s=cohn;e:cohn=upset
 “That’s all right.”
 s=jake;e:jake=serious
 
-He was crying. His voice was funny. He lay there in his white shirt on the bed in the dark.
+He was crying. His voice was funny. He lay there in his white shirt on the bed in the dark. His polo shirt.
 s=none
-
-His polo shirt.
-
 
 “I’m going away in the morning.”
 s=cohn
@@ -12200,10 +12191,10 @@ s=jake
 
 
 I could not find the bathroom. After a while I found it.<e>Literature.</e>
-s=none
+s=none;t=author
 
 There was a deep stone tub. I turned on the taps and the water would not run.
-e:jake=weary;b=light
+e:jake=weary;b=think;t=
 
 I sat down on the edge of the bathtub. When I got up to go I found I had taken off my shoes.
 
@@ -12215,7 +12206,7 @@ I found my room and went inside and undressed and got into bed.
 
 
 —
-b=dream
+r=dream
 
 I woke with a headache and the noise of the bands going by in the street.
 b=montoya-room;f:b:montoya-room=
@@ -12224,7 +12215,7 @@ I remembered I had promised to take Bill’s friend Edna to see the bulls go thr
 
 
 I dressed and went downstairs and out into the cold early morning.
-b=light
+b=pamplona-wide
 
 People were crossing the square, hurrying toward the bullring. Across the square were the two lines of men in front of the ticket-booths.
 
@@ -12239,7 +12230,7 @@ n:waiter2=Waiter;b=pamplona-square-festive-cafe
 s=jake
 
 “Two gentlemen and a lady.”
-s=waiter2;e:waiter2=neutral
+s=waiter2;e:waiter2=neutral;z:waiter2=97
 
 That was all right. Bill and Mike were with Edna.
 s=none;e:jake=neutral
@@ -12250,7 +12241,7 @@ She had been afraid last night they would pass out.
 That was why I was to be sure to take her.
 
 
-I drank the coffee and hurried with the other people toward the bullring. I was not groggy now.<e>Please please please everyone get gored by bulls and die and the book end.</e>
+I drank the coffee and hurried with the other people toward the bullring. I was not groggy now.
 b=bullring-fence-crowd
 
 There was only a bad headache. Everything looked sharp and clear, and the town smelt of the early morning.
@@ -12317,7 +12308,7 @@ Then the rocket went up that meant the steers had gotten the bulls out of the ri
 e:jake=neutral
 
 I left the fence and started back toward the town.
-b=light
+b=pamplona-wide
 
 Back in the town I went to the café to have a second coffee and some buttered toast.
 b=pamplona-square-festive-cafe
@@ -12329,7 +12320,7 @@ The waiters were sweeping out the café and mopping off the tables. One came ove
 s=waiter2;e:waiter2=neutral
 
 “I didn’t see it all. One man was badly *cogido*.”
-s=jake
+s=jake;e:jake=thinking
 
 “Where?”
 s=waiter2
@@ -12368,13 +12359,13 @@ s=none
 s=waiter2;e:waiter2=scowling
 
 “I don’t know.”
-s=jake;e:jake=neutral
+s=jake;e:jake=serious
 
 “That’s it. All for fun. Fun, you understand.”
 s=waiter2
 
 “You’re not an aficionado?”
-s=jake
+s=jake;e:jake=contemplative
 
 “Me? What are bulls? Animals. Brute animals.”
 s=waiter2;e:waiter2=angry
@@ -12431,7 +12422,7 @@ The train started with a jerk, and then ran smoothly, going down grade around th
 
 
 The bull who killed Vicente Girones was named Bocanegra, was Number 118 of the bull-breeding establishment of Sanchez Tabemo, and was killed by Pedro Romero as the third bull of that same afternoon.
-b=light
+
 
 His ear was cut by popular acclamation and given to Pedro Romero, who, in turn, gave it to Brett, who wrapped it in a handkerchief belonging to myself, and left both ear and handkerchief, along with a number of Muratti cigarette-stubs, shoved far back in the drawer of the bed-table that stood beside her bed in the Hotel Montoya, in Pamplona.
 
@@ -12535,7 +12526,7 @@ s=mike
 “Oh, go to hell,” Bill said.
 s=bill;e:bill=
 
-“You’ve been in the war. It was two hours and a half for me.”<e>Remember: Hemingway was in the war for one month and is therefore better than you.</e>
+“You’ve been in the war. It was two hours and a half for me.”
 e:bill=scowling
 
 “Where’s that beer?” Mike asked.
@@ -12569,7 +12560,7 @@ s=bill
 s=mike;e:mike=neutral
 
 “Sore,” I said.
-s=jake
+s=jake;e:jake=contemplative
 
 Bill laughed.
 s=none;e:bill=happy
@@ -12596,7 +12587,7 @@ s=none
 s=mike
 
 “Where did Cohn go after he hit me?” I asked Bill.
-s=jake
+s=jake;e:jake=thinking
 
 “Don’t you know about that?” Mike was opening a beer-bottle.
 s=mike
@@ -12611,7 +12602,7 @@ s=bill;e:bill=
 s=mike;e:mike=happy
 
 “No.”
-s=jake;e:jake=surprised
+s=jake;e:jake=serious
 
 “Yes.”
 s=mike
@@ -12641,12 +12632,12 @@ s=bill;e:bill=serious
 s=mike;e:mike=happy
 
 “I know. He shook hands with me.”
-s=jake;e:jake=neutral
+s=jake;e:jake=contemplative
 
 “Did he? Well, they weren’t having any of it. The bullfighter fellow was rather good. He didn’t say much, but he kept getting up and getting knocked down again.”
 s=mike;e:mike=
 
-“Cohn couldn’t knock him out. It must have been damned funny.”<e>Why did the fun stuff happen off-screen!</e>
+“Cohn couldn’t knock him out. It must have been damned funny.”
 e:mike=smirking
 
 “Where did you hear all this?”
@@ -12752,7 +12743,7 @@ s=mike;e:mike=neutral
 
 
 “Please,” I said. “I wasn’t drinking it, anyway.”
-s=jake
+s=jake;e:jake=contemplative
 
 Mike started to open the bottle.
 s=
@@ -12818,7 +12809,7 @@ He rang the bell and the chambermaid came and knocked at the door.
 s=mike
 
 “Si, Señorito.”
-n:chambermaid=Chambermaid;s=chambermaid
+n:chambermaid=Chambermaid;s=chambermaid;z:chambermaid=88
 
 “I’m going to bed,” Bill said. “Poor old Mike. I had a hell of a row about him last night.”
 s=bill;e:bill=weary
@@ -12833,7 +12824,7 @@ s=bill
 e:bill=scowling
 
 “I know the story.”
-s=jake
+s=jake;e:jake=thinking
 
 “I didn’t.”
 s=bill
@@ -12857,13 +12848,13 @@ s=bill;e:bill=neutral
 s=jake
 
 “Was there?” said Bill.
-s=bill;e:bill=surprised
+s=bill;e:bill=
 
-### XVIII
-r=title
+### XVIII<e>Done with that chapter lmao.</e>
+r=title;t=author
 
 At noon we were all at the café.
-b=pamplona-cafe-int
+b=pamplona-cafe-int;t=
 
 It was crowded. We were eating shrimps and drinking beer.
 
