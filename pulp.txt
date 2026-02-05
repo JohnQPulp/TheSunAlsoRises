@@ -12889,11 +12889,11 @@ s=brett;e:brett=happy
 “Get another big beer,” Bill said to the waiter.
 s=bill;e:bill=neutral
 
-“Shrimps?”<e>I have no idea who's saying this line or what it means.</e>
-s=
+“Shrimps?”<e>Damn you, Hemingway, you didn't label this line and I don't know who's saying it!</e>
+s=;t=author
 
 “Is Cohn gone?” Brett asked.
-s=brett;e:brett=neutral
+s=brett;e:brett=neutral;t=
 
 “Yes,” Bill said. “He hired a car.”
 s=bill
@@ -12923,13 +12923,13 @@ e:mike=neutral
 s=brett;e:brett=unhappy
 
 “No. Knocked me out. That was all.”
-s=jake
+s=jake;e:jake=annoyed
 
 “I say, he did hurt Pedro Romero,” Brett said. “He hurt him most badly.”
 s=brett;e:brett=unhappy
 
 “How is he?”
-s=jake
+s=jake;e:jake=contemplative
 
 “He’ll be all right. He won’t go out of the room.”
 s=brett
@@ -12941,7 +12941,7 @@ s=jake
 s=brett;e:brett=unhappy
 
 “Is he going to fight?”
-s=jake
+s=jake;e:jake=thinking
 
 “Rather. I’m going with you, if you don’t mind.”
 s=brett;e:brett=serious
@@ -12970,7 +12970,7 @@ s=mike
 “Damned well,” Brett said. “Watch him this afternoon.”
 s=brett
 
-“Brett’s got a bullfighter,” Mike said. “A beautiful, bloody bullfighter.”
+“Brett’s got a bullfighter,” Mike said. “A beautiful, bloody bullfighter.”<e>BBBC</e>
 s=mike
 
 “Would you mind walking over with me? I want to talk to you, Jake.”
@@ -13025,13 +13025,13 @@ s=brett
 e:brett=thinking
 
 We walked along past the theatre and out of the square and along through the barracks of the fair, moving with the crowd between the lines of booths.
-s=none;b=light
+s=none
 
 We came out on a cross-street that led to the Paseo de Sarasate. We could see the crowd walking there, all the fashionably dressed people. They were making the turn at the upper end of the park.
 b=chapel-ext
 
 “Don’t let’s go there,” Brett said. “I don’t want staring at just now.”
-s=brett;e:brett=wary;c=brett
+s=brett;e:brett=wary;v=100,125
 
 We stood in the sunlight.
 s=none
@@ -13046,13 +13046,13 @@ s=brett;e:brett=thinking;c=brett
 s=jake
 
 “He says the bulls are all right.”
-s=brett
+s=brett;e:brett=contemplative
 
 “They’re good.”
-s=jake
+s=jake;e:jake=contemplative;e:brett=
 
 “Is that San Fermin’s?”
-s=brett
+s=brett;e:brett=
 
 Brett looked at the yellow wall of the chapel.
 s=none;c=
@@ -13082,13 +13082,13 @@ The praying had not been much of a success.
 
 
 “Don’t know why I get so nervy in church,” Brett said.
-s=brett;e:brett=thinking
+s=brett;e:brett=thinking;c=brett
 
 “Never does me any good.”
 
 
 We walked along.
-s=none;b=pamplona-wide
+s=none;b=pamplona-wide;c=
 
 “I’m damned bad for a religious atmosphere,” Brett said.
 s=brett
@@ -13109,13 +13109,13 @@ s=jake
 s=brett;e:brett=thinking
 
 “It’s liable to go down by five o’clock.”
-s=jake
+s=jake;e:jake=thinking
 
 “Let’s hope.”
 s=brett
 
 “You might pray,” I laughed.
-s=jake;e:jake=happy
+s=jake;e:jake=smirking
 
 “Never does me any good.”
 s=brett;e:brett=neutral
@@ -13124,7 +13124,7 @@ s=brett;e:brett=neutral
 
 
 “Oh, yes.”
-s=jake
+s=jake;e:jake=contemplative
 
 “Oh, rot,” said Brett. “Maybe it works for some people, though. You don’t look very religious, Jake.”
 s=brett;e:brett=smirking
@@ -13277,13 +13277,13 @@ e:bill=angry
 
 
 “He was snotty to us, too.”
-s=jake
+s=jake;e:jake=contemplative
 
 “Let’s go out and eat in the town.”
 s=bill
 
 We went down the stairs. On the stairs we passed a girl coming up with a covered tray.
-s=none;b=light
+s=none;b=montoya-stairs
 
 “There goes Brett’s lunch,” Bill said.
 s=bill;e:bill=neutral
@@ -13301,7 +13301,7 @@ s=waiter3
 s=bill;e:bill=angry
 
 We went on out across the street.
-s=none;b=light
+s=none;b=pamplona-wide
 
 We ate at a restaurant in a side street off the square. They were all men eating in the restaurant. It was full of smoke and drinking and singing. The food was good and so was the wine. We did not talk much.
 
@@ -13313,7 +13313,7 @@ Brett came over soon after lunch. She said she had looked in the room and that M
 e:brett=neutral
 
 When the fiesta boiled over and toward the bullring we went with the crowd.
-b=light
+b=ringside
 
 Brett sat at the ringside between Bill and me.<e><a href="https://www.youtube.com/watch?v=gWy1utqHD0s">Brett and Romero ringside.</a></e>
 b=ringside
@@ -13340,7 +13340,7 @@ e:brett=serious
 s=brett
 
 “I don’t know.”
-s=jake
+s=jake;e:jake=
 
 “I wonder if they ever launder them.”
 s=brett;e:brett=thinking
@@ -13370,7 +13370,7 @@ e:brett=serious
 s=brett
 
 I looked through the glasses and saw the three matadors.
-s=none;x:romero=black;b=light;n:belmonte=Belmonte;n:marcial=Marcial
+s=none;x:romero=black;b=light;n:belmonte=Belmonte;n:marcial=Marcial;v=125,100;z:belmonte=104
 
 Romero was in the centre, Belmonte on his left, Marcial on his right.
 e:romero=serious;c=belmonte,romero,marcial
@@ -13447,7 +13447,7 @@ The sword-handler looked back, shook his head, and said something.
 A man beside me leaned over toward Brett.
 
 
-“He doesn’t want you to spread it,” he said.<e>Sure he doesn't.</e>
+“He doesn’t want you to spread it,” he said.<e>He does, actually.</e>
 n:basque=Man;s=basque
 
 “You should fold it and keep it in your lap.”
@@ -13505,7 +13505,7 @@ People went to the corrida to see Belmonte, to be given tragic sensations, and p
 
 
 Fifteen years ago they said if you wanted to see Belmonte you should go quickly, while he was still alive. Since then he has killed more than a thousand bulls.
-b=light
+
 
 When he retired the legend grew up about how his bullfighting had been, and when he came out of retirement the public were disappointed because no real man could work as close to the bulls as Belmonte was supposed to have done, not, of course, even Belmonte.
 
@@ -13514,7 +13514,7 @@ Also Belmonte imposed conditions and insisted that his bulls should not be too l
 
 
 He had meant to have a great afternoon, and instead it was an afternoon of sneers, shouted insults, and finally a volley of cushions and pieces of bread and vegetables, thrown down at him in the plaza where he had had his greatest triumphs.
-
+b=light
 
 His jaw only went further out.
 x:belmonte=longjaw,capeless;c=belmonte
@@ -13549,11 +13549,11 @@ The crowd felt it, even the people from Biarritz, even the American ambassador s
 It was a competition that Belmonte would not enter because it would lead only to a bad horn wound or death. Belmonte was no longer well enough. He no longer had his greatest moments in the bullring.
 b=think
 
-He was not sure that there were any great moments. Things were not the same and now life only came in flashes.<e>Belmonte, the character only introduced in this scene, who won't appear after this scene, gets his emotional backstory more fleshed out than any of our main characters.</e>
-
+He was not sure that there were any great moments. Things were not the same and now life only came in flashes.<e>Hemingway giving Belmonte, a character who only appears in this one scene, the most emotional backstory.</e>
+t=author
 
 He had flashes of the old greatness with his bulls, but they were not of value because he had discounted them in advance when he had picked the bulls out for their safety, getting out of a motor and leaning on a fence, looking over at the herd on the ranch of his friend the bull-breeder.
-
+t=
 
 So he had two small, manageable bulls without much horns, and when he felt the greatness again coming, just a little of it through the pain that was always with him, it had been discounted and sold in advance, and it did not give him a good feeling.
 
@@ -13691,7 +13691,7 @@ Out in the centre of the ring, all alone, Romero was going on with the same thin
 
 
 “He’s going to kill now,” I said to Brett. “The bull’s still strong. He wouldn’t wear himself out.”
-s=jake
+s=jake;e:jake=serious
 
 Out in the centre of the ring Romero profiled in front of the bull, drew the sword out from the folds of the muleta, rose on his toes, and sighted along the blade.
 s=none;e:romero=serious
@@ -13718,16 +13718,16 @@ His hand still up, he spoke to the bull.
 
 
 The bull gathered himself, then his head went forward and he went over slowly, then all over, suddenly, four feet in the air.
-b=light
+
 
 They handed the sword to Romero, and carrying it blade down, the muleta in his other hand, he walked over to in front of the President’s box, bowed, straightened, and came over to the barrera and handed over the sword and muleta.
 b=box-crowd
 
 “Bad one,” said the sword-handler.
-n:swordguy=Sword Guy;s=swordguy
+n:swordguy=Sword Guy;s=swordguy;z:swordguy=97
 
 “He made me sweat,” said Romero.
-s=romero;e:romero=weary;b=ringside
+s=romero;e:romero=weary
 
 He wiped off his face.
 s=
@@ -13736,7 +13736,7 @@ The sword-handler handed him the water-jug. Romero wiped his lips. It hurt him t
 s=none
 
 He did not look up at us.
-
+b=ringside
 
 Marcial had a big day.
 
@@ -13793,7 +13793,7 @@ Then without taking a step forward, he became one with the bull, the sword was i
 b=action
 
 The bull tried to go forward, his legs commenced to settle, he swung from side to side, hesitated, then went down on his knees, and Romero’s older brother leaned forward behind him and drove a short knife into the bull’s neck at the base of the horns.
-b=light
+
 
 The first time he missed. He drove the knife in again, and the bull went over, twitching and rigid.
 
@@ -13805,19 +13805,19 @@ Handkerchiefs were waving all over the bullring. The President looked down from 
 
 
 The brother cut the notched black ear from the dead bull and trotted over with it to Romero. The bull lay heavy and black on the sand, his tongue out.
-b=ringside
+
 
 Boys were running toward him from all parts of the arena, making a little circle around him. They were starting to dance around the bull.
 
 
 Romero took the ear from his brother and held it up toward the President.
-e:romero=happy;b=light
+e:romero=happy;b=box-crowd
 
 The President bowed and Romero, running to get ahead of the crowd, came toward us.
 
 
 He leaned up against the barrera and gave the ear to Brett.
-o=ear
+o=ear;b=ringside
 
 He nodded his head and smiled.
 o=
@@ -13862,7 +13862,7 @@ He looked around at us apologetically. The crowd, running, went out the gate wit
 e:romero=weary
 
 We all three went back to the hotel. Brett went upstairs.
-e:brett=neutral;b=light
+e:brett=neutral;b=montoya-down-dining
 
 Bill and I sat in the downstairs dining-room and ate some hard-boiled eggs and drank several bottles of beer.
 s=none;e:bill=weary;e:jake=weary;b=montoya-down-dining
@@ -13898,7 +13898,7 @@ The men with him were tough-looking and businesslike.
 s=bill
 
 It was the last day of the fiesta. Outside it was beginning to be cloudy again.
-s=none;b=light
+s=none;b=pamplona-square-festive-crowded-cafe
 
 The square was full of people and the fireworks experts were making up their set pieces for the night and covering them over with beech branches.
 b=pamplona-square-festive-crowded-cafe
@@ -13910,7 +13910,7 @@ The music and the dancing were going on. The giants and the dwarfs were passing.
 
 
 “Where’s Edna?” I asked Bill.
-s=jake
+s=jake;e:jake=contemplative
 
 “I don’t know.”
 s=bill
@@ -13943,7 +13943,7 @@ s=jake;e:jake=angry
 s=bill
 
 “Pick up with his old girl, probably.”
-s=jake;e:jake=neutral
+s=jake;e:jake=annoyed
 
 “Who was his old girl?”
 s=bill
@@ -13955,7 +13955,7 @@ We had another absinthe.
 s=none
 
 “When do you go back?” I asked.
-s=jake
+s=jake;e:jake=thinking
 
 “Tomorrow.”
 s=bill
@@ -13964,7 +13964,7 @@ After a little while Bill said:
 s=
 
 “Well, it was a swell fiesta.”
-s=bill
+s=bill;e:bill=happy
 
 “Yes,” I said; “something doing all the time.”
 s=jake
@@ -13991,7 +13991,7 @@ s=jake
 s=bill
 
 It was beginning to get dark.
-s=none
+s=none;f:b:pamplona-square-festive-crowded-cafe=brightness(95%)
 
 The fiesta was going on. I began to feel drunk but I did not feel any better.
 e:jake=confused
@@ -14000,7 +14000,7 @@ e:jake=confused
 s=bill
 
 “I feel like hell.”
-s=jake;e:jake=weary
+s=jake;e:jake=weary;f:b:pamplona-square-festive-crowded-cafe=brightness(95%) blur(1px)
 
 “Have another?”
 s=bill
@@ -14021,7 +14021,7 @@ Bill put in a lump of ice. I stirred the ice around with a spoon in the brownish
 s=bill
 
 “Fine.”
-s=jake;e:jake=serious
+s=jake;e:jake=serious;f:b:pamplona-square-festive-crowded-cafe=brightness(95%) blur(2px)
 
 “Don’t drink it fast that way. It will make you sick.”
 s=bill
@@ -14030,16 +14030,16 @@ I set down the glass.
 s=none
 
 I had not meant to drink it fast.
-f:b:pamplona-square-festive-crowded-cafe=blur(3px)
+
 
 “I feel tight.”
-s=jake
+s=jake;f:b:pamplona-square-festive-crowded-cafe=brightness(95%) blur(3px);e:jake=weary
 
 “You ought to.”
 s=bill
 
 “That’s what you wanted, wasn’t it?”
-s=jake
+s=jake;e:jake=serious
 
 “Sure. Get tight. Get over your damn depression.”
 s=bill
@@ -14051,16 +14051,19 @@ s=jake
 s=bill
 
 “I won’t sit down,” I said. “I’m going over to the hotel.”
-s=jake
+s=jake;e:jake=weary;f:b:pamplona-square-festive-crowded-cafe=brightness(95%) blur(4px)
 
 I was very drunk.
-s=none;b=light;f:b:light=blur(3px)
+s=none
 
-I was drunker than I ever remembered having been. At the hotel I went upstairs. Brett’s door was open.
+I was drunker than I ever remembered having been.
 
+
+At the hotel I went upstairs. Brett’s door was open.
+b=montoya-hall;f:b:montoya-hall=blur(5px)
 
 I put my head in the room. Mike was sitting on the bed. He waved a bottle.
-e:mike=weary;b=montoya-room;f:b:montoya-room=blur(3px)
+e:mike=weary;b=montoya-room;f:b:montoya-room=blur(5px)
 
 “Jake,” he said. “Come in, Jake.”
 s=mike
@@ -14102,16 +14105,16 @@ s=jake
 s=mike
 
 I went out the door and into my own room and lay on the bed.
-s=none;b=light
+s=none;b=light;f:b:light=blur(5px)
 
 The bed went sailing off and I sat up in bed and looked at the wall to make it stop.
-
+f:b:light=blur(10px)
 
 Outside in the square the fiesta was going on. It did not mean anything.
-
+b=montoya-room;f:b:montoya-room=blur(5px)
 
 Later Bill and Mike came in to get me to go down and eat with them. I pretended to be asleep.
-
+f:b:montoya-room=blur(3px)
 
 “He’s asleep. Better let him alone.”
 s=bill
@@ -14122,7 +14125,13 @@ s=mike
 They went out.
 s=none
 
-I got up and went to the balcony and looked out at the dancing in the square. The world was not wheeling any more. It was just very clear and bright, and inclined to blur at the edges.
+I got up and went to the balcony and looked out at the dancing in the square.
+f:b:montoya-room=blur(2px)
+
+The world was not wheeling any more.
+f:b:montoya-room=blur(1px)
+
+It was just very clear and bright, and inclined to blur at the edges.
 e:jake=neutral
 
 I washed, brushed my hair. I looked strange to myself in the glass, and went downstairs to the dining-room.
@@ -14135,7 +14144,7 @@ s=bill;e:bill=happy;b=montoya-down-dining
 s=mike;e:mike=smirking
 
 “I got hungry and woke up.”
-s=jake
+s=jake;e:jake=contemplative
 
 “Eat some soup,” Bill said.
 s=bill
