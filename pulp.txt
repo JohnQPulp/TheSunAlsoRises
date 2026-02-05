@@ -1363,7 +1363,7 @@ s=none
 “A friend of my brother’s came home that way from Mons. It seemed like a hell of a joke. Chaps never know anything, do they?”
 s=brett;e:brett=contemplative
 
-“No,” I said. “Nobody ever knows anything.”<e>Especially not you, stupid reader.</e>
+“No,” I said. “Nobody ever knows anything.”
 s=jake;e:jake=thinking
 
 I was pretty well through with the subject.
@@ -1708,19 +1708,19 @@ b=think
 I try and play it along and just not make trouble for people.
 
 
-Probably I never would have had any trouble if I hadn’t run into Brett when they shipped me to England. I suppose she only wanted what she couldn’t have.<e>Quick lore dump time.</e>
+Probably I never would have had any trouble if I hadn’t run into Brett when they shipped me to England. I suppose she only wanted what she couldn’t have.<e>Time for a quick Hemingway lore dump.</e>
 
 
-<e>This book's cast of main characters is based on Hemingway's real-life circle of friends. Brett in particular is based on this one lady who pined after him, Duff Twysden. And Jake is based on Hemingway himself, except castrated, so that Hemingway's overwhelming masculinity wouldn't derail the story. (He knew ignorant readers would accuse it of being unrealistic otherwise.)</e>
+<e>This book's cast of main characters is based on Hemingway's real-life circle of friends. Brett in particular is based on this one lady who pined after him, Duff Twysden. (You can see her name in place of Brett's in the book's first draft excerpts.) And Jake is a self-insert of Hemingway himself, except castrated, so as to prevent Hemingway's overwhelming masculinity from derailing the story.</e>
 t=author
 
-<e>Biased literary historians will try to tell you that the castration is a metaphor for unconsummated sexual frustration or some nonsense, but that's only because they're jealous of Hemingway hooking up with <s>two</s> three chicks at the same time. (Remember Hadley from the book's dedication? He was married to her during all this. And then there was another lady, Pauline, who isn't important.)</e>
+<e>Biased literary historian incels will try to tell you that the castration is a metaphor for unconsummated sexual frustration or some nonsense, but that's only because they're jealous of Hemingway hooking up with <s>two</s> three chicks at the same time. (Remember Hadley from the book's dedication? He was married to her during all this. And then there was another lady, Pauline, who isn't important.)</e>
 
 
-<e>Anyway, you'd think his friends and lovers would be happy having their lives codified in one of the great works of the western canon — following in the footsteps of giants like Mark Twain (remember Becky Thatcher from <book>Tom Sawyer</book>?) — but on, they were too stupid to appreciate the kind gesture.</e>
+<e>Anyway, you'd think his friends and lovers would be happy having their lives codified in one of the great works of the western canon — following in the footsteps of giants like Mark Twain (remember Becky Thatcher from <book>Tom Sawyer</book>?) — but no, they were too stupid to appreciate the kind gesture.</e>
 
 
-<e>So his wife pushed for a divorce while he was working on the book, but in Hemingway's infinite selflessness, he still let her have the royalties from the book's sales. And he didn't let any of the unfair animosity contaminate the book — not a single drop of misanthropy.</e>
+<e>So his wife pushed for a divorce while he was working on the book, but in Hemingway's infinite benevolence, he still let her have the royalties from the book's sales. And he didn't let any of the unfair animosity contaminate the book — not a single drop of misanthropy.</e>
 
 
 Well, people were that way. To hell with people.
@@ -3418,7 +3418,7 @@ s=jake;e:jake=
 The count was looking at Brett across the table under the gaslight.
 s=none;e:count=contemplative
 
-She was smoking a cigarette and flicking the ashes on the rug. She saw me notice it.<e>Hemingway making this character just the most total bitch lol.</e>
+She was smoking a cigarette and flicking the ashes on the rug. She saw me notice it.<e>Hemingway making this character just an absolute bitch.</e>
 t=author
 
 “I say, Jake, I don’t want to ruin your rugs. Can’t you give a chap an ashtray?”
@@ -3991,7 +3991,7 @@ t=author
 “Let’s go,” said Brett. “You don’t mind.”
 s=brett;t=
 
-“… …” the drummer shouted and grinned at Brett.<e>This ellipsis dialogue.</e>
+“… …” the drummer shouted and grinned at Brett.<e>Hemingway, you're going to get in trouble with this "dialogue".</e>
 e:drummer=happy;t=author;s=
 
 “All right,” I said.
@@ -4354,7 +4354,7 @@ s=jake
 “Splendid. Wish he wouldn’t keep going off like a cat, though. Makes me nervous.”<e>Like a cat. (I like Bill.)</e>
 s=bill;e:bill=wary
 
-<e>Also keep in mind that Hemingway spent his later years trying to breed a race of mutant supercats. True story.</e>
+<e>Apropos of cats, keep in mind that Hemingway spent his later years trying to breed a race of mutant supercats. (Alongside all the sex, and the surviving of plane crashes, and what have you.)</e>
 s=;t=author
 
 “What’ll we do tonight?”
@@ -4696,11 +4696,11 @@ s=mike;e:mike=happy
 Bill had gone into the bar. He was standing talking with Brett, who was sitting on a high stool, her legs crossed.
 s=none;e:brett=neutral
 
-She had no stockings on.<e>Giggity.</e>
-
+She had no stockings on.
+t=author
 
 “It’s good to see you, Jake,” Michael said.
-s=mike;e:mike=happy
+s=mike;e:mike=happy;t=
 
 “I’m a little tight you know. Amazing, isn’t it? Did you see my nose?”
 e:mike=surprised
@@ -5050,8 +5050,8 @@ s=jake;e:jake=neutral
 “I’ll write him and give him a chance to pull out of it.”
 s=brett;e:brett=thinking
 
-I did not see Brett again until the night of the 24th of June.<e>Hemingway doesn't state where the following conversation is meant to take place, because he's an ass, so let's assume the bar:</e>
-s=none;b=light;t=author
+I did not see Brett again until the night of the 24th of June.<e>The book doesn't say where this next conversation takes place. Let's just assume a bar.</e>
+s=none;b=next-bar-int
 
 “Did you hear from Cohn?”
 s=jake;e:jake=neutral;b=next-bar-int;t=
@@ -5060,7 +5060,7 @@ s=jake;e:jake=neutral;b=next-bar-int;t=
 s=brett;e:brett=neutral
 
 “My God!”
-s=jake;e:jake=surprised
+s=jake;e:jake=thinking
 
 “I thought it was rather odd myself.”
 s=brett
@@ -5764,7 +5764,7 @@ b=cathedral-int
 I knelt and started to pray and prayed for everybody I thought of, Brett and Mike and Bill and Robert Cohn and myself, and all the bullfighters, separately for the ones I liked, and lumping all the rest, then I prayed for myself again, and while I was praying for myself I found I was getting sleepy, so I prayed that the bullfights would be good, and that it would be a fine fiesta, and that we would get some fishing.
 e:jake=thinking
 
-I wondered if there was anything else I might pray for, and I thought I would like to have some money, so I prayed that I would make a lot of money, and then I started to think how I would make it, and thinking of making money reminded me of the count, and I started wondering about where he was, and regretting I hadn’t seen him since that night in Montmartre, and about something funny Brett told me about him, and as all the time I was kneeling with my forehead on the wood in front of me, and was thinking of myself as praying, I was a little ashamed, and regretted that I was such a rotten Catholic, but realized there was nothing I could do about it, at least for a while, and maybe never, but that anyway it was a grand religion, and I only wished I felt religious and maybe I would the next time; and then I was out in the hot sun on the steps of the cathedral, and the forefingers and the thumb of my right hand were still damp, and I felt them dry in the sun.<e>Not just the short sentence guy!</e>
+I wondered if there was anything else I might pray for, and I thought I would like to have some money, so I prayed that I would make a lot of money, and then I started to think how I would make it, and thinking of making money reminded me of the count, and I started wondering about where he was, and regretting I hadn’t seen him since that night in Montmartre, and about something funny Brett told me about him, and as all the time I was kneeling with my forehead on the wood in front of me, and was thinking of myself as praying, I was a little ashamed, and regretted that I was such a rotten Catholic, but realized there was nothing I could do about it, at least for a while, and maybe never, but that anyway it was a grand religion, and I only wished I felt religious and maybe I would the next time; and then I was out in the hot sun on the steps of the cathedral, and the forefingers and the thumb of my right hand were still damp, and I felt them dry in the sun.<e>You thought he was just the short sentence guy!</e>
 t=author
 
 The sunlight was hot and hard, and I crossed over beside some buildings, and walked back along side-streets to the hotel.
@@ -6199,7 +6199,7 @@ The Basque wagged a forefinger at him and handed the bottle back, slapping in th
 He shoved the wine-bag up.
 
 
-“*Arriba! Arriba!*” he said.<e>Is your first thought <i>Speedy Gonzales</i> or <i>The Three Amigos</i>?</e>
+“*Arriba! Arriba!*” he said.
 s=basque;e:basque=excited
 
 “Lift it up.”
@@ -6904,7 +6904,7 @@ s=bill;e:bill=wary
 “That’s the sort of thing that can’t be spoken of. That’s what you ought to work up into a mystery. Like Henry’s bicycle.”<e>You sneaky little meta-comedian, Hemingway.</e>
 s=bill
 
-<e>For the record though, according to Hemingway it's not actually that Jake's dick was blown off, but just that the accident made him unable to use it or something. But the book never makes that explicit. So you can iceberg headcanon your own interpretation.</e>
+<e>As a quick factoid though: according to Hemingway, it's not actually that Jake's dick was blown off, but just that the accident made him unable to use it or something. But the book never makes that explicit. So you can iceberg headcanon your own interpretation.</e>
 s=;t=
 
 He had been going splendidly, but he stopped.
@@ -7333,7 +7333,7 @@ s=none
 “Gentlemen,” he said, and unwrapped a drumstick from a piece of newspaper.
 s=bill;e:bill=serious
 
-“I reverse the order. For Bryan’s sake. As a tribute to the Great Commoner. First the chicken; then the egg.”<e>William Jennings Bryan reference. Based.</e>
+“I reverse the order. For Bryan’s sake. As a tribute to the Great Commoner. First the chicken; then the egg.”<e>Based William Jennings Bryan reference.</e>
 s=bill
 
 “Wonder what day God created the chicken?”
@@ -7405,7 +7405,7 @@ s=jake
 “It’s a lie,” Bill said. “I went to Loyola with Bishop Manning myself.”
 s=bill
 
-<e>Hemingway filling this conversation with 1920s pop culture jokes just to confuse modern readers.</e>
+<e>Hemingway making this conversation maximally confusing to the readers who won't get any of these 1920s culture war jokes.</e>
 t=author;s=
 
 “You’re cockeyed,” I said.
@@ -7576,7 +7576,7 @@ s=jake;e:jake=contemplative
 “You ought to dream,” Bill said.
 s=bill
 
-“All our biggest business men have been dreamers. Look at Ford. Look at President Coolidge. Look at Rockefeller. Look at Jo Davidson.”<e>Calvin Coolidge shoutout! (This is a pro Harding administration website.)</e>
+“All our biggest business men have been dreamers. Look at Ford. Look at President Coolidge. Look at Rockefeller. Look at Jo Davidson.”<e>Calvin Coolidge shoutout! (This is a pro-Coolidge, pro-Harding, pro-La Follette, anti-Davis website.)</e>
 s=bill
 
 I disjointed my rod and Bill’s and packed them in the rod-case. I put the reels in the tackle-bag. Bill had packed the rucksack and we put one of the trout-bags in. I carried the other.
@@ -8251,7 +8251,7 @@ s=mike
 “So he got me some medals, you know, miniature medals, and handed me the box, and I put it in my pocket and forgot it.”
 e:mike=smirking
 
-“Well, I went to the dinner, and it was the night they’d shot Henry Wilson, so the Prince didn’t come and the King didn’t come, and no one wore any medals, and all these coves were busy taking off their medals, and I had mine in my pocket.”<e>Henry Wilson = guy killed by the IRA. (Oh those Irishmen.)</e>
+“Well, I went to the dinner, and it was the night they’d shot Henry Wilson, so the Prince didn’t come and the King didn’t come, and no one wore any medals, and all these coves were busy taking off their medals, and I had mine in my pocket.”<e>Henry Wilson = guy killed by the IRA. (Those damn Irish.)</e>
 
 
 He stopped for us to laugh.
@@ -9154,7 +9154,7 @@ We all felt good and we felt healthy, and I felt quite friendly to Cohn. You cou
 That was the last day before the fiesta.
 e:jake=neutral
 
-### XV<e>You think because there's only five chapters left that you're almost done with the book? <i>No.</i> Not even close.</e>
+### XV<e>You think because there's only five chapters left that you're almost done with the book? <i>Not even close</i>.</e>
 r=title;t=author
 
 At noon of Sunday, the 6th of July, the fiesta exploded. There is no other way to describe it. People had been coming in all day from the country, but they were assimilated in the town and you did not notice them.
@@ -9949,7 +9949,7 @@ s=bill
 “Does Cohn look bored?” I asked.
 s=jake;e:jake=smirking
 
-“That kike!”<e>That's my Hemingway!</e>
+“That kike!”<e>That Hemingway!</e>
 s=bill;e:bill=angry
 
 Outside the ring, after the bullfight was over, you could not move in the crowd.
@@ -10273,7 +10273,7 @@ s=;e:brett=
 Romero waved his picadors to their places, then stood, his cape against his chest, looking across the ring to where the bull would come out.
 s=none
 
-After it was over we went out and were pressed tight in the crowd.<e>What do you mean "after it was over"? You didn't finish describing it.</e>
+After it was over we went out and were pressed tight in the crowd.
 b=pamplona-wide
 
 “These bullfights are hell on one,” Brett said. “I’m limp as a rag.”
@@ -11587,8 +11587,8 @@ s=none;e:romero=serious
 It was a final look to ask if it were understood.
 
 
-It was understood all right.<e>Think iceberg here.</e>
-t=author
+It was understood all right.<e>Think iceberg here. (Jake likes to watch.)</e>
+
 
 “Sit down,” Brett said to him. “You must teach me Spanish.”
 s=brett;t=
@@ -12190,7 +12190,7 @@ s=jake
 “I’m all right.”
 
 
-I could not find the bathroom. After a while I found it.<e>Literature.</e>
+I could not find the bathroom. After a while I found it.
 s=none;t=author
 
 There was a deep stone tub. I turned on the taps and the water would not run.
@@ -12850,7 +12850,7 @@ s=jake
 “Was there?” said Bill.
 s=bill;e:bill=
 
-### XVIII<e>Done with that chapter lmao.</e>
+### XVIII<e>You can just end chapters mid-conversation when you're as good as Hemingway.</e>
 r=title;t=author
 
 At noon we were all at the café.
@@ -12889,7 +12889,7 @@ s=brett;e:brett=happy
 “Get another big beer,” Bill said to the waiter.
 s=bill;e:bill=neutral
 
-“Shrimps?”<e>Damn you, Hemingway, you didn't label this line and I don't know who's saying it!</e>
+“Shrimps?”<e>Unlabeled dialogue in the book. As the reader, you get to decide who said it.</e>
 s=;t=author
 
 “Is Cohn gone?” Brett asked.
@@ -12970,7 +12970,10 @@ s=mike
 “Damned well,” Brett said. “Watch him this afternoon.”
 s=brett
 
-“Brett’s got a bullfighter,” Mike said. “A beautiful, bloody bullfighter.”<e>BBBC</e>
+“Brett’s got a bullfighter,” Mike said.
+s=mike
+
+“A beautiful, bloody bullfighter.”<e>BBBC</e>
 s=mike
 
 “Would you mind walking over with me? I want to talk to you, Jake.”
@@ -13315,7 +13318,7 @@ e:brett=neutral
 When the fiesta boiled over and toward the bullring we went with the crowd.
 b=ringside
 
-Brett sat at the ringside between Bill and me.<e><a href="https://www.youtube.com/watch?v=gWy1utqHD0s">Brett and Romero ringside.</a></e>
+Brett sat at the ringside between Bill and me.<e><a href="https://www.youtube.com/watch?v=gWy1utqHD0s">Brett and Romero ringside AMV.</a></e>
 b=ringside
 
 Directly below us was the callejón, the passageway between the stands and the red fence of the barrera.
@@ -13447,11 +13450,11 @@ The sword-handler looked back, shook his head, and said something.
 A man beside me leaned over toward Brett.
 
 
-“He doesn’t want you to spread it,” he said.<e>He does, actually.</e>
-n:basque=Man;s=basque
+“He doesn’t want you to spread it,” he said.
+t=author
 
 “You should fold it and keep it in your lap.”
-
+t=
 
 Brett folded the heavy cape.
 s=none;o=
@@ -14839,10 +14842,10 @@ I swam back to the surf and coasted in, face down, on a big roller, then turned 
 It made me tired, swimming in the trough, and I turned and swam out to the raft.
 e:jake=weary
 
-The water was buoyant and cold. It felt as though you could never sink.<e>"It is very difficult for a poor swimmer in the cold water of an arctic sea to take even a partial measure of that large portion of the literary iceberg that lies beneath the surface in a masterpiece of world literature such as <i>The Sun Also Rises</i>!" —The opening sentence of the Hemingway Library Edition's foreword, lmao. (Not exactly living up to your father's prose there, Patrick.)</e>
+The water was buoyant and cold. It felt as though you could never sink.<e>"It is very difficult for a poor swimmer in the cold water of an arctic sea to take even a partial measure of that large portion of the literary iceberg that lies beneath the surface in a masterpiece of world literature such as <i>The Sun Also Rises</i>!" —The opening sentence of the Hemingway Library Edition's foreword, written by Patrick Hemingway.</e>
 
 
-<e>But I guess only one man really deserves the Hemingway name.</e>
+<e>Not exactly his father in terms of writing quality.</e>
 t=author
 
 I swam slowly, it seemed like a long swim with the high tide, and then pulled up on the raft and sat, dripping, on the boards that were becoming hot in the sun.
@@ -14947,7 +14950,7 @@ s=none
 That seemed to handle it. That was it.
 e:jake=scowling
 
-Send a girl off with one man. Introduce her to another to go off with him. Now go and bring her back. And sign the wire with love.<e>Remember: Hemingway's not a cuck. He's just a good-enough writer that he can see into the mind of one.</e>
+Send a girl off with one man. Introduce her to another to go off with him. Now go and bring her back. And sign the wire with love.
 
 
 That was it all right. I went in to lunch.
@@ -15523,5 +15526,8 @@ s=none
 The car slowed suddenly pressing Brett against me.
 
 
-“Yes,” I said. “Isn’t it pretty to think so?”<e>Take that, Duff, you bitch. (The End.)</e>
+“Yes,” I said. “Isn’t it pretty to think so?”
 s=jake;e:jake=thinking
+
+<e>Bet you feel pretty stupid now, huh, Duff Twysden? (The End.)</e>
+t=author;b=title;s=
