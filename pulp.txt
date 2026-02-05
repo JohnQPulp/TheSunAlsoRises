@@ -8942,7 +8942,7 @@ e:jake=happy
 r=title
 
 I do not know what time I got to bed.
-e:jake=weary;b=light
+e:jake=weary;b=montoya-room
 
 I remember undressing, putting on a bathrobe, and standing out on the balcony.
 
@@ -8989,14 +8989,14 @@ e:jake=thinking
 The hell there isn’t!
 e:jake=annoyed
 
-I figured that all out once, and for six months I never slept with the electric light off.
+I figured that all out once, and for six months I never slept with the electric light off. That was another bright idea.
 
 
-That was another bright idea. To hell with women, anyway. To hell with you, Brett Ashley.
-e:jake=angry
+To hell with women, anyway. To hell with you, Brett Ashley.
+e:jake=angry;t=author
 
 Women made such swell friends. Awfully swell. In the first place, you had to be in love with a woman to have a basis of friendship.
-e:jake=scowling
+e:jake=scowling;t=
 
 I had been having Brett for a friend. I had not been thinking about her side of it.
 
@@ -9010,7 +9010,7 @@ That was one of the swell things you could count on.
 I thought I had paid for everything.
 e:jake=thinking
 
-Not like the woman pays and pays and pays. No idea of retribution or punishment. Just exchange of values.<e>Just the most pitiful literary protagonist of all time, holy shit.</e>
+Not like the woman pays and pays and pays. No idea of retribution or punishment. Just exchange of values.
 
 
 You gave up something and got something else. Or you worked for something.
@@ -9107,13 +9107,13 @@ In the big square that was the centre of the town there was no change yet.
 
 
 We sat in the white wicker chairs on the terrasse of the café and watched the motorbuses come in and unload peasants from the country coming in to the market, and we watched the buses fill up and start out with peasants sitting with their saddlebags full of the things they had bought in the town.
-b=pamplona-square-cafe
+
 
 The tall gray motorbuses were the only life of the square except for the pigeons and the man with a hose who sprinkled the gravelled square and watered the streets.
 
 
 In the evening was the paseo.
-b=light
+
 
 For an hour after dinner everyone, all the good-looking girls, the officers from the garrison, all the fashionable people of the town, walked in the street on one side of the square while the café tables filled with the regular after-dinner crowd.
 e:jake=happy;b=pamplona-square-cafe
@@ -9125,7 +9125,7 @@ Sometimes Bill went along. Sometimes he wrote in his room.
 
 
 Robert Cohn spent the mornings studying Spanish or trying to get a shave at the barbershop.
-b=light
+b=pamplona-wide
 
 Brett and Mike never got up until noon. We all had a vermouth at the café.
 
@@ -9140,7 +9140,7 @@ She said she wanted to hear me go to confession, but I told her that not only wa
 e:jake=smirking
 
 We met Cohn as we came out of church, and although it was obvious he had followed us, yet he was very pleasant and nice, and we all three went for a walk out to the gypsy camp, and Brett had her fortune told.
-e:jake=happy;b=light
+e:jake=happy
 
 It was a good morning, there were high white clouds above the mountains.
 
@@ -9154,13 +9154,13 @@ We all felt good and we felt healthy, and I felt quite friendly to Cohn. You cou
 That was the last day before the fiesta.
 e:jake=neutral
 
-### XV<e>Okay reader, five chapters to go. Five long-ass chapters. But we can finish this together, and then we never have to read another modernist book again.</e>
-r=title
+### XV<e>You think because there's only five chapters left that you're almost done with the book? <i>No.</i> Not even close.</e>
+r=title;t=author
 
 At noon of Sunday, the 6th of July, the fiesta exploded. There is no other way to describe it. People had been coming in all day from the country, but they were assimilated in the town and you did not notice them.
-b=pamplona-wide
+b=pamplona-wide;t=
 
-The square was as quiet in the hot sun as on any other day.<e>Wait what, you just said "the fiesta exploded". You don't make this stuff easy to visualize, Hemingway.</e>
+The square was as quiet in the hot sun as on any other day.
 
 
 The peasants were in the outlying wine-shops. There they were drinking, getting ready for the fiesta.
@@ -9332,7 +9332,7 @@ They wanted her as an image to dance around.
 
 
 When the song ended with the sharp *riau-riau!* they rushed us into a wine-shop.
-b=light
+
 
 We stood at the counter. They had Brett seated on a wine-cask.
 b=wine-shop
@@ -9365,7 +9365,7 @@ I explained to them that I would be back.
 
 
 Outside in the street I went down the street looking for the shop that made leather wine-bottles. The crowd was packed on the sidewalks and many of the shops were shuttered, and I could not find it. I walked as far as the church, looking on both sides of the street.
-b=light
+b=festive-chapel-ext
 
 Then I asked a man and he took me by the arm and led me to it.
 n:shopkeeper=Shopkeeper;b=pamplona-shop
@@ -9383,7 +9383,7 @@ He took one down, blew it up, screwed the nozzle tight, and then jumped on it.
 
 
 “See! It doesn’t leak.”
-s=shopkeeper;e:shopkeeper=happy
+s=shopkeeper;e:shopkeeper=happy;z:shopkeeper=95
 
 “I want another one, too. A big one.”
 s=jake
@@ -9416,10 +9416,10 @@ s=shopkeeper;e:shopkeeper=serious
 
 
 I paid and went out and along the street back to the wine-shop.
-s=none;b=light
+s=none;b=festive-chapel-ext
 
 It was darker than ever inside and very crowded. I did not see Brett and Bill, and someone said they were in the back room.
-b=wine-shop
+b=wine-shop;f:b:wine-shop=brightness(85%)
 
 At the counter the girl filled the two wineskins for me. One held two litres. The other held five litres.
 
@@ -9461,19 +9461,16 @@ I was introduced to the people at the table. They supplied their names to Mike a
 s=none
 
 “Stop eating their dinner, Michael,” Brett shouted from the wine-barrels.
-s=brett;e:brett=angry
+s=brett;e:brett=smirking
 
 “I don’t want to eat up your meal,” I said when someone handed me a fork.
-s=jake
+s=jake;e:jake=contemplative
 
-“Eat,” he said.
-s=
-
-“What do you think it’s here for?”
-
+“Eat,” he said. “What do you think it’s here for?”
+s=basque;n:basque="Someone"
 
 I unscrewed the nozzle of the big wine-bottle and handed it around.
-s=none
+s=none;s=
 
 Everyone took a drink, tipping the wineskin at arm’s length.
 
@@ -9485,7 +9482,7 @@ Outside, above the singing, we could hear the music of the procession going by.
 s=mike;e:mike=
 
 “*Nada*,” someone said. “It’s nothing. Drink up. Lift the bottle.”
-s=
+s=basque
 
 “Where did they find you?” I asked Mike.
 s=jake;e:jake=
@@ -9508,11 +9505,8 @@ s=jake
 “I don’t know.”
 s=brett
 
-“How should we know,” Bill said.
+“How should we know,” Bill said. “I think he’s dead.”
 s=bill;e:bill=scowling
-
-“I think he’s dead.”
-
 
 “He’s not dead,” Mike said. “I know he’s not dead. He’s just passed out on Anis del Mono.”
 s=mike;e:mike=smirking
@@ -9521,7 +9515,7 @@ As he said Anis del Mono one of the men at the table looked up, brought out a bo
 s=none
 
 “No,” I said. “No, thanks!”
-s=jake
+s=jake;e:jake=contemplative
 
 “Yes. Yes. *Arriba!* Up with the bottle!”
 s=basque;e:basque=happy
@@ -9545,10 +9539,10 @@ s=mike;e:mike=
 s=basque
 
 “Yes,” I said.
-s=jake
+s=jake;e:jake=thinking
 
 “Not me,” said Mike. “This gent.”
-s=mike
+s=mike;e:mike=smirking
 
 The Anis del Mono man wiped his mouth and stood up.
 s=none
@@ -9605,7 +9599,7 @@ His sleep had made him quite all right.
 s=brett;e:brett=neutral
 
 “Come on,” Bill said. “Let’s translate Brett to the hotel.”
-s=bill
+s=bill;e:bill=
 
 We said goodbye to many people and shook hands with many people and went out. Outside it was dark.
 s=none;b=pamplona-wide;f:b:pamplona-wide=brightness(85%)
@@ -9629,22 +9623,22 @@ s=cohn;e:cohn=
 s=mike;e:mike=angry
 
 Going down the dark streets to the hotel we saw the skyrockets going up in the square.
-s=none;b=light
+s=none;b=fireworks;f:b:fireworks=brightness(85%)
 
 Down the side streets that led to the square we saw the square solid with people, those in the centre all dancing.
 
 
 It was a big meal at the hotel. It was the first meal of the prices being doubled for the fiesta, and there were several new courses.
-b=montoya-dining
+b=montoya-dining-night
 
 After the dinner we were out in the town. I remember resolving that I would stay up all night to watch the bulls go through the streets at six o’clock in the morning, and being so sleepy that I went to bed around four o’clock.
-b=light
+b=pamplona-wide
 
 The others stayed up.
 
 
 My own room was locked and I could not find the key, so I went upstairs and slept on one of the beds in Cohn’s room.
-b=montoya-room
+b=dream
 
 The fiesta was going on outside in the night, but I was too sleepy for it to keep me awake.
 b=dream
@@ -9659,7 +9653,7 @@ I had been sleeping heavily and I woke feeling I was too late.
 e:jake=surprised
 
 I put on a coat of Cohn’s and went out on the balcony. Down below the narrow street was empty. All the balconies were crowded with people.
-b=light
+
 
 Suddenly a crowd came down the street. They were all running, packed close together.
 b=bull-run
@@ -9671,7 +9665,7 @@ Behind them was a little bare space, and then the bulls galloping, tossing their
 
 
 It all went out of sight around the corner. One man fell, rolled to the gutter, and lay quiet. But the bulls went right on and did not notice him. They were all running together.
-b=light
+
 
 After they went out of sight a great roar came from the bullring. It kept on. Then finally the pop of the rocket that meant the bulls had gotten through the people in the ring and into the corrals.
 
@@ -9692,19 +9686,19 @@ Cohn woke me when he came in. He started to undress and went over and closed the
 e:cohn=neutral;b=montoya-room
 
 “Did you see the show?” I asked.
-s=jake;e:jake=;e:cohn=
+s=jake;e:jake=contemplative;e:cohn=
 
 “Yes. We were all there.”
 s=cohn
 
 “Anybody get hurt?”
-s=jake
+s=jake;e:jake=thinking
 
 “One of the bulls got into the crowd in the ring and tossed six or eight people.”
 s=cohn
 
 “How did Brett like it?”
-s=jake
+s=jake;e:jake=contemplative
 
 “It was all so sudden there wasn’t any time for it to bother anybody.”
 s=cohn
@@ -9716,7 +9710,7 @@ s=jake;e:jake=weary
 s=cohn
 
 “Where did you stay up?”
-s=jake;e:jake=
+s=jake;e:jake=contemplative
 
 “We danced at some club.”
 s=cohn;e:cohn=smirking
@@ -9749,7 +9743,7 @@ s=jake
 s=bill;e:bill=
 
 No one was up before noon. We ate at tables set out under the arcade.
-s=none;e:cohn=neutral;e:bill=neutral;e:mike=neutral;e:brett=neutral;b=light
+s=none;e:cohn=neutral;e:bill=neutral;e:mike=neutral;e:brett=neutral;b=pamplona-wide;f:b:pamplona-wide=
 
 The town was full of people. We had to wait for a table.
 
@@ -9788,7 +9782,7 @@ s=cohn;e:cohn=serious
 s=bill;e:bill=smirking
 
 “Don’t look at the horses, after the bull hits them,” I said to Brett.
-s=jake
+s=jake;e:jake=
 
 “Watch the charge and see the picador try and keep the bull off, but then don’t look again until the horse is dead if it’s been hit.”
 
@@ -9866,7 +9860,7 @@ There were two beds separated by a monastic partition. The electric light was on
 
 
 The boy stood very straight and unsmiling in his bullfighting clothes.
-n:romero=Pedro Romero;e:romero=serious;b=light;c=romero
+n:romero=Pedro Romero;e:romero=serious;
 
 His jacket hung over the back of a chair. They were just finishing winding his sash. His black hair shone under the electric light.
 b=montoya-otherroom;c=
@@ -9887,7 +9881,7 @@ s=none;e:romero=neutral
 s=romero
 
 “You know English,” I said, feeling like an idiot.
-s=jake;e:jake=surprised
+s=jake;e:jake=contemplative
 
 “No,” he answered, and smiled.
 s=romero;e:romero=happy
@@ -9896,7 +9890,7 @@ One of three men who had been sitting on the beds came up and asked us if we spo
 n:critic=?;s=none;e:critic=neutral
 
 “Would you like me to interpret for you? Is there anything you would like to ask Pedro Romero?”
-s=critic
+s=critic;z:critic=82,49,5
 
 We thanked him. What was there that you would like to ask?
 s=none
@@ -9905,16 +9899,16 @@ The boy was nineteen years old, alone except for his sword-handler, and the thre
 e:romero=serious
 
 We wished him “*Mucha suerte*,” shook hands, and went out.
-s=jake
+
 
 He was standing, straight and handsome and altogether by himself, alone in the room with the hangers-on as we shut the door.
-s=none;b=light;c=romero
+s=none;b=light;c=romero;v=100,125;e:romero=
 
 “He’s a fine boy, don’t you think so?” Montoya asked.
 s=montoya;e:montoya=happy;c=;b=montoya-hall
 
 “He’s a good-looking kid,” I said.
-s=jake
+s=jake;e:jake=thinking
 
 “He looks like a torero,” Montoya said. “He has the type.”
 s=montoya
@@ -9926,7 +9920,7 @@ s=jake
 s=montoya
 
 We found the big leather wine-bottle leaning against the wall in my room, took it and the field-glasses, locked the door, and went downstairs.
-s=none;b=light
+s=none;b=montoya-stairs
 
 It was a good bullfight. Bill and I were very excited about Pedro Romero.
 e:bill=excited;e:jake=excited;b=ringside
@@ -9953,16 +9947,16 @@ All three were leaning forward on the concrete railing in front of them.
 s=bill
 
 “Does Cohn look bored?” I asked.
-s=jake
+s=jake;e:jake=smirking
 
-“That kike!”
+“That kike!”<e>That's my Hemingway!</e>
 s=bill;e:bill=angry
 
 Outside the ring, after the bullfight was over, you could not move in the crowd.
-s=none;b=light
+s=none;b=pamplona-wide
 
 We could not make our way through but had to be moved with the whole thing, slowly, as a glacier, back to town.
-
+t=
 
 We had that disturbed emotional feeling that always comes after a bullfight, and the feeling of elation that comes after a good bullfight.
 e:bill=happy;e:jake=happy
@@ -10034,7 +10028,7 @@ s=jake
 s=brett
 
 “How about the horses?”
-s=jake
+s=jake;e:jake=contemplative
 
 “I couldn’t help looking at them.”
 s=brett;e:brett=
@@ -10103,7 +10097,7 @@ s=mike
 
 
 “Are you a sadist, Brett?” I asked.
-s=jake
+s=jake;e:jake=smirking
 
 “Hope not.”
 s=brett;e:brett=thinking
@@ -10117,11 +10111,8 @@ s=brett;e:brett=smirking
 Bill got Mike started on something else than Cohn. The waiter brought the absinthe glasses.
 s=none
 
-“Did you really like it?”
+“Did you really like it?” Bill asked Cohn.
 s=bill;e:bill=
-
-Bill asked Cohn.
-s=none
 
 “No, I can’t say I liked it. I think it’s a wonderful show.”
 s=cohn;e:cohn=neutral
@@ -10160,10 +10151,10 @@ s=mike;e:mike=smirking
 s=brett;e:brett=happy
 
 “He’s a damned good-looking boy,” I said.
-s=jake
+s=jake;e:jake=thinking
 
 “When we were up in his room I never saw a better-looking kid.”
-
+e:jake=
 
 “How old do you suppose he is?”
 s=brett
@@ -10247,7 +10238,7 @@ s=brett
 s=mike;e:mike=smirking
 
 “I wouldn’t be surprised.”
-s=jake
+s=jake;e:jake=annoyed
 
 “Be a good chap, Jake. Don’t tell her anything more about him. Tell her how they beat their old mothers.”
 s=mike
@@ -10268,10 +10259,10 @@ s=brett;e:brett=smirking
 s=jake
 
 They had hitched the mules to the dead bull and then the whips cracked, the men ran, and the mules, straining forward, their legs pushing, broke into a gallop, and the bull, one horn up, his head on its side, swept a swath smoothly across the sand and out the red gate.
-s=none;b=light
+s=none
 
 “This next is the last one.”
-s=jake
+s=jake;e:jake=contemplative
 
 “Not really,” Brett said.
 s=brett;e:brett=
@@ -10283,7 +10274,7 @@ Romero waved his picadors to their places, then stood, his cape against his ches
 s=none
 
 After it was over we went out and were pressed tight in the crowd.<e>What do you mean "after it was over"? You didn't finish describing it.</e>
-b=light
+b=pamplona-wide
 
 “These bullfights are hell on one,” Brett said. “I’m limp as a rag.”
 s=brett;e:brett=weary
