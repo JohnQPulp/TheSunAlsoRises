@@ -6671,13 +6671,13 @@ He jerked his head at the other goats below and when I waved at him he bounded d
 e:jake=happy
 
 Bill was still sleeping, so I dressed, put on my shoes outside in the hall, and went downstairs.
-e:jake=neutral;b=light
+e:jake=neutral;b=inn-commons-int
 
 No one was stirring downstairs, so I unbolted the door and went out.
 
 
 It was cool outside in the early morning and the sun had not yet dried the dew that had come when the wind died down.
-e:jake=contemplative
+e:jake=contemplative;b=burguete-wide
 
 I hunted around in the shed behind the inn and found a sort of mattock, and went down toward the stream to try and dig some worms for bait.
 b=burguete-wide
@@ -6713,7 +6713,7 @@ s=bill
 s=bill;e:bill=smirking
 
 “You lazy bum!”
-s=jake;e:jake=scowling
+s=jake;e:jake=annoyed
 
 “Been working for the common good? Splendid. I want you to do that every morning.”
 s=bill;e:bill=happy
@@ -6743,7 +6743,7 @@ s=jake
 s=bill;e:bill=surprised
 
 “Eat? Fine. Now you’re reasonable. You go out and dig some more worms and I’ll be right down.”
-s=bill;e:bill=happy
+s=bill;e:bill=smirking
 
 “Oh, go to hell!”
 s=jake;e:jake=annoyed
@@ -6755,7 +6755,7 @@ Bill stepped into his underclothes.
 s=none
 
 “Show irony and pity.”
-s=bill;e:bill=smirking
+s=bill;e:bill=
 
 I started out of the room with the tackle-bag, the nets, and the rod-case.
 s=none
@@ -6767,7 +6767,7 @@ I put my head in the door.
 s=none
 
 “Aren’t you going to show a little irony and pity?”
-s=bill
+s=bill;e:bill=smirking
 
 I thumbed my nose.
 s=none
@@ -6775,17 +6775,8 @@ s=none
 “That’s not irony.”
 s=bill
 
-As I went downstairs I heard Bill singing,
-s=none;b=light
-
-“Irony and Pity. When you’re feeling…”
-s=bill
-
-“Oh, Give them Irony and Give them Pity. Oh, give them Irony.”
-s=bill
-
-“When they’re feeling… Just a little irony. Just a little pity…”
-s=bill
+As I went downstairs I heard Bill singing, “Irony and Pity. When you’re feeling﻿ ﻿… Oh, Give them Irony and Give them Pity. Oh, give them Irony. When they’re feeling﻿ ﻿… Just a little irony. Just a little pity﻿ ﻿…”
+s=none;b=inn-commons-int
 
 He kept on singing until he came downstairs.
 s=none
@@ -6886,7 +6877,7 @@ s=bill;e:bill=excited
 “You know what’s the trouble with you? You’re an expatriate. One of the worst type. Haven’t you heard that?”
 s=bill;e:bill=
 
-“Nobody that ever left their own country ever wrote anything worth printing. Not even in the newspapers.”<e>Preempting the critics now, are we?</e>
+“Nobody that ever left their own country ever wrote anything worth printing. Not even in the newspapers.”<e>Preempting those stupid biased critics.</e>
 s=bill
 
 He drank the coffee.
@@ -6913,11 +6904,11 @@ s=bill;e:bill=wary
 “That’s the sort of thing that can’t be spoken of. That’s what you ought to work up into a mystery. Like Henry’s bicycle.”<e>You sneaky little meta-comedian, Hemingway.</e>
 s=bill
 
-<e>And I guess by the way, according to Hemingway it's not actually that Jake's dick was blown off, but just that the accident made him unable to use it or something. But the book itself never says anything explicitly, so I'm death-of-the-authoring that interpretation away and sticking with my own headcanon.</e>
-s=
+<e>For the record though, according to Hemingway it's not actually that Jake's dick was blown off, but just that the accident made him unable to use it or something. But the book never makes that explicit. So you can iceberg headcanon your own interpretation.</e>
+s=;t=
 
 He had been going splendidly, but he stopped.
-s=none
+s=none;t=
 
 I was afraid he thought he had hurt me with that crack about being impotent.
 e:jake=thinking
@@ -6953,7 +6944,7 @@ s=bill;e:bill=neutral
 s=bill;e:bill=happy
 
 “I’m not a good guy.”
-s=jake
+s=jake;e:jake=thinking
 
 “Listen. You’re a hell of a good guy, and I’m fonder of you than anybody on earth. I couldn’t tell you that in New York. It’d mean I was a faggot.”
 s=bill
@@ -6968,16 +6959,16 @@ s=bill
 s=bill
 
 He stopped.
-s=none
+s=none;t=author
 
 “Want to hear some more?”
-s=bill;e:bill=smirking
+s=bill;e:bill=smirking;t=
 
 “Shoot,” I said.
-s=jake;e:jake=happy
+s=jake;e:jake=smirking
 
 “I don’t know any more. Tell you some more at lunch.”
-s=bill;e:bill=happy
+s=bill;e:bill=
 
 “Old Bill,” I said.
 s=jake
@@ -6988,10 +6979,7 @@ s=bill
 We packed the lunch and two bottles of wine in the rucksack, and Bill put it on.
 s=none;e:jake=neutral;e:bill=neutral
 
-I carried the rod-case and the landing-nets slung over my back.
-b=light
-
-We started up the road and then went across a meadow and found a path that crossed the fields and went toward the woods on the slope of the first hill.
+I carried the rod-case and the landing-nets slung over my back. We started up the road and then went across a meadow and found a path that crossed the fields and went toward the woods on the slope of the first hill.
 b=meadow-road-wide
 
 We walked across the fields on the sandy path.
@@ -7088,7 +7076,7 @@ s=jake
 s=bill;e:bill=thinking
 
 It was a long walk and the country was very fine, but we were tired when we came down the steep road that led out of the wooded hills into the valley of the Rio de la Fabrica.
-s=none;e:jake=weary;b=light
+s=none;e:jake=weary
 
 The road came out from the shadow of the woods into the hot sun. Ahead was a river-valley. Beyond the river was a steep hill. There was a field of buckwheat on the hill. We saw a white house under some trees on the hillside.
 
@@ -7154,7 +7142,7 @@ Bill waved his hand and started down the stream.
 s=none
 
 I found the two wine-bottles in the pack, and carried them up the road to where the water of a spring flowed out of an iron pipe.
-b=light
+
 
 There was a board over the spring and I lifted it and, knocking the corks firmly into the bottles, lowered them down into the water. It was so cold my hand and wrist felt numbed. I put back the slab of wood, and hoped nobody would find the wine.
 e:jake=wary
@@ -7268,7 +7256,7 @@ s=jake;e:jake=neutral
 s=bill
 
 “I wish I were.”
-s=jake
+s=jake;e:jake=thinking
 
 “Get them all on worms?”
 s=bill;e:bill=
@@ -7286,7 +7274,7 @@ He was wet from the waist down and I knew he must have been wading the stream.
 
 
 I walked up the road and got out the two bottles of wine. They were cold. Moisture beaded on the bottles as I walked back to the trees.
-e:jake=happy;b=light
+e:jake=happy
 
 I spread the lunch on a newspaper, and uncorked one of the bottles and leaned the other against a tree.
 b=dam-trees
@@ -7301,7 +7289,7 @@ He pulled the cork, and tipped up the bottle and drank.
 s=none
 
 “Whew! That makes my eyes ache.”
-s=bill
+s=bill;e:bill=smirking
 
 “Let’s try it.”
 s=jake
@@ -7319,28 +7307,25 @@ We unwrapped the little parcels of lunch.
 s=none
 
 “Chicken.”
-s=bill
+s=jake;e:jake=
 
 “There’s hard-boiled eggs.”
-s=jake
+s=bill;e:bill=
 
 “Find any salt?”
-s=bill
+s=jake
 
-“First the egg,” said Bill.
+“First the egg,” said Bill. “Then the chicken. Even Bryan could see that.”
 s=bill;e:bill=serious
 
-“Then the chicken. Even Bryan could see that.”<e>Yep, even Bryan. The never-mentioned-before character.</e>
-s=bill
-
 “He’s dead. I read it in the paper yesterday.”
-s=jake;e:jake=neutral
+s=jake;e:jake=thinking
 
 “No. Not really?”
 s=bill;e:bill=surprised
 
-“Yes. Bryan’s dead.”<e>Oh, well RIP Bryan.</e>
-s=jake
+“Yes. Bryan’s dead.”
+s=jake;e:jake=
 
 Bill laid down the egg he was peeling.
 s=none
@@ -7348,7 +7333,7 @@ s=none
 “Gentlemen,” he said, and unwrapped a drumstick from a piece of newspaper.
 s=bill;e:bill=serious
 
-“I reverse the order. For Bryan’s sake. As a tribute to the Great Commoner. First the chicken; then the egg.”<e>Wait, <i>William Jennings Bryan</i>? Pretty based reference, Hemingway, but what a confusing way to make it.</e>
+“I reverse the order. For Bryan’s sake. As a tribute to the Great Commoner. First the chicken; then the egg.”<e>William Jennings Bryan reference. Based.</e>
 s=bill
 
 “Wonder what day God created the chicken?”
@@ -7384,28 +7369,28 @@ s=none
 “Let me tell you. We will say, and I for one am proud to say—and I want you to say with me, on your knees, brother.”
 s=bill
 
-“Let no man be ashamed to kneel here in the great out-of-doors. Remember the woods were God’s first temples. Let us kneel and say: ‘Don’t eat that, Lady—that’s Mencken.’”
+“Let no man be ashamed to kneel here in the great out-of-doors. Remember the woods were God’s first temples.”
 s=bill
 
-“Here,” I said.
-s=jake;e:jake=happy
+“Let us kneel and say: ‘Don’t eat that, Lady—that’s Mencken.’”
+e:bill=smirking
 
-“Utilize a little of this.”
-s=jake
+“Here,” I said. “Utilize a little of this.”
+s=jake;e:jake=smirking
 
 We uncorked the other bottle.
 s=none
 
 “What’s the matter?” I said. “Didn’t you like Bryan?”
-s=jake;e:jake=
+s=jake;e:jake=smirking
 
 “I loved Bryan,” said Bill. “We were like brothers.”
-s=bill;e:bill=happy
+s=bill;e:bill=smirking
 
 “Where did you know him?”
 s=jake
 
-“He and Mencken and I all went to Holy Cross together.”<e>Hemingway! Why did you have to fill this dialogue with 1925-specific jokes? This is going to make no sense to 21st-century readers lmao.</e>
+“He and Mencken and I all went to Holy Cross together.”
 s=bill;e:bill=smirking
 
 “And Frankie Fritsch.”
@@ -7420,8 +7405,11 @@ s=jake
 “It’s a lie,” Bill said. “I went to Loyola with Bishop Manning myself.”
 s=bill
 
+<e>Hemingway filling this conversation with 1920s pop culture jokes just to confuse modern readers.</e>
+t=author;s=
+
 “You’re cockeyed,” I said.
-s=jake;e:jake=
+s=jake;e:jake=smirking;t=
 
 “On wine?”
 s=bill;e:bill=smirking
@@ -7439,7 +7427,7 @@ s=jake
 s=bill
 
 “Only the two bottles.”
-s=jake
+s=jake;e:jake=thinking
 
 “Do you know what you are?”
 s=bill;e:bill=serious
@@ -7454,21 +7442,18 @@ s=jake
 s=bill
 
 “I went to Notre Dame with Wayne B. Wheeler.”
-s=jake
+s=jake;e:jake=smirking
 
 “It’s a lie,” said Bill.
 s=bill
 
 “I went to Austin Business College with Wayne B. Wheeler. He was class president.”
-s=bill
+s=bill;e:bill=smirking
 
 “Well,” I said, “the saloon must go.”
 s=jake
 
-“You’re right there, old classmate,” Bill said.
-s=bill;e:bill=happy
-
-“The saloon must go, and I will take it with me.”
+“You’re right there, old classmate,” Bill said. “The saloon must go, and I will take it with me.”
 s=bill
 
 “You’re cockeyed.”
@@ -7481,10 +7466,10 @@ s=bill
 s=jake
 
 “Well, maybe I am.”
-s=bill
+s=bill;e:bill=
 
 “Want to take a nap?”
-s=jake
+s=jake;e:jake=thinking
 
 “All right.”
 s=bill
@@ -7493,10 +7478,10 @@ We lay with our heads in the shade and looked up into the trees.
 s=none;e:jake=contemplative
 
 “You asleep?”
-s=bill
+s=jake;e:jake=
 
 “No,” Bill said. “I was thinking.”
-s=bill
+s=bill;e:bill=serious
 
 I shut my eyes.
 s=none
@@ -7508,7 +7493,7 @@ It felt good lying on the ground.
 s=bill;e:bill=serious
 
 “What about it?”
-s=jake;e:jake=wary
+s=jake;e:jake=thinking
 
 “Were you ever in love with her?”
 s=bill
@@ -7591,7 +7576,7 @@ s=jake;e:jake=contemplative
 “You ought to dream,” Bill said.
 s=bill
 
-“All our biggest business men have been dreamers. Look at Ford. Look at President Coolidge. Look at Rockefeller. Look at Jo Davidson.”<e>Woo! Harding administration! Yeah! I'm loving these relatable references.</e>
+“All our biggest business men have been dreamers. Look at Ford. Look at President Coolidge. Look at Rockefeller. Look at Jo Davidson.”<e>Calvin Coolidge shoutout! (This is a pro Harding administration website.)</e>
 s=bill
 
 I disjointed my rod and Bill’s and packed them in the rod-case. I put the reels in the tackle-bag. Bill had packed the rucksack and we put one of the trout-bags in. I carried the other.
@@ -7625,19 +7610,19 @@ It was a long walk home to Burguete, and it was dark when we came down across th
 e:jake=contemplative
 
 We stayed five days at Burguete and had good fishing.
-e:jake=happy
+e:jake=happy;b=burguete-wide
 
 The nights were cold and the days were hot, and there was always a breeze even in the heat of the day. It was hot enough so that it felt good to wade in a cold stream, and the sun dried you when you came out and sat on the bank. We found a stream with a pool deep enough to swim in.
-b=dam-trees
+
 
 In the evenings we played three-handed bridge with an Englishman named Harris, who had walked over from Saint Jean Pied de Port and was stopping at the inn for the fishing.
 b=inn-commons-int
 
 He was very pleasant and went with us twice to the Irati River.
-e:jake=happy;b=dam-trees
+e:jake=happy
 
 There was no word from Robert Cohn nor from Brett and Mike.
-e:jake=thinking;b=light
+e:jake=thinking
 
 ### XIII
 r=title
