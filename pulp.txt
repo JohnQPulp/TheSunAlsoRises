@@ -1,11 +1,11 @@
 *The Sun Also Rises* by Ernest Hemingway<e>This here is Public Domain Pulp's first modernist visual novel, featuring who else but Mr. Iceberg himself. You've got deep prose ahead of you, reader. Keep up.</e>
-n:author=;t=author;b=title;z:author=105
+n:author=;t=author;b=title;z:author=105,48,1
 
 This book is for **Hadley** and for **John Hadley Nicanor**<e>Put a pin in this dedication to his wife and son. It will be important later.</e>
 t=
 
 “You are all a lost generation.” —Gertrude Stein in conversation
-n:stein=;t=stein;b=think
+n:stein=;t=stein;b=think;z:stein=,46,4
 
 “One generation passeth away, and another generation cometh; but the earth abideth forever… The sun also ariseth, and the sun goeth down, and hasteth to the place where he arose﻿ ﻿… The wind goeth toward the south, and turneth about unto the north; it whirleth about continually, and the wind returneth again according to his circuits… All the rivers run into the sea; yet the sea is not full; unto the place from whence the rivers come, thither they return again.” —Ecclesiastes
 t=
@@ -83,7 +83,7 @@ He was sorry when the magazine became too expensive and he had to give it up.
 c=
 
 By that time, though, he had other things to worry about. He had been taken in hand by a lady who hoped to rise with the magazine. She was very forceful, and Cohn never had a chance of not being taken in hand.
-n:frances=Frances;c=frances;z:frances=102
+n:frances=Frances;c=frances;z:frances=102,53,1,97
 
 Also he was sure that he loved her.
 e:cohn=happy
@@ -272,7 +272,7 @@ I did not realize the extent to which it had set him off until one day he came i
 o=;b=office-int;t=
 
 “Hello, Robert,” I said. “Did you come in to cheer me up?”
-s=jake;e:jake=neutral;e:cohn=excited;v=100,130
+s=jake;e:jake=neutral;e:cohn=excited;v=100,150
 
 “Would you like to go to South America, Jake?” he asked.
 s=cohn;e:cohn=excited;
@@ -677,7 +677,7 @@ We got out and Georgette did not like the looks of the place.
 s=none;e:georgette=unhappy;b=unchic-ext
 
 “This is no great thing of a restaurant.”
-s=georgette;c=jake,georgette;z:georgette=95;v=100,115
+s=georgette;c=jake,georgette;z:georgette=95;v=100,140
 
 “No,” I said. “Maybe you would rather go to Foyot’s. Why don’t you keep the cab and go on?”
 s=jake;e:jake=thinking
@@ -731,7 +731,7 @@ s=braddocks
 s=jake
 
 “Why, the dancings. Don’t you know we’ve revived them?” Mrs. Braddocks put in.
-s=mrsbraddocks;e:mrsbraddocks=excited;z:mrsbraddocks=92
+s=mrsbraddocks;e:mrsbraddocks=excited;z:mrsbraddocks=92,,1
 
 “You must come, Jake. We’re all going,” Frances said from the end of the table.
 s=frances;e:frances=happy
@@ -920,7 +920,7 @@ One of them saw Georgette and said:
 n:blond=Blond;n:dark=Lett;b=dancing-bar-int;c=
 
 “I do declare. There is an actual harlot.”
-s=blond
+s=blond;z:blond=,,2
 
 <e>You picked up on Georgette being a prostitute, right, reader? When she walked by the cafe table, Hemingway wanted you to think <i>Full Metal Jacket</i>.</e>
 s=;t=author
@@ -932,7 +932,7 @@ The tall dark one, called Lett, said:
 s=
 
 “Don’t you be rash.”
-s=dark
+s=dark;z:dark=,,2
 
 The wavy blond one answered:
 s=
@@ -959,7 +959,7 @@ I sat down at a table. Cohn was sitting there. Frances was dancing.
 e:cohn=neutral;e:jake=neutral;b=dancing-club-int
 
 Mrs. Braddocks brought up somebody and introduced him as Robert Prentiss. He was from New York by way of Chicago, and was a rising new novelist. He had some sort of an English accent. I asked him to have a drink.
-n:prentiss=Robert Prentiss
+n:prentiss=Robert Prentiss;z:prentiss=,,1
 
 “Thanks so much,” he said, “I’ve just had one.”
 s=prentiss;e:prentiss=neutral
@@ -1178,7 +1178,7 @@ I stopped at the bar and asked them for an envelope. The patronne found one. I t
 s=jake
 
 “*C’est entendu, Monsieur*,” the patronne said. “You go now? So early?”
-n:patronne=Patronne;s=patronne;z:patronne=92
+n:patronne=Patronne;s=patronne;z:patronne=92,,2
 
 “Yes,” I said.
 s=jake
@@ -1598,7 +1598,7 @@ My flat was just across the street, a little way down the Boulevard St. Michel.
 o=
 
 There was a light in the concierge’s room and I knocked on the door and she gave me my mail.
-n:concierge1=Concierge;b=flat-concierge-int
+n:concierge1=Concierge;b=flat-concierge-int;z:concierge1=,52,3,95
 
 I wished her good night and went upstairs.
 
@@ -1690,8 +1690,11 @@ That was where the liaison colonel came to visit me. That was funny. That was ab
 I was all bandaged up. But they had told him about it.
 
 
-Then he made that wonderful speech: “You, a foreigner, an Englishman” (any foreigner was an Englishman) “have given more than your life.”
+Then he made that wonderful speech:
 
+
+“You, a foreigner, an Englishman” (any foreigner was an Englishman) “have given more than your life.”
+m=dialogue
 
 What a speech! I would like to have it illuminated to hang in the office.
 
@@ -1703,7 +1706,7 @@ He never laughed. He was putting himself in my place, I guess.
 
 
 I never used to realize it, I guess.
-b=think
+b=think;m=
 
 I try and play it along and just not make trouble for people.
 
@@ -2024,7 +2027,7 @@ I shared a taxi back from the Quai d’Orsay with Woolsey and Krum.
 b=taxi-abstract
 
 “What do you do nights, Jake?” asked Krum. “I never see you around.”
-n:krum=Krum;s=krum;n:woolsey=Woolsey;z:krum=95;z:woolsey=95
+n:krum=Krum;s=krum;n:woolsey=Woolsey;z:krum=95,,2;z:woolsey=95,45,3
 
 “Oh, I’m over in the Quarter.”
 s=jake
@@ -2105,7 +2108,7 @@ I went to the office in the elevator.
 b=light;s=
 
 Robert Cohn was waiting for me.
-s=none;c=cohn;b=office-int;v=100,125;e:cohn=happy
+s=none;c=cohn;b=office-int;v=100,150;e:cohn=happy
 
 “Hello, Jake,” he said. “Going out to lunch?”
 s=cohn;
@@ -2378,7 +2381,7 @@ He had a pile of saucers in front of him, and he needed a shave.
 e:harvey=weary
 
 “Sit down,” said Harvey, “I’ve been looking for you.”
-s=harvey;z:harvey=85
+s=harvey;z:harvey=85,,1
 
 “What’s the matter?”
 s=jake
@@ -4583,7 +4586,7 @@ She raised her hand.
 s=
 
 “Oh, my God!”
-s=lecomte;e:lecomte=excited;z:lecomte=92
+s=lecomte;e:lecomte=excited;z:lecomte=92,,3
 
 “You’ll be rich.”
 s=bill
@@ -4700,7 +4703,7 @@ She had no stockings on.
 t=author
 
 “It’s good to see you, Jake,” Michael said.
-s=mike;e:mike=happy;t=
+s=mike;e:mike=happy;t=;z:mike=,,1
 
 “I’m a little tight you know. Amazing, isn’t it? Did you see my nose?”
 e:mike=surprised
@@ -5114,7 +5117,7 @@ There were never more than two servings of lunch on that train, and always plent
 s=none
 
 “They’re all reserved,” the dining-car conductor said. “There will be a fifth service at three-thirty.”
-s=conductor
+s=conductor;z:conductor=,,2
 
 “This is serious,” I said to Bill.
 s=jake;e:jake=serious
@@ -5153,7 +5156,7 @@ In our compartment were a man and his wife and their young son.
 n:hubertfather=Man;n:hubertmother=Woman;n:hubert=Hubert;b=train-int
 
 “I suppose you’re Americans, aren’t you?” the man asked. “Having a good trip?”
-s=hubertfather;e:hubertfather=happy;z:hubertfather=94,49,3
+s=hubertfather;e:hubertfather=happy;z:hubertfather=94,49,4
 
 “Wonderful,” said Bill.
 s=bill;e:bill=happy
@@ -5162,7 +5165,7 @@ s=bill;e:bill=happy
 s=hubertfather
 
 “You could have come over ten years ago, if you’d wanted to,” the wife said.
-s=hubertmother;e:hubertmother=neutral;z:hubertmother=94
+s=hubertmother;e:hubertmother=neutral;z:hubertmother=94,,1
 
 “What you always said was: ‘See America first!’ I will say we’ve seen a good deal, take it one way and another.”
 
@@ -5273,7 +5276,7 @@ At Tours we got off and bought another bottle of wine, and when we got back in t
 
 
 “Is there good swimming in Biarritz?” asked Hubert.
-s=hubert;e:hubert=excited;b=train-int;z:hubert=75
+s=hubert;e:hubert=excited;b=train-int;z:hubert=75,52,2
 
 “That boy’s just crazy till he can get in the water,” his mother said.
 s=hubertmother;e:hubertmother=happy
@@ -5312,7 +5315,7 @@ n:priest=Priest
 s=bill;e:bill=angry
 
 “I don’t know anything about it. Haven’t you got tickets?”
-s=priest;e:priest=neutral;z:priest=100,49,4
+s=priest;e:priest=neutral;z:priest=100,49,3
 
 “It’s enough to make a man join the Klan,” Bill said.
 s=bill
@@ -5528,7 +5531,7 @@ The carabineer waved him back with his sword. The man turned without saying anyt
 s=jake
 
 “He hasn’t got any passport.”
-s=guard1;z:guard1=100,49,9
+s=guard1;z:guard1=100,49,8
 
 I offered the guard a cigarette.
 s=none
@@ -5741,7 +5744,7 @@ Anyway, his office had a green baize door and a big wooden door, and when I went
 t=
 
 “You must have been in a motorcar,” he said.
-n:other=Porter;s=other
+n:other=Porter;s=other;z:other=,52,1,95
 
 The back of the collar and the upper part of the shoulders were gray with dust.
 s=none
@@ -5852,7 +5855,7 @@ He had a telegram in his hand.
 
 
 “It’s for you.”
-s=montoya;z:montoya=87
+s=montoya;z:montoya=87,,1
 
 He handed it to me.
 s=none
@@ -6488,7 +6491,7 @@ We got down and the driver handed down our bags and the rod-case.
 b=burguete-street
 
 A carabineer in his cocked hat and yellow leather cross-straps came up.
-n:guard2=Carabineer;c=guard2;e:guard2=;v=100,130
+n:guard2=Carabineer;;e:guard2=;v=100,130;z:guard2=,,9
 
 “What’s in there?” he pointed to the rod-case.
 s=guard2;e:guard2=suspicious
@@ -6500,7 +6503,7 @@ He looked at the date and then waved us on.
 
 
 “Is that all right?” I asked.
-s=jake;c=guard2
+s=jake;
 
 “Yes. Of course.”
 s=guard2;e:guard2=suspicious
@@ -6554,7 +6557,7 @@ She put her hands under her apron and looked away from me.
 e:landlady1=neutral
 
 “Twelve pesetas.”
-s=landlady1;z:landlady1=85
+s=landlady1;z:landlady1=85,,2
 
 “Why, we only paid that in Pamplona.”
 s=jake;e:jake=annoyed
@@ -7634,7 +7637,7 @@ He was reading the paper through spectacles. He looked up and smiled.
 e:harris=happy
 
 “Good morning,” he said.
-s=harris;z:harris=96
+s=harris;z:harris=96,,1
 
 “Letter for you. I stopped at the post and they gave it me with mine.”
 s=harris
@@ -9890,7 +9893,7 @@ One of three men who had been sitting on the beds came up and asked us if we spo
 n:critic=?;s=none;e:critic=neutral
 
 “Would you like me to interpret for you? Is there anything you would like to ask Pedro Romero?”
-s=critic;z:critic=90,49,5;z:romero=103
+s=critic;z:critic=90,52,3,85;z:romero=103
 
 We thanked him. What was there that you would like to ask?
 s=none
@@ -11624,7 +11627,7 @@ s=mike;e:mike=smirking
 s=edna;e:edna=wary
 
 Bill’s face was red.
-s=none;e:bill=angry;c=,bill;v=100,110
+s=none;e:bill=angry;c=,bill;v=100,130,55
 
 “Come back in, Edna,” he said. “Go on in there and dance with Mike.”
 s=bill
@@ -14879,7 +14882,7 @@ While I was sitting there the concierge came out with a blue envelope in his han
 n:concierge2=Concierge
 
 “A telegram for you, sir.”
-s=concierge2;e:concierge2=neutral;z:concierge2=92
+s=concierge2;e:concierge2=neutral;z:concierge2=92,,2
 
 I poked my finger along under the fold that was fastened down, spread it open, and read it.
 s=none
