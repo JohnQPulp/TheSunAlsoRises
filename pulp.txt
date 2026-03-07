@@ -32,7 +32,7 @@ But it seemed to fit Cohn. He was really very fast.
 
 
 He was so good that Spider promptly overmatched him and got his nose permanently flattened.
-c=cohn;x:cohn=young;b=light;v=100,110;e:cohn=contemplative
+c=cohn;x:cohn=young;b=light;v=100,140;e:cohn=contemplative
 
 This increased Cohn’s distaste for boxing, but it gave him a certain satisfaction of some strange sort, and it certainly improved his nose.<e>The subtext here is that Jews have big noses. (Iceberg theory!)</e>
 t=author
@@ -227,7 +227,7 @@ His going made an awful row I heard, and I think that was where Frances lost him
 
 
 He was more enthusiastic about America than ever, and he was not so simple, and he was not so nice. The publishers had praised his novel pretty highly and it rather went to his head.
-c=cohn;e:cohn=smirking;b=light;v=100,110
+c=cohn;e:cohn=smirking;b=light;v=100,140
 
 Then several women had put themselves out to be nice to him, and his horizons had all shifted.
 c=
@@ -1193,7 +1193,7 @@ Outside in the street we looked for a taxi.
 s=none;e:cohn=unhappy;b=dancing-bar-ext-night
 
 “You’re going to lose your fifty francs,” Brett said.
-s=brett;c=brett;v=100,120
+s=brett;v=100,140
 
 “Oh, yes.”
 s=jake;e:jake=thinking
@@ -1787,7 +1787,7 @@ Brett came up the stairs.
 s=
 
 I saw she was quite drunk.
-s=;c=brett;e:brett=smirking;v=100,120
+s=;e:brett=smirking;v=100,140
 
 “Silly thing to do,” she said.
 s=brett;e:brett=smirking
@@ -2612,7 +2612,7 @@ He was nice to watch on the tennis-court, he had a good body, and he kept it in 
 
 
 If he were in a crowd nothing he said stood out. He wore what used to be called polo shirts at school, and may be called that still, but he was not professionally youthful.
-c=cohn;e:cohn=;v=100,125
+c=cohn;e:cohn=;v=100,140
 
 I do not believe he thought about his clothes much. Externally he had been formed at Princeton. Internally he had been moulded by the two women who had trained him.
 
@@ -3044,7 +3044,7 @@ As I started up the stairs the concierge knocked on the glass of the door of her
 s=none;b=flat-concierge-int
 
 She had some letters and a telegram.
-n:concierge1=Concierge;c=concierge1;e:concierge1=happy
+n:concierge1=Concierge;c=concierge1;e:concierge1=happy;v=,140
 
 “Here is the post. And there was a lady here to see you.”
 s=concierge1
@@ -3071,7 +3071,7 @@ She put her head on one hand and rocked it up and down.
 s=none;c=
 
 “I’ll speak perfectly frankly, Monsieur Barnes. Last night I found her not so *gentille*. Last night I formed another idea of her.”
-s=concierge1;e:concierge1=serious;c=concierge1
+s=concierge1;e:concierge1=serious;c=concierge1;
 
 “But listen to what I tell you. She is *très, très gentille*. She is of very good family. It is a thing you can see.”
 e:concierge1=happy
@@ -3116,7 +3116,7 @@ I put on a bathrobe and slippers and went to the door.
 e:brett=happy;x:jake=bathrobe;b=flat-stairs
 
 It was Brett. Back of her was the count. He was holding a great bunch of roses.
-e:count=happy;x:count=roses;c=count,brett;v=60,100;e:jake=
+e:count=happy;x:count=roses;v=,140;e:jake=
 
 “Hello, darling,” said Brett. “Aren’t you going to let us in?”
 s=brett
@@ -3359,10 +3359,10 @@ We went into the dining-room. I took up the brandy bottle and poured Brett a dri
 s=none;b=flat-dining-int
 
 There was a ring at the bellpull.
-e:count=happy;b=flat-stairs;n:chauffeur=Henry the Chauffeur
+e:count=happy;n:chauffeur=Henry the Chauffeur
 
 I went to the door and there was the count. Behind him was the chauffeur carrying a basket of champagne.
-c=chauffeur,count;x:chauffeur=basket
+;x:chauffeur=basket;b=flat-stairs
 
 “Where should I have him put it, sir?” asked the count.
 s=count
@@ -4541,7 +4541,7 @@ The taxi started and Brett waved.
 s=none
 
 “Quite a girl,” Bill said. “She’s damned nice. Who’s Michael?”
-s=bill;e:bill=;c=bill;v=100,115;z:bill=103
+s=bill;e:bill=;v=100,140;z:bill=103
 
 “The man she’s going to marry.”
 s=jake;e:jake=annoyed
@@ -9905,7 +9905,7 @@ We wished him “*Mucha suerte*,” shook hands, and went out.
 
 
 He was standing, straight and handsome and altogether by himself, alone in the room with the hangers-on as we shut the door.
-s=none;b=light;c=romero;v=100,125;e:romero=
+s=none;b=light;c=romero;v=100,140;e:romero=
 
 “He’s a fine boy, don’t you think so?” Montoya asked.
 s=montoya;e:montoya=happy;c=;b=montoya-hall
@@ -11627,7 +11627,7 @@ s=mike;e:mike=smirking
 s=edna;e:edna=wary
 
 Bill’s face was red.
-s=none;e:bill=angry;c=,bill;v=100,130,55
+s=none;e:bill=angry;c=,bill;v=100,140,55
 
 “Come back in, Edna,” he said. “Go on in there and dance with Mike.”
 s=bill
@@ -12382,11 +12382,14 @@ s=waiter2
 He shook his head and walked away, carrying the coffeepots. Two men were going by in the street.
 s=none
 
-The waiter shouted to them. They were grave-looking. One shook his head. “*Muerto!*” he called.
+The waiter shouted to them. They were grave-looking. One shook his head.
 
+
+“*Muerto!*” he called.
+m=dialogue
 
 The waiter nodded his head.
-s=none
+s=none;m=
 
 The two men went on. They were on some errand. The waiter came over to my table.
 
@@ -13037,7 +13040,7 @@ We came out on a cross-street that led to the Paseo de Sarasate. We could see th
 b=chapel-ext
 
 “Don’t let’s go there,” Brett said. “I don’t want staring at just now.”
-s=brett;e:brett=wary;v=100,125
+s=brett;e:brett=wary;v=100,140
 
 We stood in the sunlight.
 s=none
@@ -13376,7 +13379,7 @@ e:brett=serious
 s=brett
 
 I looked through the glasses and saw the three matadors.
-s=none;x:romero=black;b=light;n:belmonte=Belmonte;n:marcial=Marcial;v=125,100;z:belmonte=104
+s=none;x:romero=black;b=light;n:belmonte=Belmonte;n:marcial=Marcial;v=125,110;z:belmonte=104
 
 Romero was in the centre, Belmonte on his left, Marcial on his right.
 e:romero=serious;c=belmonte,romero,marcial
