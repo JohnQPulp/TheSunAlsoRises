@@ -680,7 +680,7 @@ s=none;e:georgette=unhappy;b=unchic-ext
 s=georgette;c=jake,georgette;z:georgette=95;v=100,140
 
 “No,” I said. “Maybe you would rather go to Foyot’s. Why don’t you keep the cab and go on?”
-s=jake;e:jake=thinking
+s=jake;e:jake=thinking;i:georgette=
 
 I had picked her up because of a vague sentimental idea that it would be nice to eat with someone. It was a long time since I had dined with a *poule*, and I had forgotten how dull it could be.
 s=none;c=
@@ -2114,13 +2114,13 @@ s=none;c=cohn;b=office-int;v=100,150;e:cohn=happy
 s=cohn;
 
 “Yes. Let me see if there is anything new.”
-s=jake;e:jake=annoyed
+s=jake;e:jake=annoyed;i:cohn=
 
 “Where will we eat?”
 s=cohn
 
 “Anywhere.”
-s=jake
+s=jake;i:cohn=
 
 I was looking over my desk.
 s=none;c=
@@ -3050,13 +3050,13 @@ n:concierge1=Concierge;c=concierge1;e:concierge1=happy;v=,140
 s=concierge1
 
 “Did she leave a card?”
-s=jake;e:jake=neutral
+s=jake;e:jake=neutral;i:concierge1=
 
 “No. She was with a gentleman. It was the one who was here last night. In the end I find she is very nice.”
 s=concierge1;e:concierge1=happy
 
 “Was she with a friend of mine?”
-s=jake
+s=jake;i:concierge1=
 
 “I don’t know. He was never here before. He was very large. Very, very large.”
 s=concierge1
@@ -3077,13 +3077,13 @@ s=concierge1;e:concierge1=serious;c=concierge1;
 e:concierge1=happy
 
 “They did not leave any word?”
-s=jake;e:jake=contemplative
+s=jake;e:jake=contemplative;i:concierge1=
 
 “Yes. They said they would be back in an hour.”
 s=concierge1
 
 “Send them up when they come.”
-s=jake
+s=jake;i:concierge1=
 
 “Yes, Monsieur Barnes. And that lady, that lady there is someone. An eccentric, perhaps, but *quelqu’une, quelqu’une*!”
 s=concierge1;e:concierge1=happy
@@ -11633,46 +11633,46 @@ s=none;e:bill=angry;c=,bill;v=100,140,55
 s=bill
 
 “It’s silly,” Edna said.
-s=edna;e:edna=unhappy
+s=edna;e:edna=unhappy;i:bill=
 
 “There’ll just be another row.”
-
+;i:bill=
 
 “Damned Biarritz swine,” Bill said.
 s=bill
 
 “Come on,” Mike said. “After all, it’s a pub. They can’t occupy a whole pub.”
-s=mike;e:mike=scowling;c=mike,bill
+s=mike;e:mike=scowling;c=mike,bill;i:bill=
 
 “Good old Mike,” Bill said.
-s=bill;e:bill=
+s=bill;e:bill=;i:mike=
 
 “Damned English swine come here and insult Mike and try and spoil the fiesta.”
-e:bill=scowling
+e:bill=scowling;i:mike=
 
 “They’re so bloody,” Mike said.
-s=mike;e:mike=scowling
+s=mike;e:mike=scowling;i:bill=
 
 “I hate the English.”
-e:mike=angry
+e:mike=angry;i:bill=
 
 “They can’t insult Mike,” Bill said. “Mike is a swell fellow. They can’t insult Mike. I won’t stand it. Who cares if he is a damn bankrupt?”
-s=bill;e:bill=scowling
+s=bill;e:bill=scowling;i:mike=
 
 His voice broke.
-s=none
+s=none;i:bill=;i:mike=
 
 “Who cares?” Mike said. “I don’t care. Jake doesn’t care. Do *you* care?”
-s=mike;e:mike=smirking
+s=mike;e:mike=smirking;i:bill=
 
 “No,” Edna said.
-s=edna;e:edna=neutral
+s=edna;e:edna=neutral;i:bill=;i:mike=
 
 “Are you a bankrupt?”
-e:edna=
+e:edna=;i:bill=;i:mike=
 
 “Of course I am. You don’t care, do you, Bill?”
-s=mike
+s=mike;i:bill=
 
 Bill put his arm around Mike’s shoulder.
 s=none;e:bill=happy;c=
@@ -11681,46 +11681,46 @@ s=none;e:bill=happy;c=
 s=bill;c=,bill
 
 “They’re just English,” Mike said. “It never makes any difference what the English say.”
-s=mike;e:mike=smirking;c=mike,bill
+s=mike;e:mike=smirking;c=mike,bill;i:bill=
 
 “The dirty swine,” Bill said.
-s=bill;e:bill=angry
+s=bill;e:bill=angry;i:mike=
 
 “I’m going to clean them out.”
-
+;i:mike=
 
 “Bill,” Edna looked at me. “Please don’t go in again, Bill. They’re so stupid.”
-s=edna;e:edna=wary
+s=edna;e:edna=wary;i:bill=;i:mike=
 
 “That’s it,” said Mike. “They’re stupid. I knew that was what it was.”
-s=mike;e:mike=happy;c=mike,bill
+s=mike;e:mike=happy;c=mike,bill;i:bill=
 
 “They can’t say things like that about Mike,” Bill said.
-s=bill
+s=bill;i:mike=
 
 “Do you know them?” I asked Mike.
-s=jake
+s=jake;i:bill=;i:mike=
 
 “No. I never saw them. They say they know me.”
-s=mike;e:mike=neutral
+s=mike;e:mike=neutral;i:bill=
 
 “I won’t stand it,” Bill said.
-s=bill;e:bill=angry
+s=bill;e:bill=angry;i:mike=
 
 “Come on. Let’s go over to the Suizo,” I said.
-s=jake
+s=jake;i:bill=;i:mike=
 
 “They’re a bunch of Edna’s friends from Biarritz,” Bill said.
-s=bill;e:bill=scowling
+s=bill;e:bill=scowling;i:bill=;i:mike=
 
 “They’re simply stupid,” Edna said.
-s=edna;e:edna=scowling
+s=edna;e:edna=scowling;i:bill=;i:mike=
 
 “One of them’s Charley Blackman, from Chicago,” Bill said.
-s=bill
+s=bill;i:mike=
 
 “I was never in Chicago,” Mike said.
-s=mike;e:mike=thinking
+s=mike;e:mike=thinking;i:bill=
 
 Edna started to laugh and could not stop.
 s=none;e:edna=happy;c=
@@ -13052,13 +13052,13 @@ It was hot and good after the rain and the clouds from the sea.
 s=brett;e:brett=thinking;c=brett
 
 “So do I.”
-s=jake
+s=jake;i:brett=
 
 “He says the bulls are all right.”
 s=brett;e:brett=contemplative
 
 “They’re good.”
-s=jake;e:jake=contemplative;e:brett=
+s=jake;e:jake=contemplative;e:brett=;i:brett=
 
 “Is that San Fermin’s?”
 s=brett;e:brett=
