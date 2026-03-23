@@ -1,4 +1,4 @@
-*The Sun Also Rises* by Ernest Hemingway<e>This here is Public Domain Pulp's first modernist visual novel, featuring who else but Mr. Iceberg himself. You've got deep prose ahead of you, reader. Keep up.</e>
+<div class='center'><span class='big italics'>The Sun Also Rises</span> by&nbsp;Ernest&nbsp;Hemingway</div><e>This here is Public Domain Pulp's first modernist visual novel, featuring who else but Mr. Iceberg himself. You've got deep prose ahead of you, reader. Keep up.</e>
 n:author=;t=author;b=title;z:author=105,48,1
 
 This book is for **Hadley** and for **John Hadley Nicanor**<e>Put a pin in this dedication to his wife and son. It will be important later.</e>
