@@ -1,13 +1,13 @@
-<div class='center'><span class='big italics'>The Sun Also Rises</span> by&nbsp;Ernest&nbsp;Hemingway</div><e>This here is Public Domain Pulp's first modernist visual novel, featuring who else but Mr. Iceberg himself. You've got deep prose ahead of you, reader. Keep up.</e>
+<div class='center top'><span class='big italics'>The Sun Also Rises</span> by&nbsp;Ernest&nbsp;Hemingway</div><e>This here is Public Domain Pulp's first modernist visual novel, featuring who else but Mr. Iceberg himself. You've got deep prose ahead of you, reader. Keep up.</e>
 n:author=;t=author;b=title;z:author=105,48,1
 
-This book is for **Hadley** and for **John Hadley Nicanor**<e>Put a pin in this dedication to his wife and son. It will be important later.</e>
+<div class='center top'>This book is<br>for **Hadley** and for **John Hadley Nicanor**</div><e>Put a pin in this dedication to his wife and son. It will be important later.</e>
 t=
 
-“You are all a lost generation.” —Gertrude Stein in conversation
+<div class='center top italics'>“You are all a lost generation.”</div><div class='upper center top'>Gertrude Stein in conversation</div>
 n:stein=;t=stein;b=think;z:stein=,46,4
 
-“One generation passeth away, and another generation cometh; but the earth abideth forever… The sun also ariseth, and the sun goeth down, and hasteth to the place where he arose﻿ ﻿… The wind goeth toward the south, and turneth about unto the north; it whirleth about continually, and the wind returneth again according to his circuits… All the rivers run into the sea; yet the sea is not full; unto the place from whence the rivers come, thither they return again.” —Ecclesiastes
+“One generation passeth away, and another generation cometh; but the earth abideth forever… The sun also ariseth, and the sun goeth down, and hasteth to the place where he arose﻿ ﻿… The wind goeth toward the south, and turneth about unto the north; it whirleth about continually, and the wind returneth again according to his circuits… All the rivers run into the sea; yet the sea is not full; unto the place from whence the rivers come, thither they return again.” <span class='fright upper'>—Ecclesiastes</span>
 t=
 
 ## Book I
@@ -32,7 +32,7 @@ But it seemed to fit Cohn. He was really very fast.
 
 
 He was so good that Spider promptly overmatched him and got his nose permanently flattened.
-c=cohn;x:cohn=young;b=light;v=100,140;e:cohn=contemplative
+x:cohn=young;b=light;v=100,140;e:cohn=contemplative
 
 This increased Cohn’s distaste for boxing, but it gave him a certain satisfaction of some strange sort, and it certainly improved his nose.<e>The subtext here is that Jews have big noses. (Iceberg theory!)</e>
 t=author
@@ -83,7 +83,7 @@ He was sorry when the magazine became too expensive and he had to give it up.
 c=
 
 By that time, though, he had other things to worry about. He had been taken in hand by a lady who hoped to rise with the magazine. She was very forceful, and Cohn never had a chance of not being taken in hand.
-n:frances=Frances;c=frances;z:frances=102,53,1,97
+n:frances=Frances;c=frances;z:frances=97,53,1,97
 
 Also he was sure that he loved her.
 e:cohn=happy
