@@ -1513,7 +1513,7 @@ s=braddocks
 “No,” I said. “I must shove off. Seen Cohn?”
 s=jake;e:jake=
 
-“He went home with Frances,” Mrs. Braddock put in.
+“He went home with Frances,” Mrs. Braddocks put in.
 s=mrsbraddocks
 
 “Poor chap, he looks awfully down,” Braddocks said.
